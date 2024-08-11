@@ -1,2 +1,3 @@
 # tol-data
-Treasury of Lives public RDF data
+
+Treasury of Lives Public RDF Data
