@@ -3672,6 +3672,7 @@ told:_DigitalContent_uploads_communities_translator_png
 told:_IntellectualProperty_uploads_communities_00045_karsha_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karsha"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "hamon jp"@en ;
@@ -3682,6 +3683,7 @@ told:_IntellectualProperty_uploads_communities_00045_karsha_jpg
 told:_IntellectualProperty_uploads_communities_003b7_dangkhar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dangkhar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Yannick Laurent"@en ;
 	tolo:represents told:_Place_1394 ;
 	.
@@ -3689,6 +3691,7 @@ told:_IntellectualProperty_uploads_communities_003b7_dangkhar_jpg
 told:_IntellectualProperty_uploads_communities_01ac7_tashicholingdharamshala_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashi Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Marlene Eschbamer"@en ;
 	tolo:represents told:_Place_1548 ;
 	.
@@ -3696,6 +3699,7 @@ told:_IntellectualProperty_uploads_communities_01ac7_tashicholingdharamshala_jpg
 told:_IntellectualProperty_uploads_communities_01d71_18011096_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tamshing Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ugyen, Panaramio"@en ;
 	tolo:represents told:_Place_400 ;
 	tolo:sourceUrl "http://www.panoramio.com/photo/18011096"^^xsd:anyURI ;
@@ -3704,6 +3708,7 @@ told:_IntellectualProperty_uploads_communities_01d71_18011096_jpg
 told:_IntellectualProperty_uploads_communities_025e8_url_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsenpo Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Gray Tuttle"@en ;
 	tolo:represents told:_Place_532 ;
 	tolo:sourceUrl "http://digitaltibet.ccnmtl.columbia.edu/node/318"^^xsd:anyURI ;
@@ -3712,30 +3717,35 @@ told:_IntellectualProperty_uploads_communities_025e8_url_jpg
 told:_IntellectualProperty_uploads_communities_029e7_nenying_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nenying"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_120 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_02d81_2011083108583332_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_37 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_036cd_screen_shot_2016_12_06_at_11_02_55_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pekar Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1201 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_03991_drukjangchubcholing_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Druk Jangchub Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1236 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_04097_ca90_se_01o_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trode Khangsar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_913 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=264"^^xsd:anyURI ;
@@ -3744,6 +3754,7 @@ told:_IntellectualProperty_uploads_communities_04097_ca90_se_01o_1_jpg
 told:_IntellectualProperty_uploads_communities_049e5_mawochok_2_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mawochok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2018-11-25T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Xinjian Wang"@en ;
 	tolo:represents told:_Place_553 ;
@@ -3753,6 +3764,7 @@ told:_IntellectualProperty_uploads_communities_049e5_mawochok_2_png
 told:_IntellectualProperty_uploads_communities_04b60_kumbum_medical_college_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kumbum Medical College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Gray Tuttle"@en ;
 	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gray Tuttle"@en ;
@@ -3762,24 +3774,28 @@ told:_IntellectualProperty_uploads_communities_04b60_kumbum_medical_college_jpeg
 told:_IntellectualProperty_uploads_communities_05c50_riwoche_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Riwoche Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_218 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_065ec_19349177_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dentik "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_290 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_06619_nyingma_institute_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyingma Institute"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1664 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_07851_screen_shot_2017_12_14_at_2_45_48_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Menri (Dolanji)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1266 ;
 	tolo:sourceUrl "https://bnomadic.com/2015/09/24/dolanji-tibet-bon-menri-monastery/"^^xsd:anyURI ;
 	.
@@ -3787,6 +3803,7 @@ told:_IntellectualProperty_uploads_communities_07851_screen_shot_2017_12_14_at_2
 told:_IntellectualProperty_uploads_communities_080cb_images_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yonghegong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Felicia Beato, 1860"@en ;
 	tolo:represents told:_Place_566 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Felice_Beato_%28British%2C_born_Italy_-_Temple_of_Confucius%2C_Pekin%2C_October_1860_-_Google_Art_Project.jpg/1024px-Felice_Beato_%28British%2C_born_Italy_-_Temple_of_Confucius%2C_Pekin%2C_October_1860_-_Google_Art_Project.jpg"^^xsd:anyURI ;
@@ -3795,12 +3812,14 @@ told:_IntellectualProperty_uploads_communities_080cb_images_jpg
 told:_IntellectualProperty_uploads_communities_08277_lamayuru_gompa_from_west_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lamayuru"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_821 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_08d2d_ktd_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Triyana Dharmachakra"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Karma Triyana Dharmachakra"@en ;
 	tolo:represents told:_Place_1509 ;
 	tolo:sourceUrl "https://kagyu.org/"^^xsd:anyURI ;
@@ -3809,12 +3828,14 @@ told:_IntellectualProperty_uploads_communities_08d2d_ktd_jpg
 told:_IntellectualProperty_uploads_communities_09b05_dharma_swami_maharaja_buddha_vihar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dharma Swami Buddha Vihara"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1594 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0ad6c_tuwa_by_nicole_willock_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tuwa "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Nicole Willock"@en ;
 	tolo:represents told:_Place_289 ;
 	.
@@ -3822,18 +3843,21 @@ told:_IntellectualProperty_uploads_communities_0ad6c_tuwa_by_nicole_willock_jpg
 told:_IntellectualProperty_uploads_communities_0b1bd_1305106154_0_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chamdo Jampa Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_237 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0c445_nalanda_university_india_ruins_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nālandā"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1065 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0c79d_manasarovar_lake_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Manasarovar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Wikipedia"@en ;
 	tolo:represents told:_Place_1222 ;
 	tolo:sourceUrl "https://en.wikipedia.org/wiki/Lake_Manasarovar#/media/File:Manasarovar_lake.jpg"^^xsd:anyURI ;
@@ -3842,6 +3866,7 @@ told:_IntellectualProperty_uploads_communities_0c79d_manasarovar_lake_jpg
 told:_IntellectualProperty_uploads_communities_0caa7_dzshedra1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Śrī Siṃha College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Matteo Pistono "@en ;
 	tolo:represents told:_Place_439 ;
 	tolo:sourceUrl "http://www.rigpawiki.org/images/6/64/Dzshedra1.jpg"^^xsd:anyURI ;
@@ -3850,18 +3875,21 @@ told:_IntellectualProperty_uploads_communities_0caa7_dzshedra1_jpg
 told:_IntellectualProperty_uploads_communities_0d8c2_kharkyodling_nunnery_tibet_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ya Nga Chamda Ganden Khacho Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1241 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0dc04_amnyemachen_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Amnye Machen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1086 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0e1d6_dhe_tsang_from_south_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Datsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Pamela Logan"@en ;
 	tolo:represents told:_Place_1487 ;
 	.
@@ -3869,12 +3897,14 @@ told:_IntellectualProperty_uploads_communities_0e1d6_dhe_tsang_from_south_jpg
 told:_IntellectualProperty_uploads_communities_0e389_kongpo_bonri_main_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kongpo Bonri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1258 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0e46a_thiksey_monastery_near_leh_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Thikse Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:creationDate "2167-08-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Narender9"@en ;
@@ -3885,6 +3915,7 @@ told:_IntellectualProperty_uploads_communities_0e46a_thiksey_monastery_near_leh_
 told:_IntellectualProperty_uploads_communities_0e589_ramoche_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ramoche "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2019-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "陈博洋"@en ;
@@ -3895,6 +3926,7 @@ told:_IntellectualProperty_uploads_communities_0e589_ramoche_jpg
 told:_IntellectualProperty_uploads_communities_0e669_thangu_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Thangu Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2006-04-15T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Debjyoti Paul, Google"@en ;
 	tolo:represents told:_Place_1686 ;
@@ -3903,6 +3935,7 @@ told:_IntellectualProperty_uploads_communities_0e669_thangu_png
 told:_IntellectualProperty_uploads_communities_0e6f8_hemis_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hemis"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Thomas Edward Gordon"@en ;
 	tolo:represents told:_Place_232 ;
 	tolo:sourceUrl "http://commons.wikimedia.org/wiki/File:Hemis_Monastery_Ladakh_1876.jpg"^^xsd:anyURI ;
@@ -3911,18 +3944,21 @@ told:_IntellectualProperty_uploads_communities_0e6f8_hemis_jpg
 told:_IntellectualProperty_uploads_communities_0ed92_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsechu Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_208 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_10273_olka_cholung_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Wolkha Cholung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_840 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1027d_datsen_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Datsen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Albrecht Schulze"@en ;
 	tolo:represents told:_Place_1043 ;
 	.
@@ -3930,6 +3966,7 @@ told:_IntellectualProperty_uploads_communities_1027d_datsen_jpg
 told:_IntellectualProperty_uploads_communities_103df_deyang_nub_namgyal_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namgyel"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_892 ;
 	tolo:sourceUrl "http://en.wikipedia.org/wiki/Potala_Palace"^^xsd:anyURI ;
 	.
@@ -3937,24 +3974,28 @@ told:_IntellectualProperty_uploads_communities_103df_deyang_nub_namgyal_monaster
 told:_IntellectualProperty_uploads_communities_105bb_37705853_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Arik Gonchen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_805 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_10c9e_khyung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khyungpo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_200 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1148b_images_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tseringjong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_254 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_11683_dartang_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dartang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2018-07-17T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -3964,6 +4005,7 @@ told:_IntellectualProperty_uploads_communities_11683_dartang_jpeg
 told:_IntellectualProperty_uploads_communities_11b68_dzongsar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzongsar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ottmar Liebert"@en ;
 	tolo:represents told:_Place_180 ;
 	tolo:sourceUrl "https://en.wikipedia.org/wiki/Dzongsar_Monastery#/media/File:Dzongsar_Monastery_01.jpg"^^xsd:anyURI ;
@@ -3972,6 +4014,7 @@ told:_IntellectualProperty_uploads_communities_11b68_dzongsar_jpg
 told:_IntellectualProperty_uploads_communities_12393_tilokpur_nunnery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Drubgyu Thargay Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Middle Way Education: Monastic Education"@en ;
 	tolo:represents told:_Place_1511 ;
 	tolo:sourceUrl "https://middlewayeducation.org/monastic-education/kdtl-nunnery/"^^xsd:anyURI ;
@@ -3980,6 +4023,7 @@ told:_IntellectualProperty_uploads_communities_12393_tilokpur_nunnery_jpg
 told:_IntellectualProperty_uploads_communities_12bc2_ja44_we_00_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhitro Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_928 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=229"^^xsd:anyURI ;
@@ -3988,12 +4032,14 @@ told:_IntellectualProperty_uploads_communities_12bc2_ja44_we_00_jpg
 told:_IntellectualProperty_uploads_communities_12d7f_screen_shot_2016_08_08_at_3_49_53_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chunak Tashi Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_442 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_12d91_nguparkhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Treasury"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_888 ;
 	.
@@ -4001,6 +4047,7 @@ told:_IntellectualProperty_uploads_communities_12d91_nguparkhang_jpg
 told:_IntellectualProperty_uploads_communities_130a1_labrang_1097_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Tashikhyil"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Himalayan Art Resources"@en ;
 	tolo:represents told:_Place_41 ;
 	tolo:sourceUrl "http://www.himalayanart.org/image.cfm/1097.html"^^xsd:anyURI ;
@@ -4009,6 +4056,7 @@ told:_IntellectualProperty_uploads_communities_130a1_labrang_1097_jpg
 told:_IntellectualProperty_uploads_communities_1335b_shri_karma_raja_mahavihara_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shri Karma Raja Mahavihara"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Karma Raja Maha Vihar"@en ;
 	tolo:represents told:_Place_1513 ;
 	tolo:sourceUrl "https://www.karmarajamahavihar.org/"^^xsd:anyURI ;
@@ -4017,18 +4065,21 @@ told:_IntellectualProperty_uploads_communities_1335b_shri_karma_raja_mahavihara_
 told:_IntellectualProperty_uploads_communities_13569_10shangri_la_songzanlin_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyeltang Sungtseling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_369 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_137e6_amarbayasgalant_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Amarbayasgalant"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1192 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_13904_kokonor_lake_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kokonor"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2015-08-08T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -4038,24 +4089,28 @@ told:_IntellectualProperty_uploads_communities_13904_kokonor_lake_jpeg
 told:_IntellectualProperty_uploads_communities_144a8_screen_shot_2016_11_04_at_4_56_11_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyu Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1195 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_14fd3_1280px_punakha_dzong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Punakha Dzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_405 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_153fb_tsarong_house_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsarong Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_853 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_15440_serdokchen1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Serdokchen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Professor Yaroslav Komarovski"@en ;
 	tolo:represents told:_Place_105 ;
 	.
@@ -4063,6 +4118,7 @@ told:_IntellectualProperty_uploads_communities_15440_serdokchen1_jpg
 told:_IntellectualProperty_uploads_communities_15a00_yarlung_pemako_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yarlung Pemako"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Do Khyentse Yeshe Dorje Namtar"@en ;
 	tolo:represents told:_Place_1172 ;
 	tolo:sourceUrl "https://www.tbrc.org/#library_work_ViewByOutline-O1GS1380251GS138188%7CW1KG987"^^xsd:anyURI ;
@@ -4071,18 +4127,21 @@ told:_IntellectualProperty_uploads_communities_15a00_yarlung_pemako_jpg
 told:_IntellectualProperty_uploads_communities_167d4_screen_shot_2014_06_02_at_2_28_51_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyetang Drolma Lhakang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_92 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_16b73_4164354_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drotsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_373 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_16fdc_dzamtang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzamtang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andreas Gruschke. The Cultural Monuments of Tibet's Outer Provinces; Amdo Vol. 2."@en ;
 	tolo:represents told:_Place_206 ;
 	.
@@ -4090,6 +4149,7 @@ told:_IntellectualProperty_uploads_communities_16fdc_dzamtang_jpg
 told:_IntellectualProperty_uploads_communities_17e40_gungtang_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsel Gungtang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-NC-ND"@en ;
 	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Diana Lange"@en ;
@@ -4099,6 +4159,7 @@ told:_IntellectualProperty_uploads_communities_17e40_gungtang_jpeg
 told:_IntellectualProperty_uploads_communities_19017_screen_shot_2015_03_20_at_2_00_29_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Meru Nyingpa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Andre Alexander"@en ;
 	tolo:credit "Published in The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_722 ;
@@ -4107,18 +4168,21 @@ told:_IntellectualProperty_uploads_communities_19017_screen_shot_2015_03_20_at_2
 told:_IntellectualProperty_uploads_communities_19147_62481_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mindroling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_10 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1a594_screen_shot_2016_08_08_at_2_54_20_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yershong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1166 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1b462_serameindia_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera (India)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2006-12-06T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Sera Me, India"@en ;
@@ -4128,18 +4192,21 @@ told:_IntellectualProperty_uploads_communities_1b462_serameindia_jpg
 told:_IntellectualProperty_uploads_communities_1b8e3_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tso Pema Orgyen Heruka Nyingmapa Gompa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1717 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1bc42_rito_pendeling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jakhyung Rito Pendeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_985 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1c21c_zhamar_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhamar Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-NC 4.0"@en ;
 	tolo:creationDate "2017-05-28T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Hanung Kim"@en ;
@@ -4149,6 +4216,7 @@ told:_IntellectualProperty_uploads_communities_1c21c_zhamar_jpeg
 told:_IntellectualProperty_uploads_communities_1c305_quintman_sekhar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sekhar Gutok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andrew Quintman"@en ;
 	tolo:represents told:_Place_15 ;
 	.
@@ -4156,6 +4224,7 @@ told:_IntellectualProperty_uploads_communities_1c305_quintman_sekhar_jpg
 told:_IntellectualProperty_uploads_communities_1c755_photo_3_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karmashak Tsenkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_875 ;
 	.
@@ -4163,6 +4232,7 @@ told:_IntellectualProperty_uploads_communities_1c755_photo_3_jpg
 told:_IntellectualProperty_uploads_communities_1d112_chubzang_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chubzang Hermitage (Sera)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2006-04-16T00:00:00"^^xsd:dateTime ;
 	tolo:credit " José Ignacio Cabezón"@en ;
 	tolo:represents told:_Place_1021 ;
@@ -4171,12 +4241,14 @@ told:_IntellectualProperty_uploads_communities_1d112_chubzang_1_jpg
 told:_IntellectualProperty_uploads_communities_1d130_tmbcc_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tibetan Mongolian Buddhist Cultural Center"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1700 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1d212_tsangdram_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsangdram"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rubin Museum of Art"@en ;
 	tolo:represents told:_Place_1123 ;
 	.
@@ -4184,6 +4256,7 @@ told:_IntellectualProperty_uploads_communities_1d212_tsangdram_png
 told:_IntellectualProperty_uploads_communities_1d265_zhai_lhakhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zha Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Hugh Richardson"@en ;
 	tolo:represents told:_Place_45 ;
 	.
@@ -4191,6 +4264,7 @@ told:_IntellectualProperty_uploads_communities_1d265_zhai_lhakhang_jpg
 told:_IntellectualProperty_uploads_communities_1d368_khampa_gar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khampa Gar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-10-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Sébastien"@en ;
 	tolo:represents told:_Place_720 ;
@@ -4200,12 +4274,14 @@ told:_IntellectualProperty_uploads_communities_1d368_khampa_gar_jpg
 told:_IntellectualProperty_uploads_communities_1d7b2_thumb_65868_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tropu Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_67 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1dcf8_namgyal_institute_of_tibetology_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namgyal Institute of Tibetology"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2018-05-15T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Subhrajyoti Saha"@en ;
@@ -4216,12 +4292,14 @@ told:_IntellectualProperty_uploads_communities_1dcf8_namgyal_institute_of_tibeto
 told:_IntellectualProperty_uploads_communities_1ea6c_kumbum_kalacakra_college_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kumbum Kālacakra College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_926 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_1ee21_sanicrematorygrounds_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sani Gonpa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2012-07-18T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Wikimedia"@en ;
@@ -4232,6 +4310,7 @@ told:_IntellectualProperty_uploads_communities_1ee21_sanicrematorygrounds_jpg
 told:_IntellectualProperty_uploads_communities_1f014_ngedon_dongak_chokhor_ling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngedon Dongak Chokhor Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Thinley Dorje Lama"@en ;
 	tolo:represents told:_Place_1352 ;
 	.
@@ -4239,12 +4318,14 @@ told:_IntellectualProperty_uploads_communities_1f014_ngedon_dongak_chokhor_ling_
 told:_IntellectualProperty_uploads_communities_1fad0_tsongkhapa_lhakhang_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsongkhapa Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_981 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_205c6_ensa___treasury_of_lives_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ensa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Quentin Devers"@en ;
 	tolo:creationDate "2010-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Quentin Devers"@en ;
@@ -4254,12 +4335,14 @@ told:_IntellectualProperty_uploads_communities_205c6_ensa___treasury_of_lives_jp
 told:_IntellectualProperty_uploads_communities_20988_drakyangdzong_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drak Yongdzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_863 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_227e6_kagyu_dzong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Dzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2011-08-28T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Ordifana75"@en ;
@@ -4270,24 +4353,28 @@ told:_IntellectualProperty_uploads_communities_227e6_kagyu_dzong_jpg
 told:_IntellectualProperty_uploads_communities_22b34_200710301226264_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsunmo Tsel"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_236 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_22b5b_800px_sera_monastery4_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Je"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_348 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_23053_screen_shot_2015_02_04_at_1_45_00_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakkar Treldzong Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_716 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_234ec_tsangwa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsangwa Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jonang Foundation"@en ;
 	tolo:represents told:_Place_210 ;
 	tolo:sourceUrl "http://www.jonangfoundation.org/sites/default/files/styles/flexslider_full/public/IMG_2348_0.JPG?itok=7BYIZh_K"^^xsd:anyURI ;
@@ -4296,12 +4383,14 @@ told:_IntellectualProperty_uploads_communities_234ec_tsangwa_jpg
 told:_IntellectualProperty_uploads_communities_237d1_51450776_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shadzong Ritro"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_806 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_23a51_house_arch_11_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Roerich House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "International Roerich Memorial Trust website"@en ;
 	tolo:represents told:_Place_1312 ;
 	tolo:sourceUrl "http://irmtkullu.com/objects-of-the-trust/the-roerichs-memorial-house/"^^xsd:anyURI ;
@@ -4310,12 +4399,14 @@ told:_IntellectualProperty_uploads_communities_23a51_house_arch_11_png
 told:_IntellectualProperty_uploads_communities_23b01_khamariin_khiid_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khamarin Khiid"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1190 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_25c8b_jebumgang_lhakhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jebumgang Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "©  Andre Alexander"@en ;
 	tolo:credit "The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_874 ;
@@ -4324,12 +4415,14 @@ told:_IntellectualProperty_uploads_communities_25c8b_jebumgang_lhakhang_jpg
 told:_IntellectualProperty_uploads_communities_262a5_kyedor_dratsang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Hevajra College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_922 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2745b_kham_2012_mr_034_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shechen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Matthieu Ricard"@en ;
 	tolo:represents told:_Place_13 ;
 	tolo:sourceUrl "http://matthieuricard.draak.typhon.net/system/images/W1siZiIsIjIwMTMvMDQvMDUvMjNfMzBfMDFfODE4X0tIQU1fMjAxMl9NUl8wMzQuSlBHIl1d/KHAM-2012-MR-034.JPG"^^xsd:anyURI ;
@@ -4338,6 +4431,7 @@ told:_IntellectualProperty_uploads_communities_2745b_kham_2012_mr_034_jpeg
 told:_IntellectualProperty_uploads_communities_2788f_e260a_1280px_atsagatskii__datsan_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Atsagat Datsan"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Аркадий Зарубин"@en ;
 	tolo:represents told:_Place_1049 ;
 	tolo:sourceUrl "https://ru.wikipedia.org/wiki/%D0%90%D1%86%D0%B0%D0%B3%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD#/media/File:%D0%90%D1%86%D0%B0%D0%B3%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD.jpg"^^xsd:anyURI ;
@@ -4346,18 +4440,21 @@ told:_IntellectualProperty_uploads_communities_2788f_e260a_1280px_atsagatskii__d
 told:_IntellectualProperty_uploads_communities_27e8e_tashi_gomang_stupa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashi Gomang Stupa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1689 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_287ca_mo_chargru02_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chakri Nyidrak Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_426 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2a040_zhungpa_khamtsen_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhungpa Khamtsen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Sera Monastery Project by Jose Cabezon"@en ;
 	tolo:represents told:_Place_1300 ;
 	tolo:sourceUrl "http://www.thlib.org/places/monasteries/sera/spaces/#iframe=/places/monasteries/sera/spaces/map/phpConx.php?idNum=s001"^^xsd:anyURI ;
@@ -4366,12 +4463,14 @@ told:_IntellectualProperty_uploads_communities_2a040_zhungpa_khamtsen_png
 told:_IntellectualProperty_uploads_communities_2a457_labrang_gyuto_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Gyuto Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1522 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2a646_khangsar_geluk_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khangsar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2018-07-26T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -4381,6 +4480,7 @@ told:_IntellectualProperty_uploads_communities_2a646_khangsar_geluk_jpeg
 told:_IntellectualProperty_uploads_communities_2a785_charasa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Charasa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2018-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Jigmet Namgial"@en ;
 	tolo:represents told:_Place_1418 ;
@@ -4390,6 +4490,7 @@ told:_IntellectualProperty_uploads_communities_2a785_charasa_jpg
 told:_IntellectualProperty_uploads_communities_2a87d_yumbu_lagang_gchilds_1985_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yumbu Lagang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1985-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "© Professor Geoff Childs"@en ;
 	tolo:represents told:_Place_1345 ;
@@ -4398,12 +4499,14 @@ told:_IntellectualProperty_uploads_communities_2a87d_yumbu_lagang_gchilds_1985_j
 told:_IntellectualProperty_uploads_communities_2aa92_screen_shot_2014_05_30_at_4_33_29_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Toling Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_352 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2b65c_matho_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Matho"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2013-01-29T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Nellyrieuf"@en ;
@@ -4414,6 +4517,7 @@ told:_IntellectualProperty_uploads_communities_2b65c_matho_monastery_jpg
 told:_IntellectualProperty_uploads_communities_2c04d_tsuklhakhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhasa Tsuklakhang "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Collection of Zanabazar Museum of Fine Arts"@en ;
 	tolo:represents told:_Place_877 ;
 	tolo:sourceUrl "http://www.himalayanart.org/image.cfm/50151/alt/50151A.html"^^xsd:anyURI ;
@@ -4422,6 +4526,7 @@ told:_IntellectualProperty_uploads_communities_2c04d_tsuklhakhang_jpg
 told:_IntellectualProperty_uploads_communities_2c3bc_lingtsang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lingtsang Labrang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_879 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web_2002/database/db_lhs_fs_en.html"^^xsd:anyURI ;
@@ -4430,12 +4535,14 @@ told:_IntellectualProperty_uploads_communities_2c3bc_lingtsang_jpg
 told:_IntellectualProperty_uploads_communities_2c724_vikramjit_kakati_rumtek_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rumtek"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_968 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2e8f2_shey_palace_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shey"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_273 ;
 	tolo:sourceUrl "http://es.touristlink.com/india/shey-palace-and-monastery/overview.html"^^xsd:anyURI ;
 	.
@@ -4443,6 +4550,7 @@ told:_IntellectualProperty_uploads_communities_2e8f2_shey_palace_jpg
 told:_IntellectualProperty_uploads_communities_2e908_vihara_sarnath_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mulagandhakuti Vihara"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2008-12-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Yusuke Kawasaki"@en ;
@@ -4453,12 +4561,14 @@ told:_IntellectualProperty_uploads_communities_2e908_vihara_sarnath_jpg
 told:_IntellectualProperty_uploads_communities_2e941_2010061261896937_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tongkhor Ganden Chokhor Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_440 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2eab9_jonang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jonang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Himalayan Art Resource"@en ;
 	tolo:represents told:_Place_90 ;
 	tolo:sourceUrl "http://www.himalayanart.org/image.cfm/48822.html"^^xsd:anyURI ;
@@ -4467,12 +4577,14 @@ told:_IntellectualProperty_uploads_communities_2eab9_jonang_jpg
 told:_IntellectualProperty_uploads_communities_2eb91_1796654776346154072_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tso Gon Ganden Choling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_364 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2fd43_04_image72_415x640_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trakar Lhakhang "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Bhutan Cultural Atlas"@en ;
 	tolo:represents told:_Place_383 ;
 	tolo:sourceUrl "http://www.bhutanculturalatlas.org/70/culture/sites-structures/dzongs-palaces/prakar-palace/"^^xsd:anyURI ;
@@ -4481,30 +4593,35 @@ told:_IntellectualProperty_uploads_communities_2fd43_04_image72_415x640_1_jpg
 told:_IntellectualProperty_uploads_communities_2ff44_3007a_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gangya Drakkar Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_465 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_30f12_12238347_12238347_1341495370390_mthumb_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yabzang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_130 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_31568_yabzhi_taktser_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taktser"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_870 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3266c_deer_park_temple_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Deer Park Buddhist Center"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1691 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_32af2_140207_densy_archival_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Densatil"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_64 ;
 	tolo:sourceUrl "http://asiasociety.org/blog/asia/scholar-spy-who-saw-tibets-densatil-monastery-all-its-glory"^^xsd:anyURI ;
 	.
@@ -4512,12 +4629,14 @@ told:_IntellectualProperty_uploads_communities_32af2_140207_densy_archival_monas
 told:_IntellectualProperty_uploads_communities_32cbc_19752869_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ditsa Tashi Choding "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_375 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_34d7c_mokchok_hermitage_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyetang Mokchok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Shangpa Kagyu Foundation"@en ;
 	tolo:represents told:_Place_1317 ;
 	tolo:sourceUrl "https://www.shangpafoundation.org/library/sites-page/mokchok-hermitage/"^^xsd:anyURI ;
@@ -4526,6 +4645,7 @@ told:_IntellectualProperty_uploads_communities_34d7c_mokchok_hermitage_jpg
 told:_IntellectualProperty_uploads_communities_35627_trashigang_dzong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trashigang Dzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1257 ;
 	tolo:sourceUrl "https://www.bhutandzongs.com/wp-content/uploads/2013/05/Trashigang-Dzong-Fortress-in-Bhutan.jpg"^^xsd:anyURI ;
 	.
@@ -4533,6 +4653,7 @@ told:_IntellectualProperty_uploads_communities_35627_trashigang_dzong_jpg
 told:_IntellectualProperty_uploads_communities_361d9_lachab_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lachab"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gerd Manusch"@en ;
 	tolo:represents told:_Place_1517 ;
@@ -4541,6 +4662,7 @@ told:_IntellectualProperty_uploads_communities_361d9_lachab_jpeg
 told:_IntellectualProperty_uploads_communities_36770_itbci_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Indo Tibetan Buddhist Cultural Institute"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Indo Tibetan Buddhist Cultural Institute"@en ;
 	tolo:represents told:_Place_1370 ;
 	tolo:sourceUrl "http://www.itbci.org/aboutus.html"^^xsd:anyURI ;
@@ -4549,6 +4671,7 @@ told:_IntellectualProperty_uploads_communities_36770_itbci_jpg
 told:_IntellectualProperty_uploads_communities_37774_ara_khamtsen_tibet_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ara Khamtsen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jose Ignacio Cabezon"@en ;
 	tolo:represents told:_Place_1246 ;
 	tolo:sourceUrl "http://www.thlib.org/places/monasteries/sera/colleges.php#iframe=/places/monasteries/sera/spaces/map/phpConx.php?idNum=s031"^^xsd:anyURI ;
@@ -4557,6 +4680,7 @@ told:_IntellectualProperty_uploads_communities_37774_ara_khamtsen_tibet_jpg
 told:_IntellectualProperty_uploads_communities_38ca2_dazan_spb_ru_6_dazan_old_2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Datsan Gunzechoinei"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Datsan Gunzechoinei"@en ;
 	tolo:represents told:_Place_1055 ;
 	tolo:sourceUrl "http://dazan.spb.ru/content/datsan/history/black-white-photos/dazan.spb.ru-6-dazan-old-2.jpg"^^xsd:anyURI ;
@@ -4565,24 +4689,28 @@ told:_IntellectualProperty_uploads_communities_38ca2_dazan_spb_ru_6_dazan_old_2_
 told:_IntellectualProperty_uploads_communities_38e31_10163073_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Amdo Chubzang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_340 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_392ec_dolma_podrang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drolma Podrang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_938 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3ae2f_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Daklha Gampo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_63 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3b825_dobi_ganden_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dobi Ganden Pelgye Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2018-08-02T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -4592,6 +4720,7 @@ told:_IntellectualProperty_uploads_communities_3b825_dobi_ganden_jpeg
 told:_IntellectualProperty_uploads_communities_3badb_kha66_arcg_00_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tengyeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Photo Courtesy of Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_723 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=57"^^xsd:anyURI ;
@@ -4600,6 +4729,7 @@ told:_IntellectualProperty_uploads_communities_3badb_kha66_arcg_00_1_jpg
 told:_IntellectualProperty_uploads_communities_3bc65_palpung_sherabling_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sherabling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 2.0"@en ;
 	tolo:creationDate "2018-02-23T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Dave Kleinschmidt"@en ;
@@ -4610,18 +4740,21 @@ told:_IntellectualProperty_uploads_communities_3bc65_palpung_sherabling_png
 told:_IntellectualProperty_uploads_communities_3c149_r0010879_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khawa Karpo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1083 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3c24c_palyul_retreat_center_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Palyul Retreat Center"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1657 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3c29a_screen_shot_2019_05_01_at_9_53_57_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sengge Shong Yago"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Fabienne Huet"@en ;
 	tolo:represents told:_Place_1045 ;
 	tolo:sourceUrl "https://www.google.com/maps/contrib/109385615927343273086/"^^xsd:anyURI ;
@@ -4630,6 +4763,7 @@ told:_IntellectualProperty_uploads_communities_3c29a_screen_shot_2019_05_01_at_9
 told:_IntellectualProperty_uploads_communities_3c792_hiranayavarnamahavihar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hiraṇyavarṇa Mahāvihāra"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2016-09-25T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Suraj Belbase"@en ;
@@ -4640,6 +4774,7 @@ told:_IntellectualProperty_uploads_communities_3c792_hiranayavarnamahavihar_jpg
 told:_IntellectualProperty_uploads_communities_3d62d_w020130503396333753492_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shitsang Gonsar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Online"@en ;
 	tolo:represents told:_Place_361 ;
 	tolo:sourceUrl "http://en.tibetol.cn/01/05/201305/W020130503396333753492.jpg"^^xsd:anyURI ;
@@ -4648,12 +4783,14 @@ told:_IntellectualProperty_uploads_communities_3d62d_w020130503396333753492_jpg
 told:_IntellectualProperty_uploads_communities_3d9a1_bhutanhouse_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bhutan House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1099 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3df11_stupa_gampo_abbey_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gampo Abbey"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 2.0 "@en ;
 	tolo:creationDate "2012-05-21T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Nicole Bratt"@en ;
@@ -4664,18 +4801,21 @@ told:_IntellectualProperty_uploads_communities_3df11_stupa_gampo_abbey_jpg
 told:_IntellectualProperty_uploads_communities_3e5ac_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Do Chorten"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1533 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3ea2a_screen_shot_2014_08_19_at_12_49_29_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trandruk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_672 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_3f2b7_kyichu_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kyichu Lhakhang "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ariana Maki, A. Maki Archive, Himalayan Art Resource."@en ;
 	tolo:represents told:_Place_393 ;
 	tolo:sourceUrl "http://www.himalayanart.org/search/set.cfm?setID=2866"^^xsd:anyURI ;
@@ -4684,6 +4824,7 @@ told:_IntellectualProperty_uploads_communities_3f2b7_kyichu_jpg
 told:_IntellectualProperty_uploads_communities_3f3e4_samye_chimphu_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Samye Chimpu"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Sikkim Lhayum Collection"@en ;
 	tolo:creationDate "1935-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Photo courtesy Matthew Akester"@en ;
@@ -4693,6 +4834,7 @@ told:_IntellectualProperty_uploads_communities_3f3e4_samye_chimphu_jpg
 told:_IntellectualProperty_uploads_communities_3f533_tsechen_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsechen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jonang Foundation"@en ;
 	tolo:represents told:_Place_93 ;
 	tolo:sourceUrl "http://www.jonangfoundation.org/sites/default/files/styles/flexslider_full/public/jf_tsechen_1.JPG?itok=wctW3KV3"^^xsd:anyURI ;
@@ -4701,12 +4843,14 @@ told:_IntellectualProperty_uploads_communities_3f533_tsechen_jpg
 told:_IntellectualProperty_uploads_communities_3fa97_baruun_khiid_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Baruun Khiid"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1200 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_401d3_photo_4_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rabsel Tsenkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_898 ;
 	.
@@ -4714,12 +4858,14 @@ told:_IntellectualProperty_uploads_communities_401d3_photo_4_jpg
 told:_IntellectualProperty_uploads_communities_4026c_20150613y43_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyume Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_190 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4042b_ga13_pan_01o_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tromsikhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_903 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/db_data/db_565/ga13_pan_01o.jpg"^^xsd:anyURI ;
@@ -4728,6 +4874,7 @@ told:_IntellectualProperty_uploads_communities_4042b_ga13_pan_01o_jpg
 told:_IntellectualProperty_uploads_communities_40bbb__mg_0192_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsādra Rinchen Drak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jamgon Kongtrul Labrang"@en ;
 	tolo:represents told:_Place_974 ;
 	tolo:sourceUrl "http://www.jamgonkongtrul.org/section.php?s1=2&s2=4"^^xsd:anyURI ;
@@ -4736,12 +4883,14 @@ told:_IntellectualProperty_uploads_communities_40bbb__mg_0192_jpg
 told:_IntellectualProperty_uploads_communities_44400_kagyu_kunchab_chuling_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Kunchab Chuling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1452 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_46606_yiga_choeling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ghum Yiga Choeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2018-05-15T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Bernard Gagnon"@en ;
@@ -4752,12 +4901,14 @@ told:_IntellectualProperty_uploads_communities_46606_yiga_choeling_jpg
 told:_IntellectualProperty_uploads_communities_467b4_stjosephscollege_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "St. Joseph's School"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1374 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_46803_kunsangtse_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kunsangtse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_883 ;
 	.
@@ -4765,6 +4916,7 @@ told:_IntellectualProperty_uploads_communities_46803_kunsangtse_jpg
 told:_IntellectualProperty_uploads_communities_4768c_sera_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Tekchen Chokhorling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Image courtesy of Sarah H. Jacoby. Used by permission."@en ;
 	tolo:represents told:_Place_1070 ;
 	.
@@ -4772,6 +4924,7 @@ told:_IntellectualProperty_uploads_communities_4768c_sera_monastery_jpg
 told:_IntellectualProperty_uploads_communities_47771_khampagar_tashijong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khampa Gar (Tashi Jong)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Khampagar.org"@en ;
 	tolo:represents told:_Place_1510 ;
 	tolo:sourceUrl "http://khampagar.org/"^^xsd:anyURI ;
@@ -4780,6 +4933,7 @@ told:_IntellectualProperty_uploads_communities_47771_khampagar_tashijong_jpg
 told:_IntellectualProperty_uploads_communities_47a20_sholparkhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shol Printery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_889 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showresource.php?type=photo&id=465"^^xsd:anyURI ;
@@ -4788,6 +4942,7 @@ told:_IntellectualProperty_uploads_communities_47a20_sholparkhang_jpg
 told:_IntellectualProperty_uploads_communities_496a9_yamdrok_tso_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yamdrok Lake"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Peter Vigier"@en ;
 	tolo:represents told:_Place_1325 ;
 	tolo:sourceUrl "https://en.wikipedia.org/wiki/Yamdrok_Lake#/media/File:Yamdrok-tso.jpg"^^xsd:anyURI ;
@@ -4796,6 +4951,7 @@ told:_IntellectualProperty_uploads_communities_496a9_yamdrok_tso_jpg
 told:_IntellectualProperty_uploads_communities_4995f_tsarang_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsarang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "creative commons attribution 3.0"@en ;
 	tolo:creationDate "2014-10-25T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Jmhullot"@en ;
@@ -4806,6 +4962,7 @@ told:_IntellectualProperty_uploads_communities_4995f_tsarang_monastery_jpg
 told:_IntellectualProperty_uploads_communities_49af8_nyarma_monastry_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyarma"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_910 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/pages/research/conservation-forum/nyarma.php"^^xsd:anyURI ;
@@ -4814,6 +4971,7 @@ told:_IntellectualProperty_uploads_communities_49af8_nyarma_monastry_jpg
 told:_IntellectualProperty_uploads_communities_49fb3_gedensheddupchoikorling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Geden Sheddup Choikorling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Public Domain"@en ;
 	tolo:credit "Buzava"@en ;
 	tolo:represents told:_Place_1681 ;
@@ -4823,36 +4981,42 @@ told:_IntellectualProperty_uploads_communities_49fb3_gedensheddupchoikorling_jpg
 told:_IntellectualProperty_uploads_communities_4ac45_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsade"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1702 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4b073_4376162796_cb0181c465_o_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Talo Sangngak Choling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_380 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4b10d_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dilyak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1701 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4b9a4_cheri_monastery_bhutan_070317_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Cheri Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_307 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4bbb5_ea_20091222125716_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Old Ditsa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_212 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4be90_tak_monastery_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tak Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Gray Tuttle"@en ;
 	tolo:credit "Gray Tuttle"@en ;
 	tolo:represents told:_Place_288 ;
@@ -4861,12 +5025,14 @@ told:_IntellectualProperty_uploads_communities_4be90_tak_monastery_jpeg
 told:_IntellectualProperty_uploads_communities_4c019_screen_shot_2015_11_02_at_12_35_20_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhundrubteng"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_207 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4c375_yangri_gar_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yangri Gar "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Thub bstan chos dar. 2008. Mdo mkhyen brtse ye shes rdo rje'i gdung rgyud rim byon gyi rnam thar gsal ba'i me long. Beijing, Krung go’i bod rig pa dpe skrun khang, p. 14."@en ;
 	tolo:represents told:_Place_420 ;
 	.
@@ -4874,6 +5040,7 @@ told:_IntellectualProperty_uploads_communities_4c375_yangri_gar_png
 told:_IntellectualProperty_uploads_communities_4cd30_paro_taktsang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Paro Taktsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Douglas J. McLaughlin"@en ;
 	tolo:represents told:_Place_1145 ;
 	tolo:sourceUrl "https://en.wikipedia.org/wiki/Paro_Taktsang#/media/File:Taktshang_edit.jpg"^^xsd:anyURI ;
@@ -4882,6 +5049,7 @@ told:_IntellectualProperty_uploads_communities_4cd30_paro_taktsang_jpg
 told:_IntellectualProperty_uploads_communities_4d8d7_tashilhunpo_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashilhunpo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Arthur Hopkinson. The Tibet Album. The British Museum. Accessed 14 August. 2017"@en ;
 	tolo:represents told:_Place_39 ;
 	tolo:sourceUrl "http://tibet.prm.ox.ac.uk/photo_BMH.COL.17.1.html"^^xsd:anyURI ;
@@ -4890,18 +5058,21 @@ told:_IntellectualProperty_uploads_communities_4d8d7_tashilhunpo_jpg
 told:_IntellectualProperty_uploads_communities_4d8f3_screenshot_2023_09_21_at_11_54_06_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rigdzin Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1641 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4dd4e_gyelje_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyelje"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_837 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4e916_screen_shot_2016_03_24_at_2_12_46_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tso Pema"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2003-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Doron"@en ;
@@ -4912,6 +5083,7 @@ told:_IntellectualProperty_uploads_communities_4e916_screen_shot_2016_03_24_at_2
 told:_IntellectualProperty_uploads_communities_4f4ea_1618px_ka_nying_shedrub_ling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ka-Nying Shedrub Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2015-12-11T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Christopher J. Fynn"@en ;
@@ -4922,6 +5094,7 @@ told:_IntellectualProperty_uploads_communities_4f4ea_1618px_ka_nying_shedrub_lin
 told:_IntellectualProperty_uploads_communities_4f623_orgyen_cho_dzong_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Orgyen Chö Dzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "https://www.dudjomtersar.org/about-us"@en ;
 	tolo:represents told:_Place_1667 ;
 	.
@@ -4929,6 +5102,7 @@ told:_IntellectualProperty_uploads_communities_4f623_orgyen_cho_dzong_jpeg
 told:_IntellectualProperty_uploads_communities_4fb28_screenshot_2024_03_11_at_9_43_49_am_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rahor"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Kevin Tobin"@en ;
 	tolo:represents told:_Place_1110 ;
 	.
@@ -4936,6 +5110,7 @@ told:_IntellectualProperty_uploads_communities_4fb28_screenshot_2024_03_11_at_9_
 told:_IntellectualProperty_uploads_communities_5004e_blob_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rongwo Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Wikimapia"@en ;
 	tolo:represents told:_Place_374 ;
 	tolo:sourceUrl "http://photos.wikimapia.org/p/00/00/35/07/01_big.jpg"^^xsd:anyURI ;
@@ -4944,6 +5119,7 @@ told:_IntellectualProperty_uploads_communities_5004e_blob_png
 told:_IntellectualProperty_uploads_communities_504a4_nga25_se2_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Palha Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_848 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=128"^^xsd:anyURI ;
@@ -4952,6 +5128,7 @@ told:_IntellectualProperty_uploads_communities_504a4_nga25_se2_01_jpg
 told:_IntellectualProperty_uploads_communities_50736_ganden_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ganden"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Philipp Roelli"@en ;
 	tolo:represents told:_Place_36 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/a/a5/Ganden_monastery.jpg"^^xsd:anyURI ;
@@ -4960,18 +5137,21 @@ told:_IntellectualProperty_uploads_communities_50736_ganden_monastery_jpg
 told:_IntellectualProperty_uploads_communities_50e20_54610197_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dechen Sangngak Khar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_343 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_50ed9_padtseling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Petseling Jangchub Pelri Monastery "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_371 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_51369_stongdey_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stongdey"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license " © Rob Linrothe"@en ;
 	tolo:creationDate "1994-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Rob Linrothe"@en ;
@@ -4982,18 +5162,21 @@ told:_IntellectualProperty_uploads_communities_51369_stongdey_jpg
 told:_IntellectualProperty_uploads_communities_52077_0102b_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pasho Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_535 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_52aa8_pelpung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelpung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_472 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_536ab_kirti_ngawa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kīrti Namgyel Dechen Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:creationDate "2003-02-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Jialiang Gao"@en ;
@@ -5004,30 +5187,35 @@ told:_IntellectualProperty_uploads_communities_536ab_kirti_ngawa_jpg
 told:_IntellectualProperty_uploads_communities_53ac9_dashchoimbel_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashi Chopel Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_984 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_54f53_traduntse_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Traduntse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1124 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_55ce4_labrang_gyume_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Gyume Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1523 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5721c_tseten_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tseten"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_287 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5781d_tsogyel_lhatso_akester_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsogyel Latso"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Matthew Akester"@en ;
 	tolo:represents told:_Place_1275 ;
 	.
@@ -5035,6 +5223,7 @@ told:_IntellectualProperty_uploads_communities_5781d_tsogyel_lhatso_akester_jpg
 told:_IntellectualProperty_uploads_communities_583fd_rigsum_gonpo_north_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Northern Rigsum Gonpo Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_894 ;
 	.
@@ -5042,18 +5231,21 @@ told:_IntellectualProperty_uploads_communities_583fd_rigsum_gonpo_north_jpg
 told:_IntellectualProperty_uploads_communities_58b48_6222289302_2237605bd7_b_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyarong Takten Nampar Gyelwai Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_432 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_59035_katsel_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Katsel"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1121 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_598a9_meru_dratsang_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Meru Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC-ND"@en ;
 	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Diana Lange"@en ;
@@ -5063,6 +5255,7 @@ told:_IntellectualProperty_uploads_communities_598a9_meru_dratsang_jpeg
 told:_IntellectualProperty_uploads_communities_59f52_lingshed_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lingshed"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC-SA-4.0"@en ;
 	tolo:credit "Quentin Devers"@en ;
 	tolo:represents told:_Place_1662 ;
@@ -5072,12 +5265,14 @@ told:_IntellectualProperty_uploads_communities_59f52_lingshed_jpg
 told:_IntellectualProperty_uploads_communities_5a157_dagpo_shedrupling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dagpo Shedrubling Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1658 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5a7b5_kagyu_tsechokling_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Tsekchok Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-09-30T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Marlene Erschbamer"@en ;
 	tolo:represents told:_Place_1695 ;
@@ -5086,6 +5281,7 @@ told:_IntellectualProperty_uploads_communities_5a7b5_kagyu_tsechokling_jpeg
 told:_IntellectualProperty_uploads_communities_5c4c1_diskit_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Diskit"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA-3.0"@en ;
 	tolo:creationDate "2012-08-14T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Debrup Majumdar"@en ;
@@ -5096,12 +5292,14 @@ told:_IntellectualProperty_uploads_communities_5c4c1_diskit_monastery_jpg
 told:_IntellectualProperty_uploads_communities_5c83d_screen_shot_2016_08_09_at_4_36_24_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Riwo Jakang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1169 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5d096_screen_shot_2015_03_16_at_12_18_15_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ralung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ralung circa 1938"@en ;
 	tolo:represents told:_Place_87 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_135-S-10-13-27%2C_Tibetexpedition%2C_Landschaftsaufnahme%2C_Ralung.jpg"^^xsd:anyURI ;
@@ -5110,6 +5308,7 @@ told:_IntellectualProperty_uploads_communities_5d096_screen_shot_2015_03_16_at_1
 told:_IntellectualProperty_uploads_communities_5d191_rinak_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rinak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2007-09-30T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Marlene Erschbamer"@en ;
 	tolo:represents told:_Place_1692 ;
@@ -5118,6 +5317,7 @@ told:_IntellectualProperty_uploads_communities_5d191_rinak_jpeg
 told:_IntellectualProperty_uploads_communities_5d30d_6a00d834523d7769e201287680a6b1970c_500wi_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shelkar Chode"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Losang  (www.landofsnows.com)"@en ;
 	tolo:represents told:_Place_561 ;
 	tolo:sourceUrl "http://kekexili.typepad.com/.a/6a00d834523d7769e201287680a6b1970c-pi"^^xsd:anyURI ;
@@ -5126,6 +5326,7 @@ told:_IntellectualProperty_uploads_communities_5d30d_6a00d834523d7769e201287680a
 told:_IntellectualProperty_uploads_communities_5db34_ka50a_ee_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Palden Lhamo Shrine"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_872 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showresource.php?type=photo&id=298"^^xsd:anyURI ;
@@ -5134,6 +5335,7 @@ told:_IntellectualProperty_uploads_communities_5db34_ka50a_ee_01_jpg
 told:_IntellectualProperty_uploads_communities_5dbe6_screen_shot_2019_05_01_at_9_56_50_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sengge Shong Mago"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Kwangyong Choi"@en ;
 	tolo:represents told:_Place_1044 ;
 	tolo:sourceUrl "https://www.google.com/maps/contrib/114562391146067364104/"^^xsd:anyURI ;
@@ -5142,12 +5344,14 @@ told:_IntellectualProperty_uploads_communities_5dbe6_screen_shot_2019_05_01_at_9
 told:_IntellectualProperty_uploads_communities_5e068_screen_shot_2014_06_02_at_4_46_30_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rakadrak Hermitage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_321 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5ef1c__monastir_tumbum_mongoliya_1900e_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kumbum Jampa Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Public Domain"@en ;
 	tolo:credit "Gombojab Tsybikov, Wikimedia Commons"@en ;
 	tolo:represents told:_Place_40 ;
@@ -5157,6 +5361,7 @@ told:_IntellectualProperty_uploads_communities_5ef1c__monastir_tumbum_mongoliya_
 told:_IntellectualProperty_uploads_communities_6138a_img_8922_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dreyul Kyetsel "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Hanung Kim"@en ;
 	tolo:represents told:_Place_275 ;
 	.
@@ -5164,18 +5369,21 @@ told:_IntellectualProperty_uploads_communities_6138a_img_8922_jpg
 told:_IntellectualProperty_uploads_communities_62519_128c68d0824g213_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jyekundo Dondrub Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_512 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_641f9_qh_jd_wds_05_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bido Gonchen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_398 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_64256_photo3_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Banak Zhol Gyelkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_865 ;
 	.
@@ -5183,36 +5391,42 @@ told:_IntellectualProperty_uploads_communities_64256_photo3_jpg
 told:_IntellectualProperty_uploads_communities_64369_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Takpu Chode"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_317 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_64e26_kundeling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kundeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_536 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_64efd_screen_shot_2016_12_06_at_11_52_56_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Erdene Zuu"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1204 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_65091_lhalupodrang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhalu Podrang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_857 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_65103_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Geri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1706 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_65a8b_chemrey_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chemrey"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Carsten Nebel"@en ;
 	tolo:represents told:_Place_234 ;
 	tolo:sourceUrl "http://www.myhimalayas.com/ladakh_passes/image/chemrey_monastery.jpg.html"^^xsd:anyURI ;
@@ -5221,6 +5435,7 @@ told:_IntellectualProperty_uploads_communities_65a8b_chemrey_monastery_jpg
 told:_IntellectualProperty_uploads_communities_660fd_tsangsarngamgo_n1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsangsar Namgon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Gerd Manusch"@en ;
 	tolo:represents told:_Place_1534 ;
 	.
@@ -5228,6 +5443,7 @@ told:_IntellectualProperty_uploads_communities_660fd_tsangsarngamgo_n1_jpg
 told:_IntellectualProperty_uploads_communities_66134_stakna_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stakna"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2013-01-26T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Vinod Krishna"@en ;
@@ -5238,6 +5454,7 @@ told:_IntellectualProperty_uploads_communities_66134_stakna_monastery_jpg
 told:_IntellectualProperty_uploads_communities_66c1d_petub_khiid_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pethub Stangey Choskhorling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2008-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Michael Eisenriegler"@en ;
@@ -5248,6 +5465,7 @@ told:_IntellectualProperty_uploads_communities_66c1d_petub_khiid_jpg
 told:_IntellectualProperty_uploads_communities_67ccf_chogyellhakhangtashiding_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakkar Tashiding"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Marlene Erschbamer"@en ;
 	tolo:represents told:_Place_1144 ;
 	.
@@ -5255,6 +5473,7 @@ told:_IntellectualProperty_uploads_communities_67ccf_chogyellhakhangtashiding_jp
 told:_IntellectualProperty_uploads_communities_67e7b_gangteng_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gangteng Monastery "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "David Lazar"@en ;
 	tolo:represents told:_Place_382 ;
 	.
@@ -5262,6 +5481,7 @@ told:_IntellectualProperty_uploads_communities_67e7b_gangteng_jpg
 told:_IntellectualProperty_uploads_communities_68767_screen_shot_2018_04_10_at_9_53_58_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sangpu Neutok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rubin Museum of Art"@en ;
 	tolo:represents told:_Place_91 ;
 	tolo:sourceUrl "https://treasuryoflives.org/institution/Sangpu-Neutok"^^xsd:anyURI ;
@@ -5270,12 +5490,14 @@ told:_IntellectualProperty_uploads_communities_68767_screen_shot_2018_04_10_at_9
 told:_IntellectualProperty_uploads_communities_68d61_c3741_11_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gonlung Jampa Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_156 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_693fd_screen_shot_2016_03_22_at_9_11_02_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bennak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "© Sarah H. Jacoby"@en ;
 	tolo:represents told:_Place_1071 ;
 	.
@@ -5283,24 +5505,28 @@ told:_IntellectualProperty_uploads_communities_693fd_screen_shot_2016_03_22_at_9
 told:_IntellectualProperty_uploads_communities_698cf_e728787d8e538072a28a5d0b1a0bd060_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Litang Chokhor Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_137 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_69923_910008599707380449_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gartse Tubten Chokhor Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_481 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_69935_sadutshangfamily_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sadutshang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1063 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_6a7e8_dambadarjaa_monastery_810x544_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dambadarjaa Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1295 ;
 	tolo:sourceUrl "https://mongolianobserver.mn/dambadarjaalin-monastery/dambadarjaa-monastery/"^^xsd:anyURI ;
 	.
@@ -5308,6 +5534,7 @@ told:_IntellectualProperty_uploads_communities_6a7e8_dambadarjaa_monastery_810x5
 told:_IntellectualProperty_uploads_communities_6afd1_sangngak_choling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sangngak Choling Sikkim"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:credit "Walter Callens"@en ;
 	tolo:represents told:_Place_1527 ;
@@ -5317,12 +5544,14 @@ told:_IntellectualProperty_uploads_communities_6afd1_sangngak_choling_jpg
 told:_IntellectualProperty_uploads_communities_6bfff_bt_14_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gemang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_422 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_6e5aa_screen_shot_2016_06_14_at_12_50_10_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Buchu Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rubin Museum of Art"@en ;
 	tolo:represents told:_Place_1120 ;
 	tolo:sourceUrl "https://www.himalayanart.org/items/65719"^^xsd:anyURI ;
@@ -5331,12 +5560,14 @@ told:_IntellectualProperty_uploads_communities_6e5aa_screen_shot_2016_06_14_at_1
 told:_IntellectualProperty_uploads_communities_6eade_muktinath_temple_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Muktinath"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_816 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_6ee90_yungdrung_ling_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yungdrung Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2014-12-20T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -5346,6 +5577,7 @@ told:_IntellectualProperty_uploads_communities_6ee90_yungdrung_ling_jpeg
 told:_IntellectualProperty_uploads_communities_6f8e8_shopamdo_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shopamdo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "The Cultural Monuments of Tibet's Outer Provinces. Vol. 1: Kham"@en ;
 	tolo:credit "Andreas Gruschke"@en ;
 	tolo:represents told:_Place_813 ;
@@ -5354,24 +5586,28 @@ told:_IntellectualProperty_uploads_communities_6f8e8_shopamdo_jpg
 told:_IntellectualProperty_uploads_communities_70214_ariel_of_gbi_w_37_circle_e1683758612329_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Garchen Buddhist Institute"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1666 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_70593_screen_shot_2017_06_23_at_5_44_08_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Samding Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_564 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_70f3f_lerab_ling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lerab Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1613 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7117b_naropa_university_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Naropa University"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2012-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "BuddhaNU"@en ;
@@ -5382,6 +5618,7 @@ told:_IntellectualProperty_uploads_communities_7117b_naropa_university_jpg
 told:_IntellectualProperty_uploads_communities_7152d_screen_shot_2019_04_09_at_10_25_19_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzogchen Yamāntaka Cave"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Introduction to Dzogchen Monastery"@en ;
 	tolo:represents told:_Place_1335 ;
 	tolo:sourceUrl "https://www.tbrc.org/#library_work_ViewInWIndow-W1CZ2507%7CI1CZ2522%7C1%7C1%7C1%7C78"^^xsd:anyURI ;
@@ -5390,6 +5627,7 @@ told:_IntellectualProperty_uploads_communities_7152d_screen_shot_2019_04_09_at_1
 told:_IntellectualProperty_uploads_communities_71ea8_hepori_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hepo Ri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC-ND"@en ;
 	tolo:creationDate "2012-06-04T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Diana Lange"@en ;
@@ -5399,12 +5637,14 @@ told:_IntellectualProperty_uploads_communities_71ea8_hepori_jpeg
 told:_IntellectualProperty_uploads_communities_723cb_likir_gompa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Likir"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1103 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_728bb_lhamo_dechen_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lamo Dechen "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Image Courtesy of Lan Wu"@en ;
 	tolo:represents told:_Place_401 ;
 	.
@@ -5412,12 +5652,14 @@ told:_IntellectualProperty_uploads_communities_728bb_lhamo_dechen_monastery_jpg
 told:_IntellectualProperty_uploads_communities_7293b_screen_shot_2018_03_27_at_2_07_10_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tubchen Dargye Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1235 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_72bc2_gepel_ritro_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzamtang Gepel Hermitage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "jo nang ba'i gdan rabs mdor bsdus drang srong rgan po'i zhal lung"@en ;
 	tolo:represents told:_Place_976 ;
 	tolo:sourceUrl "http://purl.bdrc.io/resource/WA30408"^^xsd:anyURI ;
@@ -5426,6 +5668,7 @@ told:_IntellectualProperty_uploads_communities_72bc2_gepel_ritro_png
 told:_IntellectualProperty_uploads_communities_73278_me_2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Me"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "José Ignacio Cabezón"@en ;
 	tolo:represents told:_Place_349 ;
 	tolo:sourceUrl "http://texts.thlib.org/essays/c/cabezon/me-2.jpg"^^xsd:anyURI ;
@@ -5434,6 +5677,7 @@ told:_IntellectualProperty_uploads_communities_73278_me_2_jpg
 told:_IntellectualProperty_uploads_communities_737c7_temple_des_1000_boudhas_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 2.5"@en ;
 	tolo:creationDate "2007-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Christophe Finot"@en ;
@@ -5444,12 +5688,14 @@ told:_IntellectualProperty_uploads_communities_737c7_temple_des_1000_boudhas_jpg
 told:_IntellectualProperty_uploads_communities_743b7_ngor_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngor Ewaṃ Choden"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_32 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_74598_khyunglung_ngulkhar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khyunglung Ngulkhar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© John Bellezza"@en ;
 	tolo:creationDate "2000-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "John Bellezza"@en ;
@@ -5459,6 +5705,7 @@ told:_IntellectualProperty_uploads_communities_74598_khyunglung_ngulkhar_jpg
 told:_IntellectualProperty_uploads_communities_74766_tango_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tango"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jean-Marie Hullot "@en ;
 	tolo:represents told:_Place_308 ;
 	tolo:sourceUrl "http://en.wikipedia.org/wiki/Tango_Monastery#mediaviewer/File:TangoMonastery.jpg"^^xsd:anyURI ;
@@ -5467,6 +5714,7 @@ told:_IntellectualProperty_uploads_communities_74766_tango_jpg
 told:_IntellectualProperty_uploads_communities_7624c_beri_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Beri Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund, Used by Permission"@en ;
 	tolo:represents told:_Place_1219 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/pages/projects/rural-tibet-projects/sichuan-program-kham/beri-monastery.php"^^xsd:anyURI ;
@@ -5475,6 +5723,7 @@ told:_IntellectualProperty_uploads_communities_7624c_beri_jpg
 told:_IntellectualProperty_uploads_communities_762b1_lhasastreets15_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyuto Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_316 ;
 	tolo:sourceUrl "http://eat-everywhere.com/2012/10/10/lhasa-tibet-4-lhasa-through-my-lens/"^^xsd:anyURI ;
 	.
@@ -5482,6 +5731,7 @@ told:_IntellectualProperty_uploads_communities_762b1_lhasastreets15_jpg
 told:_IntellectualProperty_uploads_communities_7732b_kha76_se97_clh_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mentsikhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1997-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "© Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_915 ;
@@ -5491,6 +5741,7 @@ told:_IntellectualProperty_uploads_communities_7732b_kha76_se97_clh_1_jpg
 told:_IntellectualProperty_uploads_communities_77352_karma_drupgyud_choeling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Drupgyud Choeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "https://www.karmapa-news.org/"@en ;
 	tolo:represents told:_Place_1512 ;
 	tolo:sourceUrl "https://www.karmapa-news.org/galleries/kdc-cultural-performances-august2015/#gallery/25963/19800"^^xsd:anyURI ;
@@ -5499,6 +5750,7 @@ told:_IntellectualProperty_uploads_communities_77352_karma_drupgyud_choeling_jpg
 told:_IntellectualProperty_uploads_communities_773f3_img_1255512927_646_lg_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dakpo Dratsang "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_298 ;
 	tolo:sourceUrl "http://www.thedagpofund.org/en/gallery"^^xsd:anyURI ;
 	.
@@ -5506,12 +5758,14 @@ told:_IntellectualProperty_uploads_communities_773f3_img_1255512927_646_lg_jpg
 told:_IntellectualProperty_uploads_communities_77436_images_1_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nenang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_331 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_775b4_photo4_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Barkor Jampa Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, The Temples of Lhasa"@en ;
 	tolo:represents told:_Place_866 ;
 	.
@@ -5519,6 +5773,7 @@ told:_IntellectualProperty_uploads_communities_775b4_photo4_jpg
 told:_IntellectualProperty_uploads_communities_78bd6_namobuddha_stupa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namo Buddha"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rigpa Wiki"@en ;
 	tolo:represents told:_Place_1333 ;
 	tolo:sourceUrl "http://www.rigpawiki.org/images/8/88/Namobuddha_stupa.jpg"^^xsd:anyURI ;
@@ -5527,6 +5782,7 @@ told:_IntellectualProperty_uploads_communities_78bd6_namobuddha_stupa_jpg
 told:_IntellectualProperty_uploads_communities_79bac_swayambhu_65050_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Swayambhunath"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Dhilung Kirat "@en ;
 	tolo:represents told:_Place_172 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Swayambhunath_in_Kathmandu_Valley%2C_Nepal.jpg/220px-Swayambhunath_in_Kathmandu_Valley%2C_Nepal.jpg"^^xsd:anyURI ;
@@ -5535,18 +5791,21 @@ told:_IntellectualProperty_uploads_communities_79bac_swayambhu_65050_jpg
 told:_IntellectualProperty_uploads_communities_79e8b_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dargye Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_266 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_79f11_3_12100qk224300_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chung Riwoche "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_115 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7a111_borobudur_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Borobudur"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC0"@en ;
 	tolo:credit "Unknown Author"@en ;
 	tolo:represents told:_Place_1397 ;
@@ -5556,12 +5815,14 @@ told:_IntellectualProperty_uploads_communities_7a111_borobudur_jpg
 told:_IntellectualProperty_uploads_communities_7a279_boulder_shambhala_center_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Boulder Shambhala Center"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1447 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7af65_taktendamcholing_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Takten Puntsok Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jonang Foundation"@en ;
 	tolo:represents told:_Place_110 ;
 	tolo:sourceUrl "http://www.jonangfoundation.org/sites/default/files/styles/flexslider_full/public/jf_damcho_1_0.JPG?itok=JBuaLcSN"^^xsd:anyURI ;
@@ -5570,12 +5831,14 @@ told:_IntellectualProperty_uploads_communities_7af65_taktendamcholing_jpeg
 told:_IntellectualProperty_uploads_communities_7b159_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nagi Gonpa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1537 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7b647_rizong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rizong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Neema Tashi"@en ;
 	tolo:represents told:_Place_1575 ;
 	.
@@ -5583,6 +5846,7 @@ told:_IntellectualProperty_uploads_communities_7b647_rizong_jpg
 told:_IntellectualProperty_uploads_communities_7bd1d_drumpa_house_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drumpa Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1996-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "André Alexander, Lhasa House"@en ;
 	tolo:represents told:_Place_1561 ;
@@ -5591,18 +5855,21 @@ told:_IntellectualProperty_uploads_communities_7bd1d_drumpa_house_jpg
 told:_IntellectualProperty_uploads_communities_7c5de_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Powo Samling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_150 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7daaa_34444790_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trangu"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_807 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_7e61f_nyenchentanglha_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyenchen Tanglha"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2006-05-09T00:00:00"^^xsd:dateTime ;
 	tolo:credit "McKay Savage"@en ;
@@ -5613,6 +5880,7 @@ told:_IntellectualProperty_uploads_communities_7e61f_nyenchentanglha_jpg
 told:_IntellectualProperty_uploads_communities_80668_nechung_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nechung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Public Domain"@en ;
 	tolo:credit "Hugh Richardson"@en ;
 	tolo:represents told:_Place_893 ;
@@ -5622,18 +5890,21 @@ told:_IntellectualProperty_uploads_communities_80668_nechung_monastery_jpg
 told:_IntellectualProperty_uploads_communities_80953_92796299_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rato"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_305 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8110c_jamtrin_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mangyul Jamtrin Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1125 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_827e8_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tromge Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_519 ;
 	tolo:sourceUrl "http://www.sc157.com/wiki/uploads/201103/s_13008588400zDvo0Mo.jpg"^^xsd:anyURI ;
 	.
@@ -5641,6 +5912,7 @@ told:_IntellectualProperty_uploads_communities_827e8_unknown_jpeg
 told:_IntellectualProperty_uploads_communities_82a6d_jamchen_lhakhang__boudha_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jamchen Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2018-03-30T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Christopher J. Fynn, Wikimedia Commons"@en ;
 	tolo:represents told:_Place_1591 ;
@@ -5649,12 +5921,14 @@ told:_IntellectualProperty_uploads_communities_82a6d_jamchen_lhakhang__boudha_jp
 told:_IntellectualProperty_uploads_communities_833ad_screen_shot_2014_05_30_at_2_17_15_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Monkhar Namseling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_523 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8387f_ca105_se_01o_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Southern Rigsum Gonpo Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Andre Alexander, Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_897 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=286"^^xsd:anyURI ;
@@ -5663,6 +5937,7 @@ told:_IntellectualProperty_uploads_communities_8387f_ca105_se_01o_jpg
 told:_IntellectualProperty_uploads_communities_84276_menri_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Menri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:credit "Anna Sehnalova"@en ;
 	tolo:represents told:_Place_244 ;
@@ -5671,6 +5946,7 @@ told:_IntellectualProperty_uploads_communities_84276_menri_jpeg
 told:_IntellectualProperty_uploads_communities_84287_pungpo_riwoche_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pungpo Riwoche"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Matthew Akester"@en ;
 	tolo:credit "Jamyang Khyentse Wangpo's Guide to Central Tibet"@en ;
 	tolo:represents told:_Place_1336 ;
@@ -5679,6 +5955,7 @@ told:_IntellectualProperty_uploads_communities_84287_pungpo_riwoche_jpg
 told:_IntellectualProperty_uploads_communities_8528b_yeru_wensakha_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yeru Wensakha"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2014-02-20T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -5688,12 +5965,14 @@ told:_IntellectualProperty_uploads_communities_8528b_yeru_wensakha_jpeg
 told:_IntellectualProperty_uploads_communities_86027_yongla_dungsam_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dungsam Riwo Tengyeling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1256 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_860da_do_dorje_drak_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Do Dorje Drak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2158-11-30T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Ernest Henry Wilson"@en ;
 	tolo:represents told:_Place_1323 ;
@@ -5702,6 +5981,7 @@ told:_IntellectualProperty_uploads_communities_860da_do_dorje_drak_jpg
 told:_IntellectualProperty_uploads_communities_863d9_screen_shot_2018_05_14_at_10_40_09_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsibri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rubin Museum of Art"@en ;
 	tolo:represents told:_Place_1118 ;
 	tolo:sourceUrl "https://www.himalayanart.org/items/65719"^^xsd:anyURI ;
@@ -5710,30 +5990,35 @@ told:_IntellectualProperty_uploads_communities_863d9_screen_shot_2018_05_14_at_1
 told:_IntellectualProperty_uploads_communities_878c3_screen_shot_2019_02_13_at_1_02_06_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yanglesho"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1332 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8791f_photo5_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Barkor Mani Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_867 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_88374_screen_shot_2016_05_10_at_1_38_48_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Alchi Chokhor"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1102 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_88c22_screen_shot_2018_05_11_at_4_24_49_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zangri Kangmar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1151 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8a6e7_bylakuppe__tashi_lhunpo_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashi Lhunpo (India)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4"@en ;
 	tolo:credit "Prof tpms"@en ;
 	tolo:represents told:_Place_1586 ;
@@ -5743,12 +6028,14 @@ told:_IntellectualProperty_uploads_communities_8a6e7_bylakuppe__tashi_lhunpo_mon
 told:_IntellectualProperty_uploads_communities_8a7e6_lingyin_temple_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lingyin Temple"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1609 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8b810_zhalugon_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhalu"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Himalayan Art Resources"@en ;
 	tolo:represents told:_Place_35 ;
 	.
@@ -5756,6 +6043,7 @@ told:_IntellectualProperty_uploads_communities_8b810_zhalugon_jpg
 told:_IntellectualProperty_uploads_communities_8b8ad_lhalam_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhalam"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gerd Manusch"@en ;
 	tolo:represents told:_Place_1516 ;
@@ -5764,6 +6052,7 @@ told:_IntellectualProperty_uploads_communities_8b8ad_lhalam_jpeg
 told:_IntellectualProperty_uploads_communities_8bf27_potalapalace_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Potala"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Himalayan Art Resources"@en ;
 	tolo:represents told:_Place_905 ;
 	tolo:sourceUrl "http://www.himalayanart.org/image.cfm/65848.html"^^xsd:anyURI ;
@@ -5772,6 +6061,7 @@ told:_IntellectualProperty_uploads_communities_8bf27_potalapalace_jpg
 told:_IntellectualProperty_uploads_communities_8c436_kanchendzonga_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kanchendzonga"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:credit "Kalzang Dorjee Bhutia"@en ;
 	tolo:represents told:_Place_1396 ;
@@ -5780,6 +6070,7 @@ told:_IntellectualProperty_uploads_communities_8c436_kanchendzonga_1_jpg
 told:_IntellectualProperty_uploads_communities_8c6b2_ani_tsemkhung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ani Tsemkhung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1996-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_1022 ;
@@ -5788,12 +6079,14 @@ told:_IntellectualProperty_uploads_communities_8c6b2_ani_tsemkhung_jpg
 told:_IntellectualProperty_uploads_communities_8cc32_screen_shot_2016_07_25_at_5_08_35_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zungchu Zi"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1150 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8d4a6_tsetang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsetang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:creationDate "2161-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Ernst Schäfer. Bundesarchiv Bild 135-S-15-22-22, Tibetexpedition, Blick auf Tsetang"@en ;
@@ -5804,24 +6097,28 @@ told:_IntellectualProperty_uploads_communities_8d4a6_tsetang_jpg
 told:_IntellectualProperty_uploads_communities_8dc2f_jpg_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyel Drewule Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_538 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8dd7b_mount_emei_pic_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Emei Shan"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1164 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_8fb28_derge_gonchens_parkhang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Derge Parkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_412 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_908a7_drakmar_drinzang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakmar Drinzang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Sikkim Lhayum Collection"@en ;
 	tolo:creationDate "1935-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Photo Courtesy Matthew Akester"@en ;
@@ -5831,6 +6128,7 @@ told:_IntellectualProperty_uploads_communities_908a7_drakmar_drinzang_jpg
 told:_IntellectualProperty_uploads_communities_911cc_khamshe_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khamshe Dargye Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Matthew Pistono"@en ;
 	tolo:represents told:_Place_445 ;
 	tolo:sourceUrl "https://www.rigpawiki.org/index.php?title=File:Dzgshedra.jpg"^^xsd:anyURI ;
@@ -5839,6 +6137,7 @@ told:_IntellectualProperty_uploads_communities_911cc_khamshe_jpeg
 told:_IntellectualProperty_uploads_communities_914ba_gangri_tokar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gangri Tokar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-NC"@en ;
 	tolo:creationDate "2007-08-04T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Pete Fry: Rigpa Wiki"@en ;
@@ -5849,6 +6148,7 @@ told:_IntellectualProperty_uploads_communities_914ba_gangri_tokar_jpg
 told:_IntellectualProperty_uploads_communities_92c76_kumbum_parkhang_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kumbum Printing Press"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Gray Tuttle"@en ;
 	tolo:credit "Gray Tuttle"@en ;
 	tolo:represents told:_Place_1024 ;
@@ -5857,12 +6157,14 @@ told:_IntellectualProperty_uploads_communities_92c76_kumbum_parkhang_jpeg
 told:_IntellectualProperty_uploads_communities_932f8_tharpaling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tharpaling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1066 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_946dd_dzongoling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzonggo Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gerd Manusch"@en ;
 	tolo:represents told:_Place_1536 ;
@@ -5871,12 +6173,14 @@ told:_IntellectualProperty_uploads_communities_946dd_dzongoling_jpg
 told:_IntellectualProperty_uploads_communities_94fd5_kathok_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Katok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_9 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_975d4_ka10_ee97_dt_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nangtseshar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_904 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showresource.php?type=photo&id=215"^^xsd:anyURI ;
@@ -5885,6 +6189,7 @@ told:_IntellectualProperty_uploads_communities_975d4_ka10_ee97_dt_jpg
 told:_IntellectualProperty_uploads_communities_986c4_screen_shot_2016_03_28_at_3_40_00_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsāri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Panaramio"@en ;
 	tolo:represents told:_Place_1085 ;
 	tolo:sourceUrl "http://www.panoramio.com/photo/32432759"^^xsd:anyURI ;
@@ -5893,6 +6198,7 @@ told:_IntellectualProperty_uploads_communities_986c4_screen_shot_2016_03_28_at_3
 told:_IntellectualProperty_uploads_communities_9a648_khordon_gonpa_3_2019_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khordong Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Varvara Chatzisavva"@en ;
 	tolo:represents told:_Place_1316 ;
 	.
@@ -5900,18 +6206,21 @@ told:_IntellectualProperty_uploads_communities_9a648_khordon_gonpa_3_2019_jpg
 told:_IntellectualProperty_uploads_communities_9aa3e_screen_shot_2014_06_02_at_3_36_50_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pajoding "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_415 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_9b13d_50151k_fpx_obj_iip_1_0_wid_683_hei_400_rgn_0
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Prominent Families"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1059 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_9b669_pema_shelpuk_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pema Shelpuk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Matteo Pistono"@en ;
 	tolo:represents told:_Place_1245 ;
 	tolo:sourceUrl "http://www.rigpawiki.org/images/b/b1/Pema_Shelpuk.jpg"^^xsd:anyURI ;
@@ -5920,12 +6229,14 @@ told:_IntellectualProperty_uploads_communities_9b669_pema_shelpuk_jpg
 told:_IntellectualProperty_uploads_communities_9c661_image009_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyoshul Jonpalung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_44 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_9cb61_chenrezig_thekchen_choeling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tekchen Choling Tsuklagkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2003-07-21T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Evan Osherow"@en ;
@@ -5936,12 +6247,14 @@ told:_IntellectualProperty_uploads_communities_9cb61_chenrezig_thekchen_choeling
 told:_IntellectualProperty_uploads_communities_9d8d9_chakpori_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chakpori"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_443 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_9dd26_dorjedrak_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dorje Drak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Rubin Museum of Art"@en ;
 	tolo:represents told:_Place_11 ;
 	.
@@ -5949,6 +6262,7 @@ told:_IntellectualProperty_uploads_communities_9dd26_dorjedrak_png
 told:_IntellectualProperty_uploads_communities_9e554_dodrupchen_monastery_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dodrubchen Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_48 ;
 	tolo:sourceUrl "http://www.chinabuddhismencyclopedia.com/en/index.php?title=File:Dodrupchen_Monastery_1.jpg"^^xsd:anyURI ;
 	.
@@ -5956,12 +6270,14 @@ told:_IntellectualProperty_uploads_communities_9e554_dodrupchen_monastery_1_jpg
 told:_IntellectualProperty_uploads_communities_9e592_labrang_kalacakra_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Kālacakra College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_920 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_9f196_dubdi_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dubdi"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:creationDate "2010-04-13T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Kothanda Srinivasan"@en ;
@@ -5972,6 +6288,7 @@ told:_IntellectualProperty_uploads_communities_9f196_dubdi_jpg
 told:_IntellectualProperty_uploads_communities_9f361_screen_shot_2018_10_26_at_3_02_38_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Surkhang Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_728 ;
 	.
@@ -5979,6 +6296,7 @@ told:_IntellectualProperty_uploads_communities_9f361_screen_shot_2018_10_26_at_3
 told:_IntellectualProperty_uploads_communities_9fe97_ca1_ne95_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pangdatsang Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_844 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=154"^^xsd:anyURI ;
@@ -5987,18 +6305,21 @@ told:_IntellectualProperty_uploads_communities_9fe97_ca1_ne95_jpg
 told:_IntellectualProperty_uploads_communities_a00c8_screen_shot_2014_06_02_at_1_59_27_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nubzur Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_525 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a00f7_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gyel Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_216 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a0c5c_vikramshila_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Vikramaśīla"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:credit "Rakesh Ranjan"@en ;
 	tolo:represents told:_Place_1355 ;
@@ -6008,6 +6329,7 @@ told:_IntellectualProperty_uploads_communities_a0c5c_vikramshila_jpg
 told:_IntellectualProperty_uploads_communities_a0cc6_samstanling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Samstanling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "SS Barakzai"@en ;
 	tolo:represents told:_Place_1408 ;
 	.
@@ -6015,6 +6337,7 @@ told:_IntellectualProperty_uploads_communities_a0cc6_samstanling_jpg
 told:_IntellectualProperty_uploads_communities_a103d_reting_monastery_in_1950_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Reting Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2006-12-05T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Hugh Richardson"@en ;
 	tolo:represents told:_Place_327 ;
@@ -6024,24 +6347,28 @@ told:_IntellectualProperty_uploads_communities_a103d_reting_monastery_in_1950_jp
 told:_IntellectualProperty_uploads_communities_a10b0_k_namdroling_monastery_building_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namdroling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_688 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a1187_serwo_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Serwo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_988 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a19b6_screen_shot_2015_08_26_at_12_58_52_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drugu"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_404 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a1c83_shambhala_mountain_center_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shambhala Mountain Center"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 2.5"@en ;
 	tolo:creationDate "2006-06-21T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Michael Zimmer"@en ;
@@ -6052,12 +6379,14 @@ told:_IntellectualProperty_uploads_communities_a1c83_shambhala_mountain_center_j
 told:_IntellectualProperty_uploads_communities_a3923_screen_shot_2016_03_28_at_12_57_13_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yarlha Shampo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1082 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a4779_zurmang_dutsitil_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zurmang Dutsitil"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ron Greenberg"@en ;
 	tolo:represents told:_Place_174 ;
 	.
@@ -6065,12 +6394,14 @@ told:_IntellectualProperty_uploads_communities_a4779_zurmang_dutsitil_jpg
 told:_IntellectualProperty_uploads_communities_a5541_dzongkar_monastery_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzongkar Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_497 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a5ebb_chone_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chone Ganden Shedrub Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Joseph Rock"@en ;
 	tolo:represents told:_Place_354 ;
 	tolo:sourceUrl "http://www.onshadow.com/galleries/rock.html"^^xsd:anyURI ;
@@ -6079,6 +6410,7 @@ told:_IntellectualProperty_uploads_communities_a5ebb_chone_jpeg
 told:_IntellectualProperty_uploads_communities_a5f99_drepung_loseling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drepung Loseling College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "John Miles"@en ;
 	tolo:represents told:_Place_355 ;
 	tolo:sourceUrl "http://www.drepung.org/DLM_Tibet.cfm"^^xsd:anyURI ;
@@ -6087,12 +6419,14 @@ told:_IntellectualProperty_uploads_communities_a5f99_drepung_loseling_jpg
 told:_IntellectualProperty_uploads_communities_a5fbb_purbuchok_hermitage_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Purbuchok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_294 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a615b_chungtang_erschbamer2010_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chungtang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Marlene Erschbamer"@en ;
 	tolo:represents told:_Place_1552 ;
@@ -6101,6 +6435,7 @@ told:_IntellectualProperty_uploads_communities_a615b_chungtang_erschbamer2010_jp
 told:_IntellectualProperty_uploads_communities_a6d9e_drigung_monastery_2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drigung Til"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Alberrosidus"@en ;
 	tolo:represents told:_Place_82 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/4/49/Drigung_monastery.jpg"^^xsd:anyURI ;
@@ -6109,18 +6444,21 @@ told:_IntellectualProperty_uploads_communities_a6d9e_drigung_monastery_2_jpg
 told:_IntellectualProperty_uploads_communities_a7802_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzonyak Samdrub"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1497 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a7b03_screen_shot_2015_03_17_at_2_40_36_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyenlung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_697 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_a8a34_garparitro_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Garpa Ritro"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "© José Cabezón"@en ;
 	tolo:represents told:_Place_1469 ;
 	.
@@ -6128,6 +6466,7 @@ told:_IntellectualProperty_uploads_communities_a8a34_garparitro_jpg
 told:_IntellectualProperty_uploads_communities_a905d_namtso_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namtso"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Wikipedia"@en ;
 	tolo:represents told:_Place_1272 ;
 	tolo:sourceUrl "https://en.wikipedia.org/wiki/Namtso#/media/File:NamTso_scene.jpg"^^xsd:anyURI ;
@@ -6136,6 +6475,7 @@ told:_IntellectualProperty_uploads_communities_a905d_namtso_jpg
 told:_IntellectualProperty_uploads_communities_a92e6_kha25_ne94_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Punkhang Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_846 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=71"^^xsd:anyURI ;
@@ -6144,6 +6484,7 @@ told:_IntellectualProperty_uploads_communities_a92e6_kha25_ne94_jpg
 told:_IntellectualProperty_uploads_communities_a9793_ca14_nepan_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sampho Manor house"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_845 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=157"^^xsd:anyURI ;
@@ -6152,12 +6493,14 @@ told:_IntellectualProperty_uploads_communities_a9793_ca14_nepan_01_jpg
 told:_IntellectualProperty_uploads_communities_a9fd9_zuun_khuree_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Riwo Gegye Ganden Shedrubling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1191 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_aa374_karma_migyur_ling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Migyur Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Fédération française des centres bouddhistes Karma Kagyu"@en ;
 	tolo:represents told:_Place_1506 ;
 	tolo:sourceUrl "https://www.karmapa.org/wp-content/uploads/Screenshot-2019-02-03-16.57.16.jpg"^^xsd:anyURI ;
@@ -6166,6 +6509,7 @@ told:_IntellectualProperty_uploads_communities_aa374_karma_migyur_ling_jpg
 told:_IntellectualProperty_uploads_communities_aac76_kagyu_gonsar_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Gonsar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Collection of Bruno Beger, Schaefer Expedition, Namgyel Institute of Tibetology, Gangtok. In Erschbamer 2014, p. 121. "@en ;
 	tolo:represents told:_Place_1549 ;
 	.
@@ -6173,18 +6517,21 @@ told:_IntellectualProperty_uploads_communities_aac76_kagyu_gonsar_png
 told:_IntellectualProperty_uploads_communities_ab814_dsc_0086_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelyul Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_14 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_abbot_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Abbots"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1098 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ac422_in_adzom_gar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Adzom Gar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Evgenia Yedutova"@en ;
 	tolo:represents told:_Place_43 ;
 	.
@@ -6192,18 +6539,21 @@ told:_IntellectualProperty_uploads_communities_ac422_in_adzom_gar_jpg
 told:_IntellectualProperty_uploads_communities_ac582_200817161414213_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tangring Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_339 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ac8fd_images_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kangtsa Ganden Chopel Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_437 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ac9a6_dashchoilin_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dashchoilin Khiid"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:credit "Avirmed Batsaikhan"@en ;
 	tolo:represents told:_Place_1679 ;
@@ -6213,12 +6563,14 @@ told:_IntellectualProperty_uploads_communities_ac9a6_dashchoilin_png
 told:_IntellectualProperty_uploads_communities_ad789_yeshe_nyingpo_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yeshe Nyingpo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1665 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_adad2_kandze_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kandze Shedrub Norbu Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-03-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Irina Garri"@en ;
 	tolo:represents told:_Place_1608 ;
@@ -6228,6 +6580,7 @@ told:_IntellectualProperty_uploads_communities_adad2_kandze_jpeg
 told:_IntellectualProperty_uploads_communities_ae10c_ripuk_ritro_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ripuk Hermitage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Published in Jamyang Khyentse Wangpo's Guide to Central Tibet"@en ;
 	tolo:credit "© Sikkim Lhayum Collection, Courtesy Matthew Akester"@en ;
 	tolo:represents told:_Place_657 ;
@@ -6236,6 +6589,7 @@ told:_IntellectualProperty_uploads_communities_ae10c_ripuk_ritro_jpg
 told:_IntellectualProperty_uploads_communities_aed4f_6853049_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sershul"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Xiaohua Xie (Panaramio)"@en ;
 	tolo:represents told:_Place_469 ;
 	tolo:sourceUrl "http://static.panoramio.com/photos/large/6853049.jpg"^^xsd:anyURI ;
@@ -6244,6 +6598,7 @@ told:_IntellectualProperty_uploads_communities_aed4f_6853049_jpg
 told:_IntellectualProperty_uploads_communities_af5b5_gesar_lhakhang_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gesar Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-NC-ND"@en ;
 	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Diana Lange"@en ;
@@ -6253,18 +6608,21 @@ told:_IntellectualProperty_uploads_communities_af5b5_gesar_lhakhang_jpeg
 told:_IntellectualProperty_uploads_communities_arhat2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Indian Masters"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1252 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_artist_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Artists"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1030 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b09c1_terdrom_nunnery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Terdrom"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Wikimedia: Antoine Taveneaux"@en ;
 	tolo:represents told:_Place_822 ;
 	tolo:sourceUrl "https://commons.wikimedia.org/wiki/File:Terdrom_Nunnery.jpg"^^xsd:anyURI ;
@@ -6273,12 +6631,14 @@ told:_IntellectualProperty_uploads_communities_b09c1_terdrom_nunnery_jpg
 told:_IntellectualProperty_uploads_communities_b13e7_la_phyi_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labchi"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1163 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b3310_tashi_cho_jong_or_tashichoedzong_1921_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tashichoedzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tashichoedzong in 1921. Earl of Ronaldshay - Lands of the Thunderbolt: Sikhim, Chumbi & Bhutan from opposite p. 243."@en ;
 	tolo:represents told:_Place_387 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/d/d7/Tashi-Cho-Jong_or_Tashichoedzong_1921.jpg"^^xsd:anyURI ;
@@ -6287,6 +6647,7 @@ told:_IntellectualProperty_uploads_communities_b3310_tashi_cho_jong_or_tashichoe
 told:_IntellectualProperty_uploads_communities_b3386_namdzong_tse_0717_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Achung Namdzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Gray Tuttle"@en ;
 	tolo:creationDate "2016-07-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gray Tuttle"@en ;
@@ -6296,6 +6657,7 @@ told:_IntellectualProperty_uploads_communities_b3386_namdzong_tse_0717_jpeg
 told:_IntellectualProperty_uploads_communities_b37e3_men_tsee_khang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Men-tsee-khang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Men-tsee-khang, Dharamsala"@en ;
 	tolo:represents told:_Place_1530 ;
 	.
@@ -6303,6 +6665,7 @@ told:_IntellectualProperty_uploads_communities_b37e3_men_tsee_khang_jpg
 told:_IntellectualProperty_uploads_communities_b3a1f_bouddha_toni_hagen_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Boudhanath"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Toni Hagen"@en ;
 	tolo:represents told:_Place_173 ;
 	.
@@ -6310,6 +6673,7 @@ told:_IntellectualProperty_uploads_communities_b3a1f_bouddha_toni_hagen_jpg
 told:_IntellectualProperty_uploads_communities_b3ab9_dr04_0732_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drepung Gomang Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Georges Dreyfus and THL"@en ;
 	tolo:represents told:_Place_342 ;
 	tolo:sourceUrl "http://texts.thlib.org/essays/d/dreyfus/dr04_0732.jpg"^^xsd:anyURI ;
@@ -6318,6 +6682,7 @@ told:_IntellectualProperty_uploads_communities_b3ab9_dr04_0732_jpg
 told:_IntellectualProperty_uploads_communities_b471a_taklung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taklung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1921-09-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Sir Charles Bell or Rabten Lepcha"@en ;
 	tolo:represents told:_Place_80 ;
@@ -6327,6 +6692,7 @@ told:_IntellectualProperty_uploads_communities_b471a_taklung_jpg
 told:_IntellectualProperty_uploads_communities_b52dc_karme_choling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karmê Chöling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2013-06-25T00:00:00"^^xsd:dateTime ;
 	tolo:credit "karmecholing"@en ;
@@ -6337,6 +6703,7 @@ told:_IntellectualProperty_uploads_communities_b52dc_karme_choling_jpg
 told:_IntellectualProperty_uploads_communities_b5564_cha76_ee96_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsepak Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_912 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=206&idx=318&lidx=347&"^^xsd:anyURI ;
@@ -6345,6 +6712,7 @@ told:_IntellectualProperty_uploads_communities_b5564_cha76_ee96_jpg
 told:_IntellectualProperty_uploads_communities_b5dba_tabka_stupa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tabka"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-12-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Ngawang Dorje"@en ;
 	tolo:represents told:_Place_1437 ;
@@ -6353,12 +6721,14 @@ told:_IntellectualProperty_uploads_communities_b5dba_tabka_stupa_jpg
 told:_IntellectualProperty_uploads_communities_b6039_14_13032q03919318_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gartar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_476 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b64c4_tibet_institute_rikon_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chokhor Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:credit "Roland Zh"@en ;
 	tolo:represents told:_Place_1476 ;
@@ -6368,6 +6738,7 @@ told:_IntellectualProperty_uploads_communities_b64c4_tibet_institute_rikon_jpg
 told:_IntellectualProperty_uploads_communities_b67df_labrang_medical_college_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Medical College"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2015-07-27T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -6377,6 +6748,7 @@ told:_IntellectualProperty_uploads_communities_b67df_labrang_medical_college_jpe
 told:_IntellectualProperty_uploads_communities_b6ae2_shangshungdorjeden_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhangzhung Dorjeden"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Matthew Akester"@en ;
 	tolo:creationDate "2007-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Matthew Akester"@en ;
@@ -6386,6 +6758,7 @@ told:_IntellectualProperty_uploads_communities_b6ae2_shangshungdorjeden_jpg
 told:_IntellectualProperty_uploads_communities_b76b0_namgyal_palace_in_stok_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stok Royal Palace"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2013-07-06T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Medovar"@en ;
@@ -6396,6 +6769,7 @@ told:_IntellectualProperty_uploads_communities_b76b0_namgyal_palace_in_stok_jpg
 told:_IntellectualProperty_uploads_communities_b7ff3_ra_shug_ritro_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rashuk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "jo nang ba'i gdan rabs mdor bsdus drang srong rgan po'i zhal lung"@en ;
 	tolo:represents told:_Place_205 ;
 	tolo:sourceUrl "http://purl.bdrc.io/resource/WA30408"^^xsd:anyURI ;
@@ -6404,12 +6778,14 @@ told:_IntellectualProperty_uploads_communities_b7ff3_ra_shug_ritro_png
 told:_IntellectualProperty_uploads_communities_b8275_takten_puntsok_choling_shimla_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Takten Puntsok Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1661 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b8b2c_jampabumling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jampa Bumling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Photo: University of Virginia"@en ;
 	tolo:represents told:_Place_815 ;
 	tolo:sourceUrl "http://mms.thlib.org/places/25107/pictures"^^xsd:anyURI ;
@@ -6418,12 +6794,14 @@ told:_IntellectualProperty_uploads_communities_b8b2c_jampabumling_jpg
 told:_IntellectualProperty_uploads_communities_b8cd5_screen_shot_2016_11_04_at_4_41_44_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kunga Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1194 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b9994_ganden_shedrub_pekar_ling_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ganden Shedrub Pekar Drolwai Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2015-07-02T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -6433,6 +6811,7 @@ told:_IntellectualProperty_uploads_communities_b9994_ganden_shedrub_pekar_ling_j
 told:_IntellectualProperty_uploads_communities_b9bac_image0_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pangpuk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC-SA"@en ;
 	tolo:credit "Catherine Brown"@en ;
 	tolo:represents told:_Place_1342 ;
@@ -6441,6 +6820,7 @@ told:_IntellectualProperty_uploads_communities_b9bac_image0_jpeg
 told:_IntellectualProperty_uploads_communities_ba90c_lhopa_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhopa Khamtsen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "John Newman (The Sera Project @THL by Jose Cabezon)"@en ;
 	tolo:represents told:_Place_1315 ;
 	tolo:sourceUrl "http://www.thlib.org/places/monasteries/sera/spaces/map/phpConx.php?idNum=s019"^^xsd:anyURI ;
@@ -6449,6 +6829,7 @@ told:_IntellectualProperty_uploads_communities_ba90c_lhopa_jpg
 told:_IntellectualProperty_uploads_communities_bb199_yilung_mtsho_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yilhung Lhatso"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Katia Buffetrille "@en ;
 	tolo:credit "Katia Buffetrille "@en ;
 	tolo:represents told:_Place_1344 ;
@@ -6457,6 +6838,7 @@ told:_IntellectualProperty_uploads_communities_bb199_yilung_mtsho_jpeg
 told:_IntellectualProperty_uploads_communities_bc927_dzongsho_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzongsho"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jamgon Kongtrul Labrang"@en ;
 	tolo:represents told:_Place_989 ;
 	tolo:sourceUrl "http://www.jamgonkongtrul.org/section.php?s1=2&s2=5"^^xsd:anyURI ;
@@ -6465,6 +6847,7 @@ told:_IntellectualProperty_uploads_communities_bc927_dzongsho_jpg
 told:_IntellectualProperty_uploads_communities_bc950_langtang_akester_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Langtang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Matthew Akester"@en ;
 	tolo:creationDate "2006-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Jamyang Khyentse Wangpo's Guide to Central Tibet"@en ;
@@ -6474,6 +6857,7 @@ told:_IntellectualProperty_uploads_communities_bc950_langtang_akester_jpg
 told:_IntellectualProperty_uploads_communities_bcab8_cha40_se94_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shide Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_900 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=199&idx=262&lidx=347&"^^xsd:anyURI ;
@@ -6482,6 +6866,7 @@ told:_IntellectualProperty_uploads_communities_bcab8_cha40_se94_jpg
 told:_IntellectualProperty_uploads_communities_bd18a_kyi_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Key"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2018-07-19T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Pranav perspective"@en ;
@@ -6492,6 +6877,7 @@ told:_IntellectualProperty_uploads_communities_bd18a_kyi_monastery_jpg
 told:_IntellectualProperty_uploads_communities_bdc9c_hanle1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hanle"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Sanjiv Gorka"@en ;
 	tolo:represents told:_Place_233 ;
 	tolo:sourceUrl "http://www.skyscrapercity.com/showthread.php?t=638698&page=34"^^xsd:anyURI ;
@@ -6500,12 +6886,14 @@ told:_IntellectualProperty_uploads_communities_bdc9c_hanle1_jpg
 told:_IntellectualProperty_uploads_communities_bde56_2007102311413423522_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngawa Gomang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_368 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_be3da_trijanglabrang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trijang Labrang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_882 ;
 	.
@@ -6513,6 +6901,7 @@ told:_IntellectualProperty_uploads_communities_be3da_trijanglabrang_jpg
 told:_IntellectualProperty_uploads_communities_bef92_cta_parliament_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Central Tibetan Administration"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2018-05-17T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Bernard Gagnon"@en ;
@@ -6523,12 +6912,14 @@ told:_IntellectualProperty_uploads_communities_bef92_cta_parliament_jpg
 told:_IntellectualProperty_uploads_communities_c0399_screen_shot_2016_03_15_at_1_49_43_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Māratika"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1073 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c0a41_tharlam_boudha_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tharlam"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2015-10-27T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Christopher J. Fynn"@en ;
@@ -6539,6 +6930,7 @@ told:_IntellectualProperty_uploads_communities_c0a41_tharlam_boudha_jpg
 told:_IntellectualProperty_uploads_communities_c0f66_sakya_monastery_81872_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sakya Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_603 ;
 	tolo:sourceUrl "http://www.himalayanart.org/items/81872"^^xsd:anyURI ;
 	.
@@ -6546,6 +6938,7 @@ told:_IntellectualProperty_uploads_communities_c0f66_sakya_monastery_81872_jpg
 told:_IntellectualProperty_uploads_communities_c17a1_lo_gekar_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lo Gekar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2015-10-05T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Gerd Eichmann"@en ;
 	tolo:represents told:_Place_1593 ;
@@ -6554,6 +6947,7 @@ told:_IntellectualProperty_uploads_communities_c17a1_lo_gekar_jpeg
 told:_IntellectualProperty_uploads_communities_c18c6_1ade1_monastery_tibet_best_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zurmang Namgyeltse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_702 ;
 	tolo:sourceUrl "http://zurmangkagyu.org/zurmang-monastery-tibet/"^^xsd:anyURI ;
 	.
@@ -6561,6 +6955,7 @@ told:_IntellectualProperty_uploads_communities_c18c6_1ade1_monastery_tibet_best_
 told:_IntellectualProperty_uploads_communities_c2595_ganden_tritok_khang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ganden Tritok Khang (India)"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Office of His Holiness the Dalai Lama"@en ;
 	tolo:represents told:_Place_1474 ;
 	.
@@ -6568,18 +6963,21 @@ told:_IntellectualProperty_uploads_communities_c2595_ganden_tritok_khang_jpg
 told:_IntellectualProperty_uploads_communities_c2992_nartang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nartang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_62 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c2e9a_ea_20121012214221_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jang Tana "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_158 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c30ba_daktok_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Daktok"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2010-08-26T00:00:00"^^xsd:dateTime ;
 	tolo:credit "John Hill"@en ;
@@ -6590,6 +6988,7 @@ told:_IntellectualProperty_uploads_communities_c30ba_daktok_jpg
 told:_IntellectualProperty_uploads_communities_c33f3_1314687_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gorina Kunang Osel Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "JOHN CLAUDE WHITE/National Geographic Creative "@en ;
 	tolo:represents told:_Place_392 ;
 	tolo:sourceUrl "http://www.natgeocreative.com/photography/1314687"^^xsd:anyURI ;
@@ -6598,12 +6997,14 @@ told:_IntellectualProperty_uploads_communities_c33f3_1314687_1_jpg
 told:_IntellectualProperty_uploads_communities_c344d_karma_gon_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_215 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c36e9_samye_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Samye"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ernst Krause. Tibet Expedition, 1938. From the German Federal Archives."@en ;
 	tolo:represents told:_Place_165 ;
 	tolo:sourceUrl "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_135-KA-09-058%2C_Tibetexpedition%2C_Blick_auf_Kloster_Samye.jpg"^^xsd:anyURI ;
@@ -6612,6 +7013,7 @@ told:_IntellectualProperty_uploads_communities_c36e9_samye_jpg
 told:_IntellectualProperty_uploads_communities_c3c33_ladrang_gon_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhadrang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2023-06-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Varvara Chatzisavva"@en ;
 	tolo:represents told:_Place_1339 ;
@@ -6620,6 +7022,7 @@ told:_IntellectualProperty_uploads_communities_c3c33_ladrang_gon_jpg
 told:_IntellectualProperty_uploads_communities_c462a_benchen_kathmandu_gif
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Benchen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Benchen Monastery"@en ;
 	tolo:represents told:_Place_1542 ;
 	tolo:sourceUrl "https://www.benchen.org/"^^xsd:anyURI ;
@@ -6628,6 +7031,7 @@ told:_IntellectualProperty_uploads_communities_c462a_benchen_kathmandu_gif
 told:_IntellectualProperty_uploads_communities_c491b_cha50_cyse_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsemonling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_724 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showresource.php?type=photo&id=103"^^xsd:anyURI ;
@@ -6636,24 +7040,28 @@ told:_IntellectualProperty_uploads_communities_c491b_cha50_cyse_01_jpg
 told:_IntellectualProperty_uploads_communities_c4ae9_screen_shot_2014_05_29_at_2_49_28_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhagang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_127 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c4b17_thus_logo_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tibet House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1690 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c5ad3_w020110119359010499579_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chokhor Gyel"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_466 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c6380_taktsang_lhamo_kirti_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taktsang Lhamo Kīrti"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© Anna Sehnalova"@en ;
 	tolo:creationDate "2015-07-02T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -6663,6 +7071,7 @@ told:_IntellectualProperty_uploads_communities_c6380_taktsang_lhamo_kirti_jpeg
 told:_IntellectualProperty_uploads_communities_c6448_1280px_norbulingka_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Norbulingkha"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY"@en ;
 	tolo:creationDate "2006-05-23T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Ondřej Žváček"@en ;
@@ -6673,6 +7082,7 @@ told:_IntellectualProperty_uploads_communities_c6448_1280px_norbulingka_jpg
 told:_IntellectualProperty_uploads_communities_c65b5_screen_shot_2017_06_20_at_7_17_45_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tachogang Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1162 ;
 	tolo:sourceUrl "http://www.ktktours.com.tw/view.php?pid=52"^^xsd:anyURI ;
 	.
@@ -6680,6 +7090,7 @@ told:_IntellectualProperty_uploads_communities_c65b5_screen_shot_2017_06_20_at_7
 told:_IntellectualProperty_uploads_communities_c6eef_ivolginsky_datsan_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ivolginsky Datsan"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 4.0"@en ;
 	tolo:creationDate "2017-07-05T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Oleg Bor"@en ;
@@ -6690,12 +7101,14 @@ told:_IntellectualProperty_uploads_communities_c6eef_ivolginsky_datsan_jpg
 told:_IntellectualProperty_uploads_communities_c71fb_0_37205_groupinfo_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lungkar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_243 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c7447_cc200907051056466411_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pabongkha Hermitage "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jose Cabezon"@en ;
 	tolo:represents told:_Place_423 ;
 	.
@@ -6703,24 +7116,28 @@ told:_IntellectualProperty_uploads_communities_c7447_cc200907051056466411_jpg
 told:_IntellectualProperty_uploads_communities_c7c29_kailash_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kailash"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1084 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c7ffa_1034_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Incarnations"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1064 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c87c3_tharlam_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tarlam"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_178 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c97f3_tokden_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tokden Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license " © Anna Sehnalova"@en ;
 	tolo:creationDate "2016-02-25T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Anna Sehnalova"@en ;
@@ -6730,6 +7147,7 @@ told:_IntellectualProperty_uploads_communities_c97f3_tokden_jpeg
 told:_IntellectualProperty_uploads_communities_c980d_front_view_of_pemayangtse_monastery_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pemayangtse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY 2.0"@en ;
 	tolo:credit "Walter Callens, Wikimedia Commons."@en ;
 	tolo:represents told:_Place_1353 ;
@@ -6739,6 +7157,7 @@ told:_IntellectualProperty_uploads_communities_c980d_front_view_of_pemayangtse_m
 told:_IntellectualProperty_uploads_communities_c9bb8_screen_shot_2018_01_24_at_5_40_51_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lo Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1294 ;
 	tolo:sourceUrl "http://you.ctrip.com/photos/sight/daocheng342/r43887-11606231.html"^^xsd:anyURI ;
 	.
@@ -6746,6 +7165,7 @@ told:_IntellectualProperty_uploads_communities_c9bb8_screen_shot_2018_01_24_at_5
 told:_IntellectualProperty_uploads_communities_cac96_shol_lekhung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shol Office"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_890 ;
 	.
@@ -6753,6 +7173,7 @@ told:_IntellectualProperty_uploads_communities_cac96_shol_lekhung_jpg
 told:_IntellectualProperty_uploads_communities_cb3b0_1238008_667994686546363_832417623_n_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tongkyab"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_490 ;
 	tolo:sourceUrl "http://sphotos-b.xx.fbcdn.net/hphotos-ash4/q71/1238008_667994686546363_832417623_n.jpg"^^xsd:anyURI ;
 	.
@@ -6760,6 +7181,7 @@ told:_IntellectualProperty_uploads_communities_cb3b0_1238008_667994686546363_832
 told:_IntellectualProperty_uploads_communities_cc02f_birla_house_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Birla House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "hhshribholanathjimemories.blogspot.com"@en ;
 	tolo:represents told:_Place_1470 ;
 	tolo:sourceUrl "http://hhshribholanathjimemories.blogspot.com/2012/10/residence-of-shri-bd-meattle.html"^^xsd:anyURI ;
@@ -6768,18 +7190,21 @@ told:_IntellectualProperty_uploads_communities_cc02f_birla_house_jpg
 told:_IntellectualProperty_uploads_communities_cc123_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngamring Chode "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_333 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_cc8c4_3_121010142a42k_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Riwo Dechen"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_334 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_cd17f_ragya_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ragya Ganden Tashi Jungne"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_468 ;
 	tolo:sourceUrl "http://www.josephrock.net/2006_01_01_archive.html"^^xsd:anyURI ;
 	.
@@ -6787,12 +7212,14 @@ told:_IntellectualProperty_uploads_communities_cd17f_ragya_jpg
 told:_IntellectualProperty_uploads_communities_cdc2b_screen_shot_2016_04_14_at_2_05_28_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khyage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1091 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ce5c0_shadrang_2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shadrang "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Kalsang Nyima"@en ;
 	tolo:represents told:_Place_1248 ;
 	.
@@ -6800,6 +7227,7 @@ told:_IntellectualProperty_uploads_communities_ce5c0_shadrang_2_jpg
 told:_IntellectualProperty_uploads_communities_cf486_drepung1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drepung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Harry Staunton. The Tibet Album. 'Drepung monastery from a distance' 05 Dec. 2006. The Pitt Rivers Museum."@en ;
 	tolo:represents told:_Place_38 ;
 	tolo:sourceUrl "http://tibet.prm.ox.ac.uk/photo_1999.23.1.17.1.html"^^xsd:anyURI ;
@@ -6808,12 +7236,14 @@ told:_IntellectualProperty_uploads_communities_cf486_drepung1_jpg
 told:_IntellectualProperty_uploads_communities_d03e2_200711141563885957_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tongkhor Tashilhunpo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_411 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d0e3c_sera_utse_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Utse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit " José Ignacio Cabezón"@en ;
 	tolo:represents told:_Place_322 ;
 	tolo:sourceUrl "http://texts.thlib.org/essays/c/cabezon/sera-utse-1.jpg"^^xsd:anyURI ;
@@ -6822,12 +7252,14 @@ told:_IntellectualProperty_uploads_communities_d0e3c_sera_utse_1_jpg
 told:_IntellectualProperty_uploads_communities_d0f82_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Powo Tramo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1652 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d2404_1024px_1_seda_facing_south_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Larung Gar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Chensiyuan, Wikimedia Commons"@en ;
 	tolo:represents told:_Place_527 ;
 	tolo:sourceUrl "https://commons.wikimedia.org/wiki/File%3A1_Seda_facing_south.jpg"^^xsd:anyURI ;
@@ -6836,18 +7268,21 @@ told:_IntellectualProperty_uploads_communities_d2404_1024px_1_seda_facing_south_
 told:_IntellectualProperty_uploads_communities_d2d3e_pelkhor_chode_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelkhor Chode"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_102 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d2e22_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shukseb"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_85 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d30a2_drakkar_taso_gchilds_2000_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakkar Taso"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2000-07-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "© Professor Geoff Childs"@en ;
 	tolo:represents told:_Place_1232 ;
@@ -6856,12 +7291,14 @@ told:_IntellectualProperty_uploads_communities_d30a2_drakkar_taso_gchilds_2000_j
 told:_IntellectualProperty_uploads_communities_d3591_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ke Mingyur Dorje Drak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1704 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d3f53_chonggye_pelri_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelri Tekchen Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Courtesy of Matthew Akester"@en ;
 	tolo:credit "Sikkim Lhayum Collection"@en ;
 	tolo:represents told:_Place_253 ;
@@ -6870,24 +7307,28 @@ told:_IntellectualProperty_uploads_communities_d3f53_chonggye_pelri_jpg
 told:_IntellectualProperty_uploads_communities_d4c5d_screen_shot_2016_07_22_at_10_13_01_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Wutai Shan"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1140 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d4d3a_screen_shot_2014_06_03_at_12_11_41_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelme Tekchen Evam Gatsel Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_247 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d55c0_derge_tashi_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsashul"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_955 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d55e4_dhagpo_kagyu_ling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dhagpo Kagyu Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Dhagpo.org"@en ;
 	tolo:represents told:_Place_1507 ;
 	.
@@ -6895,6 +7336,7 @@ told:_IntellectualProperty_uploads_communities_d55e4_dhagpo_kagyu_ling_jpg
 told:_IntellectualProperty_uploads_communities_d58d0_segyu_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Segyu Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Segyu Gaden Phodrang Monastery"@en ;
 	tolo:represents told:_Place_573 ;
 	tolo:sourceUrl "http://segyugadenphodrang.org/wordpress/wp-content/uploads/2012/05/monastery_1.jpg"^^xsd:anyURI ;
@@ -6903,6 +7345,7 @@ told:_IntellectualProperty_uploads_communities_d58d0_segyu_jpg
 told:_IntellectualProperty_uploads_communities_d647f_bardan_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bardan"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tenzin Nyandak"@en ;
 	tolo:represents told:_Place_1588 ;
 	.
@@ -6910,6 +7353,7 @@ told:_IntellectualProperty_uploads_communities_d647f_bardan_jpg
 told:_IntellectualProperty_uploads_communities_d65b9_phugtal_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Phuktal"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "hamon jp"@en ;
@@ -6920,6 +7364,7 @@ told:_IntellectualProperty_uploads_communities_d65b9_phugtal_jpg
 told:_IntellectualProperty_uploads_communities_d66c0_sera_tantric_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Ngakpa Dratsang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "José Ignacio Cabezón"@en ;
 	tolo:represents told:_Place_907 ;
 	.
@@ -6927,12 +7372,14 @@ told:_IntellectualProperty_uploads_communities_d66c0_sera_tantric_jpg
 told:_IntellectualProperty_uploads_communities_d67e8_drongtse_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drongtse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_838 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d6f6b_exterior_view_of_the_mahabodhi_temple_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bodhgaya"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jakub Michankow, Wikimedia Commons"@en ;
 	tolo:represents told:_Place_1158 ;
 	tolo:sourceUrl "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_Mahabodhi_Temple.jpg"^^xsd:anyURI ;
@@ -6941,12 +7388,14 @@ told:_IntellectualProperty_uploads_communities_d6f6b_exterior_view_of_the_mahabo
 told:_IntellectualProperty_uploads_communities_d750b_jpg_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhalung Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_529 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d75ef_choding_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera Choding"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "José Ignacio Cabezón"@en ;
 	tolo:represents told:_Place_572 ;
 	tolo:sourceUrl "http://texts.thlib.org/essays/c/cabezon/choding-1.jpg"^^xsd:anyURI ;
@@ -6955,18 +7404,21 @@ told:_IntellectualProperty_uploads_communities_d75ef_choding_1_jpg
 told:_IntellectualProperty_uploads_communities_d787b_gadong_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gadong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_823 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d79a8_screen_shot_2016_08_09_at_12_08_01_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chorten Tang Tashi Dargye Ling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_441 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d7a65_labsum_shedrub_ling_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labsum Shedrub Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibetan Buddhist Learning Center"@en ;
 	tolo:represents told:_Place_1479 ;
 	tolo:sourceUrl "http://labsum.com/"^^xsd:anyURI ;
@@ -6975,12 +7427,14 @@ told:_IntellectualProperty_uploads_communities_d7a65_labsum_shedrub_ling_png
 told:_IntellectualProperty_uploads_communities_d815c_screen_shot_2017_06_13_at_1_50_59_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhamo Latso"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1221 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_d81d7_dzogchen_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzogchen Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "http://www.dzogchenmonastery.cn/"@en ;
 	tolo:represents told:_Place_12 ;
 	.
@@ -6988,6 +7442,7 @@ told:_IntellectualProperty_uploads_communities_d81d7_dzogchen_jpg
 told:_IntellectualProperty_uploads_communities_d8bd1_taklunggandendamcholing_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taklung Ganden Damcho Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC 4.0"@en ;
 	tolo:creationDate "2017-05-28T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Hanung Kim"@en ;
@@ -6997,6 +7452,7 @@ told:_IntellectualProperty_uploads_communities_d8bd1_taklunggandendamcholing_jpe
 told:_IntellectualProperty_uploads_communities_d9701_benchen_gompa_1998_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ga Benchen Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Ron Greenberg"@en ;
 	tolo:represents told:_Place_1187 ;
 	.
@@ -7004,6 +7460,7 @@ told:_IntellectualProperty_uploads_communities_d9701_benchen_gompa_1998_jpg
 told:_IntellectualProperty_uploads_communities_da450_jakhyung_2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jakhyung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Jose Cabezon"@en ;
 	tolo:represents told:_Place_358 ;
 	.
@@ -7011,6 +7468,7 @@ told:_IntellectualProperty_uploads_communities_da450_jakhyung_2_jpg
 told:_IntellectualProperty_uploads_communities_db30a_ga27_ne_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Darpoling Tsenkhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_911 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=76"^^xsd:anyURI ;
@@ -7019,6 +7477,7 @@ told:_IntellectualProperty_uploads_communities_db30a_ga27_ne_01_jpg
 told:_IntellectualProperty_uploads_communities_db3b4_fort_bihar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Odantapuri"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "Public Domain"@en ;
 	tolo:creationDate "1875-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Beglar, Joseph David"@en ;
@@ -7029,18 +7488,21 @@ told:_IntellectualProperty_uploads_communities_db3b4_fort_bihar_jpg
 told:_IntellectualProperty_uploads_communities_dc275_image_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhakdra Lhatse"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1697 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_dc9df_kunzang_dechen_dzong_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kunzang Dechen Osel Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1453 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_dcb99_papyuk_2010_m_erschbamer_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Papyuk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "2167-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Marlene Erschbamer"@en ;
 	tolo:represents told:_Place_1696 ;
@@ -7049,18 +7511,21 @@ told:_IntellectualProperty_uploads_communities_dcb99_papyuk_2010_m_erschbamer_jp
 told:_IntellectualProperty_uploads_communities_de053_nyenmo_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pel Nyenmo Ri Namgyel"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_455 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_de499_screen_shot_2019_02_15_at_2_56_18_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Martsang Drak Gon"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_533 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_df193_doling_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Doling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Courtesy of Govt. of Sikkim"@en ;
 	tolo:represents told:_Place_1528 ;
 	tolo:sourceUrl "http://www.sikkimeccl.gov.in/History/Monasteries/South/DolingGonpa.aspx"^^xsd:anyURI ;
@@ -7069,6 +7534,7 @@ told:_IntellectualProperty_uploads_communities_df193_doling_jpg
 told:_IntellectualProperty_uploads_communities_df9e8_spituk_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Spituk"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 3.0"@en ;
 	tolo:creationDate "2009-12-04T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Redtigerxyz"@en ;
@@ -7078,6 +7544,7 @@ told:_IntellectualProperty_uploads_communities_df9e8_spituk_jpg
 told:_IntellectualProperty_uploads_communities_e274d_kyilung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mahā Kyilung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "thub bstan 2008."@en ;
 	tolo:represents told:_Place_1431 ;
 	.
@@ -7085,6 +7552,7 @@ told:_IntellectualProperty_uploads_communities_e274d_kyilung_jpg
 told:_IntellectualProperty_uploads_communities_e2ccb_dratang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dratang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Himalayan Art Resource"@en ;
 	tolo:represents told:_Place_52 ;
 	tolo:sourceUrl "http://www.himalayanart.org/image.cfm/55601.html"^^xsd:anyURI ;
@@ -7093,6 +7561,7 @@ told:_IntellectualProperty_uploads_communities_e2ccb_dratang_jpg
 told:_IntellectualProperty_uploads_communities_e31ef_tsang_chumik_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chumik"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "© MatthewAkester"@en ;
 	tolo:creationDate "1994-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Jamyang Khyentse Wangpo's Guide to Central Tibet. Chicago, IL: Serindia Publications"@en ;
@@ -7102,12 +7571,14 @@ told:_IntellectualProperty_uploads_communities_e31ef_tsang_chumik_jpg
 told:_IntellectualProperty_uploads_communities_e4628_jpg_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chekar Chode"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_198 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e4912_phyang_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Phyang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "SS Barakzai"@en ;
 	tolo:represents told:_Place_701 ;
 	.
@@ -7115,12 +7586,14 @@ told:_IntellectualProperty_uploads_communities_e4912_phyang_jpg
 told:_IntellectualProperty_uploads_communities_e496c_unknown_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gegong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_444 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e4b6f_vajrapani_institute_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Vajrapani Institute"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "vajrapani.org"@en ;
 	tolo:represents told:_Place_1670 ;
 	.
@@ -7128,18 +7601,21 @@ told:_IntellectualProperty_uploads_communities_e4b6f_vajrapani_institute_jpeg
 told:_IntellectualProperty_uploads_communities_e4c48_pelbar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pelbar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_814 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e57f2_screen_shot_2014_06_03_at_11_42_57_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Patsang Gon Yungdrung Rabten Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_241 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e5b6e_z36_ee_01o_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Armory"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_887 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=310"^^xsd:anyURI ;
@@ -7148,6 +7624,7 @@ told:_IntellectualProperty_uploads_communities_e5b6e_z36_ee_01o_jpg
 told:_IntellectualProperty_uploads_communities_e5bc7_tanak_tubten_namgyal_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tanak Tubten Namgyel "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license " © Matthew Akester"@en ;
 	tolo:creationDate "2166-06-30T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Matthew Akester"@en ;
@@ -7157,6 +7634,7 @@ told:_IntellectualProperty_uploads_communities_e5bc7_tanak_tubten_namgyal_jpg
 told:_IntellectualProperty_uploads_communities_e5c7b_drakri_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakri Hermitage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_841 ;
 	tolo:sourceUrl "http://www.thlib.org/#!essay=/cabezon/sera/herm/drakri"^^xsd:anyURI ;
 	.
@@ -7164,6 +7642,7 @@ told:_IntellectualProperty_uploads_communities_e5c7b_drakri_1_jpg
 told:_IntellectualProperty_uploads_communities_e639c_paritashicholing_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pari Tashi Choling "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-NC 4.0"@en ;
 	tolo:creationDate "2017-05-19T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Hanung Kim"@en ;
@@ -7173,12 +7652,14 @@ told:_IntellectualProperty_uploads_communities_e639c_paritashicholing_jpeg
 told:_IntellectualProperty_uploads_communities_e650c_drakyerpa_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drak Yerpa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_862 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e750c_shukchung_gon_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shukjung Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Matteo Pistono"@en ;
 	tolo:represents told:_Place_1320 ;
 	tolo:sourceUrl "https://www.rigpawiki.org/images/5/55/Shukchung_monastery.jpg"^^xsd:anyURI ;
@@ -7187,6 +7668,7 @@ told:_IntellectualProperty_uploads_communities_e750c_shukchung_gon_jpg
 told:_IntellectualProperty_uploads_communities_e795d_buddhistisk_center_kobenhavn_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Buddhistisk Center Kobenhavn"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Buddhistisk Center København"@en ;
 	tolo:represents told:_Place_1508 ;
 	tolo:sourceUrl "http://kbh.buddha.dk"^^xsd:anyURI ;
@@ -7195,24 +7677,28 @@ told:_IntellectualProperty_uploads_communities_e795d_buddhistisk_center_kobenhav
 told:_IntellectualProperty_uploads_communities_e7ea5_screen_shot_2014_05_30_at_9_57_10_am_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Longtang Drolma Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_181 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e9d7a_img_20140623_173530_1024x768_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Batang Chode"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_810 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_e9f99_boragon_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bora"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_979 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ea507_old_ralong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ralong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Government of Sikkim"@en ;
 	tolo:represents told:_Place_1529 ;
 	tolo:sourceUrl "http://www.sikkimeccl.gov.in/History/Monasteries/South/RalongGonpa.aspx"^^xsd:anyURI ;
@@ -7221,6 +7707,7 @@ told:_IntellectualProperty_uploads_communities_ea507_old_ralong_jpg
 told:_IntellectualProperty_uploads_communities_ea93e_wangduphodrangdzong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Wangdue Phodrang Dzong "@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "William L. Devanney, May 2002."@en ;
 	tolo:represents told:_Place_376 ;
 	tolo:sourceUrl "http://en.wikipedia.org/wiki/Wangdue_Phodrang#mediaviewer/File:Wangdue_Phodrang_Dzong.jpg"^^xsd:anyURI ;
@@ -7229,6 +7716,7 @@ told:_IntellectualProperty_uploads_communities_ea93e_wangduphodrangdzong_jpg
 told:_IntellectualProperty_uploads_communities_ea95e_ca8_pan_95_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shatra"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_902 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=156"^^xsd:anyURI ;
@@ -7237,18 +7725,21 @@ told:_IntellectualProperty_uploads_communities_ea95e_ca8_pan_95_jpg
 told:_IntellectualProperty_uploads_communities_eadf2_drampagyang_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drampagyang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1122 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_eb0a3_6597719578029994365_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Terlung Yiga Chodzin Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_479 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_eb40e_tawang_monastery_tibetan_buddhist_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tawang Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Vikramjit Kakati"@en ;
 	tolo:represents told:_Place_1287 ;
 	tolo:sourceUrl "https://commons.wikimedia.org/wiki/File:Tawang_Monastery_(Tibetan_Buddhist).jpg"^^xsd:anyURI ;
@@ -7257,6 +7748,7 @@ told:_IntellectualProperty_uploads_communities_eb40e_tawang_monastery_tibetan_bu
 told:_IntellectualProperty_uploads_communities_eb640_bundesarchiv_nedong_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nedong Tsetsokpa"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-SA 3.0"@en ;
 	tolo:credit "E. Schäfer, Bundesarchiv"@en ;
 	tolo:represents told:_Place_1196 ;
@@ -7266,6 +7758,7 @@ told:_IntellectualProperty_uploads_communities_eb640_bundesarchiv_nedong_jpg
 told:_IntellectualProperty_uploads_communities_eb934_img_7193_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ringu Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC-BY-NC-ND"@en ;
 	tolo:creationDate "2015-07-14T00:00:00"^^xsd:dateTime ;
 	tolo:credit "Karma"@en ;
@@ -7275,6 +7768,7 @@ told:_IntellectualProperty_uploads_communities_eb934_img_7193_jpg
 told:_IntellectualProperty_uploads_communities_ec737_yarlung_sheldrag_gchilds_1985_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yarlung Sheldrak"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:creationDate "1985-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:credit "© Professor Geoff Childs"@en ;
 	tolo:represents told:_Place_1184 ;
@@ -7283,6 +7777,7 @@ told:_IntellectualProperty_uploads_communities_ec737_yarlung_sheldrag_gchilds_19
 told:_IntellectualProperty_uploads_communities_ecbe7_1280px_tibet___tsurpu_monastery_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsurpu Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "McKay Savage"@en ;
 	tolo:represents told:_Place_95 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tibet_-_Tsurpu_Monastery_1.jpg/1280px-Tibet_-_Tsurpu_Monastery_1.jpg"^^xsd:anyURI ;
@@ -7291,6 +7786,7 @@ told:_IntellectualProperty_uploads_communities_ecbe7_1280px_tibet___tsurpu_monas
 told:_IntellectualProperty_uploads_communities_ee618_jf_choje_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Choje Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_209 ;
 	tolo:sourceUrl "http://www.jonangfoundation.org/sites/choje-monastery"^^xsd:anyURI ;
 	.
@@ -7298,6 +7794,7 @@ told:_IntellectualProperty_uploads_communities_ee618_jf_choje_1_jpg
 told:_IntellectualProperty_uploads_communities_eeb03_ketsang_west_2_cropped_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Keutsang West Hermitage"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Hugh Richardson"@en ;
 	tolo:represents told:_Place_860 ;
 	.
@@ -7305,12 +7802,14 @@ told:_IntellectualProperty_uploads_communities_eeb03_ketsang_west_2_cropped_jpg
 told:_IntellectualProperty_uploads_communities_ef128_riwocholing_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Riwo Choling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_914 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ef2cf_kilung_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kilung"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "© Kilung Foundation"@en ;
 	tolo:represents told:_Place_1380 ;
 	tolo:sourceUrl "https://www.kilung.org/the-story-of-kilung-monastery/"^^xsd:anyURI ;
@@ -7319,18 +7818,21 @@ told:_IntellectualProperty_uploads_communities_ef2cf_kilung_jpg
 told:_IntellectualProperty_uploads_communities_ef47e_nalendra_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nalendra Monastery"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_128 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ef9de_urga_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ikh Khuree"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_947 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_efb8e_screen_shot_2018_10_26_at_2_37_48_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyarongsha School"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_1327 ;
 	.
@@ -7338,6 +7840,7 @@ told:_IntellectualProperty_uploads_communities_efb8e_screen_shot_2018_10_26_at_2
 told:_IntellectualProperty_uploads_communities_f016e_lukhang_bridge_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lukhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	gist:license "CC BY-SA 2.0"@en ;
 	tolo:credit "Wikimedia"@en ;
 	tolo:represents told:_Place_878 ;
@@ -7347,12 +7850,14 @@ told:_IntellectualProperty_uploads_communities_f016e_lukhang_bridge_jpg
 told:_IntellectualProperty_uploads_communities_f0b55_sakya_monastery_jpeg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sakya Monastery, Seattle"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1572 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_f20f6_chobar_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chobar"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Julia Stenzel"@en ;
 	tolo:represents told:_Place_1653 ;
 	.
@@ -7360,12 +7865,14 @@ told:_IntellectualProperty_uploads_communities_f20f6_chobar_jpg
 told:_IntellectualProperty_uploads_communities_f23c8_101473413_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chatreng Sampel Ling"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_809 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_f2905_photo_9_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sadutshang Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Wisdom Publications"@en ;
 	tolo:represents told:_Place_1092 ;
 	.
@@ -7373,6 +7880,7 @@ told:_IntellectualProperty_uploads_communities_f2905_photo_9_jpg
 told:_IntellectualProperty_uploads_communities_f33ea_nya8_se_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tethong Manor House"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_851 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=276"^^xsd:anyURI ;
@@ -7381,6 +7889,7 @@ told:_IntellectualProperty_uploads_communities_f33ea_nya8_se_01_jpg
 told:_IntellectualProperty_uploads_communities_f362c_dzong_in_trongsa2_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Trongsa Dzong"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Thomas Wanhoff"@en ;
 	tolo:represents told:_Place_406 ;
 	tolo:sourceUrl "http://upload.wikimedia.org/wikipedia/commons/6/69/Dzong_in_Trongsa2.jpg"^^xsd:anyURI ;
@@ -7389,6 +7898,7 @@ told:_IntellectualProperty_uploads_communities_f362c_dzong_in_trongsa2_jpg
 told:_IntellectualProperty_uploads_communities_f3630_ga38_we_01_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pabongkha Labrang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_717 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/old_web/database/php/showbuilding.php?id=86"^^xsd:anyURI ;
@@ -7397,6 +7907,7 @@ told:_IntellectualProperty_uploads_communities_f3630_ga38_we_01_jpg
 told:_IntellectualProperty_uploads_communities_f3bf2_screen_shot_2016_05_10_at_1_04_48_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lotsawa Lhakhang"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:credit "Tibet Heritage Fund"@en ;
 	tolo:represents told:_Place_1101 ;
 	tolo:sourceUrl "http://www.tibetheritagefund.org/pages/projects/ladakh.php"^^xsd:anyURI ;
@@ -7405,66 +7916,77 @@ told:_IntellectualProperty_uploads_communities_f3bf2_screen_shot_2016_05_10_at_1
 told:_IntellectualProperty_uploads_communities_f41a1_800px_tabo_gompa__spiti_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tabo"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_719 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_lhagyaritsetenchodzom_1_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Women"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1060 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_military_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Military"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1116 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_peacock_feather_1014_jpg
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhasa Aristocracy"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_689 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_screen_shot_2015_02_24_at_12_31_24_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Royalty"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_692 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_screen_shot_2015_02_24_at_1_28_50_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Government Officers"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_694 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_screen_shot_2015_02_25_at_12_33_24_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Monastic Administrators"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_803 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_screen_shot_2016_01_12_at_12_23_48_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Doctors"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1032 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_screen_shot_2022_07_05_at_3_30_57_pm_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rulers of Derge"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_693 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_tertons_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Treasure Revealers"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1035 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_translator_png
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Translators"@en ;
+	gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
 	tolo:represents told:_Place_1031 ;
 	.
 

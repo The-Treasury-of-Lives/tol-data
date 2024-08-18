@@ -41,7 +41,8 @@ CONSTRUCT {
         skos:prefLabel ?image_label_en ;
         # Using tolo:represents rather than gist:isAbout to harmonize with other visual art, such as sculptures, that are not content.
         tolo:represents ?person_iri ;
-        gist:isCategorizedBy ?rank_iri ;
+        gist:isCategorizedBy ?rank_iri ,
+            tolx:_GeneralMediaType_painting ;
         rdfs:seeAlso ?har_url ;
         tolo:credit ?credit_en ;
         tolo:caption ?caption_en ;
