@@ -32,14 +32,19 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_iri
-        a tolo:Image ;
+        a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
-        gist:isAbout ?place_iri ;
+        tolo:represents ?place_iri ;
         tolo:credit ?credit_en ;
-        tolo:filePath ?image_path ;
-        gist:license ?license_en ;
+        gist:license ?license_en ;      
         tolo:sourceUrl ?source_url ;
         tolo:creationDate ?creation_date ;
+        .
+
+    ?file_iri 
+        a tolo:DigitalContent ;
+        tolo:filePath ?image_path ;
+        tolo:represents ?image_iri ;
         gist:isCategorizedBy ?media_type_iri ;
         .
 
@@ -50,18 +55,24 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?community_id)) AS ?image_iri)
+    BIND(LCASE(REPLACE(REPLACE(?image_path, "\\..+$", ""), "/uploads/communities/", "")) AS ?filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+
+    # Using IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
     BIND(STRLANG(?community_name, "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
     BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
 
-    BIND(IF(?image_license != "NULL", STRLANG(?image_license, "en"), ?unbound) AS ?license_en)
+    BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license_en)
 
     BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
+
+
 
     BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(

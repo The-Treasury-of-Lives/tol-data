@@ -18,60 +18,57 @@ PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 # COLUMNS
-# person_image
-# person_id
-# image_file_name
-# thumb_file_name
-# har_number
-# image_credit
-# is_primary 
+# painting_id
+# title
+# description
+# har_nbr
+# image_name (filename)
+# thumb_name (filename)
 # create_user_id
 # create_date
 # last_modified_user_id
 # last_modified_date
-# caption
+# publish_type_id (ignore)
+# is_locked (ignore)
+# lock_user_id (ignore)
+# lock_date (ignore)
+# source
+# source_url
+# type
+# century
+# tradition (ignore)
+# tradition_id 
+# tbrc_gid
+# artist_name
+# artist_tbrc_pid
 
 # Run: 
-# tarql -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
+# tarql -e utf-8 images.tq painting-8-5-24.csv > tolImages.ttl
 
 CONSTRUCT {
 
     ?image_iri
-        a gist:IntellectualProperty ;
+        a tolo:Image ;
         skos:prefLabel ?image_label_en ;
-        # Using tolo:represents rather than gist:isAbout to harmonize with other visual art, such as sculptures, that are not content.
-        tolo:represents ?person_iri ;
-        gist:isCategorizedBy ?rank_iri ;
+        gist:isAbout ?person_iri ;
+        tolo:fileName ?image_file_name ;
+        tolo:hasThumbnail ?thumbnail_iri ;
         rdfs:seeAlso ?har_url ;
         tolo:credit ?credit_en ;
         tolo:caption ?caption_en ;
-        rdfs:seeAlso ?har_reference_iri ;
-
-        # Editing metadata
+        gist:isCategorizedBy 
+            ?rank_iri ,
+            ?media_type_iri ;
         tolo:isCreatedBy ?created_by_iri ;
         tolo:createDateTime ?create_datetime ;
         tolo:isLastModifiedBy ?last_modified_by_iri ;
         tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
-    ?file_iri 
-        a tolo:DigitalContent ;
-        gist:name ?image_file_name ;
-        tolo:represents ?image_iri ;
-        tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isCategorizedBy ?media_type_iri ;
-        .
-
     ?thumbnail_iri 
-        a tolo:DigitalContent ;
-        gist:name ?thumb_file_name ;
+        a tolo:Image ;
+        tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?media_type_iri ;
-        .
-
-    ?har_reference_iri
-        a tolo:Reference ;
-        gist:isCategorizedBy tolx:_ReferenceType_har ;
-        tolo:url ?har_url ;
         .
 
 }
@@ -81,18 +78,14 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    # Using IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?person_image_id)) AS ?image_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?person_image_id)) AS ?image_iri)
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
-        
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?person_image_id)) AS ?file_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
+    
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
 
-    # HAR URL
-    BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
-    BIND(IF(BOUND(?har_reference_iri), STRDT(?har_number, xsd:anyURI), ?unbound) AS ?har_url)
+    BIND(CONCAT("https://www.himalayanart.org/", ?har_number) AS ?har_url)
 
     BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
 
