@@ -215,10 +215,7 @@ told:_Marriage_7562_13187
 
 told:_Marriage_7929_10711
 	a tolo:Marriage ;
-	gist:isCategorizedBy
-		tolx:_MarriageTerminationCause_dissolution ,
-		tolx:_WifeStatus_junior
-		;
+	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_10711 ;
 	.
@@ -231,17 +228,13 @@ told:_Marriage_7929_13625
 
 told:_Marriage_7929_13708
 	a tolo:Marriage ;
-	gist:isCategorizedBy
-		tolx:_MarriageTerminationCause_dissolution ,
-		tolx:_WifeStatus_senior
-		;
+	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13708 ;
 	.
 
 told:_Marriage_7929_13739
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_WifeStatus_junior ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13739 ;
 	.
@@ -296,5 +289,23 @@ told:_Marriage_9990_13697
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
 	tolo:hasHusband told:_Person_9990 ;
 	tolo:hasWife told:_Person_13697 ;
+	.
+
+told:_StatusAssignment_WifeStatus_junior_7929_10711
+	a tolo:StatusAssignment ;
+	tolo:isAssignmentOf tolx:_WifeStatus_junior ;
+	tolo:isAssignmentTo told:_Marriage_7929_10711 ;
+	.
+
+told:_StatusAssignment_WifeStatus_junior_7929_13739
+	a tolo:StatusAssignment ;
+	tolo:isAssignmentOf tolx:_WifeStatus_junior ;
+	tolo:isAssignmentTo told:_Marriage_7929_13739 ;
+	.
+
+told:_StatusAssignment_WifeStatus_senior_7929_13708
+	a tolo:StatusAssignment ;
+	tolo:isAssignmentOf tolx:_WifeStatus_senior ;
+	tolo:isAssignmentTo told:_Marriage_7929_13708 ;
 	.
 
