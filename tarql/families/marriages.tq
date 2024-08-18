@@ -47,14 +47,24 @@ CONSTRUCT {
         ?start_predicate_iri ?start_datetime ;
         ?end_predicate_iri ?end_datetime ;
         gist:isCategorizedBy    
-            ?termination_cause_iri ,
-            ?wife_status_iri ,
-            ?husband_status_iri ;
-    .
+            ?termination_cause_iri ;
+        .
+
+    ?wife_status_assignment_iri
+        a tolo:StatusAssignment ;
+        tolo:isAssignmentTo ?marriage_iri ;
+        tolo:isAssignmentOf ?wife_status_iri ;
+        .
+
+    ?husband_status_assignment_iri
+        a tolo:StatusAssignment ;
+        tolo:isAssignmentTo ?marriage_iri ;
+        tolo:isAssignmentOf ?husband_status_iri ;
+        .
 
     ?kinship_group_iri
         gist:hasMember ?marriage_iri ;
-    .
+        .
 
 }
 
@@ -76,6 +86,7 @@ WHERE {
             IF(?is_senior_for_wife = "1", "senior", ?unbound)            
         ) AS ?wife_status
     )
+    BIND(IF(BOUND(?wife_status), tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_WifeStatus_", ?wife_status, "_", ?husband_id, "_", ?wife_id )), ?unbound) AS ?wife_status_assignment_iri)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_WifeStatus_", ?wife_status)) AS ?wife_status_iri)
 
     # Junior/senior husband
@@ -85,6 +96,7 @@ WHERE {
             IF(?is_senior_for_husband = "1", "senior", ?unbound)            
         ) AS ?husband_status
     )
+    BIND(IF(BOUND(?husband_status), tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_Husbandtatus_", ?husband_status, "_", ?husband_id, "_", ?wife_id )), ?unbound) AS ?husband_status_assignment_iri)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_HusbandStatus_", ?husband_status)) AS ?husband_status_iri)
 
     # Marriage dates
