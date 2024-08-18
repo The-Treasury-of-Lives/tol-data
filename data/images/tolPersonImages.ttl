@@ -17,12 +17,12 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_DigitalContent_0
+told:_DigitalContent_0_7_madman_of_u
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "0.7 Madman of U.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_0 ;
-	tolo:represents told:_IntellectualProperty_0 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_0_7_madman_of_u_thumb ;
+	tolo:represents told:_IntellectualProperty_0_7_madman_of_u ;
 	.
 
 told:_DigitalContent_1005_taklungtangpa
@@ -65,15 +65,20 @@ told:_DigitalContent_10478256_1579142939077638_627026012_n
 	tolo:represents told:_IntellectualProperty_10478256_1579142939077638_627026012_n ;
 	.
 
-told:_DigitalContent_105542771
+told:_DigitalContent_105542771_ip16wiec_tibetoct08065
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"105542771.iP16WIeC.TibetOct08065 (1).jpg"@en ,
-		"105542771.iP16WIeC.TibetOct08065.jpg"@en
-		;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_105542771 ;
-	tolo:represents told:_IntellectualProperty_105542771 ;
+	gist:name "105542771.iP16WIeC.TibetOct08065.jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_105542771_ip16wiec_tibetoct08065_thumb ;
+	tolo:represents told:_IntellectualProperty_105542771_ip16wiec_tibetoct08065 ;
+	.
+
+told:_DigitalContent_105542771_ip16wiec_tibetoct08065_1
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "105542771.iP16WIeC.TibetOct08065 (1).jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_105542771_ip16wiec_tibetoct08065_1_thumb ;
+	tolo:represents told:_IntellectualProperty_105542771_ip16wiec_tibetoct08065_1 ;
 	.
 
 told:_DigitalContent_1057_panchen_02
@@ -196,12 +201,12 @@ told:_DigitalContent_12th_karmapa_61059
 	tolo:represents told:_IntellectualProperty_12th_karmapa_61059 ;
 	.
 
-told:_DigitalContent_134
+told:_DigitalContent_134_ngorchen
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "134.ngorchen.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_134 ;
-	tolo:represents told:_IntellectualProperty_134 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_134_ngorchen_thumb ;
+	tolo:represents told:_IntellectualProperty_134_ngorchen ;
 	.
 
 told:_DigitalContent_13th_dalai_lama
@@ -388,12 +393,12 @@ told:_DigitalContent_23_with_young_dzogchen_rinpoche
 	tolo:represents told:_IntellectualProperty_23_with_young_dzogchen_rinpoche ;
 	.
 
-told:_DigitalContent_244
+told:_DigitalContent_244_tendzin_rabgye
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "244.Tendzin Rabgye.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_244 ;
-	tolo:represents told:_IntellectualProperty_244 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_244_tendzin_rabgye_thumb ;
+	tolo:represents told:_IntellectualProperty_244_tendzin_rabgye ;
 	.
 
 told:_DigitalContent_254_pagmodrupa
@@ -732,12 +737,12 @@ told:_DigitalContent_457_yeshe_gyaltsen
 	tolo:represents told:_IntellectualProperty_457_yeshe_gyaltsen ;
 	.
 
-told:_DigitalContent_49332
+told:_DigitalContent_49332_tsangnyon
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "49332.tsangnyon.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_49332 ;
-	tolo:represents told:_IntellectualProperty_49332 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_49332_tsangnyon_thumb ;
+	tolo:represents told:_IntellectualProperty_49332_tsangnyon ;
 	.
 
 told:_DigitalContent_493_bakton_zhonnu_tsultrim
@@ -940,20 +945,20 @@ told:_DigitalContent_52448233_yeshe_tsogyel
 	tolo:represents told:_IntellectualProperty_52448233_yeshe_tsogyel ;
 	.
 
-told:_DigitalContent_52848957
+told:_DigitalContent_52848957_namkha_nyingpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848957.namkha nyingpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848957 ;
-	tolo:represents told:_IntellectualProperty_52848957 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848957_namkha_nyingpo_thumb ;
+	tolo:represents told:_IntellectualProperty_52848957_namkha_nyingpo ;
 	.
 
-told:_DigitalContent_52848958
+told:_DigitalContent_52848958_nubchen
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848958.nubchen.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848958 ;
-	tolo:represents told:_IntellectualProperty_52848958 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848958_nubchen_thumb ;
+	tolo:represents told:_IntellectualProperty_52848958_nubchen ;
 	.
 
 told:_DigitalContent_52848959gyalwa_choyang
@@ -964,100 +969,100 @@ told:_DigitalContent_52848959gyalwa_choyang
 	tolo:represents told:_IntellectualProperty_52848959gyalwa_choyang ;
 	.
 
-told:_DigitalContent_52848961
+told:_DigitalContent_52848961_drogmi
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848961.Drogmi.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848961 ;
-	tolo:represents told:_IntellectualProperty_52848961 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848961_drogmi_thumb ;
+	tolo:represents told:_IntellectualProperty_52848961_drogmi ;
 	.
 
-told:_DigitalContent_52848962
+told:_DigitalContent_52848962_nyak_jnyanakumara
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848962.Nyak jnyanakumara.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848962 ;
-	tolo:represents told:_IntellectualProperty_52848962 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848962_nyak_jnyanakumara_thumb ;
+	tolo:represents told:_IntellectualProperty_52848962_nyak_jnyanakumara ;
 	.
 
-told:_DigitalContent_52848963
+told:_DigitalContent_52848963_pelgyi_sengge
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848963.Pelgyi Sengge.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848963 ;
-	tolo:represents told:_IntellectualProperty_52848963 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848963_pelgyi_sengge_thumb ;
+	tolo:represents told:_IntellectualProperty_52848963_pelgyi_sengge ;
 	.
 
-told:_DigitalContent_52848967
+told:_DigitalContent_52848967_dorje_dudjom
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848967.Dorje Dudjom.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848967 ;
-	tolo:represents told:_IntellectualProperty_52848967 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848967_dorje_dudjom_thumb ;
+	tolo:represents told:_IntellectualProperty_52848967_dorje_dudjom ;
 	.
 
-told:_DigitalContent_52848968
+told:_DigitalContent_52848968_yeshe_wangpo_or_yeshe_yang
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848968.Yeshe Wangpo or Yeshe Yang.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848968 ;
-	tolo:represents told:_IntellectualProperty_52848968 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848968_yeshe_wangpo_or_yeshe_yang_thumb ;
+	tolo:represents told:_IntellectualProperty_52848968_yeshe_wangpo_or_yeshe_yang ;
 	.
 
-told:_DigitalContent_52848969
+told:_DigitalContent_52848969_sogpo_lhapal
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848969.Sogpo Lhapal.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848969 ;
-	tolo:represents told:_IntellectualProperty_52848969 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848969_sogpo_lhapal_thumb ;
+	tolo:represents told:_IntellectualProperty_52848969_sogpo_lhapal ;
 	.
 
-told:_DigitalContent_52848970
+told:_DigitalContent_52848970_nanam_yeshe_de
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848970.Nanam Yeshe De.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848970 ;
-	tolo:represents told:_IntellectualProperty_52848970 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848970_nanam_yeshe_de_thumb ;
+	tolo:represents told:_IntellectualProperty_52848970_nanam_yeshe_de ;
 	.
 
-told:_DigitalContent_52848971
+told:_DigitalContent_52848971_palgyi_wangchug
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848971.Palgyi Wangchug.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848971 ;
-	tolo:represents told:_IntellectualProperty_52848971 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848971_palgyi_wangchug_thumb ;
+	tolo:represents told:_IntellectualProperty_52848971_palgyi_wangchug ;
 	.
 
-told:_DigitalContent_52848972
+told:_DigitalContent_52848972_denma_tsemang
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848972.Denma Tsemang.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848972 ;
-	tolo:represents told:_IntellectualProperty_52848972 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848972_denma_tsemang_thumb ;
+	tolo:represents told:_IntellectualProperty_52848972_denma_tsemang ;
 	.
 
-told:_DigitalContent_52848973
+told:_DigitalContent_52848973_kawa_peltseg
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848973.Kawa Peltseg.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848973 ;
-	tolo:represents told:_IntellectualProperty_52848973 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848973_kawa_peltseg_thumb ;
+	tolo:represents told:_IntellectualProperty_52848973_kawa_peltseg ;
 	.
 
-told:_DigitalContent_52848975
+told:_DigitalContent_52848975_shubu_palgyi_sengge
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848975.Shubu Palgyi Sengge.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848975 ;
-	tolo:represents told:_IntellectualProperty_52848975 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848975_shubu_palgyi_sengge_thumb ;
+	tolo:represents told:_IntellectualProperty_52848975_shubu_palgyi_sengge ;
 	.
 
-told:_DigitalContent_52848976
+told:_DigitalContent_52848976_gyalwai_lodro
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848976.Gyalwai Lodro.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848976 ;
-	tolo:represents told:_IntellectualProperty_52848976 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848976_gyalwai_lodro_thumb ;
+	tolo:represents told:_IntellectualProperty_52848976_gyalwai_lodro ;
 	.
 
 told:_DigitalContent_52848977
@@ -1068,60 +1073,60 @@ told:_DigitalContent_52848977
 	tolo:represents told:_IntellectualProperty_52848977 ;
 	.
 
-told:_DigitalContent_52848978
+told:_DigitalContent_52848978_drenpa_namkha
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848978.Drenpa Namkha.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848978 ;
-	tolo:represents told:_IntellectualProperty_52848978 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848978_drenpa_namkha_thumb ;
+	tolo:represents told:_IntellectualProperty_52848978_drenpa_namkha ;
 	.
 
-told:_DigitalContent_52848979
+told:_DigitalContent_52848979_odren_palgyi_wangchuk
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848979.Odren Palgyi Wangchuk.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848979 ;
-	tolo:represents told:_IntellectualProperty_52848979 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848979_odren_palgyi_wangchuk_thumb ;
+	tolo:represents told:_IntellectualProperty_52848979_odren_palgyi_wangchuk ;
 	.
 
-told:_DigitalContent_52848980
+told:_DigitalContent_52848980_ma_rinchen_chok
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848980.Ma Rinchen Chok.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848980 ;
-	tolo:represents told:_IntellectualProperty_52848980 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848980_ma_rinchen_chok_thumb ;
+	tolo:represents told:_IntellectualProperty_52848980_ma_rinchen_chok ;
 	.
 
-told:_DigitalContent_52848981
+told:_DigitalContent_52848981_lhalung_palgyi_dorje
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848981.Lhalung Palgyi Dorje.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848981 ;
-	tolo:represents told:_IntellectualProperty_52848981 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848981_lhalung_palgyi_dorje_thumb ;
+	tolo:represents told:_IntellectualProperty_52848981_lhalung_palgyi_dorje ;
 	.
 
-told:_DigitalContent_52848982
+told:_DigitalContent_52848982_konchog_jungne
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848982.Konchog Jungne.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848982 ;
-	tolo:represents told:_IntellectualProperty_52848982 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848982_konchog_jungne_thumb ;
+	tolo:represents told:_IntellectualProperty_52848982_konchog_jungne ;
 	.
 
-told:_DigitalContent_52848983
+told:_DigitalContent_52848983_gyalwa_janchub
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848983.Gyalwa Janchub.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848983 ;
-	tolo:represents told:_IntellectualProperty_52848983 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_52848983_gyalwa_janchub_thumb ;
+	tolo:represents told:_IntellectualProperty_52848983_gyalwa_janchub ;
 	.
 
-told:_DigitalContent_53050551
+told:_DigitalContent_53050551_padampa_sanggye
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53050551.Padampa Sanggye.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53050551 ;
-	tolo:represents told:_IntellectualProperty_53050551 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53050551_padampa_sanggye_thumb ;
+	tolo:represents told:_IntellectualProperty_53050551_padampa_sanggye ;
 	.
 
 told:_DigitalContent_53050552
@@ -1132,20 +1137,20 @@ told:_DigitalContent_53050552
 	tolo:represents told:_IntellectualProperty_53050552 ;
 	.
 
-told:_DigitalContent_53773
+told:_DigitalContent_53773_jatson_nyingpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53773.Jatson Nyingpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53773 ;
-	tolo:represents told:_IntellectualProperty_53773 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53773_jatson_nyingpo_thumb ;
+	tolo:represents told:_IntellectualProperty_53773_jatson_nyingpo ;
 	.
 
-told:_DigitalContent_53774
+told:_DigitalContent_53774_jatson_nyingpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53774.jatson Nyingpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53774 ;
-	tolo:represents told:_IntellectualProperty_53774 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_53774_jatson_nyingpo_thumb ;
+	tolo:represents told:_IntellectualProperty_53774_jatson_nyingpo ;
 	.
 
 told:_DigitalContent_559_jampel_zangpo
@@ -1199,12 +1204,12 @@ told:_DigitalContent_57082
 	tolo:represents told:_IntellectualProperty_57082 ;
 	.
 
-told:_DigitalContent_58303
+told:_DigitalContent_58303_tsangnyon
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "58303.Tsangnyon.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_58303 ;
-	tolo:represents told:_IntellectualProperty_58303 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_58303_tsangnyon_thumb ;
+	tolo:represents told:_IntellectualProperty_58303_tsangnyon ;
 	.
 
 told:_DigitalContent_58970_mila__nalin
@@ -1391,20 +1396,20 @@ told:_DigitalContent_65120_mila
 	tolo:represents told:_IntellectualProperty_65120_mila ;
 	.
 
-told:_DigitalContent_65121
+told:_DigitalContent_65121_mila
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65121.Mila.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65121 ;
-	tolo:represents told:_IntellectualProperty_65121 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65121_mila_thumb ;
+	tolo:represents told:_IntellectualProperty_65121_mila ;
 	.
 
-told:_DigitalContent_65159
+told:_DigitalContent_65159_jigme_lingpa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65159.jigme lingpa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65159 ;
-	tolo:represents told:_IntellectualProperty_65159 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65159_jigme_lingpa_thumb ;
+	tolo:represents told:_IntellectualProperty_65159_jigme_lingpa ;
 	.
 
 told:_DigitalContent_65167
@@ -1439,12 +1444,12 @@ told:_DigitalContent_65205_jikten_gonpo
 	tolo:represents told:_IntellectualProperty_65205_jikten_gonpo ;
 	.
 
-told:_DigitalContent_65232
+told:_DigitalContent_65232_lhachok_sengge
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65232.lhachok sengge.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65232 ;
-	tolo:represents told:_IntellectualProperty_65232 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65232_lhachok_sengge_thumb ;
+	tolo:represents told:_IntellectualProperty_65232_lhachok_sengge ;
 	.
 
 told:_DigitalContent_65249_tsangpa_gyare
@@ -1495,20 +1500,20 @@ told:_DigitalContent_65358
 	tolo:represents told:_IntellectualProperty_65358 ;
 	.
 
-told:_DigitalContent_65375
+told:_DigitalContent_65375_
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65375..jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65375 ;
-	tolo:represents told:_IntellectualProperty_65375 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65375__thumb ;
+	tolo:represents told:_IntellectualProperty_65375_ ;
 	.
 
-told:_DigitalContent_65384
+told:_DigitalContent_65384_sixth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65384.Sixth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65384 ;
-	tolo:represents told:_IntellectualProperty_65384 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65384_sixth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_65384_sixth_dalai_lama ;
 	.
 
 told:_DigitalContent_65461_pagmodrupa
@@ -1543,12 +1548,12 @@ told:_DigitalContent_65622_13th_je_khenpo
 	tolo:represents told:_IntellectualProperty_65622_13th_je_khenpo ;
 	.
 
-told:_DigitalContent_65647
+told:_DigitalContent_65647_
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65647..jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65647 ;
-	tolo:represents told:_IntellectualProperty_65647 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_65647__thumb ;
+	tolo:represents told:_IntellectualProperty_65647_ ;
 	.
 
 told:_DigitalContent_65776
@@ -1663,12 +1668,12 @@ told:_DigitalContent_65918_6th_ganden_tripa
 	tolo:represents told:_IntellectualProperty_65918_6th_ganden_tripa ;
 	.
 
-told:_DigitalContent_66246
+told:_DigitalContent_66246_nyangral
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "66246.Nyangral.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_66246 ;
-	tolo:represents told:_IntellectualProperty_66246 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_66246_nyangral_thumb ;
+	tolo:represents told:_IntellectualProperty_66246_nyangral ;
 	.
 
 told:_DigitalContent_66247_guru_chowang
@@ -1679,12 +1684,12 @@ told:_DigitalContent_66247_guru_chowang
 	tolo:represents told:_IntellectualProperty_66247_guru_chowang ;
 	.
 
-told:_DigitalContent_66250
+told:_DigitalContent_66250_ratna_lingpa1
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "66250.ratna lingpa1.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_66250 ;
-	tolo:represents told:_IntellectualProperty_66250 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_66250_ratna_lingpa1_thumb ;
+	tolo:represents told:_IntellectualProperty_66250_ratna_lingpa1 ;
 	.
 
 told:_DigitalContent_66253_ngari_panchen
@@ -1703,12 +1708,12 @@ told:_DigitalContent_674_karma_pakshi
 	tolo:represents told:_IntellectualProperty_674_karma_pakshi ;
 	.
 
-told:_DigitalContent_68495
+told:_DigitalContent_68495__go_lotsawa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "68495. Go Lotsawa.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_68495 ;
-	tolo:represents told:_IntellectualProperty_68495 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_68495__go_lotsawa_thumb ;
+	tolo:represents told:_IntellectualProperty_68495__go_lotsawa ;
 	.
 
 told:_DigitalContent_68871
@@ -1783,12 +1788,12 @@ told:_DigitalContent_777_mingyur_dorje
 	tolo:represents told:_IntellectualProperty_777_mingyur_dorje ;
 	.
 
-told:_DigitalContent_79186
+told:_DigitalContent_79186_panchen_02
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79186.panchen 02.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79186 ;
-	tolo:represents told:_IntellectualProperty_79186 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79186_panchen_02_thumb ;
+	tolo:represents told:_IntellectualProperty_79186_panchen_02 ;
 	.
 
 told:_DigitalContent_791_tendzin_rabgye
@@ -1831,12 +1836,12 @@ told:_DigitalContent_79610
 	tolo:represents told:_IntellectualProperty_79610 ;
 	.
 
-told:_DigitalContent_79631
+told:_DigitalContent_79631_vimalamitra
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79631.Vimalamitra.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79631 ;
-	tolo:represents told:_IntellectualProperty_79631 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79631_vimalamitra_thumb ;
+	tolo:represents told:_IntellectualProperty_79631_vimalamitra ;
 	.
 
 told:_DigitalContent_79655
@@ -1847,12 +1852,12 @@ told:_DigitalContent_79655
 	tolo:represents told:_IntellectualProperty_79655 ;
 	.
 
-told:_DigitalContent_79663
+told:_DigitalContent_79663_chekhawa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79663.Chekhawa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79663 ;
-	tolo:represents told:_IntellectualProperty_79663 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79663_chekhawa_thumb ;
+	tolo:represents told:_IntellectualProperty_79663_chekhawa ;
 	.
 
 told:_DigitalContent_79685_sanggye_on
@@ -1887,36 +1892,36 @@ told:_DigitalContent_79794
 	tolo:represents told:_IntellectualProperty_79794 ;
 	.
 
-told:_DigitalContent_79875
+told:_DigitalContent_79875_ra_lotsawa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79875.ra lotsawa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79875 ;
-	tolo:represents told:_IntellectualProperty_79875 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79875_ra_lotsawa_thumb ;
+	tolo:represents told:_IntellectualProperty_79875_ra_lotsawa ;
 	.
 
-told:_DigitalContent_79897
+told:_DigitalContent_79897_jamyang_zhepa_01
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79897.Jamyang Zhepa 01.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79897 ;
-	tolo:represents told:_IntellectualProperty_79897 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79897_jamyang_zhepa_01_thumb ;
+	tolo:represents told:_IntellectualProperty_79897_jamyang_zhepa_01 ;
 	.
 
-told:_DigitalContent_79912
+told:_DigitalContent_79912_thirteenth_dl
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79912.thirteenth dl.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79912 ;
-	tolo:represents told:_IntellectualProperty_79912 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79912_thirteenth_dl_thumb ;
+	tolo:represents told:_IntellectualProperty_79912_thirteenth_dl ;
 	.
 
-told:_DigitalContent_79975
+told:_DigitalContent_79975_tropu_lotsawa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79975.Tropu lotsawa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79975 ;
-	tolo:represents told:_IntellectualProperty_79975 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_79975_tropu_lotsawa_thumb ;
+	tolo:represents told:_IntellectualProperty_79975_tropu_lotsawa ;
 	.
 
 told:_DigitalContent_79979
@@ -1951,28 +1956,28 @@ told:_DigitalContent_80133
 	tolo:represents told:_IntellectualProperty_80133 ;
 	.
 
-told:_DigitalContent_80185
+told:_DigitalContent_80185_jigme_lingpa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80185.jigme lingpa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80185 ;
-	tolo:represents told:_IntellectualProperty_80185 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80185_jigme_lingpa_thumb ;
+	tolo:represents told:_IntellectualProperty_80185_jigme_lingpa ;
 	.
 
-told:_DigitalContent_80186
+told:_DigitalContent_80186_dodrupchen_01
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80186.dodrupchen 01.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80186 ;
-	tolo:represents told:_IntellectualProperty_80186 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80186_dodrupchen_01_thumb ;
+	tolo:represents told:_IntellectualProperty_80186_dodrupchen_01 ;
 	.
 
-told:_DigitalContent_80187
+told:_DigitalContent_80187_gyalwai_nyugu
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80187.gyalwai nyugu.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80187 ;
-	tolo:represents told:_IntellectualProperty_80187 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80187_gyalwai_nyugu_thumb ;
+	tolo:represents told:_IntellectualProperty_80187_gyalwai_nyugu ;
 	.
 
 told:_DigitalContent_80188_do_khyentse
@@ -1991,44 +1996,44 @@ told:_DigitalContent_80189
 	tolo:represents told:_IntellectualProperty_80189 ;
 	.
 
-told:_DigitalContent_80190
+told:_DigitalContent_80190__zhenpen_taye
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80190. zhenpen taye.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80190 ;
-	tolo:represents told:_IntellectualProperty_80190 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80190__zhenpen_taye_thumb ;
+	tolo:represents told:_IntellectualProperty_80190__zhenpen_taye ;
 	.
 
-told:_DigitalContent_80191
+told:_DigitalContent_80191_khyentse_wangpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80191.khyentse wangpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80191 ;
-	tolo:represents told:_IntellectualProperty_80191 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80191_khyentse_wangpo_thumb ;
+	tolo:represents told:_IntellectualProperty_80191_khyentse_wangpo ;
 	.
 
-told:_DigitalContent_80354
+told:_DigitalContent_80354_gendun_drup
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80354.Gendun drup.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80354 ;
-	tolo:represents told:_IntellectualProperty_80354 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80354_gendun_drup_thumb ;
+	tolo:represents told:_IntellectualProperty_80354_gendun_drup ;
 	.
 
-told:_DigitalContent_80355
+told:_DigitalContent_80355_second_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80355.Second Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80355 ;
-	tolo:represents told:_IntellectualProperty_80355 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80355_second_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80355_second_dalai_lama ;
 	.
 
-told:_DigitalContent_80356
+told:_DigitalContent_80356_dl3
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80356.DL3.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80356 ;
-	tolo:represents told:_IntellectualProperty_80356 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80356_dl3_thumb ;
+	tolo:represents told:_IntellectualProperty_80356_dl3 ;
 	.
 
 told:_DigitalContent_80357
@@ -2039,68 +2044,68 @@ told:_DigitalContent_80357
 	tolo:represents told:_IntellectualProperty_80357 ;
 	.
 
-told:_DigitalContent_80358
+told:_DigitalContent_80358_fifth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80358.Fifth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80358 ;
-	tolo:represents told:_IntellectualProperty_80358 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80358_fifth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80358_fifth_dalai_lama ;
 	.
 
-told:_DigitalContent_80359
+told:_DigitalContent_80359_sixth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80359.Sixth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80359 ;
-	tolo:represents told:_IntellectualProperty_80359 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80359_sixth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80359_sixth_dalai_lama ;
 	.
 
-told:_DigitalContent_80360
+told:_DigitalContent_80360_seventh_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80360.Seventh Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80360 ;
-	tolo:represents told:_IntellectualProperty_80360 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80360_seventh_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80360_seventh_dalai_lama ;
 	.
 
-told:_DigitalContent_80361
+told:_DigitalContent_80361_eighth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80361.Eighth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80361 ;
-	tolo:represents told:_IntellectualProperty_80361 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80361_eighth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80361_eighth_dalai_lama ;
 	.
 
-told:_DigitalContent_80362
+told:_DigitalContent_80362_dalai_09
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80362.Dalai 09.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80362 ;
-	tolo:represents told:_IntellectualProperty_80362 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80362_dalai_09_thumb ;
+	tolo:represents told:_IntellectualProperty_80362_dalai_09 ;
 	.
 
-told:_DigitalContent_80363
+told:_DigitalContent_80363_tenth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80363.Tenth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80363 ;
-	tolo:represents told:_IntellectualProperty_80363 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80363_tenth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80363_tenth_dalai_lama ;
 	.
 
-told:_DigitalContent_80364
+told:_DigitalContent_80364_eleventh_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80364.Eleventh Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80364 ;
-	tolo:represents told:_IntellectualProperty_80364 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80364_eleventh_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80364_eleventh_dalai_lama ;
 	.
 
-told:_DigitalContent_80365
+told:_DigitalContent_80365_twelfth_dalai_lama
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80365.Twelfth Dalai Lama.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80365 ;
-	tolo:represents told:_IntellectualProperty_80365 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80365_twelfth_dalai_lama_thumb ;
+	tolo:represents told:_IntellectualProperty_80365_twelfth_dalai_lama ;
 	.
 
 told:_DigitalContent_80377
@@ -2111,20 +2116,20 @@ told:_DigitalContent_80377
 	tolo:represents told:_IntellectualProperty_80377 ;
 	.
 
-told:_DigitalContent_80383
+told:_DigitalContent_80383_panchen_01
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80383.panchen 01.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80383 ;
-	tolo:represents told:_IntellectualProperty_80383 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80383_panchen_01_thumb ;
+	tolo:represents told:_IntellectualProperty_80383_panchen_01 ;
 	.
 
-told:_DigitalContent_80384
+told:_DigitalContent_80384_panchen_02
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80384.panchen 02.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80384 ;
-	tolo:represents told:_IntellectualProperty_80384 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80384_panchen_02_thumb ;
+	tolo:represents told:_IntellectualProperty_80384_panchen_02 ;
 	.
 
 told:_DigitalContent_80392
@@ -2143,20 +2148,20 @@ told:_DigitalContent_80393
 	tolo:represents told:_IntellectualProperty_80393 ;
 	.
 
-told:_DigitalContent_80394
+told:_DigitalContent_80394_tripa_4
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80394.Tripa 4.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80394 ;
-	tolo:represents told:_IntellectualProperty_80394 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80394_tripa_4_thumb ;
+	tolo:represents told:_IntellectualProperty_80394_tripa_4 ;
 	.
 
-told:_DigitalContent_80395
+told:_DigitalContent_80395_tripa_5
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80395.Tripa 5.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80395 ;
-	tolo:represents told:_IntellectualProperty_80395 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80395_tripa_5_thumb ;
+	tolo:represents told:_IntellectualProperty_80395_tripa_5 ;
 	.
 
 told:_DigitalContent_80396
@@ -2167,28 +2172,28 @@ told:_DigitalContent_80396
 	tolo:represents told:_IntellectualProperty_80396 ;
 	.
 
-told:_DigitalContent_80397
+told:_DigitalContent_80397_tripa_7
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80397.Tripa 7.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80397 ;
-	tolo:represents told:_IntellectualProperty_80397 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80397_tripa_7_thumb ;
+	tolo:represents told:_IntellectualProperty_80397_tripa_7 ;
 	.
 
-told:_DigitalContent_80398
+told:_DigitalContent_80398_tripa_8
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80398.Tripa 8.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80398 ;
-	tolo:represents told:_IntellectualProperty_80398 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80398_tripa_8_thumb ;
+	tolo:represents told:_IntellectualProperty_80398_tripa_8 ;
 	.
 
-told:_DigitalContent_80399
+told:_DigitalContent_80399_tripa_9
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80399.Tripa 9.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80399 ;
-	tolo:represents told:_IntellectualProperty_80399 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80399_tripa_9_thumb ;
+	tolo:represents told:_IntellectualProperty_80399_tripa_9 ;
 	.
 
 told:_DigitalContent_803_mila
@@ -2199,724 +2204,724 @@ told:_DigitalContent_803_mila
 	tolo:represents told:_IntellectualProperty_803_mila ;
 	.
 
-told:_DigitalContent_80400
+told:_DigitalContent_80400_tripa_10
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80400.Tripa 10.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80400 ;
-	tolo:represents told:_IntellectualProperty_80400 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80400_tripa_10_thumb ;
+	tolo:represents told:_IntellectualProperty_80400_tripa_10 ;
 	.
 
-told:_DigitalContent_80401
+told:_DigitalContent_80401_tripa_11
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80401.Tripa 11.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80401 ;
-	tolo:represents told:_IntellectualProperty_80401 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80401_tripa_11_thumb ;
+	tolo:represents told:_IntellectualProperty_80401_tripa_11 ;
 	.
 
-told:_DigitalContent_80402
+told:_DigitalContent_80402_tripa_12
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80402.Tripa 12.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80402 ;
-	tolo:represents told:_IntellectualProperty_80402 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80402_tripa_12_thumb ;
+	tolo:represents told:_IntellectualProperty_80402_tripa_12 ;
 	.
 
-told:_DigitalContent_80403
+told:_DigitalContent_80403_tripa_13
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80403.Tripa 13.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80403 ;
-	tolo:represents told:_IntellectualProperty_80403 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80403_tripa_13_thumb ;
+	tolo:represents told:_IntellectualProperty_80403_tripa_13 ;
 	.
 
-told:_DigitalContent_80404
+told:_DigitalContent_80404_tripa_14
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80404.Tripa 14.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80404 ;
-	tolo:represents told:_IntellectualProperty_80404 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80404_tripa_14_thumb ;
+	tolo:represents told:_IntellectualProperty_80404_tripa_14 ;
 	.
 
-told:_DigitalContent_80405
+told:_DigitalContent_80405_tripa_15
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80405.Tripa 15.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80405 ;
-	tolo:represents told:_IntellectualProperty_80405 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80405_tripa_15_thumb ;
+	tolo:represents told:_IntellectualProperty_80405_tripa_15 ;
 	.
 
-told:_DigitalContent_80406
+told:_DigitalContent_80406_tripa_16
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80406.Tripa 16.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80406 ;
-	tolo:represents told:_IntellectualProperty_80406 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80406_tripa_16_thumb ;
+	tolo:represents told:_IntellectualProperty_80406_tripa_16 ;
 	.
 
-told:_DigitalContent_80407
+told:_DigitalContent_80407_tripa_17
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80407.Tripa 17.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80407 ;
-	tolo:represents told:_IntellectualProperty_80407 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80407_tripa_17_thumb ;
+	tolo:represents told:_IntellectualProperty_80407_tripa_17 ;
 	.
 
-told:_DigitalContent_80408
+told:_DigitalContent_80408_tripa_18
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80408.Tripa 18.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80408 ;
-	tolo:represents told:_IntellectualProperty_80408 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80408_tripa_18_thumb ;
+	tolo:represents told:_IntellectualProperty_80408_tripa_18 ;
 	.
 
-told:_DigitalContent_80409
+told:_DigitalContent_80409_tripa_19
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80409.Tripa 19.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80409 ;
-	tolo:represents told:_IntellectualProperty_80409 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80409_tripa_19_thumb ;
+	tolo:represents told:_IntellectualProperty_80409_tripa_19 ;
 	.
 
-told:_DigitalContent_80410
+told:_DigitalContent_80410_tripa_20
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80410.Tripa 20.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80410 ;
-	tolo:represents told:_IntellectualProperty_80410 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80410_tripa_20_thumb ;
+	tolo:represents told:_IntellectualProperty_80410_tripa_20 ;
 	.
 
-told:_DigitalContent_80411
+told:_DigitalContent_80411_tripa_21
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80411.Tripa 21.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80411 ;
-	tolo:represents told:_IntellectualProperty_80411 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80411_tripa_21_thumb ;
+	tolo:represents told:_IntellectualProperty_80411_tripa_21 ;
 	.
 
-told:_DigitalContent_80412
+told:_DigitalContent_80412_tripa_22
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80412.Tripa 22.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80412 ;
-	tolo:represents told:_IntellectualProperty_80412 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80412_tripa_22_thumb ;
+	tolo:represents told:_IntellectualProperty_80412_tripa_22 ;
 	.
 
-told:_DigitalContent_80413
+told:_DigitalContent_80413_tripa_23
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80413.Tripa 23.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80413 ;
-	tolo:represents told:_IntellectualProperty_80413 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80413_tripa_23_thumb ;
+	tolo:represents told:_IntellectualProperty_80413_tripa_23 ;
 	.
 
-told:_DigitalContent_80414
+told:_DigitalContent_80414_tripa_24
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80414.Tripa 24.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80414 ;
-	tolo:represents told:_IntellectualProperty_80414 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80414_tripa_24_thumb ;
+	tolo:represents told:_IntellectualProperty_80414_tripa_24 ;
 	.
 
-told:_DigitalContent_80415
+told:_DigitalContent_80415_tripa_25
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80415.Tripa 25.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80415 ;
-	tolo:represents told:_IntellectualProperty_80415 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80415_tripa_25_thumb ;
+	tolo:represents told:_IntellectualProperty_80415_tripa_25 ;
 	.
 
-told:_DigitalContent_80416
+told:_DigitalContent_80416_tripa_26
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80416.Tripa 26.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80416 ;
-	tolo:represents told:_IntellectualProperty_80416 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80416_tripa_26_thumb ;
+	tolo:represents told:_IntellectualProperty_80416_tripa_26 ;
 	.
 
-told:_DigitalContent_80417
+told:_DigitalContent_80417_tripa_27
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80417.Tripa 27.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80417 ;
-	tolo:represents told:_IntellectualProperty_80417 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80417_tripa_27_thumb ;
+	tolo:represents told:_IntellectualProperty_80417_tripa_27 ;
 	.
 
-told:_DigitalContent_80418
+told:_DigitalContent_80418_tripa_28
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80418.Tripa 28.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80418 ;
-	tolo:represents told:_IntellectualProperty_80418 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80418_tripa_28_thumb ;
+	tolo:represents told:_IntellectualProperty_80418_tripa_28 ;
 	.
 
-told:_DigitalContent_80419
+told:_DigitalContent_80419_tripa_29
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80419.Tripa 29.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80419 ;
-	tolo:represents told:_IntellectualProperty_80419 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80419_tripa_29_thumb ;
+	tolo:represents told:_IntellectualProperty_80419_tripa_29 ;
 	.
 
-told:_DigitalContent_80420
+told:_DigitalContent_80420_tripa_30
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80420.Tripa 30.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80420 ;
-	tolo:represents told:_IntellectualProperty_80420 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80420_tripa_30_thumb ;
+	tolo:represents told:_IntellectualProperty_80420_tripa_30 ;
 	.
 
-told:_DigitalContent_80421
+told:_DigitalContent_80421_tripa_31
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80421.Tripa 31.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80421 ;
-	tolo:represents told:_IntellectualProperty_80421 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80421_tripa_31_thumb ;
+	tolo:represents told:_IntellectualProperty_80421_tripa_31 ;
 	.
 
-told:_DigitalContent_80422
+told:_DigitalContent_80422_tripa_32
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80422.Tripa 32.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80422 ;
-	tolo:represents told:_IntellectualProperty_80422 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80422_tripa_32_thumb ;
+	tolo:represents told:_IntellectualProperty_80422_tripa_32 ;
 	.
 
-told:_DigitalContent_80423
+told:_DigitalContent_80423_tripa_33
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80423.Tripa 33.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80423 ;
-	tolo:represents told:_IntellectualProperty_80423 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80423_tripa_33_thumb ;
+	tolo:represents told:_IntellectualProperty_80423_tripa_33 ;
 	.
 
-told:_DigitalContent_80424
+told:_DigitalContent_80424_tripa_34
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80424.Tripa 34.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80424 ;
-	tolo:represents told:_IntellectualProperty_80424 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80424_tripa_34_thumb ;
+	tolo:represents told:_IntellectualProperty_80424_tripa_34 ;
 	.
 
-told:_DigitalContent_80425
+told:_DigitalContent_80425_tripa_35
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80425.Tripa 35.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80425 ;
-	tolo:represents told:_IntellectualProperty_80425 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80425_tripa_35_thumb ;
+	tolo:represents told:_IntellectualProperty_80425_tripa_35 ;
 	.
 
-told:_DigitalContent_80426
+told:_DigitalContent_80426_tripa_36
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80426.Tripa 36.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80426 ;
-	tolo:represents told:_IntellectualProperty_80426 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80426_tripa_36_thumb ;
+	tolo:represents told:_IntellectualProperty_80426_tripa_36 ;
 	.
 
-told:_DigitalContent_80427
+told:_DigitalContent_80427_tripa_37
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80427.Tripa 37.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80427 ;
-	tolo:represents told:_IntellectualProperty_80427 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80427_tripa_37_thumb ;
+	tolo:represents told:_IntellectualProperty_80427_tripa_37 ;
 	.
 
-told:_DigitalContent_80428
+told:_DigitalContent_80428_tripa_38
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80428.Tripa 38.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80428 ;
-	tolo:represents told:_IntellectualProperty_80428 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80428_tripa_38_thumb ;
+	tolo:represents told:_IntellectualProperty_80428_tripa_38 ;
 	.
 
-told:_DigitalContent_80429
+told:_DigitalContent_80429_tripa_39
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80429.Tripa 39.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80429 ;
-	tolo:represents told:_IntellectualProperty_80429 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80429_tripa_39_thumb ;
+	tolo:represents told:_IntellectualProperty_80429_tripa_39 ;
 	.
 
-told:_DigitalContent_80430
+told:_DigitalContent_80430_tripa_40
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80430.Tripa 40.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80430 ;
-	tolo:represents told:_IntellectualProperty_80430 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80430_tripa_40_thumb ;
+	tolo:represents told:_IntellectualProperty_80430_tripa_40 ;
 	.
 
-told:_DigitalContent_80431
+told:_DigitalContent_80431_tripa_41
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80431.Tripa 41.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80431 ;
-	tolo:represents told:_IntellectualProperty_80431 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80431_tripa_41_thumb ;
+	tolo:represents told:_IntellectualProperty_80431_tripa_41 ;
 	.
 
-told:_DigitalContent_80432
+told:_DigitalContent_80432_tripa_42
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80432.Tripa 42.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80432 ;
-	tolo:represents told:_IntellectualProperty_80432 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80432_tripa_42_thumb ;
+	tolo:represents told:_IntellectualProperty_80432_tripa_42 ;
 	.
 
-told:_DigitalContent_80433
+told:_DigitalContent_80433_tripa_43
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80433.Tripa 43.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80433 ;
-	tolo:represents told:_IntellectualProperty_80433 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80433_tripa_43_thumb ;
+	tolo:represents told:_IntellectualProperty_80433_tripa_43 ;
 	.
 
-told:_DigitalContent_80434
+told:_DigitalContent_80434_tripa_44
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80434.Tripa 44.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80434 ;
-	tolo:represents told:_IntellectualProperty_80434 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80434_tripa_44_thumb ;
+	tolo:represents told:_IntellectualProperty_80434_tripa_44 ;
 	.
 
-told:_DigitalContent_80435
+told:_DigitalContent_80435_tripa_45
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80435.Tripa 45.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80435 ;
-	tolo:represents told:_IntellectualProperty_80435 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80435_tripa_45_thumb ;
+	tolo:represents told:_IntellectualProperty_80435_tripa_45 ;
 	.
 
-told:_DigitalContent_80436
+told:_DigitalContent_80436_tripa_46
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80436.Tripa 46.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80436 ;
-	tolo:represents told:_IntellectualProperty_80436 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80436_tripa_46_thumb ;
+	tolo:represents told:_IntellectualProperty_80436_tripa_46 ;
 	.
 
-told:_DigitalContent_80437
+told:_DigitalContent_80437_tripa_47
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80437.Tripa 47.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80437 ;
-	tolo:represents told:_IntellectualProperty_80437 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80437_tripa_47_thumb ;
+	tolo:represents told:_IntellectualProperty_80437_tripa_47 ;
 	.
 
-told:_DigitalContent_80440
+told:_DigitalContent_80440_tripa_48
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80440.Tripa 48.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80440 ;
-	tolo:represents told:_IntellectualProperty_80440 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80440_tripa_48_thumb ;
+	tolo:represents told:_IntellectualProperty_80440_tripa_48 ;
 	.
 
-told:_DigitalContent_80441
+told:_DigitalContent_80441_tripa_49jpg
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80441.Tripa 49jpg.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80441 ;
-	tolo:represents told:_IntellectualProperty_80441 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80441_tripa_49jpg_thumb ;
+	tolo:represents told:_IntellectualProperty_80441_tripa_49jpg ;
 	.
 
-told:_DigitalContent_80442
+told:_DigitalContent_80442_tripa_50
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80442.Tripa 50.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80442 ;
-	tolo:represents told:_IntellectualProperty_80442 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80442_tripa_50_thumb ;
+	tolo:represents told:_IntellectualProperty_80442_tripa_50 ;
 	.
 
-told:_DigitalContent_80443
+told:_DigitalContent_80443_tripa_51
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80443.Tripa 51.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80443 ;
-	tolo:represents told:_IntellectualProperty_80443 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80443_tripa_51_thumb ;
+	tolo:represents told:_IntellectualProperty_80443_tripa_51 ;
 	.
 
-told:_DigitalContent_80444
+told:_DigitalContent_80444_tripa_52
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80444.Tripa 52.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80444 ;
-	tolo:represents told:_IntellectualProperty_80444 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80444_tripa_52_thumb ;
+	tolo:represents told:_IntellectualProperty_80444_tripa_52 ;
 	.
 
-told:_DigitalContent_80445
+told:_DigitalContent_80445_tripa_53
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80445.Tripa 53.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80445 ;
-	tolo:represents told:_IntellectualProperty_80445 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80445_tripa_53_thumb ;
+	tolo:represents told:_IntellectualProperty_80445_tripa_53 ;
 	.
 
-told:_DigitalContent_80446
+told:_DigitalContent_80446_tripa_54
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80446.Tripa 54.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80446 ;
-	tolo:represents told:_IntellectualProperty_80446 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80446_tripa_54_thumb ;
+	tolo:represents told:_IntellectualProperty_80446_tripa_54 ;
 	.
 
-told:_DigitalContent_80447
+told:_DigitalContent_80447_tripa_55
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80447.Tripa 55.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80447 ;
-	tolo:represents told:_IntellectualProperty_80447 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80447_tripa_55_thumb ;
+	tolo:represents told:_IntellectualProperty_80447_tripa_55 ;
 	.
 
-told:_DigitalContent_80448
+told:_DigitalContent_80448_tripa_56
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80448.Tripa 56.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80448 ;
-	tolo:represents told:_IntellectualProperty_80448 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80448_tripa_56_thumb ;
+	tolo:represents told:_IntellectualProperty_80448_tripa_56 ;
 	.
 
-told:_DigitalContent_80449
+told:_DigitalContent_80449_tripa_57
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80449.Tripa 57.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80449 ;
-	tolo:represents told:_IntellectualProperty_80449 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80449_tripa_57_thumb ;
+	tolo:represents told:_IntellectualProperty_80449_tripa_57 ;
 	.
 
-told:_DigitalContent_80450
+told:_DigitalContent_80450_tripa_58
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80450.Tripa 58.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80450 ;
-	tolo:represents told:_IntellectualProperty_80450 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80450_tripa_58_thumb ;
+	tolo:represents told:_IntellectualProperty_80450_tripa_58 ;
 	.
 
-told:_DigitalContent_80451
+told:_DigitalContent_80451_tripa_59
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80451.Tripa 59.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80451 ;
-	tolo:represents told:_IntellectualProperty_80451 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80451_tripa_59_thumb ;
+	tolo:represents told:_IntellectualProperty_80451_tripa_59 ;
 	.
 
-told:_DigitalContent_80452
+told:_DigitalContent_80452_tripa_60
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80452.Tripa 60.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80452 ;
-	tolo:represents told:_IntellectualProperty_80452 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80452_tripa_60_thumb ;
+	tolo:represents told:_IntellectualProperty_80452_tripa_60 ;
 	.
 
-told:_DigitalContent_80453
+told:_DigitalContent_80453_tripa_61
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80453.Tripa 61.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80453 ;
-	tolo:represents told:_IntellectualProperty_80453 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80453_tripa_61_thumb ;
+	tolo:represents told:_IntellectualProperty_80453_tripa_61 ;
 	.
 
-told:_DigitalContent_80454
+told:_DigitalContent_80454_tripa_62
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80454.Tripa 62.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80454 ;
-	tolo:represents told:_IntellectualProperty_80454 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80454_tripa_62_thumb ;
+	tolo:represents told:_IntellectualProperty_80454_tripa_62 ;
 	.
 
-told:_DigitalContent_80455
+told:_DigitalContent_80455_tripa_63
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80455.Tripa 63.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80455 ;
-	tolo:represents told:_IntellectualProperty_80455 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80455_tripa_63_thumb ;
+	tolo:represents told:_IntellectualProperty_80455_tripa_63 ;
 	.
 
-told:_DigitalContent_80456
+told:_DigitalContent_80456_tripa_64
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80456.Tripa 64.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80456 ;
-	tolo:represents told:_IntellectualProperty_80456 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80456_tripa_64_thumb ;
+	tolo:represents told:_IntellectualProperty_80456_tripa_64 ;
 	.
 
-told:_DigitalContent_80457
+told:_DigitalContent_80457_tripa_65
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80457.Tripa 65.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80457 ;
-	tolo:represents told:_IntellectualProperty_80457 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80457_tripa_65_thumb ;
+	tolo:represents told:_IntellectualProperty_80457_tripa_65 ;
 	.
 
-told:_DigitalContent_80458
+told:_DigitalContent_80458_tripa_66
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80458.Tripa 66.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80458 ;
-	tolo:represents told:_IntellectualProperty_80458 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80458_tripa_66_thumb ;
+	tolo:represents told:_IntellectualProperty_80458_tripa_66 ;
 	.
 
-told:_DigitalContent_80459
+told:_DigitalContent_80459_tripa_67
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80459.Tripa 67.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80459 ;
-	tolo:represents told:_IntellectualProperty_80459 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80459_tripa_67_thumb ;
+	tolo:represents told:_IntellectualProperty_80459_tripa_67 ;
 	.
 
-told:_DigitalContent_80460
+told:_DigitalContent_80460_tripa_68
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80460.Tripa 68.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80460 ;
-	tolo:represents told:_IntellectualProperty_80460 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80460_tripa_68_thumb ;
+	tolo:represents told:_IntellectualProperty_80460_tripa_68 ;
 	.
 
-told:_DigitalContent_80461
+told:_DigitalContent_80461_tripa_69
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80461.Tripa 69.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80461 ;
-	tolo:represents told:_IntellectualProperty_80461 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80461_tripa_69_thumb ;
+	tolo:represents told:_IntellectualProperty_80461_tripa_69 ;
 	.
 
-told:_DigitalContent_80462
+told:_DigitalContent_80462_tripa_70
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80462.Tripa 70.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80462 ;
-	tolo:represents told:_IntellectualProperty_80462 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80462_tripa_70_thumb ;
+	tolo:represents told:_IntellectualProperty_80462_tripa_70 ;
 	.
 
-told:_DigitalContent_80463
+told:_DigitalContent_80463_tripa_71
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80463.Tripa 71.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80463 ;
-	tolo:represents told:_IntellectualProperty_80463 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80463_tripa_71_thumb ;
+	tolo:represents told:_IntellectualProperty_80463_tripa_71 ;
 	.
 
-told:_DigitalContent_80464
+told:_DigitalContent_80464_tripa_72
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80464.Tripa 72.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80464 ;
-	tolo:represents told:_IntellectualProperty_80464 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80464_tripa_72_thumb ;
+	tolo:represents told:_IntellectualProperty_80464_tripa_72 ;
 	.
 
-told:_DigitalContent_80465
+told:_DigitalContent_80465_tripa_73
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80465.Tripa 73.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80465 ;
-	tolo:represents told:_IntellectualProperty_80465 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80465_tripa_73_thumb ;
+	tolo:represents told:_IntellectualProperty_80465_tripa_73 ;
 	.
 
-told:_DigitalContent_80466
+told:_DigitalContent_80466_tripa_74
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80466.Tripa 74.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80466 ;
-	tolo:represents told:_IntellectualProperty_80466 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80466_tripa_74_thumb ;
+	tolo:represents told:_IntellectualProperty_80466_tripa_74 ;
 	.
 
-told:_DigitalContent_80467
+told:_DigitalContent_80467_tripa_75
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80467.Tripa 75.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80467 ;
-	tolo:represents told:_IntellectualProperty_80467 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80467_tripa_75_thumb ;
+	tolo:represents told:_IntellectualProperty_80467_tripa_75 ;
 	.
 
-told:_DigitalContent_80468
+told:_DigitalContent_80468_tripa_76
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80468.Tripa 76.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80468 ;
-	tolo:represents told:_IntellectualProperty_80468 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80468_tripa_76_thumb ;
+	tolo:represents told:_IntellectualProperty_80468_tripa_76 ;
 	.
 
-told:_DigitalContent_80469
+told:_DigitalContent_80469_tripa_77
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80469.Tripa 77.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80469 ;
-	tolo:represents told:_IntellectualProperty_80469 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80469_tripa_77_thumb ;
+	tolo:represents told:_IntellectualProperty_80469_tripa_77 ;
 	.
 
-told:_DigitalContent_80470
+told:_DigitalContent_80470_tripa_77
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80470.Tripa 77.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80470 ;
-	tolo:represents told:_IntellectualProperty_80470 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80470_tripa_77_thumb ;
+	tolo:represents told:_IntellectualProperty_80470_tripa_77 ;
 	.
 
-told:_DigitalContent_80471
+told:_DigitalContent_80471_tripa_78
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80471.Tripa 78.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80471 ;
-	tolo:represents told:_IntellectualProperty_80471 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80471_tripa_78_thumb ;
+	tolo:represents told:_IntellectualProperty_80471_tripa_78 ;
 	.
 
-told:_DigitalContent_80472
+told:_DigitalContent_80472_tripa_79
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80472.Tripa 79.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80472 ;
-	tolo:represents told:_IntellectualProperty_80472 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80472_tripa_79_thumb ;
+	tolo:represents told:_IntellectualProperty_80472_tripa_79 ;
 	.
 
-told:_DigitalContent_80473
+told:_DigitalContent_80473_tripa_81
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80473.Tripa 81.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80473 ;
-	tolo:represents told:_IntellectualProperty_80473 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80473_tripa_81_thumb ;
+	tolo:represents told:_IntellectualProperty_80473_tripa_81 ;
 	.
 
-told:_DigitalContent_80474
+told:_DigitalContent_80474_tripa_82
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80474.Tripa 82.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80474 ;
-	tolo:represents told:_IntellectualProperty_80474 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80474_tripa_82_thumb ;
+	tolo:represents told:_IntellectualProperty_80474_tripa_82 ;
 	.
 
-told:_DigitalContent_80475
+told:_DigitalContent_80475_tripa_83
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80475.Tripa 83.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80475 ;
-	tolo:represents told:_IntellectualProperty_80475 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80475_tripa_83_thumb ;
+	tolo:represents told:_IntellectualProperty_80475_tripa_83 ;
 	.
 
-told:_DigitalContent_80476
+told:_DigitalContent_80476_tripa_84
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80476.Tripa 84.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80476 ;
-	tolo:represents told:_IntellectualProperty_80476 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80476_tripa_84_thumb ;
+	tolo:represents told:_IntellectualProperty_80476_tripa_84 ;
 	.
 
-told:_DigitalContent_80477
+told:_DigitalContent_80477_tripa_85
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80477.Tripa 85.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80477 ;
-	tolo:represents told:_IntellectualProperty_80477 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80477_tripa_85_thumb ;
+	tolo:represents told:_IntellectualProperty_80477_tripa_85 ;
 	.
 
-told:_DigitalContent_80478
+told:_DigitalContent_80478_tripa_86
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80478.Tripa 86.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80478 ;
-	tolo:represents told:_IntellectualProperty_80478 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80478_tripa_86_thumb ;
+	tolo:represents told:_IntellectualProperty_80478_tripa_86 ;
 	.
 
-told:_DigitalContent_80479
+told:_DigitalContent_80479_tripa_87
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80479.Tripa 87.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80479 ;
-	tolo:represents told:_IntellectualProperty_80479 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80479_tripa_87_thumb ;
+	tolo:represents told:_IntellectualProperty_80479_tripa_87 ;
 	.
 
-told:_DigitalContent_80480
+told:_DigitalContent_80480_tripa_88
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80480.Tripa 88.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80480 ;
-	tolo:represents told:_IntellectualProperty_80480 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80480_tripa_88_thumb ;
+	tolo:represents told:_IntellectualProperty_80480_tripa_88 ;
 	.
 
-told:_DigitalContent_80481
+told:_DigitalContent_80481__tripa_89
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80481. Tripa 89.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80481 ;
-	tolo:represents told:_IntellectualProperty_80481 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80481__tripa_89_thumb ;
+	tolo:represents told:_IntellectualProperty_80481__tripa_89 ;
 	.
 
-told:_DigitalContent_80482
+told:_DigitalContent_80482__tripa_90
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80482. Tripa 90.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80482 ;
-	tolo:represents told:_IntellectualProperty_80482 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80482__tripa_90_thumb ;
+	tolo:represents told:_IntellectualProperty_80482__tripa_90 ;
 	.
 
-told:_DigitalContent_80483
+told:_DigitalContent_80483__tripa_91
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80483. Tripa 91.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80483 ;
-	tolo:represents told:_IntellectualProperty_80483 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80483__tripa_91_thumb ;
+	tolo:represents told:_IntellectualProperty_80483__tripa_91 ;
 	.
 
-told:_DigitalContent_80484
+told:_DigitalContent_80484__tripa_92
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80484. Tripa 92.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80484 ;
-	tolo:represents told:_IntellectualProperty_80484 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80484__tripa_92_thumb ;
+	tolo:represents told:_IntellectualProperty_80484__tripa_92 ;
 	.
 
-told:_DigitalContent_80485
+told:_DigitalContent_80485__tripa_93
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80485. Tripa 93.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80485 ;
-	tolo:represents told:_IntellectualProperty_80485 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80485__tripa_93_thumb ;
+	tolo:represents told:_IntellectualProperty_80485__tripa_93 ;
 	.
 
-told:_DigitalContent_80486
+told:_DigitalContent_80486__tripa_94
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80486. Tripa 94.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80486 ;
-	tolo:represents told:_IntellectualProperty_80486 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80486__tripa_94_thumb ;
+	tolo:represents told:_IntellectualProperty_80486__tripa_94 ;
 	.
 
-told:_DigitalContent_80487
+told:_DigitalContent_80487__tripa_95
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80487. Tripa 95.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80487 ;
-	tolo:represents told:_IntellectualProperty_80487 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80487__tripa_95_thumb ;
+	tolo:represents told:_IntellectualProperty_80487__tripa_95 ;
 	.
 
-told:_DigitalContent_80531
+told:_DigitalContent_80531_shakyashri
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80531.shakyashri.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80531 ;
-	tolo:represents told:_IntellectualProperty_80531 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80531_shakyashri_thumb ;
+	tolo:represents told:_IntellectualProperty_80531_shakyashri ;
 	.
 
-told:_DigitalContent_80534
+told:_DigitalContent_80534_padampa
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80534.padampa.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80534 ;
-	tolo:represents told:_IntellectualProperty_80534 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80534_padampa_thumb ;
+	tolo:represents told:_IntellectualProperty_80534_padampa ;
 	.
 
-told:_DigitalContent_80535
+told:_DigitalContent_80535_tangtong_gyelpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80535.tangtong gyelpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80535 ;
-	tolo:represents told:_IntellectualProperty_80535 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80535_tangtong_gyelpo_thumb ;
+	tolo:represents told:_IntellectualProperty_80535_tangtong_gyelpo ;
 	.
 
-told:_DigitalContent_80536
+told:_DigitalContent_80536_rinchen_zangpo
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80536.rinchen zangpo.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80536 ;
-	tolo:represents told:_IntellectualProperty_80536 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80536_rinchen_zangpo_thumb ;
+	tolo:represents told:_IntellectualProperty_80536_rinchen_zangpo ;
 	.
 
 told:_DigitalContent_80537_ngok_lotsawa
@@ -2927,20 +2932,20 @@ told:_DigitalContent_80537_ngok_lotsawa
 	tolo:represents told:_IntellectualProperty_80537_ngok_lotsawa ;
 	.
 
-told:_DigitalContent_80572
+told:_DigitalContent_80572_pema_rigdzin
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80572.Pema rigdzin.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80572 ;
-	tolo:represents told:_IntellectualProperty_80572 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80572_pema_rigdzin_thumb ;
+	tolo:represents told:_IntellectualProperty_80572_pema_rigdzin ;
 	.
 
-told:_DigitalContent_80573
+told:_DigitalContent_80573_zhechen_rabjam_01
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80573.Zhechen Rabjam 01.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80573 ;
-	tolo:represents told:_IntellectualProperty_80573 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_80573_zhechen_rabjam_01_thumb ;
+	tolo:represents told:_IntellectualProperty_80573_zhechen_rabjam_01 ;
 	.
 
 told:_DigitalContent_81056
@@ -2999,12 +3004,12 @@ told:_DigitalContent_82_richen_zangpo
 	tolo:represents told:_IntellectualProperty_82_richen_zangpo ;
 	.
 
-told:_DigitalContent_86902
+told:_DigitalContent_86902_pelden_tsultrim
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "86902.pelden tsultrim.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_86902 ;
-	tolo:represents told:_IntellectualProperty_86902 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_86902_pelden_tsultrim_thumb ;
+	tolo:represents told:_IntellectualProperty_86902_pelden_tsultrim ;
 	.
 
 told:_DigitalContent_874_ngakgi_wangchuk
@@ -3023,12 +3028,12 @@ told:_DigitalContent_87603
 	tolo:represents told:_IntellectualProperty_87603 ;
 	.
 
-told:_DigitalContent_87620
+told:_DigitalContent_87620_sanggye_puntsok
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "87620.Sanggye Puntsok.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_87620 ;
-	tolo:represents told:_IntellectualProperty_87620 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_87620_sanggye_puntsok_thumb ;
+	tolo:represents told:_IntellectualProperty_87620_sanggye_puntsok ;
 	.
 
 told:_DigitalContent_87649_jkw
@@ -3255,12 +3260,12 @@ told:_DigitalContent_90907
 	tolo:represents told:_IntellectualProperty_90907 ;
 	.
 
-told:_DigitalContent_915
+told:_DigitalContent_915_zhabkar_practice
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "915.Zhabkar practice.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_915 ;
-	tolo:represents told:_IntellectualProperty_915 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_915_zhabkar_practice_thumb ;
+	tolo:represents told:_IntellectualProperty_915_zhabkar_practice ;
 	.
 
 told:_DigitalContent_921_mila
@@ -3423,7 +3428,7 @@ told:_DigitalContent_9th_je
 	tolo:represents told:_IntellectualProperty_9th_je ;
 	.
 
-told:_DigitalContent_Thumbnail_0
+told:_DigitalContent_Thumbnail_0_7_madman_of_u_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "0.7 Madman of U_thumb.jpg"@en ;
@@ -3459,13 +3464,16 @@ told:_DigitalContent_Thumbnail_10478256_1579142939077638_627026012_n_thumb
 	gist:name "10478256_1579142939077638_627026012_n_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_105542771
+told:_DigitalContent_Thumbnail_105542771_ip16wiec_tibetoct08065_1_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"105542771.iP16WIeC.TibetOct08065 (1)_thumb.jpg"@en ,
-		"105542771.iP16WIeC.TibetOct08065_thumb.jpg"@en
-		;
+	gist:name "105542771.iP16WIeC.TibetOct08065 (1)_thumb.jpg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_105542771_ip16wiec_tibetoct08065_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "105542771.iP16WIeC.TibetOct08065_thumb.jpg"@en ;
 	.
 
 told:_DigitalContent_Thumbnail_1057_panchen_02_thumb
@@ -3558,7 +3566,7 @@ told:_DigitalContent_Thumbnail_12th_karmapa_61059_thumb
 	gist:name "12th karmapa 61059_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_134
+told:_DigitalContent_Thumbnail_134_ngorchen_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "134.ngorchen_thumb.jpg"@en ;
@@ -3696,7 +3704,7 @@ told:_DigitalContent_Thumbnail_23_with_young_dzogchen_rinpoche_thumb
 	gist:name "23 with young Dzogchen Rinpoche_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_244
+told:_DigitalContent_Thumbnail_244_tendzin_rabgye_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "244.Tendzin Rabgye_thumb.jpg"@en ;
@@ -3960,7 +3968,7 @@ told:_DigitalContent_Thumbnail_457_yeshe_gyaltsen_thumb
 	gist:name "457 Yeshe Gyaltsen_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_49332
+told:_DigitalContent_Thumbnail_49332_tsangnyon_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "49332.tsangnyon_thumb.jpg"@en ;
@@ -4110,13 +4118,13 @@ told:_DigitalContent_Thumbnail_52448233_yeshe_tsogyel_thumb
 	gist:name "52448233 Yeshe Tsogyel_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848957
+told:_DigitalContent_Thumbnail_52848957_namkha_nyingpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848957.namkha nyingpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848958
+told:_DigitalContent_Thumbnail_52848958_nubchen_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848958.nubchen_thumb.jpg"@en ;
@@ -4128,73 +4136,73 @@ told:_DigitalContent_Thumbnail_52848959gyalwa_choyang_thumb
 	gist:name "52848959Gyalwa Choyang_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848961
+told:_DigitalContent_Thumbnail_52848961_drogmi_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848961.Drogmi_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848962
+told:_DigitalContent_Thumbnail_52848962_nyak_jnyanakumara_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848962.Nyak jnyanakumara_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848963
+told:_DigitalContent_Thumbnail_52848963_pelgyi_sengge_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848963.Pelgyi Sengge_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848967
+told:_DigitalContent_Thumbnail_52848967_dorje_dudjom_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848967.Dorje Dudjom_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848968
+told:_DigitalContent_Thumbnail_52848968_yeshe_wangpo_or_yeshe_yang_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848968.Yeshe Wangpo or Yeshe Yang_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848969
+told:_DigitalContent_Thumbnail_52848969_sogpo_lhapal_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848969.Sogpo Lhapal_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848970
+told:_DigitalContent_Thumbnail_52848970_nanam_yeshe_de_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848970.Nanam Yeshe De_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848971
+told:_DigitalContent_Thumbnail_52848971_palgyi_wangchug_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848971.Palgyi Wangchug_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848972
+told:_DigitalContent_Thumbnail_52848972_denma_tsemang_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848972.Denma Tsemang_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848973
+told:_DigitalContent_Thumbnail_52848973_kawa_peltseg_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848973.Kawa Peltseg_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848975
+told:_DigitalContent_Thumbnail_52848975_shubu_palgyi_sengge_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848975.Shubu Palgyi Sengge_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848976
+told:_DigitalContent_Thumbnail_52848976_gyalwai_lodro_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848976.Gyalwai Lodro_thumb.jpg"@en ;
@@ -4206,43 +4214,43 @@ told:_DigitalContent_Thumbnail_52848977_thumb
 	gist:name "52848977_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848978
+told:_DigitalContent_Thumbnail_52848978_drenpa_namkha_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848978.Drenpa Namkha_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848979
+told:_DigitalContent_Thumbnail_52848979_odren_palgyi_wangchuk_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848979.Odren Palgyi Wangchuk_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848980
+told:_DigitalContent_Thumbnail_52848980_ma_rinchen_chok_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848980.Ma Rinchen Chok_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848981
+told:_DigitalContent_Thumbnail_52848981_lhalung_palgyi_dorje_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848981.Lhalung Palgyi Dorje_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848982
+told:_DigitalContent_Thumbnail_52848982_konchog_jungne_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848982.Konchog Jungne_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_52848983
+told:_DigitalContent_Thumbnail_52848983_gyalwa_janchub_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "52848983.Gyalwa Janchub_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_53050551
+told:_DigitalContent_Thumbnail_53050551_padampa_sanggye_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53050551.Padampa Sanggye_thumb.jpg"@en ;
@@ -4254,13 +4262,13 @@ told:_DigitalContent_Thumbnail_53050552_thumb
 	gist:name "53050552_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_53773
+told:_DigitalContent_Thumbnail_53773_jatson_nyingpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53773.Jatson Nyingpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_53774
+told:_DigitalContent_Thumbnail_53774_jatson_nyingpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "53774.jatson Nyingpo_thumb.jpg"@en ;
@@ -4305,7 +4313,7 @@ told:_DigitalContent_Thumbnail_57082_thumb
 	gist:name "57082_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_58303
+told:_DigitalContent_Thumbnail_58303_tsangnyon_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "58303.Tsangnyon_thumb.jpg"@en ;
@@ -4455,13 +4463,13 @@ told:_DigitalContent_Thumbnail_65120_mila_thumb
 	gist:name "65120 Mila_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65121
+told:_DigitalContent_Thumbnail_65121_mila_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65121.Mila_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65159
+told:_DigitalContent_Thumbnail_65159_jigme_lingpa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65159.jigme lingpa_thumb.jpg"@en ;
@@ -4491,7 +4499,7 @@ told:_DigitalContent_Thumbnail_65205_jikten_gonpo_thumb
 	gist:name "65205 Jikten Gonpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65232
+told:_DigitalContent_Thumbnail_65232_lhachok_sengge_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65232.lhachok sengge_thumb.jpg"@en ;
@@ -4533,13 +4541,13 @@ told:_DigitalContent_Thumbnail_65358_thumb
 	gist:name "65358_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65375
+told:_DigitalContent_Thumbnail_65375__thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65375._thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65384
+told:_DigitalContent_Thumbnail_65384_sixth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65384.Sixth Dalai Lama_thumb.jpg"@en ;
@@ -4569,7 +4577,7 @@ told:_DigitalContent_Thumbnail_65622_13th_je_khenpo_thumb
 	gist:name "65622 13th Je Khenpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_65647
+told:_DigitalContent_Thumbnail_65647__thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "65647._thumb.jpg"@en ;
@@ -4659,7 +4667,7 @@ told:_DigitalContent_Thumbnail_65918_6th_ganden_tripa_thumb
 	gist:name "65918 6th ganden tripa_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_66246
+told:_DigitalContent_Thumbnail_66246_nyangral_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "66246.Nyangral_thumb.jpg"@en ;
@@ -4671,7 +4679,7 @@ told:_DigitalContent_Thumbnail_66247_guru_chowang_thumb
 	gist:name "66247 Guru Chowang_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_66250
+told:_DigitalContent_Thumbnail_66250_ratna_lingpa1_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "66250.ratna lingpa1_thumb.jpg"@en ;
@@ -4689,7 +4697,7 @@ told:_DigitalContent_Thumbnail_674_karma_pakshi_thumb
 	gist:name "674 Karma Pakshi_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_68495
+told:_DigitalContent_Thumbnail_68495__go_lotsawa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "68495. Go Lotsawa_thumb.jpeg"@en ;
@@ -4749,7 +4757,7 @@ told:_DigitalContent_Thumbnail_777_mingyur_dorje_thumb
 	gist:name "777 Mingyur Dorje_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79186
+told:_DigitalContent_Thumbnail_79186_panchen_02_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79186.panchen 02_thumb.jpg"@en ;
@@ -4785,7 +4793,7 @@ told:_DigitalContent_Thumbnail_79610_thumb
 	gist:name "79610_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79631
+told:_DigitalContent_Thumbnail_79631_vimalamitra_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79631.Vimalamitra_thumb.jpg"@en ;
@@ -4797,7 +4805,7 @@ told:_DigitalContent_Thumbnail_79655_thumb
 	gist:name "79655_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79663
+told:_DigitalContent_Thumbnail_79663_chekhawa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79663.Chekhawa_thumb.jpg"@en ;
@@ -4827,25 +4835,25 @@ told:_DigitalContent_Thumbnail_79794_thumb
 	gist:name "79794_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79875
+told:_DigitalContent_Thumbnail_79875_ra_lotsawa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79875.ra lotsawa_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79897
+told:_DigitalContent_Thumbnail_79897_jamyang_zhepa_01_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79897.Jamyang Zhepa 01_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79912
+told:_DigitalContent_Thumbnail_79912_thirteenth_dl_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79912.thirteenth dl_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_79975
+told:_DigitalContent_Thumbnail_79975_tropu_lotsawa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "79975.Tropu lotsawa_thumb.jpg"@en ;
@@ -4875,19 +4883,19 @@ told:_DigitalContent_Thumbnail_80133_thumb
 	gist:name "80133_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80185
+told:_DigitalContent_Thumbnail_80185_jigme_lingpa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80185.jigme lingpa_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80186
+told:_DigitalContent_Thumbnail_80186_dodrupchen_01_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80186.dodrupchen 01_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80187
+told:_DigitalContent_Thumbnail_80187_gyalwai_nyugu_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80187.gyalwai nyugu_thumb.jpg"@en ;
@@ -4905,31 +4913,31 @@ told:_DigitalContent_Thumbnail_80189_thumb
 	gist:name "80189_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80190
+told:_DigitalContent_Thumbnail_80190__zhenpen_taye_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80190. zhenpen taye_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80191
+told:_DigitalContent_Thumbnail_80191_khyentse_wangpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80191.khyentse wangpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80354
+told:_DigitalContent_Thumbnail_80354_gendun_drup_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80354.Gendun drup_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80355
+told:_DigitalContent_Thumbnail_80355_second_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80355.Second Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80356
+told:_DigitalContent_Thumbnail_80356_dl3_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80356.DL3_thumb.jpg"@en ;
@@ -4941,49 +4949,49 @@ told:_DigitalContent_Thumbnail_80357_thumb
 	gist:name "80357_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80358
+told:_DigitalContent_Thumbnail_80358_fifth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80358.Fifth Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80359
+told:_DigitalContent_Thumbnail_80359_sixth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80359.Sixth Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80360
+told:_DigitalContent_Thumbnail_80360_seventh_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80360.Seventh Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80361
+told:_DigitalContent_Thumbnail_80361_eighth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80361.Eighth Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80362
+told:_DigitalContent_Thumbnail_80362_dalai_09_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80362.Dalai 09_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80363
+told:_DigitalContent_Thumbnail_80363_tenth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80363.Tenth Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80364
+told:_DigitalContent_Thumbnail_80364_eleventh_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80364.Eleventh Dalai Lama_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80365
+told:_DigitalContent_Thumbnail_80365_twelfth_dalai_lama_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80365.Twelfth Dalai Lama_thumb.jpg"@en ;
@@ -4995,13 +5003,13 @@ told:_DigitalContent_Thumbnail_80377_thumb
 	gist:name "80377_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80383
+told:_DigitalContent_Thumbnail_80383_panchen_01_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80383.panchen 01_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80384
+told:_DigitalContent_Thumbnail_80384_panchen_02_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80384.panchen 02_thumb.jpg"@en ;
@@ -5019,13 +5027,13 @@ told:_DigitalContent_Thumbnail_80393_thumb
 	gist:name "80393_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80394
+told:_DigitalContent_Thumbnail_80394_tripa_4_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80394.Tripa 4_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80395
+told:_DigitalContent_Thumbnail_80395_tripa_5_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80395.Tripa 5_thumb.jpg"@en ;
@@ -5037,19 +5045,19 @@ told:_DigitalContent_Thumbnail_80396_thumb
 	gist:name "80396_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80397
+told:_DigitalContent_Thumbnail_80397_tripa_7_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80397.Tripa 7_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80398
+told:_DigitalContent_Thumbnail_80398_tripa_8_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80398.Tripa 8_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80399
+told:_DigitalContent_Thumbnail_80399_tripa_9_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80399.Tripa 9_thumb.jpg"@en ;
@@ -5061,541 +5069,541 @@ told:_DigitalContent_Thumbnail_803_mila_thumb
 	gist:name "803 Mila_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80400
+told:_DigitalContent_Thumbnail_80400_tripa_10_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80400.Tripa 10_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80401
+told:_DigitalContent_Thumbnail_80401_tripa_11_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80401.Tripa 11_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80402
+told:_DigitalContent_Thumbnail_80402_tripa_12_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80402.Tripa 12_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80403
+told:_DigitalContent_Thumbnail_80403_tripa_13_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80403.Tripa 13_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80404
+told:_DigitalContent_Thumbnail_80404_tripa_14_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80404.Tripa 14_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80405
+told:_DigitalContent_Thumbnail_80405_tripa_15_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80405.Tripa 15_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80406
+told:_DigitalContent_Thumbnail_80406_tripa_16_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80406.Tripa 16_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80407
+told:_DigitalContent_Thumbnail_80407_tripa_17_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80407.Tripa 17_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80408
+told:_DigitalContent_Thumbnail_80408_tripa_18_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80408.Tripa 18_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80409
+told:_DigitalContent_Thumbnail_80409_tripa_19_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80409.Tripa 19_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80410
+told:_DigitalContent_Thumbnail_80410_tripa_20_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80410.Tripa 20_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80411
+told:_DigitalContent_Thumbnail_80411_tripa_21_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80411.Tripa 21_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80412
+told:_DigitalContent_Thumbnail_80412_tripa_22_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80412.Tripa 22_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80413
+told:_DigitalContent_Thumbnail_80413_tripa_23_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80413.Tripa 23_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80414
+told:_DigitalContent_Thumbnail_80414_tripa_24_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80414.Tripa 24_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80415
+told:_DigitalContent_Thumbnail_80415_tripa_25_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80415.Tripa 25_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80416
+told:_DigitalContent_Thumbnail_80416_tripa_26_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80416.Tripa 26_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80417
+told:_DigitalContent_Thumbnail_80417_tripa_27_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80417.Tripa 27_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80418
+told:_DigitalContent_Thumbnail_80418_tripa_28_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80418.Tripa 28_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80419
+told:_DigitalContent_Thumbnail_80419_tripa_29_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80419.Tripa 29_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80420
+told:_DigitalContent_Thumbnail_80420_tripa_30_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80420.Tripa 30_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80421
+told:_DigitalContent_Thumbnail_80421_tripa_31_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80421.Tripa 31_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80422
+told:_DigitalContent_Thumbnail_80422_tripa_32_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80422.Tripa 32_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80423
+told:_DigitalContent_Thumbnail_80423_tripa_33_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80423.Tripa 33_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80424
+told:_DigitalContent_Thumbnail_80424_tripa_34_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80424.Tripa 34_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80425
+told:_DigitalContent_Thumbnail_80425_tripa_35_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80425.Tripa 35_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80426
+told:_DigitalContent_Thumbnail_80426_tripa_36_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80426.Tripa 36_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80427
+told:_DigitalContent_Thumbnail_80427_tripa_37_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80427.Tripa 37_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80428
+told:_DigitalContent_Thumbnail_80428_tripa_38_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80428.Tripa 38_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80429
+told:_DigitalContent_Thumbnail_80429_tripa_39_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80429.Tripa 39_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80430
+told:_DigitalContent_Thumbnail_80430_tripa_40_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80430.Tripa 40_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80431
+told:_DigitalContent_Thumbnail_80431_tripa_41_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80431.Tripa 41_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80432
+told:_DigitalContent_Thumbnail_80432_tripa_42_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80432.Tripa 42_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80433
+told:_DigitalContent_Thumbnail_80433_tripa_43_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80433.Tripa 43_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80434
+told:_DigitalContent_Thumbnail_80434_tripa_44_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80434.Tripa 44_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80435
+told:_DigitalContent_Thumbnail_80435_tripa_45_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80435.Tripa 45_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80436
+told:_DigitalContent_Thumbnail_80436_tripa_46_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80436.Tripa 46_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80437
+told:_DigitalContent_Thumbnail_80437_tripa_47_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80437.Tripa 47_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80440
+told:_DigitalContent_Thumbnail_80440_tripa_48_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80440.Tripa 48_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80441
+told:_DigitalContent_Thumbnail_80441_tripa_49jpg_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80441.Tripa 49jpg_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80442
+told:_DigitalContent_Thumbnail_80442_tripa_50_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80442.Tripa 50_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80443
+told:_DigitalContent_Thumbnail_80443_tripa_51_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80443.Tripa 51_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80444
+told:_DigitalContent_Thumbnail_80444_tripa_52_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80444.Tripa 52_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80445
+told:_DigitalContent_Thumbnail_80445_tripa_53_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80445.Tripa 53_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80446
+told:_DigitalContent_Thumbnail_80446_tripa_54_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80446.Tripa 54_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80447
+told:_DigitalContent_Thumbnail_80447_tripa_55_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80447.Tripa 55_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80448
+told:_DigitalContent_Thumbnail_80448_tripa_56_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80448.Tripa 56_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80449
+told:_DigitalContent_Thumbnail_80449_tripa_57_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80449.Tripa 57_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80450
+told:_DigitalContent_Thumbnail_80450_tripa_58_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80450.Tripa 58_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80451
+told:_DigitalContent_Thumbnail_80451_tripa_59_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80451.Tripa 59_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80452
+told:_DigitalContent_Thumbnail_80452_tripa_60_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80452.Tripa 60_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80453
+told:_DigitalContent_Thumbnail_80453_tripa_61_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80453.Tripa 61_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80454
+told:_DigitalContent_Thumbnail_80454_tripa_62_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80454.Tripa 62_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80455
+told:_DigitalContent_Thumbnail_80455_tripa_63_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80455.Tripa 63_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80456
+told:_DigitalContent_Thumbnail_80456_tripa_64_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80456.Tripa 64_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80457
+told:_DigitalContent_Thumbnail_80457_tripa_65_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80457.Tripa 65_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80458
+told:_DigitalContent_Thumbnail_80458_tripa_66_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80458.Tripa 66_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80459
+told:_DigitalContent_Thumbnail_80459_tripa_67_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80459.Tripa 67_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80460
+told:_DigitalContent_Thumbnail_80460_tripa_68_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80460.Tripa 68_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80461
+told:_DigitalContent_Thumbnail_80461_tripa_69_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80461.Tripa 69_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80462
+told:_DigitalContent_Thumbnail_80462_tripa_70_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80462.Tripa 70_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80463
+told:_DigitalContent_Thumbnail_80463_tripa_71_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80463.Tripa 71_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80464
+told:_DigitalContent_Thumbnail_80464_tripa_72_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80464.Tripa 72_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80465
+told:_DigitalContent_Thumbnail_80465_tripa_73_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80465.Tripa 73_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80466
+told:_DigitalContent_Thumbnail_80466_tripa_74_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80466.Tripa 74_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80467
+told:_DigitalContent_Thumbnail_80467_tripa_75_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80467.Tripa 75_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80468
+told:_DigitalContent_Thumbnail_80468_tripa_76_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80468.Tripa 76_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80469
+told:_DigitalContent_Thumbnail_80469_tripa_77_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80469.Tripa 77_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80470
+told:_DigitalContent_Thumbnail_80470_tripa_77_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80470.Tripa 77_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80471
+told:_DigitalContent_Thumbnail_80471_tripa_78_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80471.Tripa 78_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80472
+told:_DigitalContent_Thumbnail_80472_tripa_79_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80472.Tripa 79_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80473
+told:_DigitalContent_Thumbnail_80473_tripa_81_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80473.Tripa 81_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80474
+told:_DigitalContent_Thumbnail_80474_tripa_82_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80474.Tripa 82_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80475
+told:_DigitalContent_Thumbnail_80475_tripa_83_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80475.Tripa 83_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80476
+told:_DigitalContent_Thumbnail_80476_tripa_84_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80476.Tripa 84_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80477
+told:_DigitalContent_Thumbnail_80477_tripa_85_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80477.Tripa 85_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80478
+told:_DigitalContent_Thumbnail_80478_tripa_86_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80478.Tripa 86_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80479
+told:_DigitalContent_Thumbnail_80479_tripa_87_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80479.Tripa 87_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80480
+told:_DigitalContent_Thumbnail_80480_tripa_88_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80480.Tripa 88_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80481
+told:_DigitalContent_Thumbnail_80481__tripa_89_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80481. Tripa 89_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80482
+told:_DigitalContent_Thumbnail_80482__tripa_90_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80482. Tripa 90_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80483
+told:_DigitalContent_Thumbnail_80483__tripa_91_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80483. Tripa 91_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80484
+told:_DigitalContent_Thumbnail_80484__tripa_92_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80484. Tripa 92_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80485
+told:_DigitalContent_Thumbnail_80485__tripa_93_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80485. Tripa 93_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80486
+told:_DigitalContent_Thumbnail_80486__tripa_94_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80486. Tripa 94_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80487
+told:_DigitalContent_Thumbnail_80487__tripa_95_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80487. Tripa 95_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80531
+told:_DigitalContent_Thumbnail_80531_shakyashri_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80531.shakyashri_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80534
+told:_DigitalContent_Thumbnail_80534_padampa_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80534.padampa_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80535
+told:_DigitalContent_Thumbnail_80535_tangtong_gyelpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80535.tangtong gyelpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80536
+told:_DigitalContent_Thumbnail_80536_rinchen_zangpo_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80536.rinchen zangpo_thumb.jpg"@en ;
@@ -5607,13 +5615,13 @@ told:_DigitalContent_Thumbnail_80537_ngok_lotsawa_thumb
 	gist:name "80537 Ngok Lotsawa_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80572
+told:_DigitalContent_Thumbnail_80572_pema_rigdzin_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80572.Pema rigdzin_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_80573
+told:_DigitalContent_Thumbnail_80573_zhechen_rabjam_01_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "80573.Zhechen Rabjam 01_thumb.jpg"@en ;
@@ -5661,7 +5669,7 @@ told:_DigitalContent_Thumbnail_82_richen_zangpo_thumb
 	gist:name "82 Richen Zangpo_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_86902
+told:_DigitalContent_Thumbnail_86902_pelden_tsultrim_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "86902.pelden tsultrim_thumb.jpg"@en ;
@@ -5679,7 +5687,7 @@ told:_DigitalContent_Thumbnail_87603_thumb
 	gist:name "87603_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_87620
+told:_DigitalContent_Thumbnail_87620_sanggye_puntsok_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "87620.Sanggye Puntsok_thumb.jpg"@en ;
@@ -5853,7 +5861,7 @@ told:_DigitalContent_Thumbnail_90907_thumb
 	gist:name "90907_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_915
+told:_DigitalContent_Thumbnail_915_zhabkar_practice_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "915.Zhabkar practice_thumb.jpg"@en ;
@@ -6708,7 +6716,7 @@ told:_DigitalContent_Thumbnail_drakpa_gyaltsen_65826_thumb
 	gist:name "drakpa gyaltsen 65826_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_drapa_ngonshe_80569
+told:_DigitalContent_Thumbnail_drapa_ngonshe_80569__thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Drapa Ngonshe 80569._thumb.jpg"@en ;
@@ -7515,15 +7523,6 @@ told:_DigitalContent_Thumbnail_jonangpa87607_thumb
 	gist:name "jonangpa87607_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_k
-	a tolo:DigitalContent ;
-	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"K. Dhondup2_thumb.jpg"@en ,
-		"K. Dhondup_thumb.jpg"@en
-		;
-	.
-
 told:_DigitalContent_Thumbnail_k16_01_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
@@ -7534,6 +7533,18 @@ told:_DigitalContent_Thumbnail_k16_and_freda_bedi_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "K16 and Freda Bedi_thumb.jpeg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_k__dhondup2_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "K. Dhondup2_thumb.jpg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_k__dhondup_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "K. Dhondup_thumb.jpg"@en ;
 	.
 
 told:_DigitalContent_Thumbnail_kachen_lochen_zotpa_stupa_thumb
@@ -8325,7 +8336,7 @@ told:_DigitalContent_Thumbnail_longchenpa_64042_thumb
 	gist:name "Longchenpa 64042_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_longchenpa_har631_rubin_f1998
+told:_DigitalContent_Thumbnail_longchenpa_har631_rubin_f1998_9_2_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Longchenpa HAR631 Rubin F1998.9.2_thumb.jpg"@en ;
@@ -8355,7 +8366,7 @@ told:_DigitalContent_Thumbnail_lonyendraks_thumb
 	gist:name "LoNyendrakS_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_lopon_sangye_tenzin_large
+told:_DigitalContent_Thumbnail_lopon_sangye_tenzin_large_jpg_for_web_small_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "lopon_sangye_tenzin_large.jpg-for-web-small_thumb.jpg"@en ;
@@ -8556,7 +8567,7 @@ told:_DigitalContent_Thumbnail_mp1_thumb
 	gist:name "mp1_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_mr
+told:_DigitalContent_Thumbnail_mr__and_mrs__pemba__1959_1960_in_darjeeling_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Mr. and Mrs. Pemba. 1959:1960 in Darjeeling_thumb.jpg"@en ;
@@ -8808,7 +8819,7 @@ told:_DigitalContent_Thumbnail_p079_1_a_thumb
 	gist:name "P079-1-A_thumb.jpeg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_p1994
+told:_DigitalContent_Thumbnail_p1994_15_1_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "P1994.15.1_thumb.jpeg"@en ;
@@ -8964,7 +8975,7 @@ told:_DigitalContent_Thumbnail_pelyul_choktrul_from_wikg6199_thumb
 	gist:name "Pelyul Choktrul from WiKG6199_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_pelyul_rigdzin_kunzang_sherab_80571
+told:_DigitalContent_Thumbnail_pelyul_rigdzin_kunzang_sherab_80571__thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Pelyul Rigdzin Kunzang Sherab 80571._thumb.jpg"@en ;
@@ -8988,7 +8999,7 @@ told:_DigitalContent_Thumbnail_pema_thinley_thumb
 	gist:name "Pema Thinley_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_pema_trine_80570
+told:_DigitalContent_Thumbnail_pema_trine_80570__thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Pema Trine 80570._thumb.jpg"@en ;
@@ -9132,15 +9143,6 @@ told:_DigitalContent_Thumbnail_phugtal_stonba_lhakhang_late15th_early16thc_thumb
 	gist:name "Phugtal_stonba lhakhang late15th_early16thC_thumb.jpeg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_pic
-	a tolo:DigitalContent ;
-	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"pic.dpr6_thumb.jpeg"@en ,
-		"pic.k16.dpr6_thumb.jpeg"@en
-		;
-	.
-
 told:_DigitalContent_Thumbnail_pic0001_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
@@ -9157,6 +9159,18 @@ told:_DigitalContent_Thumbnail_pic0008_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "pic0008_thumb.jpeg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_pic_dpr6_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "pic.dpr6_thumb.jpeg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_pic_k16_dpr6_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "pic.k16.dpr6_thumb.jpeg"@en ;
 	.
 
 told:_DigitalContent_Thumbnail_picture1_thumb
@@ -9399,7 +9413,7 @@ told:_DigitalContent_Thumbnail_sadutshangfamily_thumb
 		;
 	.
 
-told:_DigitalContent_Thumbnail_sakya_kambum__vol
+told:_DigitalContent_Thumbnail_sakya_kambum__vol__ba__fol__409b_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Sakya Kambum, vol. ba, fol. 409b_thumb.jpg"@en ;
@@ -9555,46 +9569,49 @@ told:_DigitalContent_Thumbnail_saspol_cave_2_16thc_thumb
 	gist:name "Saspol Cave 2_16thC_thumb.jpeg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screen_shot_2017_09_14_at_1
+told:_DigitalContent_Thumbnail_screen_shot_2017_09_14_at_1_41_17_pm_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2017-09-14 at 1.41.17 PM_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1
+told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1_22_03_pm_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"Screen Shot 2017-12-04 at 1.22.03 PM_thumb.jpg"@en ,
-		"Screen Shot 2017-12-04 at 1.22.30 PM_thumb.jpg"@en
-		;
+	gist:name "Screen Shot 2017-12-04 at 1.22.03 PM_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screen_shot_2017_12_11_at_10
+told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1_22_30_pm_thumb
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "Screen Shot 2017-12-04 at 1.22.30 PM_thumb.jpg"@en ;
+	.
+
+told:_DigitalContent_Thumbnail_screen_shot_2017_12_11_at_10_05_50_am_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2017-12-11 at 10.05.50 AM_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screen_shot_2018_02_14_at_11
+told:_DigitalContent_Thumbnail_screen_shot_2018_02_14_at_11_06_26_am_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2018-02-14 at 11.06.26 AM_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screen_shot_2019_07_30_at_3
+told:_DigitalContent_Thumbnail_screen_shot_2019_07_30_at_3_52_16_pm_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2019-07-30 at 3.52.16 PM_thumb.jpeg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screenshot_2022_02_19_at_07
+told:_DigitalContent_Thumbnail_screenshot_2022_02_19_at_07_54_28_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screenshot 2022-02-19 at 07.54.28_thumb.jpeg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_screenshot_2023_10_27_at_8
+told:_DigitalContent_Thumbnail_screenshot_2023_10_27_at_8_41_00_am_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screenshot 2023-10-27 at 8.41.00 AM_thumb.jpeg"@en ;
@@ -10086,7 +10103,7 @@ told:_DigitalContent_Thumbnail_tlongsel_nyingpo__ronis_2004_thumb
 	gist:name "TLongsel Nyingpo, Ronis 2004_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_tongkhor_01
+told:_DigitalContent_Thumbnail_tongkhor_01_80085_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Tongkhor 01.80085_thumb.jpg"@en ;
@@ -10104,7 +10121,7 @@ told:_DigitalContent_Thumbnail_tr_thumb
 	gist:name "TR_thumb.jpg"@en ;
 	.
 
-told:_DigitalContent_Thumbnail_trandruk_bell__tucci_fig
+told:_DigitalContent_Thumbnail_trandruk_bell__tucci_fig__5_thumb
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Trandruk bell, Tucci fig. 5_thumb.jpeg"@en ;
@@ -10241,11 +10258,13 @@ told:_DigitalContent_Thumbnail_tsewang_norbu_65279_thumb
 
 told:_DigitalContent_Thumbnail_tsewang_paljor_mayum_tsering_wangmo_and_khandro_thumb
 	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Tsewang Paljor Mayum Tsering Wangmo and Khandro_thumb.jpg"@en ;
 	.
 
 told:_DigitalContent_Thumbnail_tsewang_pemba_with_tenzing_sherpa_and_second_wife_thumb
 	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Tsewang Pemba with Tenzing Sherpa and second wife_thumb.jpg"@en ;
 	.
 
@@ -11560,12 +11579,12 @@ told:_DigitalContent_drakpa_gyaltsen_65826
 	tolo:represents told:_IntellectualProperty_drakpa_gyaltsen_65826 ;
 	.
 
-told:_DigitalContent_drapa_ngonshe_80569
+told:_DigitalContent_drapa_ngonshe_80569_
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Drapa Ngonshe 80569..jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_drapa_ngonshe_80569 ;
-	tolo:represents told:_IntellectualProperty_drapa_ngonshe_80569 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_drapa_ngonshe_80569__thumb ;
+	tolo:represents told:_IntellectualProperty_drapa_ngonshe_80569_ ;
 	.
 
 told:_DigitalContent_drenpa_namkha_65183
@@ -12635,17 +12654,6 @@ told:_DigitalContent_jonangpa87607
 	tolo:represents told:_IntellectualProperty_jonangpa87607 ;
 	.
 
-told:_DigitalContent_k
-	a tolo:DigitalContent ;
-	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"K. Dhondup.jpg"@en ,
-		"K. Dhondup2.jpg"@en
-		;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_k ;
-	tolo:represents told:_IntellectualProperty_k ;
-	.
-
 told:_DigitalContent_k16_01
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
@@ -12660,6 +12668,22 @@ told:_DigitalContent_k16_and_freda_bedi
 	gist:name "K16 and Freda Bedi.jpeg"@en ;
 	tolo:hasThumbnail told:_DigitalContent_Thumbnail_k16_and_freda_bedi_thumb ;
 	tolo:represents told:_IntellectualProperty_k16_and_freda_bedi ;
+	.
+
+told:_DigitalContent_k__dhondup
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "K. Dhondup.jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_k__dhondup_thumb ;
+	tolo:represents told:_IntellectualProperty_k__dhondup ;
+	.
+
+told:_DigitalContent_k__dhondup2
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "K. Dhondup2.jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_k__dhondup2_thumb ;
+	tolo:represents told:_IntellectualProperty_k__dhondup2 ;
 	.
 
 told:_DigitalContent_kachen_lochen_zotpa
@@ -13713,12 +13737,12 @@ told:_DigitalContent_longchenpa_64042
 	tolo:represents told:_IntellectualProperty_longchenpa_64042 ;
 	.
 
-told:_DigitalContent_longchenpa_har631_rubin_f1998
+told:_DigitalContent_longchenpa_har631_rubin_f1998_9_2
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Longchenpa HAR631 Rubin F1998.9.2.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_longchenpa_har631_rubin_f1998 ;
-	tolo:represents told:_IntellectualProperty_longchenpa_har631_rubin_f1998 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_longchenpa_har631_rubin_f1998_9_2_thumb ;
+	tolo:represents told:_IntellectualProperty_longchenpa_har631_rubin_f1998_9_2 ;
 	.
 
 told:_DigitalContent_longdol
@@ -13753,12 +13777,12 @@ told:_DigitalContent_lonyendraks
 	tolo:represents told:_IntellectualProperty_lonyendraks ;
 	.
 
-told:_DigitalContent_lopon_sangye_tenzin_large
+told:_DigitalContent_lopon_sangye_tenzin_large_jpg_for_web_small
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "lopon_sangye_tenzin_large.jpg-for-web-small.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_lopon_sangye_tenzin_large ;
-	tolo:represents told:_IntellectualProperty_lopon_sangye_tenzin_large ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_lopon_sangye_tenzin_large_jpg_for_web_small_thumb ;
+	tolo:represents told:_IntellectualProperty_lopon_sangye_tenzin_large_jpg_for_web_small ;
 	.
 
 told:_DigitalContent_lopon_tenzin_namdak_rimpoche
@@ -14020,12 +14044,12 @@ told:_DigitalContent_mp1
 	tolo:represents told:_IntellectualProperty_mp1 ;
 	.
 
-told:_DigitalContent_mr
+told:_DigitalContent_mr__and_mrs__pemba__1959_1960_in_darjeeling
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Mr. and Mrs. Pemba. 1959:1960 in Darjeeling.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_mr ;
-	tolo:represents told:_IntellectualProperty_mr ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_mr__and_mrs__pemba__1959_1960_in_darjeeling_thumb ;
+	tolo:represents told:_IntellectualProperty_mr__and_mrs__pemba__1959_1960_in_darjeeling ;
 	.
 
 told:_DigitalContent_muchen_368
@@ -14356,12 +14380,12 @@ told:_DigitalContent_p079_1_a
 	tolo:represents told:_IntellectualProperty_p079_1_a ;
 	.
 
-told:_DigitalContent_p1994
+told:_DigitalContent_p1994_15_1
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "P1994.15.1.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_p1994 ;
-	tolo:represents told:_IntellectualProperty_p1994 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_p1994_15_1_thumb ;
+	tolo:represents told:_IntellectualProperty_p1994_15_1 ;
 	.
 
 told:_DigitalContent_p2370
@@ -14564,12 +14588,12 @@ told:_DigitalContent_pelyul_choktrul_from_wikg6199
 	tolo:represents told:_IntellectualProperty_pelyul_choktrul_from_wikg6199 ;
 	.
 
-told:_DigitalContent_pelyul_rigdzin_kunzang_sherab_80571
+told:_DigitalContent_pelyul_rigdzin_kunzang_sherab_80571_
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Pelyul Rigdzin Kunzang Sherab 80571..jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pelyul_rigdzin_kunzang_sherab_80571 ;
-	tolo:represents told:_IntellectualProperty_pelyul_rigdzin_kunzang_sherab_80571 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pelyul_rigdzin_kunzang_sherab_80571__thumb ;
+	tolo:represents told:_IntellectualProperty_pelyul_rigdzin_kunzang_sherab_80571_ ;
 	.
 
 told:_DigitalContent_pema_kunzang_rangdrol_frontispiece
@@ -14596,12 +14620,12 @@ told:_DigitalContent_pema_thinley
 	tolo:represents told:_IntellectualProperty_pema_thinley ;
 	.
 
-told:_DigitalContent_pema_trine_80570
+told:_DigitalContent_pema_trine_80570_
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Pema Trine 80570..jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pema_trine_80570 ;
-	tolo:represents told:_IntellectualProperty_pema_trine_80570 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pema_trine_80570__thumb ;
+	tolo:represents told:_IntellectualProperty_pema_trine_80570_ ;
 	.
 
 told:_DigitalContent_pema_tseden_chicago
@@ -14788,17 +14812,6 @@ told:_DigitalContent_phugtal_stonba_lhakhang_late15th_early16thc
 	tolo:represents told:_IntellectualProperty_phugtal_stonba_lhakhang_late15th_early16thc ;
 	.
 
-told:_DigitalContent_pic
-	a tolo:DigitalContent ;
-	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"pic.dpr6.jpeg"@en ,
-		"pic.k16.dpr6.jpeg"@en
-		;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pic ;
-	tolo:represents told:_IntellectualProperty_pic ;
-	.
-
 told:_DigitalContent_pic0001
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
@@ -14821,6 +14834,22 @@ told:_DigitalContent_pic0008
 	gist:name "pic0008.jpeg"@en ;
 	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pic0008_thumb ;
 	tolo:represents told:_IntellectualProperty_pic0008 ;
+	.
+
+told:_DigitalContent_pic_dpr6
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "pic.dpr6.jpeg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pic_dpr6_thumb ;
+	tolo:represents told:_IntellectualProperty_pic_dpr6 ;
+	.
+
+told:_DigitalContent_pic_k16_dpr6
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "pic.k16.dpr6.jpeg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_pic_k16_dpr6_thumb ;
+	tolo:represents told:_IntellectualProperty_pic_k16_dpr6 ;
 	.
 
 told:_DigitalContent_picture1
@@ -15141,12 +15170,12 @@ told:_DigitalContent_sadutshangfamily
 	tolo:represents told:_IntellectualProperty_sadutshangfamily ;
 	.
 
-told:_DigitalContent_sakya_kambum__vol
+told:_DigitalContent_sakya_kambum__vol__ba__fol__409b
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Sakya Kambum, vol. ba, fol. 409b.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_sakya_kambum__vol ;
-	tolo:represents told:_IntellectualProperty_sakya_kambum__vol ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_sakya_kambum__vol__ba__fol__409b_thumb ;
+	tolo:represents told:_IntellectualProperty_sakya_kambum__vol__ba__fol__409b ;
 	.
 
 told:_DigitalContent_sakya_lama_860
@@ -15349,63 +15378,68 @@ told:_DigitalContent_saspol_cave_2_16thc
 	tolo:represents told:_IntellectualProperty_saspol_cave_2_16thc ;
 	.
 
-told:_DigitalContent_screen_shot_2017_09_14_at_1
+told:_DigitalContent_screen_shot_2017_09_14_at_1_41_17_pm
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2017-09-14 at 1.41.17 PM.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_09_14_at_1 ;
-	tolo:represents told:_IntellectualProperty_screen_shot_2017_09_14_at_1 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_09_14_at_1_41_17_pm_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2017_09_14_at_1_41_17_pm ;
 	.
 
-told:_DigitalContent_screen_shot_2017_12_04_at_1
+told:_DigitalContent_screen_shot_2017_12_04_at_1_22_03_pm
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
-	gist:name
-		"Screen Shot 2017-12-04 at 1.22.03 PM.jpg"@en ,
-		"Screen Shot 2017-12-04 at 1.22.30 PM.jpg"@en
-		;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1 ;
-	tolo:represents told:_IntellectualProperty_screen_shot_2017_12_04_at_1 ;
+	gist:name "Screen Shot 2017-12-04 at 1.22.03 PM.jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1_22_03_pm_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2017_12_04_at_1_22_03_pm ;
 	.
 
-told:_DigitalContent_screen_shot_2017_12_11_at_10
+told:_DigitalContent_screen_shot_2017_12_04_at_1_22_30_pm
+	a tolo:DigitalContent ;
+	gist:isCategorizedBy media-image:jpg ;
+	gist:name "Screen Shot 2017-12-04 at 1.22.30 PM.jpg"@en ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_12_04_at_1_22_30_pm_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2017_12_04_at_1_22_30_pm ;
+	.
+
+told:_DigitalContent_screen_shot_2017_12_11_at_10_05_50_am
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2017-12-11 at 10.05.50 AM.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_12_11_at_10 ;
-	tolo:represents told:_IntellectualProperty_screen_shot_2017_12_11_at_10 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2017_12_11_at_10_05_50_am_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2017_12_11_at_10_05_50_am ;
 	.
 
-told:_DigitalContent_screen_shot_2018_02_14_at_11
+told:_DigitalContent_screen_shot_2018_02_14_at_11_06_26_am
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2018-02-14 at 11.06.26 AM.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2018_02_14_at_11 ;
-	tolo:represents told:_IntellectualProperty_screen_shot_2018_02_14_at_11 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2018_02_14_at_11_06_26_am_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2018_02_14_at_11_06_26_am ;
 	.
 
-told:_DigitalContent_screen_shot_2019_07_30_at_3
+told:_DigitalContent_screen_shot_2019_07_30_at_3_52_16_pm
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screen Shot 2019-07-30 at 3.52.16 PM.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2019_07_30_at_3 ;
-	tolo:represents told:_IntellectualProperty_screen_shot_2019_07_30_at_3 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screen_shot_2019_07_30_at_3_52_16_pm_thumb ;
+	tolo:represents told:_IntellectualProperty_screen_shot_2019_07_30_at_3_52_16_pm ;
 	.
 
-told:_DigitalContent_screenshot_2022_02_19_at_07
+told:_DigitalContent_screenshot_2022_02_19_at_07_54_28
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screenshot 2022-02-19 at 07.54.28.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screenshot_2022_02_19_at_07 ;
-	tolo:represents told:_IntellectualProperty_screenshot_2022_02_19_at_07 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screenshot_2022_02_19_at_07_54_28_thumb ;
+	tolo:represents told:_IntellectualProperty_screenshot_2022_02_19_at_07_54_28 ;
 	.
 
-told:_DigitalContent_screenshot_2023_10_27_at_8
+told:_DigitalContent_screenshot_2023_10_27_at_8_41_00_am
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Screenshot 2023-10-27 at 8.41.00 AM.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screenshot_2023_10_27_at_8 ;
-	tolo:represents told:_IntellectualProperty_screenshot_2023_10_27_at_8 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_screenshot_2023_10_27_at_8_41_00_am_thumb ;
+	tolo:represents told:_IntellectualProperty_screenshot_2023_10_27_at_8_41_00_am ;
 	.
 
 told:_DigitalContent_second_drigung_chetsang_416
@@ -16056,12 +16090,12 @@ told:_DigitalContent_tlongsel_nyingpo__ronis_2004
 	tolo:represents told:_IntellectualProperty_tlongsel_nyingpo__ronis_2004 ;
 	.
 
-told:_DigitalContent_tongkhor_01
+told:_DigitalContent_tongkhor_01_80085
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Tongkhor 01.80085.jpg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_tongkhor_01 ;
-	tolo:represents told:_IntellectualProperty_tongkhor_01 ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_tongkhor_01_80085_thumb ;
+	tolo:represents told:_IntellectualProperty_tongkhor_01_80085 ;
 	.
 
 told:_DigitalContent_tonmi_sambhta
@@ -16080,12 +16114,12 @@ told:_DigitalContent_tr
 	tolo:represents told:_IntellectualProperty_tr ;
 	.
 
-told:_DigitalContent_trandruk_bell__tucci_fig
+told:_DigitalContent_trandruk_bell__tucci_fig__5
 	a tolo:DigitalContent ;
 	gist:isCategorizedBy media-image:jpg ;
 	gist:name "Trandruk bell, Tucci fig. 5.jpeg"@en ;
-	tolo:hasThumbnail told:_DigitalContent_Thumbnail_trandruk_bell__tucci_fig ;
-	tolo:represents told:_IntellectualProperty_trandruk_bell__tucci_fig ;
+	tolo:hasThumbnail told:_DigitalContent_Thumbnail_trandruk_bell__tucci_fig__5_thumb ;
+	tolo:represents told:_IntellectualProperty_trandruk_bell__tucci_fig__5 ;
 	.
 
 told:_DigitalContent_translator
@@ -16729,7 +16763,7 @@ told:_DigitalContent_zurchung_65193
 	tolo:represents told:_IntellectualProperty_zurchung_65193 ;
 	.
 
-told:_IntellectualProperty_0
+told:_IntellectualProperty_0_7_madman_of_u
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 10835"@en ;
 	gist:isCategorizedBy
@@ -16847,25 +16881,33 @@ told:_IntellectualProperty_10478256_1579142939077638_627026012_n
 		;
 	.
 
-told:_IntellectualProperty_105542771
+told:_IntellectualProperty_105542771_ip16wiec_tibetoct08065
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 6874"@en ;
 	gist:isCategorizedBy
 		tolx:_GeneralMediaType_painting ,
-		tolx:_Rank_primary ,
 		tolx:_Rank_secondary
 		;
-	tolo:createDateTime
-		"2017-09-18T09:33:25"^^xsd:dateTime ,
-		"2017-09-18T09:33:44"^^xsd:dateTime
-		;
+	tolo:createDateTime "2017-09-18T09:33:44"^^xsd:dateTime ;
 	tolo:credit "Jokhang Monastery"@en ;
 	tolo:isCreatedBy told:_UserAccount_2 ;
 	tolo:isLastModifiedBy told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime
-		"2017-09-18T09:33:25"^^xsd:dateTime ,
-		"2017-09-18T09:33:44"^^xsd:dateTime
+	tolo:lastModifiedDateTime "2017-09-18T09:33:44"^^xsd:dateTime ;
+	tolo:represents told:_Person_6874 ;
+	.
+
+told:_IntellectualProperty_105542771_ip16wiec_tibetoct08065_1
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 6874"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_primary
 		;
+	tolo:createDateTime "2017-09-18T09:33:25"^^xsd:dateTime ;
+	tolo:credit "Jokhang Monastery"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2017-09-18T09:33:25"^^xsd:dateTime ;
 	tolo:represents told:_Person_6874 ;
 	.
 
@@ -17400,7 +17442,7 @@ told:_IntellectualProperty_12th_karmapa_61059
 	tolo:represents told:_Person_11092 ;
 	.
 
-told:_IntellectualProperty_134
+told:_IntellectualProperty_134_ngorchen
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"134"^^xsd:anyURI ,
@@ -17914,7 +17956,7 @@ told:_IntellectualProperty_23_with_young_dzogchen_rinpoche
 	tolo:represents told:_Person_13809 ;
 	.
 
-told:_IntellectualProperty_244
+told:_IntellectualProperty_244_tendzin_rabgye
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"244"^^xsd:anyURI ,
@@ -18694,7 +18736,7 @@ told:_IntellectualProperty_457_yeshe_gyaltsen
 	tolo:represents told:_Person_5408 ;
 	.
 
-told:_IntellectualProperty_49332
+told:_IntellectualProperty_49332_tsangnyon
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"49332"^^xsd:anyURI ,
@@ -19147,7 +19189,7 @@ told:_IntellectualProperty_52448233_yeshe_tsogyel
 	tolo:represents told:_Person_10373 ;
 	.
 
-told:_IntellectualProperty_52848957
+told:_IntellectualProperty_52848957_namkha_nyingpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848957"^^xsd:anyURI ,
@@ -19166,7 +19208,7 @@ told:_IntellectualProperty_52848957
 	tolo:represents told:_Person_1108 ;
 	.
 
-told:_IntellectualProperty_52848958
+told:_IntellectualProperty_52848958_nubchen
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848958"^^xsd:anyURI ,
@@ -19204,7 +19246,7 @@ told:_IntellectualProperty_52848959gyalwa_choyang
 	tolo:represents told:_Person_4903 ;
 	.
 
-told:_IntellectualProperty_52848961
+told:_IntellectualProperty_52848961_drogmi
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848961"^^xsd:anyURI ,
@@ -19223,7 +19265,7 @@ told:_IntellectualProperty_52848961
 	tolo:represents told:_Person_11117 ;
 	.
 
-told:_IntellectualProperty_52848962
+told:_IntellectualProperty_52848962_nyak_jnyanakumara
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848962"^^xsd:anyURI ,
@@ -19242,7 +19284,7 @@ told:_IntellectualProperty_52848962
 	tolo:represents told:_Person_9121 ;
 	.
 
-told:_IntellectualProperty_52848963
+told:_IntellectualProperty_52848963_pelgyi_sengge
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848963"^^xsd:anyURI ,
@@ -19261,7 +19303,7 @@ told:_IntellectualProperty_52848963
 	tolo:represents told:_Person_96 ;
 	.
 
-told:_IntellectualProperty_52848967
+told:_IntellectualProperty_52848967_dorje_dudjom
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848967"^^xsd:anyURI ,
@@ -19280,7 +19322,7 @@ told:_IntellectualProperty_52848967
 	tolo:represents told:_Person_303 ;
 	.
 
-told:_IntellectualProperty_52848968
+told:_IntellectualProperty_52848968_yeshe_wangpo_or_yeshe_yang
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848968"^^xsd:anyURI ,
@@ -19299,7 +19341,7 @@ told:_IntellectualProperty_52848968
 	tolo:represents told:_Person_9141 ;
 	.
 
-told:_IntellectualProperty_52848969
+told:_IntellectualProperty_52848969_sogpo_lhapal
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848969"^^xsd:anyURI ,
@@ -19318,7 +19360,7 @@ told:_IntellectualProperty_52848969
 	tolo:represents told:_Person_5281 ;
 	.
 
-told:_IntellectualProperty_52848970
+told:_IntellectualProperty_52848970_nanam_yeshe_de
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848970"^^xsd:anyURI ,
@@ -19337,7 +19379,7 @@ told:_IntellectualProperty_52848970
 	tolo:represents told:_Person_10904 ;
 	.
 
-told:_IntellectualProperty_52848971
+told:_IntellectualProperty_52848971_palgyi_wangchug
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848971"^^xsd:anyURI ,
@@ -19356,7 +19398,7 @@ told:_IntellectualProperty_52848971
 	tolo:represents told:_Person_490 ;
 	.
 
-told:_IntellectualProperty_52848972
+told:_IntellectualProperty_52848972_denma_tsemang
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848972"^^xsd:anyURI ,
@@ -19375,7 +19417,7 @@ told:_IntellectualProperty_52848972
 	tolo:represents told:_Person_9624 ;
 	.
 
-told:_IntellectualProperty_52848973
+told:_IntellectualProperty_52848973_kawa_peltseg
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848973"^^xsd:anyURI ,
@@ -19394,7 +19436,7 @@ told:_IntellectualProperty_52848973
 	tolo:represents told:_Person_10881 ;
 	.
 
-told:_IntellectualProperty_52848975
+told:_IntellectualProperty_52848975_shubu_palgyi_sengge
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848975"^^xsd:anyURI ,
@@ -19412,7 +19454,7 @@ told:_IntellectualProperty_52848975
 	tolo:represents told:_Person_6653 ;
 	.
 
-told:_IntellectualProperty_52848976
+told:_IntellectualProperty_52848976_gyalwai_lodro
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848976"^^xsd:anyURI ,
@@ -19449,7 +19491,7 @@ told:_IntellectualProperty_52848977
 	tolo:represents told:_Person_13077 ;
 	.
 
-told:_IntellectualProperty_52848978
+told:_IntellectualProperty_52848978_drenpa_namkha
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848978"^^xsd:anyURI ,
@@ -19468,7 +19510,7 @@ told:_IntellectualProperty_52848978
 	tolo:represents told:_Person_6681 ;
 	.
 
-told:_IntellectualProperty_52848979
+told:_IntellectualProperty_52848979_odren_palgyi_wangchuk
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848979"^^xsd:anyURI ,
@@ -19487,7 +19529,7 @@ told:_IntellectualProperty_52848979
 	tolo:represents told:_Person_13058 ;
 	.
 
-told:_IntellectualProperty_52848980
+told:_IntellectualProperty_52848980_ma_rinchen_chok
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848980"^^xsd:anyURI ,
@@ -19506,7 +19548,7 @@ told:_IntellectualProperty_52848980
 	tolo:represents told:_Person_5234 ;
 	.
 
-told:_IntellectualProperty_52848981
+told:_IntellectualProperty_52848981_lhalung_palgyi_dorje
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848981"^^xsd:anyURI ,
@@ -19524,7 +19566,7 @@ told:_IntellectualProperty_52848981
 	tolo:represents told:_Person_9618 ;
 	.
 
-told:_IntellectualProperty_52848982
+told:_IntellectualProperty_52848982_konchog_jungne
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848982"^^xsd:anyURI ,
@@ -19543,7 +19585,7 @@ told:_IntellectualProperty_52848982
 	tolo:represents told:_Person_86 ;
 	.
 
-told:_IntellectualProperty_52848983
+told:_IntellectualProperty_52848983_gyalwa_janchub
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"52848983"^^xsd:anyURI ,
@@ -19562,7 +19604,7 @@ told:_IntellectualProperty_52848983
 	tolo:represents told:_Person_84 ;
 	.
 
-told:_IntellectualProperty_53050551
+told:_IntellectualProperty_53050551_padampa_sanggye
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"53050551"^^xsd:anyURI ,
@@ -19600,7 +19642,7 @@ told:_IntellectualProperty_53050552
 	tolo:represents told:_Person_10280 ;
 	.
 
-told:_IntellectualProperty_53773
+told:_IntellectualProperty_53773_jatson_nyingpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"53773"^^xsd:anyURI ,
@@ -19618,7 +19660,7 @@ told:_IntellectualProperty_53773
 	tolo:represents told:_Person_11572 ;
 	.
 
-told:_IntellectualProperty_53774
+told:_IntellectualProperty_53774_jatson_nyingpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"53774"^^xsd:anyURI ,
@@ -19754,7 +19796,7 @@ told:_IntellectualProperty_57082
 	tolo:represents told:_Person_4291 ;
 	.
 
-told:_IntellectualProperty_58303
+told:_IntellectualProperty_58303_tsangnyon
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"58303"^^xsd:anyURI ,
@@ -20175,7 +20217,7 @@ told:_IntellectualProperty_65120_mila
 	tolo:represents told:_Person_3178 ;
 	.
 
-told:_IntellectualProperty_65121
+told:_IntellectualProperty_65121_mila
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65121"^^xsd:anyURI ,
@@ -20193,7 +20235,7 @@ told:_IntellectualProperty_65121
 	tolo:represents told:_Person_3178 ;
 	.
 
-told:_IntellectualProperty_65159
+told:_IntellectualProperty_65159_jigme_lingpa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65159"^^xsd:anyURI ,
@@ -20490,7 +20532,7 @@ told:_IntellectualProperty_65205_jikten_gonpo
 	tolo:represents told:_Person_2899 ;
 	.
 
-told:_IntellectualProperty_65232
+told:_IntellectualProperty_65232_lhachok_sengge
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65232"^^xsd:anyURI ,
@@ -20617,7 +20659,7 @@ told:_IntellectualProperty_65358
 	tolo:represents told:_Person_2491 ;
 	.
 
-told:_IntellectualProperty_65375
+told:_IntellectualProperty_65375_
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65375"^^xsd:anyURI ,
@@ -20635,7 +20677,7 @@ told:_IntellectualProperty_65375
 	tolo:represents told:_Person_6065 ;
 	.
 
-told:_IntellectualProperty_65384
+told:_IntellectualProperty_65384_sixth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65384"^^xsd:anyURI ,
@@ -20722,7 +20764,7 @@ told:_IntellectualProperty_65622_13th_je_khenpo
 	tolo:represents told:_Person_8028 ;
 	.
 
-told:_IntellectualProperty_65647
+told:_IntellectualProperty_65647_
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"65647"^^xsd:anyURI ,
@@ -20992,7 +21034,7 @@ told:_IntellectualProperty_65918_6th_ganden_tripa
 	tolo:represents told:_Person_6746 ;
 	.
 
-told:_IntellectualProperty_66246
+told:_IntellectualProperty_66246_nyangral
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"66246"^^xsd:anyURI ,
@@ -21028,7 +21070,7 @@ told:_IntellectualProperty_66247_guru_chowang
 	tolo:represents told:_Person_5588 ;
 	.
 
-told:_IntellectualProperty_66250
+told:_IntellectualProperty_66250_ratna_lingpa1
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"66250"^^xsd:anyURI ,
@@ -21082,7 +21124,7 @@ told:_IntellectualProperty_674_karma_pakshi
 	tolo:represents told:_Person_2776 ;
 	.
 
-told:_IntellectualProperty_68495
+told:_IntellectualProperty_68495__go_lotsawa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"68495"^^xsd:anyURI ,
@@ -21327,7 +21369,7 @@ told:_IntellectualProperty_777_mingyur_dorje
 	tolo:represents told:_Person_9190 ;
 	.
 
-told:_IntellectualProperty_79186
+told:_IntellectualProperty_79186_panchen_02
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 2180"@en ;
 	gist:isCategorizedBy
@@ -22230,7 +22272,7 @@ told:_IntellectualProperty_79610
 	tolo:represents told:_Person_10280 ;
 	.
 
-told:_IntellectualProperty_79631
+told:_IntellectualProperty_79631_vimalamitra
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79631"^^xsd:anyURI ,
@@ -22266,7 +22308,7 @@ told:_IntellectualProperty_79655
 	tolo:represents told:_Person_4267 ;
 	.
 
-told:_IntellectualProperty_79663
+told:_IntellectualProperty_79663_chekhawa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79663"^^xsd:anyURI ,
@@ -22356,7 +22398,7 @@ told:_IntellectualProperty_79794
 	tolo:represents told:_Person_8571 ;
 	.
 
-told:_IntellectualProperty_79875
+told:_IntellectualProperty_79875_ra_lotsawa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79875"^^xsd:anyURI ,
@@ -22374,7 +22416,7 @@ told:_IntellectualProperty_79875
 	tolo:represents told:_Person_5461 ;
 	.
 
-told:_IntellectualProperty_79897
+told:_IntellectualProperty_79897_jamyang_zhepa_01
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79898"^^xsd:anyURI ,
@@ -22392,7 +22434,7 @@ told:_IntellectualProperty_79897
 	tolo:represents told:_Person_6646 ;
 	.
 
-told:_IntellectualProperty_79912
+told:_IntellectualProperty_79912_thirteenth_dl
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79912"^^xsd:anyURI ,
@@ -22410,7 +22452,7 @@ told:_IntellectualProperty_79912
 	tolo:represents told:_Person_3307 ;
 	.
 
-told:_IntellectualProperty_79975
+told:_IntellectualProperty_79975_tropu_lotsawa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"79975"^^xsd:anyURI ,
@@ -22496,7 +22538,7 @@ told:_IntellectualProperty_80133
 	tolo:represents told:_Person_13077 ;
 	.
 
-told:_IntellectualProperty_80185
+told:_IntellectualProperty_80185_jigme_lingpa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80185"^^xsd:anyURI ,
@@ -22514,7 +22556,7 @@ told:_IntellectualProperty_80185
 	tolo:represents told:_Person_5457 ;
 	.
 
-told:_IntellectualProperty_80186
+told:_IntellectualProperty_80186_dodrupchen_01
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80186"^^xsd:anyURI ,
@@ -22532,7 +22574,7 @@ told:_IntellectualProperty_80186
 	tolo:represents told:_Person_4676 ;
 	.
 
-told:_IntellectualProperty_80187
+told:_IntellectualProperty_80187_gyalwai_nyugu
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80187"^^xsd:anyURI ,
@@ -22586,7 +22628,7 @@ told:_IntellectualProperty_80189
 	tolo:represents told:_Person_4425 ;
 	.
 
-told:_IntellectualProperty_80190
+told:_IntellectualProperty_80190__zhenpen_taye
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80190"^^xsd:anyURI ,
@@ -22604,7 +22646,7 @@ told:_IntellectualProperty_80190
 	tolo:represents told:_Person_9601 ;
 	.
 
-told:_IntellectualProperty_80191
+told:_IntellectualProperty_80191_khyentse_wangpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80191"^^xsd:anyURI ,
@@ -22622,7 +22664,7 @@ told:_IntellectualProperty_80191
 	tolo:represents told:_Person_4291 ;
 	.
 
-told:_IntellectualProperty_80354
+told:_IntellectualProperty_80354_gendun_drup
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80354"^^xsd:anyURI ,
@@ -22640,7 +22682,7 @@ told:_IntellectualProperty_80354
 	tolo:represents told:_Person_10687 ;
 	.
 
-told:_IntellectualProperty_80355
+told:_IntellectualProperty_80355_second_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80355"^^xsd:anyURI ,
@@ -22658,7 +22700,7 @@ told:_IntellectualProperty_80355
 	tolo:represents told:_Person_11114 ;
 	.
 
-told:_IntellectualProperty_80356
+told:_IntellectualProperty_80356_dl3
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80356"^^xsd:anyURI ,
@@ -22694,7 +22736,7 @@ told:_IntellectualProperty_80357
 	tolo:represents told:_Person_3085 ;
 	.
 
-told:_IntellectualProperty_80358
+told:_IntellectualProperty_80358_fifth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80358"^^xsd:anyURI ,
@@ -22712,7 +22754,7 @@ told:_IntellectualProperty_80358
 	tolo:represents told:_Person_6065 ;
 	.
 
-told:_IntellectualProperty_80359
+told:_IntellectualProperty_80359_sixth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80359"^^xsd:anyURI ,
@@ -22730,7 +22772,7 @@ told:_IntellectualProperty_80359
 	tolo:represents told:_Person_5871 ;
 	.
 
-told:_IntellectualProperty_80360
+told:_IntellectualProperty_80360_seventh_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80360"^^xsd:anyURI ,
@@ -22748,7 +22790,7 @@ told:_IntellectualProperty_80360
 	tolo:represents told:_Person_3107 ;
 	.
 
-told:_IntellectualProperty_80361
+told:_IntellectualProperty_80361_eighth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80361"^^xsd:anyURI ,
@@ -22766,7 +22808,7 @@ told:_IntellectualProperty_80361
 	tolo:represents told:_Person_2339 ;
 	.
 
-told:_IntellectualProperty_80362
+told:_IntellectualProperty_80362_dalai_09
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80362"^^xsd:anyURI ,
@@ -22784,7 +22826,7 @@ told:_IntellectualProperty_80362
 	tolo:represents told:_Person_4469 ;
 	.
 
-told:_IntellectualProperty_80363
+told:_IntellectualProperty_80363_tenth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80363"^^xsd:anyURI ,
@@ -22802,7 +22844,7 @@ told:_IntellectualProperty_80363
 	tolo:represents told:_Person_4314 ;
 	.
 
-told:_IntellectualProperty_80364
+told:_IntellectualProperty_80364_eleventh_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80364"^^xsd:anyURI ,
@@ -22820,7 +22862,7 @@ told:_IntellectualProperty_80364
 	tolo:represents told:_Person_4259 ;
 	.
 
-told:_IntellectualProperty_80365
+told:_IntellectualProperty_80365_twelfth_dalai_lama
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80365"^^xsd:anyURI ,
@@ -22856,7 +22898,7 @@ told:_IntellectualProperty_80377
 	tolo:represents told:_Person_5803 ;
 	.
 
-told:_IntellectualProperty_80383
+told:_IntellectualProperty_80383_panchen_01
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80383"^^xsd:anyURI ,
@@ -22874,7 +22916,7 @@ told:_IntellectualProperty_80383
 	tolo:represents told:_Person_9839 ;
 	.
 
-told:_IntellectualProperty_80384
+told:_IntellectualProperty_80384_panchen_02
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80384"^^xsd:anyURI ,
@@ -22928,7 +22970,7 @@ told:_IntellectualProperty_80393
 	tolo:represents told:_Person_8027 ;
 	.
 
-told:_IntellectualProperty_80394
+told:_IntellectualProperty_80394_tripa_4
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80394"^^xsd:anyURI ,
@@ -22946,7 +22988,7 @@ told:_IntellectualProperty_80394
 	tolo:represents told:_Person_4669 ;
 	.
 
-told:_IntellectualProperty_80395
+told:_IntellectualProperty_80395_tripa_5
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80395"^^xsd:anyURI ,
@@ -22982,7 +23024,7 @@ told:_IntellectualProperty_80396
 	tolo:represents told:_Person_6746 ;
 	.
 
-told:_IntellectualProperty_80397
+told:_IntellectualProperty_80397_tripa_7
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80397"^^xsd:anyURI ,
@@ -23000,7 +23042,7 @@ told:_IntellectualProperty_80397
 	tolo:represents told:_Person_7093 ;
 	.
 
-told:_IntellectualProperty_80398
+told:_IntellectualProperty_80398_tripa_8
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80398"^^xsd:anyURI ,
@@ -23018,7 +23060,7 @@ told:_IntellectualProperty_80398
 	tolo:represents told:_Person_6953 ;
 	.
 
-told:_IntellectualProperty_80399
+told:_IntellectualProperty_80399_tripa_9
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80399"^^xsd:anyURI ,
@@ -23054,7 +23096,7 @@ told:_IntellectualProperty_803_mila
 	tolo:represents told:_Person_3178 ;
 	.
 
-told:_IntellectualProperty_80400
+told:_IntellectualProperty_80400_tripa_10
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80400"^^xsd:anyURI ,
@@ -23072,7 +23114,7 @@ told:_IntellectualProperty_80400
 	tolo:represents told:_Person_4535 ;
 	.
 
-told:_IntellectualProperty_80401
+told:_IntellectualProperty_80401_tripa_11
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80401"^^xsd:anyURI ,
@@ -23090,7 +23132,7 @@ told:_IntellectualProperty_80401
 	tolo:represents told:_Person_6286 ;
 	.
 
-told:_IntellectualProperty_80402
+told:_IntellectualProperty_80402_tripa_12
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80402"^^xsd:anyURI ,
@@ -23108,7 +23150,7 @@ told:_IntellectualProperty_80402
 	tolo:represents told:_Person_6219 ;
 	.
 
-told:_IntellectualProperty_80403
+told:_IntellectualProperty_80403_tripa_13
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80403"^^xsd:anyURI ,
@@ -23126,7 +23168,7 @@ told:_IntellectualProperty_80403
 	tolo:represents told:_Person_6910 ;
 	.
 
-told:_IntellectualProperty_80404
+told:_IntellectualProperty_80404_tripa_14
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80404"^^xsd:anyURI ,
@@ -23144,7 +23186,7 @@ told:_IntellectualProperty_80404
 	tolo:represents told:_Person_6997 ;
 	.
 
-told:_IntellectualProperty_80405
+told:_IntellectualProperty_80405_tripa_15
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80405"^^xsd:anyURI ,
@@ -23162,7 +23204,7 @@ told:_IntellectualProperty_80405
 	tolo:represents told:_Person_1637 ;
 	.
 
-told:_IntellectualProperty_80406
+told:_IntellectualProperty_80406_tripa_16
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80406"^^xsd:anyURI ,
@@ -23180,7 +23222,7 @@ told:_IntellectualProperty_80406
 	tolo:represents told:_Person_5480 ;
 	.
 
-told:_IntellectualProperty_80407
+told:_IntellectualProperty_80407_tripa_17
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80407"^^xsd:anyURI ,
@@ -23198,7 +23240,7 @@ told:_IntellectualProperty_80407
 	tolo:represents told:_Person_8099 ;
 	.
 
-told:_IntellectualProperty_80408
+told:_IntellectualProperty_80408_tripa_18
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80408"^^xsd:anyURI ,
@@ -23216,7 +23258,7 @@ told:_IntellectualProperty_80408
 	tolo:represents told:_Person_7230 ;
 	.
 
-told:_IntellectualProperty_80409
+told:_IntellectualProperty_80409_tripa_19
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80409"^^xsd:anyURI ,
@@ -23234,7 +23276,7 @@ told:_IntellectualProperty_80409
 	tolo:represents told:_Person_3743 ;
 	.
 
-told:_IntellectualProperty_80410
+told:_IntellectualProperty_80410_tripa_20
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80410"^^xsd:anyURI ,
@@ -23252,7 +23294,7 @@ told:_IntellectualProperty_80410
 	tolo:represents told:_Person_5953 ;
 	.
 
-told:_IntellectualProperty_80411
+told:_IntellectualProperty_80411_tripa_21
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80411"^^xsd:anyURI ,
@@ -23270,7 +23312,7 @@ told:_IntellectualProperty_80411
 	tolo:represents told:_Person_12817 ;
 	.
 
-told:_IntellectualProperty_80412
+told:_IntellectualProperty_80412_tripa_22
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80412"^^xsd:anyURI ,
@@ -23288,7 +23330,7 @@ told:_IntellectualProperty_80412
 	tolo:represents told:_Person_2871 ;
 	.
 
-told:_IntellectualProperty_80413
+told:_IntellectualProperty_80413_tripa_23
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80413"^^xsd:anyURI ,
@@ -23306,7 +23348,7 @@ told:_IntellectualProperty_80413
 	tolo:represents told:_Person_8086 ;
 	.
 
-told:_IntellectualProperty_80414
+told:_IntellectualProperty_80414_tripa_24
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80414"^^xsd:anyURI ,
@@ -23324,7 +23366,7 @@ told:_IntellectualProperty_80414
 	tolo:represents told:_Person_6872 ;
 	.
 
-told:_IntellectualProperty_80415
+told:_IntellectualProperty_80415_tripa_25
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80415"^^xsd:anyURI ,
@@ -23342,7 +23384,7 @@ told:_IntellectualProperty_80415
 	tolo:represents told:_Person_5432 ;
 	.
 
-told:_IntellectualProperty_80416
+told:_IntellectualProperty_80416_tripa_26
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80416"^^xsd:anyURI ,
@@ -23360,7 +23402,7 @@ told:_IntellectualProperty_80416
 	tolo:represents told:_Person_7083 ;
 	.
 
-told:_IntellectualProperty_80417
+told:_IntellectualProperty_80417_tripa_27
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80417"^^xsd:anyURI ,
@@ -23378,7 +23420,7 @@ told:_IntellectualProperty_80417
 	tolo:represents told:_Person_8097 ;
 	.
 
-told:_IntellectualProperty_80418
+told:_IntellectualProperty_80418_tripa_28
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80418"^^xsd:anyURI ,
@@ -23396,7 +23438,7 @@ told:_IntellectualProperty_80418
 	tolo:represents told:_Person_5777 ;
 	.
 
-told:_IntellectualProperty_80419
+told:_IntellectualProperty_80419_tripa_29
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80419"^^xsd:anyURI ,
@@ -23414,7 +23456,7 @@ told:_IntellectualProperty_80419
 	tolo:represents told:_Person_8106 ;
 	.
 
-told:_IntellectualProperty_80420
+told:_IntellectualProperty_80420_tripa_30
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80420"^^xsd:anyURI ,
@@ -23432,7 +23474,7 @@ told:_IntellectualProperty_80420
 	tolo:represents told:_Person_9795 ;
 	.
 
-told:_IntellectualProperty_80421
+told:_IntellectualProperty_80421_tripa_31
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80421"^^xsd:anyURI ,
@@ -23450,7 +23492,7 @@ told:_IntellectualProperty_80421
 	tolo:represents told:_Person_4092 ;
 	.
 
-told:_IntellectualProperty_80422
+told:_IntellectualProperty_80422_tripa_32
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80422"^^xsd:anyURI ,
@@ -23468,7 +23510,7 @@ told:_IntellectualProperty_80422
 	tolo:represents told:_Person_4265 ;
 	.
 
-told:_IntellectualProperty_80423
+told:_IntellectualProperty_80423_tripa_33
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80423"^^xsd:anyURI ,
@@ -23486,7 +23528,7 @@ told:_IntellectualProperty_80423
 	tolo:represents told:_Person_8105 ;
 	.
 
-told:_IntellectualProperty_80424
+told:_IntellectualProperty_80424_tripa_34
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80424"^^xsd:anyURI ,
@@ -23504,7 +23546,7 @@ told:_IntellectualProperty_80424
 	tolo:represents told:_Person_2523 ;
 	.
 
-told:_IntellectualProperty_80425
+told:_IntellectualProperty_80425_tripa_35
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80425"^^xsd:anyURI ,
@@ -23522,7 +23564,7 @@ told:_IntellectualProperty_80425
 	tolo:represents told:_Person_4276 ;
 	.
 
-told:_IntellectualProperty_80426
+told:_IntellectualProperty_80426_tripa_36
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80426"^^xsd:anyURI ,
@@ -23540,7 +23582,7 @@ told:_IntellectualProperty_80426
 	tolo:represents told:_Person_2814 ;
 	.
 
-told:_IntellectualProperty_80427
+told:_IntellectualProperty_80427_tripa_37
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80427"^^xsd:anyURI ,
@@ -23558,7 +23600,7 @@ told:_IntellectualProperty_80427
 	tolo:represents told:_Person_2952 ;
 	.
 
-told:_IntellectualProperty_80428
+told:_IntellectualProperty_80428_tripa_38
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80428"^^xsd:anyURI ,
@@ -23576,7 +23618,7 @@ told:_IntellectualProperty_80428
 	tolo:represents told:_Person_8107 ;
 	.
 
-told:_IntellectualProperty_80429
+told:_IntellectualProperty_80429_tripa_39
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80429"^^xsd:anyURI ,
@@ -23594,7 +23636,7 @@ told:_IntellectualProperty_80429
 	tolo:represents told:_Person_6466 ;
 	.
 
-told:_IntellectualProperty_80430
+told:_IntellectualProperty_80430_tripa_40
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80430"^^xsd:anyURI ,
@@ -23612,7 +23654,7 @@ told:_IntellectualProperty_80430
 	tolo:represents told:_Person_8108 ;
 	.
 
-told:_IntellectualProperty_80431
+told:_IntellectualProperty_80431_tripa_41
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80431"^^xsd:anyURI ,
@@ -23630,7 +23672,7 @@ told:_IntellectualProperty_80431
 	tolo:represents told:_Person_6648 ;
 	.
 
-told:_IntellectualProperty_80432
+told:_IntellectualProperty_80432_tripa_42
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80432"^^xsd:anyURI ,
@@ -23648,7 +23690,7 @@ told:_IntellectualProperty_80432
 	tolo:represents told:_Person_2327 ;
 	.
 
-told:_IntellectualProperty_80433
+told:_IntellectualProperty_80433_tripa_43
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80433"^^xsd:anyURI ,
@@ -23666,7 +23708,7 @@ told:_IntellectualProperty_80433
 	tolo:represents told:_Person_8109 ;
 	.
 
-told:_IntellectualProperty_80434
+told:_IntellectualProperty_80434_tripa_44
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80434"^^xsd:anyURI ,
@@ -23684,7 +23726,7 @@ told:_IntellectualProperty_80434
 	tolo:represents told:_Person_2872 ;
 	.
 
-told:_IntellectualProperty_80435
+told:_IntellectualProperty_80435_tripa_45
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80435"^^xsd:anyURI ,
@@ -23702,7 +23744,7 @@ told:_IntellectualProperty_80435
 	tolo:represents told:_Person_5706 ;
 	.
 
-told:_IntellectualProperty_80436
+told:_IntellectualProperty_80436_tripa_46
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80436"^^xsd:anyURI ,
@@ -23720,7 +23762,7 @@ told:_IntellectualProperty_80436
 	tolo:represents told:_Person_5796 ;
 	.
 
-told:_IntellectualProperty_80437
+told:_IntellectualProperty_80437_tripa_47
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80437"^^xsd:anyURI ,
@@ -23738,7 +23780,7 @@ told:_IntellectualProperty_80437
 	tolo:represents told:_Person_4487 ;
 	.
 
-told:_IntellectualProperty_80440
+told:_IntellectualProperty_80440_tripa_48
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80440"^^xsd:anyURI ,
@@ -23756,7 +23798,7 @@ told:_IntellectualProperty_80440
 	tolo:represents told:_Person_4488 ;
 	.
 
-told:_IntellectualProperty_80441
+told:_IntellectualProperty_80441_tripa_49jpg
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80441"^^xsd:anyURI ,
@@ -23774,7 +23816,7 @@ told:_IntellectualProperty_80441
 	tolo:represents told:_Person_4489 ;
 	.
 
-told:_IntellectualProperty_80442
+told:_IntellectualProperty_80442_tripa_50
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80442"^^xsd:anyURI ,
@@ -23792,7 +23834,7 @@ told:_IntellectualProperty_80442
 	tolo:represents told:_Person_3173 ;
 	.
 
-told:_IntellectualProperty_80443
+told:_IntellectualProperty_80443_tripa_51
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80443"^^xsd:anyURI ,
@@ -23810,7 +23852,7 @@ told:_IntellectualProperty_80443
 	tolo:represents told:_Person_4490 ;
 	.
 
-told:_IntellectualProperty_80444
+told:_IntellectualProperty_80444_tripa_52
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80444"^^xsd:anyURI ,
@@ -23828,7 +23870,7 @@ told:_IntellectualProperty_80444
 	tolo:represents told:_Person_3171 ;
 	.
 
-told:_IntellectualProperty_80445
+told:_IntellectualProperty_80445_tripa_53
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80445"^^xsd:anyURI ,
@@ -23846,7 +23888,7 @@ told:_IntellectualProperty_80445
 	tolo:represents told:_Person_4492 ;
 	.
 
-told:_IntellectualProperty_80446
+told:_IntellectualProperty_80446_tripa_54
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80446"^^xsd:anyURI ,
@@ -23864,7 +23906,7 @@ told:_IntellectualProperty_80446
 	tolo:represents told:_Person_6526 ;
 	.
 
-told:_IntellectualProperty_80447
+told:_IntellectualProperty_80447_tripa_55
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80447"^^xsd:anyURI ,
@@ -23882,7 +23924,7 @@ told:_IntellectualProperty_80447
 	tolo:represents told:_Person_4493 ;
 	.
 
-told:_IntellectualProperty_80448
+told:_IntellectualProperty_80448_tripa_56
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80448"^^xsd:anyURI ,
@@ -23900,7 +23942,7 @@ told:_IntellectualProperty_80448
 	tolo:represents told:_Person_4494 ;
 	.
 
-told:_IntellectualProperty_80449
+told:_IntellectualProperty_80449_tripa_57
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80449"^^xsd:anyURI ,
@@ -23918,7 +23960,7 @@ told:_IntellectualProperty_80449
 	tolo:represents told:_Person_4495 ;
 	.
 
-told:_IntellectualProperty_80450
+told:_IntellectualProperty_80450_tripa_58
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80450"^^xsd:anyURI ,
@@ -23936,7 +23978,7 @@ told:_IntellectualProperty_80450
 	tolo:represents told:_Person_4496 ;
 	.
 
-told:_IntellectualProperty_80451
+told:_IntellectualProperty_80451_tripa_59
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80451"^^xsd:anyURI ,
@@ -23954,7 +23996,7 @@ told:_IntellectualProperty_80451
 	tolo:represents told:_Person_4497 ;
 	.
 
-told:_IntellectualProperty_80452
+told:_IntellectualProperty_80452_tripa_60
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80452"^^xsd:anyURI ,
@@ -23972,7 +24014,7 @@ told:_IntellectualProperty_80452
 	tolo:represents told:_Person_4498 ;
 	.
 
-told:_IntellectualProperty_80453
+told:_IntellectualProperty_80453_tripa_61
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80453"^^xsd:anyURI ,
@@ -23990,7 +24032,7 @@ told:_IntellectualProperty_80453
 	tolo:represents told:_Person_5652 ;
 	.
 
-told:_IntellectualProperty_80454
+told:_IntellectualProperty_80454_tripa_62
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80454"^^xsd:anyURI ,
@@ -24008,7 +24050,7 @@ told:_IntellectualProperty_80454
 	tolo:represents told:_Person_4499 ;
 	.
 
-told:_IntellectualProperty_80455
+told:_IntellectualProperty_80455_tripa_63
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80455"^^xsd:anyURI ,
@@ -24026,7 +24068,7 @@ told:_IntellectualProperty_80455
 	tolo:represents told:_Person_4500 ;
 	.
 
-told:_IntellectualProperty_80456
+told:_IntellectualProperty_80456_tripa_64
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80456"^^xsd:anyURI ,
@@ -24044,7 +24086,7 @@ told:_IntellectualProperty_80456
 	tolo:represents told:_Person_4501 ;
 	.
 
-told:_IntellectualProperty_80457
+told:_IntellectualProperty_80457_tripa_65
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80457"^^xsd:anyURI ,
@@ -24062,7 +24104,7 @@ told:_IntellectualProperty_80457
 	tolo:represents told:_Person_5901 ;
 	.
 
-told:_IntellectualProperty_80458
+told:_IntellectualProperty_80458_tripa_66
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80458"^^xsd:anyURI ,
@@ -24080,7 +24122,7 @@ told:_IntellectualProperty_80458
 	tolo:represents told:_Person_5415 ;
 	.
 
-told:_IntellectualProperty_80459
+told:_IntellectualProperty_80459_tripa_67
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80459"^^xsd:anyURI ,
@@ -24098,7 +24140,7 @@ told:_IntellectualProperty_80459
 	tolo:represents told:_Person_5381 ;
 	.
 
-told:_IntellectualProperty_80460
+told:_IntellectualProperty_80460_tripa_68
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80460"^^xsd:anyURI ,
@@ -24116,7 +24158,7 @@ told:_IntellectualProperty_80460
 	tolo:represents told:_Person_5932 ;
 	.
 
-told:_IntellectualProperty_80461
+told:_IntellectualProperty_80461_tripa_69
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80461"^^xsd:anyURI ,
@@ -24134,7 +24176,7 @@ told:_IntellectualProperty_80461
 	tolo:represents told:_Person_5371 ;
 	.
 
-told:_IntellectualProperty_80462
+told:_IntellectualProperty_80462_tripa_70
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80462"^^xsd:anyURI ,
@@ -24152,7 +24194,7 @@ told:_IntellectualProperty_80462
 	tolo:represents told:_Person_5317 ;
 	.
 
-told:_IntellectualProperty_80463
+told:_IntellectualProperty_80463_tripa_71
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80463"^^xsd:anyURI ,
@@ -24170,7 +24212,7 @@ told:_IntellectualProperty_80463
 	tolo:represents told:_Person_2819 ;
 	.
 
-told:_IntellectualProperty_80464
+told:_IntellectualProperty_80464_tripa_72
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80464"^^xsd:anyURI ,
@@ -24188,7 +24230,7 @@ told:_IntellectualProperty_80464
 	tolo:represents told:_Person_5485 ;
 	.
 
-told:_IntellectualProperty_80465
+told:_IntellectualProperty_80465_tripa_73
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80465"^^xsd:anyURI ,
@@ -24206,7 +24248,7 @@ told:_IntellectualProperty_80465
 	tolo:represents told:_Person_6979 ;
 	.
 
-told:_IntellectualProperty_80466
+told:_IntellectualProperty_80466_tripa_74
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80466"^^xsd:anyURI ,
@@ -24224,7 +24266,7 @@ told:_IntellectualProperty_80466
 	tolo:represents told:_Person_7182 ;
 	.
 
-told:_IntellectualProperty_80467
+told:_IntellectualProperty_80467_tripa_75
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80467"^^xsd:anyURI ,
@@ -24242,7 +24284,7 @@ told:_IntellectualProperty_80467
 	tolo:represents told:_Person_11131 ;
 	.
 
-told:_IntellectualProperty_80468
+told:_IntellectualProperty_80468_tripa_76
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80468"^^xsd:anyURI ,
@@ -24260,7 +24302,7 @@ told:_IntellectualProperty_80468
 	tolo:represents told:_Person_6498 ;
 	.
 
-told:_IntellectualProperty_80469
+told:_IntellectualProperty_80469_tripa_77
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80469"^^xsd:anyURI ,
@@ -24278,7 +24320,7 @@ told:_IntellectualProperty_80469
 	tolo:represents told:_Person_9059 ;
 	.
 
-told:_IntellectualProperty_80470
+told:_IntellectualProperty_80470_tripa_77
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80470"^^xsd:anyURI ,
@@ -24296,7 +24338,7 @@ told:_IntellectualProperty_80470
 	tolo:represents told:_Person_9058 ;
 	.
 
-told:_IntellectualProperty_80471
+told:_IntellectualProperty_80471_tripa_78
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80471"^^xsd:anyURI ,
@@ -24314,7 +24356,7 @@ told:_IntellectualProperty_80471
 	tolo:represents told:_Person_9057 ;
 	.
 
-told:_IntellectualProperty_80472
+told:_IntellectualProperty_80472_tripa_79
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80472"^^xsd:anyURI ,
@@ -24332,7 +24374,7 @@ told:_IntellectualProperty_80472
 	tolo:represents told:_Person_9055 ;
 	.
 
-told:_IntellectualProperty_80473
+told:_IntellectualProperty_80473_tripa_81
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80473"^^xsd:anyURI ,
@@ -24350,7 +24392,7 @@ told:_IntellectualProperty_80473
 	tolo:represents told:_Person_4206 ;
 	.
 
-told:_IntellectualProperty_80474
+told:_IntellectualProperty_80474_tripa_82
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80474"^^xsd:anyURI ,
@@ -24368,7 +24410,7 @@ told:_IntellectualProperty_80474
 	tolo:represents told:_Person_4277 ;
 	.
 
-told:_IntellectualProperty_80475
+told:_IntellectualProperty_80475_tripa_83
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80475"^^xsd:anyURI ,
@@ -24386,7 +24428,7 @@ told:_IntellectualProperty_80475
 	tolo:represents told:_Person_4278 ;
 	.
 
-told:_IntellectualProperty_80476
+told:_IntellectualProperty_80476_tripa_84
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80476"^^xsd:anyURI ,
@@ -24404,7 +24446,7 @@ told:_IntellectualProperty_80476
 	tolo:represents told:_Person_4279 ;
 	.
 
-told:_IntellectualProperty_80477
+told:_IntellectualProperty_80477_tripa_85
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80477"^^xsd:anyURI ,
@@ -24422,7 +24464,7 @@ told:_IntellectualProperty_80477
 	tolo:represents told:_Person_4280 ;
 	.
 
-told:_IntellectualProperty_80478
+told:_IntellectualProperty_80478_tripa_86
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80478"^^xsd:anyURI ,
@@ -24440,7 +24482,7 @@ told:_IntellectualProperty_80478
 	tolo:represents told:_Person_4282 ;
 	.
 
-told:_IntellectualProperty_80479
+told:_IntellectualProperty_80479_tripa_87
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80479"^^xsd:anyURI ,
@@ -24458,7 +24500,7 @@ told:_IntellectualProperty_80479
 	tolo:represents told:_Person_6978 ;
 	.
 
-told:_IntellectualProperty_80480
+told:_IntellectualProperty_80480_tripa_88
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80480"^^xsd:anyURI ,
@@ -24476,7 +24518,7 @@ told:_IntellectualProperty_80480
 	tolo:represents told:_Person_2456 ;
 	.
 
-told:_IntellectualProperty_80481
+told:_IntellectualProperty_80481__tripa_89
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80481"^^xsd:anyURI ,
@@ -24494,7 +24536,7 @@ told:_IntellectualProperty_80481
 	tolo:represents told:_Person_9056 ;
 	.
 
-told:_IntellectualProperty_80482
+told:_IntellectualProperty_80482__tripa_90
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80482"^^xsd:anyURI ,
@@ -24512,7 +24554,7 @@ told:_IntellectualProperty_80482
 	tolo:represents told:_Person_7870 ;
 	.
 
-told:_IntellectualProperty_80483
+told:_IntellectualProperty_80483__tripa_91
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80483"^^xsd:anyURI ,
@@ -24530,7 +24572,7 @@ told:_IntellectualProperty_80483
 	tolo:represents told:_Person_9049 ;
 	.
 
-told:_IntellectualProperty_80484
+told:_IntellectualProperty_80484__tripa_92
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80484"^^xsd:anyURI ,
@@ -24548,7 +24590,7 @@ told:_IntellectualProperty_80484
 	tolo:represents told:_Person_9050 ;
 	.
 
-told:_IntellectualProperty_80485
+told:_IntellectualProperty_80485__tripa_93
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80485"^^xsd:anyURI ,
@@ -24566,7 +24608,7 @@ told:_IntellectualProperty_80485
 	tolo:represents told:_Person_9051 ;
 	.
 
-told:_IntellectualProperty_80486
+told:_IntellectualProperty_80486__tripa_94
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80486"^^xsd:anyURI ,
@@ -24584,7 +24626,7 @@ told:_IntellectualProperty_80486
 	tolo:represents told:_Person_9053 ;
 	.
 
-told:_IntellectualProperty_80487
+told:_IntellectualProperty_80487__tripa_95
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80487"^^xsd:anyURI ,
@@ -24602,7 +24644,7 @@ told:_IntellectualProperty_80487
 	tolo:represents told:_Person_7743 ;
 	.
 
-told:_IntellectualProperty_80531
+told:_IntellectualProperty_80531_shakyashri
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80531"^^xsd:anyURI ,
@@ -24620,7 +24662,7 @@ told:_IntellectualProperty_80531
 	tolo:represents told:_Person_2810 ;
 	.
 
-told:_IntellectualProperty_80534
+told:_IntellectualProperty_80534_padampa
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80534"^^xsd:anyURI ,
@@ -24638,7 +24680,7 @@ told:_IntellectualProperty_80534
 	tolo:represents told:_Person_2510 ;
 	.
 
-told:_IntellectualProperty_80535
+told:_IntellectualProperty_80535_tangtong_gyelpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80535"^^xsd:anyURI ,
@@ -24656,7 +24698,7 @@ told:_IntellectualProperty_80535
 	tolo:represents told:_Person_4511 ;
 	.
 
-told:_IntellectualProperty_80536
+told:_IntellectualProperty_80536_rinchen_zangpo
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80536"^^xsd:anyURI ,
@@ -24692,7 +24734,7 @@ told:_IntellectualProperty_80537_ngok_lotsawa
 	tolo:represents told:_Person_4261 ;
 	.
 
-told:_IntellectualProperty_80572
+told:_IntellectualProperty_80572_pema_rigdzin
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80572"^^xsd:anyURI ,
@@ -24710,7 +24752,7 @@ told:_IntellectualProperty_80572
 	tolo:represents told:_Person_9126 ;
 	.
 
-told:_IntellectualProperty_80573
+told:_IntellectualProperty_80573_zhechen_rabjam_01
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80573"^^xsd:anyURI ,
@@ -24867,7 +24909,7 @@ told:_IntellectualProperty_82_richen_zangpo
 	tolo:represents told:_Person_10199 ;
 	.
 
-told:_IntellectualProperty_86902
+told:_IntellectualProperty_86902_pelden_tsultrim
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"86902"^^xsd:anyURI ,
@@ -24921,7 +24963,7 @@ told:_IntellectualProperty_87603
 	tolo:represents told:_Person_6285 ;
 	.
 
-told:_IntellectualProperty_87620
+told:_IntellectualProperty_87620_sanggye_puntsok
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"87620"^^xsd:anyURI ,
@@ -25459,7 +25501,7 @@ told:_IntellectualProperty_90907
 	tolo:represents told:_Person_1370 ;
 	.
 
-told:_IntellectualProperty_915
+told:_IntellectualProperty_915_zhabkar_practice
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"915"^^xsd:anyURI ,
@@ -28385,7 +28427,7 @@ told:_IntellectualProperty_drakpa_gyaltsen_65826
 	tolo:represents told:_Person_2891 ;
 	.
 
-told:_IntellectualProperty_drapa_ngonshe_80569
+told:_IntellectualProperty_drapa_ngonshe_80569_
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80569"^^xsd:anyURI ,
@@ -30561,28 +30603,6 @@ told:_IntellectualProperty_jonangpa87607
 	tolo:represents told:_Person_2670 ;
 	.
 
-told:_IntellectualProperty_k
-	a gist:IntellectualProperty ;
-	skos:prefLabel "Person 13611"@en ;
-	gist:isCategorizedBy
-		tolx:_GeneralMediaType_painting ,
-		tolx:_Rank_primary ,
-		tolx:_Rank_secondary
-		;
-	tolo:createDateTime
-		"2018-03-07T17:47:37"^^xsd:dateTime ,
-		"2018-03-07T17:49:06"^^xsd:dateTime
-		;
-	tolo:credit "Nima Bhuti"@en ;
-	tolo:isCreatedBy told:_UserAccount_2 ;
-	tolo:isLastModifiedBy told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime
-		"2018-03-07T17:48:58"^^xsd:dateTime ,
-		"2018-03-07T17:49:06"^^xsd:dateTime
-		;
-	tolo:represents told:_Person_13611 ;
-	.
-
 told:_IntellectualProperty_k16_01
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 11385"@en ;
@@ -30612,6 +30632,36 @@ told:_IntellectualProperty_k16_and_freda_bedi
 	tolo:isLastModifiedBy told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-06-14T22:07:50"^^xsd:dateTime ;
 	tolo:represents told:_Person_11385 ;
+	.
+
+told:_IntellectualProperty_k__dhondup
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 13611"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_secondary
+		;
+	tolo:createDateTime "2018-03-07T17:47:37"^^xsd:dateTime ;
+	tolo:credit "Nima Bhuti"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2018-03-07T17:48:58"^^xsd:dateTime ;
+	tolo:represents told:_Person_13611 ;
+	.
+
+told:_IntellectualProperty_k__dhondup2
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 13611"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_primary
+		;
+	tolo:createDateTime "2018-03-07T17:49:06"^^xsd:dateTime ;
+	tolo:credit "Nima Bhuti"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2018-03-07T17:49:06"^^xsd:dateTime ;
+	tolo:represents told:_Person_13611 ;
 	.
 
 told:_IntellectualProperty_kachen_lochen_zotpa
@@ -32865,7 +32915,7 @@ told:_IntellectualProperty_longchenpa_64042
 	tolo:represents told:_Person_2882 ;
 	.
 
-told:_IntellectualProperty_longchenpa_har631_rubin_f1998
+told:_IntellectualProperty_longchenpa_har631_rubin_f1998_9_2
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"631"^^xsd:anyURI ,
@@ -32953,7 +33003,7 @@ told:_IntellectualProperty_lonyendraks
 	tolo:represents told:_Person_13549 ;
 	.
 
-told:_IntellectualProperty_lopon_sangye_tenzin_large
+told:_IntellectualProperty_lopon_sangye_tenzin_large_jpg_for_web_small
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 12096"@en ;
 	gist:isCategorizedBy
@@ -33979,7 +34029,7 @@ told:_IntellectualProperty_mp1
 	tolo:represents told:_Person_9394 ;
 	.
 
-told:_IntellectualProperty_mr
+told:_IntellectualProperty_mr__and_mrs__pemba__1959_1960_in_darjeeling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 13723"@en ;
 	gist:isCategorizedBy
@@ -34778,7 +34828,7 @@ told:_IntellectualProperty_p079_1_a
 	tolo:represents told:_Person_2424 ;
 	.
 
-told:_IntellectualProperty_p1994
+told:_IntellectualProperty_p1994_15_1
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 13863"@en ;
 	gist:isCategorizedBy
@@ -35223,7 +35273,7 @@ told:_IntellectualProperty_pelyul_choktrul_from_wikg6199
 	tolo:represents told:_Person_11003 ;
 	.
 
-told:_IntellectualProperty_pelyul_rigdzin_kunzang_sherab_80571
+told:_IntellectualProperty_pelyul_rigdzin_kunzang_sherab_80571_
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80571"^^xsd:anyURI ,
@@ -35286,7 +35336,7 @@ told:_IntellectualProperty_pema_thinley
 	tolo:represents told:_Person_4379 ;
 	.
 
-told:_IntellectualProperty_pema_trine_80570
+told:_IntellectualProperty_pema_trine_80570_
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80570"^^xsd:anyURI ,
@@ -35654,28 +35704,6 @@ told:_IntellectualProperty_phugtal_stonba_lhakhang_late15th_early16thc
 	tolo:represents told:_Person_7305 ;
 	.
 
-told:_IntellectualProperty_pic
-	a gist:IntellectualProperty ;
-	skos:prefLabel "Person 13152"@en ;
-	gist:isCategorizedBy
-		tolx:_GeneralMediaType_painting ,
-		tolx:_Rank_primary ,
-		tolx:_Rank_secondary
-		;
-	tolo:createDateTime
-		"2011-12-27T19:51:01"^^xsd:dateTime ,
-		"2011-12-27T19:51:43"^^xsd:dateTime
-		;
-	tolo:credit "http://dpr.info/bio.history.dpr3to6.htm"@en ;
-	tolo:isCreatedBy told:_UserAccount_2 ;
-	tolo:isLastModifiedBy told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime
-		"2011-12-27T19:51:01"^^xsd:dateTime ,
-		"2011-12-27T19:51:43"^^xsd:dateTime
-		;
-	tolo:represents told:_Person_13152 ;
-	.
-
 told:_IntellectualProperty_pic0001
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 8128"@en ;
@@ -35719,6 +35747,36 @@ told:_IntellectualProperty_pic0008
 	tolo:isLastModifiedBy told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2010-11-01T16:02:47"^^xsd:dateTime ;
 	tolo:represents told:_Person_8128 ;
+	.
+
+told:_IntellectualProperty_pic_dpr6
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 13152"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_primary
+		;
+	tolo:createDateTime "2011-12-27T19:51:01"^^xsd:dateTime ;
+	tolo:credit "http://dpr.info/bio.history.dpr3to6.htm"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2011-12-27T19:51:01"^^xsd:dateTime ;
+	tolo:represents told:_Person_13152 ;
+	.
+
+told:_IntellectualProperty_pic_k16_dpr6
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 13152"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_secondary
+		;
+	tolo:createDateTime "2011-12-27T19:51:43"^^xsd:dateTime ;
+	tolo:credit "http://dpr.info/bio.history.dpr3to6.htm"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2011-12-27T19:51:43"^^xsd:dateTime ;
+	tolo:represents told:_Person_13152 ;
 	.
 
 told:_IntellectualProperty_picture1
@@ -36449,7 +36507,7 @@ told:_IntellectualProperty_sadutshangfamily
 		;
 	.
 
-told:_IntellectualProperty_sakya_kambum__vol
+told:_IntellectualProperty_sakya_kambum__vol__ba__fol__409b
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 6499"@en ;
 	gist:isCategorizedBy
@@ -36897,7 +36955,7 @@ told:_IntellectualProperty_saspol_cave_2_16thc
 	tolo:represents told:_Person_7305 ;
 	.
 
-told:_IntellectualProperty_screen_shot_2017_09_14_at_1
+told:_IntellectualProperty_screen_shot_2017_09_14_at_1_41_17_pm
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"50226"^^xsd:anyURI ,
@@ -36915,32 +36973,37 @@ told:_IntellectualProperty_screen_shot_2017_09_14_at_1
 	tolo:represents told:_Person_2854 ;
 	.
 
-told:_IntellectualProperty_screen_shot_2017_12_04_at_1
+told:_IntellectualProperty_screen_shot_2017_12_04_at_1_22_03_pm
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 2419"@en ;
 	gist:isCategorizedBy
 		tolx:_GeneralMediaType_painting ,
-		tolx:_Rank_primary ,
-		tolx:_Rank_secondary
+		tolx:_Rank_primary
 		;
-	tolo:createDateTime
-		"2017-12-04T18:26:28"^^xsd:dateTime ,
-		"2017-12-04T18:26:43"^^xsd:dateTime
-		;
-	tolo:credit
-		"Latse Library Newsletter, vol. 5, page 20"@en ,
-		"Latse Library Newsletter, vol. 5, page 28"@en
-		;
+	tolo:createDateTime "2017-12-04T18:26:28"^^xsd:dateTime ;
+	tolo:credit "Latse Library Newsletter, vol. 5, page 20"@en ;
 	tolo:isCreatedBy told:_UserAccount_2 ;
 	tolo:isLastModifiedBy told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime
-		"2017-12-04T18:26:28"^^xsd:dateTime ,
-		"2017-12-04T18:26:43"^^xsd:dateTime
-		;
+	tolo:lastModifiedDateTime "2017-12-04T18:26:28"^^xsd:dateTime ;
 	tolo:represents told:_Person_2419 ;
 	.
 
-told:_IntellectualProperty_screen_shot_2017_12_11_at_10
+told:_IntellectualProperty_screen_shot_2017_12_04_at_1_22_30_pm
+	a gist:IntellectualProperty ;
+	skos:prefLabel "Person 2419"@en ;
+	gist:isCategorizedBy
+		tolx:_GeneralMediaType_painting ,
+		tolx:_Rank_secondary
+		;
+	tolo:createDateTime "2017-12-04T18:26:43"^^xsd:dateTime ;
+	tolo:credit "Latse Library Newsletter, vol. 5, page 28"@en ;
+	tolo:isCreatedBy told:_UserAccount_2 ;
+	tolo:isLastModifiedBy told:_UserAccount_2 ;
+	tolo:lastModifiedDateTime "2017-12-04T18:26:43"^^xsd:dateTime ;
+	tolo:represents told:_Person_2419 ;
+	.
+
+told:_IntellectualProperty_screen_shot_2017_12_11_at_10_05_50_am
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"1206"^^xsd:anyURI ,
@@ -36958,7 +37021,7 @@ told:_IntellectualProperty_screen_shot_2017_12_11_at_10
 	tolo:represents told:_Person_2791 ;
 	.
 
-told:_IntellectualProperty_screen_shot_2018_02_14_at_11
+told:_IntellectualProperty_screen_shot_2018_02_14_at_11_06_26_am
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 3152"@en ;
 	gist:isCategorizedBy
@@ -36972,7 +37035,7 @@ told:_IntellectualProperty_screen_shot_2018_02_14_at_11
 	tolo:represents told:_Person_3152 ;
 	.
 
-told:_IntellectualProperty_screen_shot_2019_07_30_at_3
+told:_IntellectualProperty_screen_shot_2019_07_30_at_3_52_16_pm
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 11741"@en ;
 	gist:isCategorizedBy
@@ -36987,7 +37050,7 @@ told:_IntellectualProperty_screen_shot_2019_07_30_at_3
 	tolo:represents told:_Person_11741 ;
 	.
 
-told:_IntellectualProperty_screenshot_2022_02_19_at_07
+told:_IntellectualProperty_screenshot_2022_02_19_at_07_54_28
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 3485"@en ;
 	gist:isCategorizedBy
@@ -37002,7 +37065,7 @@ told:_IntellectualProperty_screenshot_2022_02_19_at_07
 	tolo:represents told:_Person_3485 ;
 	.
 
-told:_IntellectualProperty_screenshot_2023_10_27_at_8
+told:_IntellectualProperty_screenshot_2023_10_27_at_8_41_00_am
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"90721"^^xsd:anyURI ,
@@ -38370,7 +38433,7 @@ told:_IntellectualProperty_tlongsel_nyingpo__ronis_2004
 	tolo:represents told:_Person_2992 ;
 	.
 
-told:_IntellectualProperty_tongkhor_01
+told:_IntellectualProperty_tongkhor_01_80085
 	a gist:IntellectualProperty ;
 	rdfs:seeAlso
 		"80085"^^xsd:anyURI ,
@@ -38420,7 +38483,7 @@ told:_IntellectualProperty_tr
 	tolo:represents told:_Person_4309 ;
 	.
 
-told:_IntellectualProperty_trandruk_bell__tucci_fig
+told:_IntellectualProperty_trandruk_bell__tucci_fig__5
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Person 13869"@en ;
 	gist:isCategorizedBy
