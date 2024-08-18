@@ -37,27 +37,38 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_iri
-        a tolo:Image ;
+        a gist:ContentExpression ;
         skos:prefLabel ?image_label_en ;
         gist:isAbout ?person_iri ;
-        tolo:fileName ?image_file_name ;
-        tolo:hasThumbnail ?thumbnail_iri ;
+        gist:isCategorizedBy ?rank_iri ;
         rdfs:seeAlso ?har_url ;
         tolo:credit ?credit_en ;
         tolo:caption ?caption_en ;
-        gist:isCategorizedBy 
-            ?rank_iri ,
-            ?media_type_iri ;
         tolo:isCreatedBy ?created_by_iri ;
         tolo:createDateTime ?create_datetime ;
         tolo:isLastModifiedBy ?last_modified_by_iri ;
         tolo:lastModifiedDateTime ?last_modified_datetime ;
+        rdfs:seeAlso ?har_reference_iri ;
+        .
+
+    ?file_iri 
+        a tolo:DigitalContent ;
+        gist:name ?image_file_name ;
+        tolo:represents ?image_iri ;
+        tolo:hasThumbnail ?thumbnail_iri ;
+        gist:isCategorizedBy ?media_type_iri ;
         .
 
     ?thumbnail_iri 
-        a tolo:Image ;
-        tolo:fileName ?thumb_file_name ;
+        a tolo:DigitalContent ;
+        gist:name ?thumb_file_name ;
         gist:isCategorizedBy ?media_type_iri ;
+        .
+
+    ?har_reference_iri
+        a tolo:Reference ;
+        gist:isCategorizedBy tolx:_ReferenceType_har ;
+        tolo:url ?har_url ;
         .
 
 }
@@ -67,14 +78,17 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?person_image_id)) AS ?image_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?person_image_id)) AS ?image_iri)
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
-    
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
+        
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?person_image_id)) AS ?file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
 
-    BIND(CONCAT("https://www.himalayanart.org/", ?har_number) AS ?har_url)
+    # HAR URL
+    BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
+    BIND(IF(BOUND(?har_reference_iri), STRDT(?har_number, xsd:anyURI), ?unbound) AS ?har_url)
 
     BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
 
