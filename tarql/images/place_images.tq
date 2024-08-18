@@ -55,11 +55,12 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, " ", "_"), "\\..+$", ""), "/uploads/communities/", "")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+    # Use image path for IRIs to ensure uniqueness
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\W", "_"), "\\..+$", "")) AS ?filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent", ?filename)) AS ?file_iri)
 
-    # Using IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
+    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?image_iri)
     BIND(STRLANG(?community_name, "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
