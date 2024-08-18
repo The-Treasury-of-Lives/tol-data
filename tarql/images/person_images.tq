@@ -42,6 +42,7 @@ CONSTRUCT {
         # Using tolo:represents rather than gist:isAbout to harmonize with other visual art, such as sculptures, that are not content.
         tolo:represents ?person_iri ;
         gist:isCategorizedBy ?rank_iri ,
+            # TODO Make sure these are always paintings. If not, use tolx:_GeneralMediaType_image.
             tolx:_GeneralMediaType_painting ;
         rdfs:seeAlso ?har_url ;
         tolo:credit ?credit_en ;
