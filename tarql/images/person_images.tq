@@ -81,14 +81,18 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    # Using IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?person_image_id)) AS ?image_iri)
+    # Use image filename for IRIs to ensure uniqueness
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\..+$", ""), "\\W", "_")) AS ?filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+
+    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
         
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?person_image_id)) AS ?file_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\..+$", ""), "\\W", "_")) AS ?thumb_filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
 
     # HAR URL
     BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
