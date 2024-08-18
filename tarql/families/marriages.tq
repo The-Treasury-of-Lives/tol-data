@@ -42,12 +42,14 @@ CONSTRUCT {
 
     ?marriage_iri
         a tolo:Marriage ;
-        ?wife_predicate_iri ?wife_iri ;
-        ?husband_predicate_iri ?husband_iri ;
+        tolo:hasWife ?wife_iri ;
+        tolo:hasHusband ?husband_iri ;
         ?start_predicate_iri ?start_datetime ;
         ?end_predicate_iri ?end_datetime ;
         gist:isCategorizedBy    
-            ?termination_cause_iri ;
+            ?termination_cause_iri ,
+            ?wife_status_iri ,
+            ?husband_status_iri ;
     .
 
     ?kinship_group_iri
@@ -61,7 +63,7 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 31)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?husband_id, "_", ?wife_id)) AS ?marriage_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Marriage_", ?husband_id, "_", ?wife_id)) AS ?marriage_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?wife_id)) AS ?wife_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?husband_id)) AS ?husband_iri)
 
@@ -70,22 +72,20 @@ WHERE {
     # Junior/senior wife
     BIND(
         COALESCE(
-            IF(?is_junior_for_wife = "1", "hasJuniorWife", ?unbound),
-            IF(?is_senior_for_wife = "1", "hasSeniorWife", ?unbound),    
-            "hasWife"            
-        ) AS ?wife_predicate
+            IF(?is_junior_for_wife = "1", "junior", ?unbound),
+            IF(?is_senior_for_wife = "1", "senior", ?unbound)            
+        ) AS ?wife_status
     )
-    BIND(tarql:expandPrefixedName(CONCAT("tolo:", ?wife_predicate)) AS ?wife_predicate_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_WifeStatus_", ?wife_status)) AS ?wife_status_iri)
 
     # Junior/senior husband
     BIND(
         COALESCE(
-            IF(?is_junior_for_husband = "1", "hasJuniorHusband", ?unbound),
-            IF(?is_senior_for_husband = "1", "hasSeniorHusband", ?unbound),    
-            "hasHusband"            
-        ) AS ?husband_predicate
+            IF(?is_junior_for_husband = "1", "junior", ?unbound),
+            IF(?is_senior_for_husband = "1", "senior", ?unbound)            
+        ) AS ?husband_status
     )
-    BIND(tarql:expandPrefixedName(CONCAT("tolo:", ?husband_predicate)) AS ?husband_predicate_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_HusbandStatus_", ?husband_status)) AS ?husband_status_iri)
 
     # Marriage dates
     # To create an xsd:dateTime from a year string
