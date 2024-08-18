@@ -34,7 +34,7 @@ CONSTRUCT {
     ?image_iri
         a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
-        # TODO Make sure these are always paintings
+        # TODO Make sure these are always paintings. If not, use tolx:_GeneralMediaType_image.
         gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
         tolo:represents ?place_iri ;
         tolo:credit ?credit_en ;
