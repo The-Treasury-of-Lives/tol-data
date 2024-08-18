@@ -58,11 +58,21 @@ WHERE {
     # FILTER(?ROWNUM = 1)
 
     # Use image path for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\W", "_"), "\\..+$", "")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent", ?filename)) AS ?file_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\W", "_"), "\\.[^.]+$", "")) AS ?filename)
 
     # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?image_iri)
+
+    # Image file
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent", ?filename)) AS ?file_iri)
+    BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
+    BIND(
+        COALESCE(
+            IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
+            IF(?image_file_ext = "png", media-image:png, ?unbound)
+        ) AS ?media_type_iri
+    )
+
     BIND(STRLANG(?community_name, "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
@@ -74,15 +84,5 @@ WHERE {
     BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
-
-
-
-    BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
-    BIND(
-        COALESCE(
-            IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
-            IF(?image_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?media_type_iri
-    )
 
 }

@@ -61,13 +61,13 @@ CONSTRUCT {
         gist:name ?image_file_name ;
         tolo:represents ?image_iri ;
         tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isCategorizedBy ?media_type_iri ;
+        gist:isCategorizedBy ?file_media_type_iri ;
         .
 
     ?thumbnail_iri 
         a tolo:DigitalContent ;
         gist:name ?thumb_file_name ;
-        gist:isCategorizedBy ?media_type_iri ;
+        gist:isCategorizedBy ?thumb_media_type_iri ;
         .
 
     ?har_reference_iri
@@ -84,17 +84,38 @@ WHERE {
     # FILTER(?ROWNUM = 1)
 
     # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\..+$", ""), "\\W", "_")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$$", ""), "\\W", "_")) AS ?filename)
 
     # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
+
+    # FILES
+    # Main image
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+
+    BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
+    BIND(
+        COALESCE(
+            IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
+            IF(?image_file_ext = "png", media-image:png, ?unbound)
+        ) AS ?file_media_type_iri
+    )
+
+    # Thumbnail
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
+    BIND(LCASE(REPLACE(?thumb_file_name, "^.+\\.", "")) AS ?thumb_file_ext)
+    BIND(
+        COALESCE(
+            IF(?thumb_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
+            IF(?thumb_file_ext = "png", media-image:png, ?unbound)
+        ) AS ?thumb_media_type_iri
+    )
+
+
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
-        
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\..+$", ""), "\\W", "_")) AS ?thumb_filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
 
     # HAR URL
     BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
@@ -105,19 +126,10 @@ WHERE {
     BIND(IF(?is_primary = "1", "primary", "secondary") AS ?rank_value)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_Rank_", ?rank_value)) AS ?rank_iri)
 
-    # Assuming image and thumbnail always have the same media type.
-    BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
-    BIND(
-        COALESCE(
-            IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
-            IF(?image_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?media_type_iri
-    )
-
     BIND(IF(?caption != "NULL", STRLANG(?caption, "en"), ?unbound) AS ?caption_en)
 
+    # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
-
     BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
     BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
     BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
