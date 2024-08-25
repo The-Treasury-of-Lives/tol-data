@@ -47,28 +47,55 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?image_iri
-        a tolo:Image ;
-        skos:prefLabel ?image_label_en ;
-        gist:isAbout ?person_iri ;
-        tolo:fileName ?image_file_name ;
-        tolo:hasThumbnail ?thumbnail_iri ;
-        rdfs:seeAlso ?har_url ;
-        tolo:credit ?credit_en ;
-        tolo:caption ?caption_en ;
-        gist:isCategorizedBy 
-            ?rank_iri ,
-            ?media_type_iri ;
+    ?asset_iri
+        a gist:IntellectualProperty ;
+        skos:prefLabel ?title_en ;
+        gist:name ?title_en ;
+        tolo:hasSourceStatement ?source_statement_iri ;
+        gist:isConnectedTo ?tradition_iri ;
+        gist:isCategorizedBy ?general_media_type_iri ;
+
+        # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
         tolo:createDateTime ?create_datetime ;
         tolo:isLastModifiedBy ?last_modified_by_iri ;
         tolo:lastModifiedDateTime ?last_modified_datetime ;
+
+
+    ?file_iri 
+        a tolo:DigitalContent ;
+        skos:prefLabel ?title_en ;
+        gist:name ?image_file_name ;
+        tolo:represents ?asset_iri ;
+        tolo:hasThumbnail ?thumbnail_iri ;
+        gist:isCategorizedBy ?file_media_type_iri ;
         .
 
     ?thumbnail_iri 
-        a tolo:Image ;
-        tolo:fileName ?thumb_file_name ;
-        gist:isCategorizedBy ?media_type_iri ;
+        a tolo:DigitalContent ;
+        skos:prefLabel ?title_en ;
+        gist:name ?thumb_file_name ;
+        gist:isCategorizedBy ?thumb_media_type_iri ;
+        .
+
+    ?har_reference_iri
+        a tolo:Reference ;
+        gist:isCategorizedBy tolx:_ReferenceType_har ;
+        tolo:url ?har_url ;
+        .
+
+    ?description_iri    
+        a gist:FormattedContent ;
+        skos:prefLabel ?title_en ;
+        gist:isExpressedIn media-txt:html ;
+        gist:isAbout ?asset_iri ;
+        .
+
+    ?source_statement_iri
+        a gist:FormattedContent ;
+        skos:prefLabel ?source_statement_label_en ;
+        gist:isExpressedIn media-txt:html ;
+        gist:containedText ?source_statement_en ;
         .
 
 }
@@ -78,44 +105,55 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?person_image_id)) AS ?image_iri)
-    BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
-    
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
-    
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_Thumbnail_", ?person_image_id)) AS ?thumbnail_iri)
+    # Use image filename for IRIs to ensure uniqueness
+    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
+    # Use image filename for IRIs to ensure uniqueness
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
 
-    BIND(CONCAT("https://www.himalayanart.org/", ?har_number) AS ?har_url)
+    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?asset_iri)
 
-    BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
-
-    BIND(IF(?is_primary = "1", "primary", "secondary") AS ?rank_value)
-    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Rank_", ?rank_value)) AS ?rank_iri)
-
-    # Assuming image and thumbnail always have the same media type.
-    BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
+    # FILES
+    # Main image
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+    BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
     BIND(
         COALESCE(
-            IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
-            IF(?image_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?media_type_iri
+            IF(?file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
+            IF(?file_ext = "png", media-image:png, ?unbound)
+        ) AS ?file_media_type_iri
     )
 
-    BIND(IF(?caption != "NULL", STRLANG(?caption, "en"), ?unbound) AS ?caption_en)
+    # Thumbnail
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
+    BIND(LCASE(REPLACE(?thumb_name, "^.+\\.", "")) AS ?thumb_file_ext)
+    BIND(
+        COALESCE(
+            IF(?thumb_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
+            IF(?thumb_file_ext = "png", media-image:png, ?unbound)
+        ) AS ?thumb_media_type_iri
+    )
 
+    # Name
+    BIND(STRLANG(?title, "en") AS ?title_en)
+
+    # Description
+    BIND(STRLANG(?description, "en") AS ?description_en)
+    BIND(tarql:expandPrefixedName("told:_FormattedContent_Description_", filename) AS ?description_iri)
+    BIND(STRLANG(?))
+
+    # HAR URL
+    BIND(IF(BOUND(?har_nbr), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_nbr)), ?unbound) AS ?har_reference_iri)
+    BIND(IF(BOUND(?har_reference_iri), STRDT(?har_nbr, xsd:anyURI), ?unbound) AS ?har_url)
+
+    # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
+    BIND(STRDT(REPLACE(?create_date, " ", "T"), "xsd:dateTime") AS ?create_datetime)
 
-    BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
-    BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
-    BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
-    BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
-    
-    # If no modification date/user, use creation date/user.
-    BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)) AS ?last_modified_by_iri)
+    BIND(STRDT(REPLACE(?last_modified_date, " ", "T"), "xsd:dateTime") AS ?last_modified_datetime)
 
-    BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
-    BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
-    BIND(IF(REGEX(?last_modified_time, "^\\d:"), CONCAT("0", ?last_modified_time), ?last_modified_time) AS ?normalized_last_modified_time)
-    BIND(IF(?last_modified_date != "NULL", STRDT(CONCAT(?last_modified_day, "T", ?normalized_last_modified_time), xsd:dateTime), ?create_datetime) AS ?last_modified_datetime)
+
 
 }
