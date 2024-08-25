@@ -83,7 +83,7 @@ WHERE {
     # FILTER(?ROWNUM = 1)
 
     # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$$", ""), "\\W", "_")) AS ?filename)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
 
     # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
@@ -91,7 +91,6 @@ WHERE {
     # FILES
     # Main image
     BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
-
     BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(
