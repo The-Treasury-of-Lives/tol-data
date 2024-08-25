@@ -35,8 +35,8 @@ CONSTRUCT {
         a gist:FormattedContent ;
         skos:prefLabel ?image_label_en ;
         gist:isAbout ?place_iri ;
-        tolo:credit ?credit_en ;
-        gist:license ?license_en ;      
+        tolo:credit ?credit ;
+        gist:license ?license ;      
         tolo:sourceUrl ?source_url ;
         tolo:creationDate ?creation_date ;
         tolo:filePath ?image_path ;
@@ -65,9 +65,9 @@ WHERE {
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
-    BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
+    BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit)
 
-    BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license_en)
+    BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license)
 
     BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
 

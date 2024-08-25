@@ -41,7 +41,7 @@ CONSTRUCT {
         skos:prefLabel ?image_label_en ;
         gist:isAbout ?person_iri ;
         gist:isCategorizedBy ?rank_iri ;
-        tolo:credit ?credit_en ;
+        tolo:credit ?credit ;
         tolo:caption ?caption_en ;
         rdfs:seeAlso ?har_reference_iri ;
 
@@ -115,7 +115,7 @@ WHERE {
     BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
     BIND(IF(BOUND(?har_reference_iri), STRDT(?har_number, xsd:anyURI), ?unbound) AS ?har_url)
 
-    BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit_en)
+    BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
 
     BIND(IF(?is_primary = "1", "primary", "secondary") AS ?rank_value)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_Rank_", ?rank_value)) AS ?rank_iri)
