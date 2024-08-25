@@ -32,21 +32,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_iri
-        a gist:IntellectualProperty ;
+        a gist:FormattedContent ;
         skos:prefLabel ?image_label_en ;
-        # TODO Make sure these are always paintings. If not, use tolx:_GeneralMediaType_image.
-        gist:isCategorizedBy tolx:_GeneralMediaType_painting ;
-        tolo:represents ?place_iri ;
+        gist:isAbout ?place_iri ;
         tolo:credit ?credit_en ;
         gist:license ?license_en ;      
         tolo:sourceUrl ?source_url ;
         tolo:creationDate ?creation_date ;
-        .
-
-    ?file_iri 
-        a tolo:DigitalContent ;
         tolo:filePath ?image_path ;
-        tolo:represents ?image_iri ;
         gist:isCategorizedBy ?media_type_iri ;
         .
 
@@ -55,16 +48,11 @@ CONSTRUCT {
 WHERE {
     
     # Testing
-    # FILTER(?ROWNUM = 1)
+    # FILTER(?ROWNUM = 5)
 
     # Use image path for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\W", "_"), "\\.[^.]+$", "")) AS ?filename)
-
-    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?image_iri)
-
-    # Image file
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent", ?filename)) AS ?file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent", ?filename)) AS ?image_iri)
     BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(

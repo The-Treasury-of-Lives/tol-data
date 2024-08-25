@@ -73,6 +73,7 @@ CONSTRUCT {
 
         bdo:personGender ?gender_iri ;
 
+        # The relationship is not always as specific as aboutness, so use the more general rdfs:seeAlso.
         rdfs:seeAlso
             ?lotsawa_house_reference_iri ,
             ?har_reference_iri 

@@ -37,16 +37,18 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_iri
-        a gist:IntellectualProperty ;
+        a gist:FormattedContent ;
         skos:prefLabel ?image_label_en ;
-        # Using tolo:represents rather than gist:isAbout to harmonize with other visual art, such as sculptures, that are not content.
-        tolo:represents ?person_iri ;
-        gist:isCategorizedBy ?rank_iri ,
-            # TODO Make sure these are always paintings. If not, use tolx:_GeneralMediaType_image.
-            tolx:_GeneralMediaType_painting ;
+        gist:isAbout ?person_iri ;
+        gist:isCategorizedBy ?rank_iri ;
         tolo:credit ?credit_en ;
         tolo:caption ?caption_en ;
         rdfs:seeAlso ?har_reference_iri ;
+
+        # File metadata
+        tolo:fileName ?image_file_name ;
+        tolo:hasThumbnail ?thumbnail_iri ;
+        gist:isCategorizedBy ?file_media_type_iri ;
 
         # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
@@ -55,17 +57,9 @@ CONSTRUCT {
         tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
-    ?file_iri 
-        a tolo:DigitalContent ;
-        gist:name ?image_file_name ;
-        tolo:represents ?image_iri ;
-        tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isCategorizedBy ?file_media_type_iri ;
-        .
-
     ?thumbnail_iri 
-        a tolo:DigitalContent ;
-        gist:name ?thumb_file_name ;
+        a gist:FormattedContent ;
+        tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?thumb_media_type_iri ;
         .
 
@@ -84,13 +78,12 @@ WHERE {
 
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_iri)
+    # Add explicit datatype so serializer doesn't add language tag.
+    # Doesn't work.
+    # BIND(STRDT(?image_file_name, xsd:string) AS ?image_file_name_str)
 
-    # Use IntellectualProperty for infix because there is data for other visual works that are not content, such as sculptures and textiles.
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?image_iri)
-
-    # FILES
-    # Main image
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_", ?filename)) AS ?file_iri)
+    # Main image media type
     BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(
@@ -100,8 +93,12 @@ WHERE {
     )
 
     # Thumbnail
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_DigitalContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_name)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?thumb_name)) AS ?thumbnail_iri)
+    # Add explicit datatype so serializer doesn't add language tag.
+    # Doesn't work.
+    # BIND(STRDT(?thumb_file_name, xsd:string) AS ?thumb_file_name_str)
+    # Not sure whether we can assume the thumbnail always has the same media type as the main image.
     BIND(LCASE(REPLACE(?thumb_file_name, "^.+\\.", "")) AS ?thumb_file_ext)
     BIND(
         COALESCE(
@@ -109,7 +106,6 @@ WHERE {
             IF(?thumb_file_ext = "png", media-image:png, ?unbound)
         ) AS ?thumb_media_type_iri
     )
-
 
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
@@ -128,6 +124,7 @@ WHERE {
 
     # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
+
     BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
     BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
     BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
