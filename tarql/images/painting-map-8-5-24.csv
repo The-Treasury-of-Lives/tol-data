@@ -1,0 +1,877 @@
+painting_map_id,coordinates,tol_place_id,default_name,wylie_name,person_id,biography_id,painting_id,create_date,last_modified_user_id,last_modified_date
+31,"265,18,313,82",,The Buddha,The Buddha,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+32,"212,18,264,82",,Maitreya,Maitreya,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+33,"161,18,211,82",,Asanga,Asanga,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+34,"110,18,159,82",,Vasubhandu,Vasubhandu,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+35,"59,18,109,82",,Arya Vimuktasena,Arya Vimuktasena,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+36,"5,18,58,82",,Bhananta Vimuktasena,Bhananta Vimuktasena,,,1,2011-07-23 0:02:10,1,2011-07-23 0:02:10
+37,"7,84,69,153",,Lopon Choggi De,Lopon Choggi De,,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+38,"7,157,69,225",,Vinitadeva,Vinitadeva,,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+39,"7,226,69,291",,Kamalaśīla,kamalashIla,10316,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+40,"7,292,69,362",,Vairocana,bai ro tsa na,7505,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+41,"7,363,69,432",,Haribhadra,Haribhadra,,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+42,"7,434,69,501",,Kusalin the Greater,Kusalin the Greater,,,1,2011-07-23 0:02:11,1,2011-07-23 0:02:11
+43,"7,503,69,570",,Kusalin the Lesser,Kusalin the Lesser,,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+44,"8,571,69,640",,Dharmakirti of Sumatra,Dharmakirti of Sumatra,,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+45,"11,642,73,714",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+46,"74,642,132,714",,Dromton Gyelwa Jungne,brom ston rgyal ba'i 'byung gnas,4267,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+47,"133,642,195,714",,Gonpawa Wangchuk Gyeltsen,dgon pa ba dbang phyug rgyal mtshan,2598,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+48,"196,642,255,710",,Neuzurpa Yeshe Bar,sne'u zur pa ye shes 'bar,2591,,1,2011-07-23 0:02:12,1,2011-07-23 0:02:12
+49,"256,642,317,710",,Duldzinpa Takmapa Kawa Darseng,dul 'dzin pa thag ma baka ba dar seng,2638,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+50,"12,715,69,787",,Shupu Namkha Sengge,shud phu nam mkha' seng+ge,2593,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+51,"70,715,133,787",,Lhodrak Namkha Gyelpo,lho brag nam mkha' rgyal po,5817,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+52,"134,715,193,787",,Lhodrak Sengge Zangpo,lho brag seng+ge bzang po,5818,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+53,"194,715,257,787",,Lhodrak Gyelse Zangpo,lho brag rgyal sras bzang po,5819,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+54,"258,715,318,787",,"The First Lelung Jedrung, Drubchen Namkha Gyeltsen",sle lung rje drung 01 grub chen nam mkha' rgyal mtshan,2592,,1,2011-07-23 0:02:13,1,2011-07-23 0:02:13
+55,"211,101,422,492",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,1,2011-07-23 0:02:14,1,2011-07-23 0:02:14
+56,"75,230,170,488",,Gyeltsabje Darma Rinchen,rgyal tshab rje dar ma rin chen,9095,,1,2011-07-23 0:02:14,1,2011-07-23 0:02:14
+57,"452,230,552,488",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,1,2011-07-23 0:02:14,1,2011-07-23 0:02:14
+58,"27,18,123,115",,Vajradhara,Vajradhara,,,3,2011-07-23 0:11:37,1,2011-07-23 0:11:37
+59,"130,15,225,115",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,3,2011-07-23 0:11:37,1,2011-07-23 0:11:37
+60,"226,15,325,115",,Sonam Tsemo,bsod nams rtse mo,2919,,3,2011-07-23 0:11:37,1,2011-07-23 0:11:37
+61,"326,15,420,115",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,3,2011-07-23 0:11:37,1,2011-07-23 0:11:37
+62,"421,15,515,115",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+63,"516,15,610,115",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+64,"27,130,132,283",,Shri Hevajra,Shri Hevajra,,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+65,"508,127,613,250",,Ekajati,Ekajati,,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+66,"23,533,132,650",,Kartridhara Mahakala,Kartridhara Mahakala,,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+67,"517,531,606,647",,Shri Devi,Shri Devi,,,3,2011-07-23 0:11:38,1,2011-07-23 0:11:38
+68,"92,346,179,467",,Kala Rakshasa,Kala Rakshasa,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+69,"456,375,544,480",,Kala Rakshasi,Kala Rakshasi,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+70,"22,664,94,770",,Putra,Putra,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+71,"105,669,186,768",,Batra,Batra,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+72,"195,670,276,767",,Singmo,Singmo,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+73,"283,667,360,767",,Bhikshu,Bhikshu,,,3,2011-07-23 0:11:39,1,2011-07-23 0:11:39
+74,"363,667,445,767",,Black Woman,Black Woman,,,3,2011-07-23 0:11:40,1,2011-07-23 0:11:40
+75,"452,665,532,765",,Sorceror,Sorceror,,,3,2011-07-23 0:11:40,1,2011-07-23 0:11:40
+76,"538,663,615,765",,Warrior,Warrior,,,3,2011-07-23 0:11:40,1,2011-07-23 0:11:40
+77,"489,89,566,185",,Sahaja Heruka Chakrasamvara,Sahaja Heruka Chakrasamvara,,,2,2011-07-24 19:58:47,1,2011-07-24 19:58:47
+78,"467,263,553,375",,Ekajati,Ekajati,,,2,2011-07-24 19:58:47,1,2011-07-24 19:58:47
+79,"451,411,563,575",,Shri Devi,Shri Devi,,,2,2011-07-24 19:58:47,1,2011-07-24 19:58:47
+80,"94,408,207,577",,Kartaridhara Mahakala,Kartaridhara Mahakala,,,2,2011-07-24 19:58:47,1,2011-07-24 19:58:47
+81,"93,239,198,378",,Bhutadamara Vajrapani,Bhutadamara Vajrapani,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+82,"93,88,174,179",,Sahaja Heruka Hevajra,Sahaja Heruka Hevajra,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+83,"12,8,67,81",,Vajradhara,Vajradhara,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+84,"68,8,118,81",,Brahmin Vararuchi,Brahmin Vararuchi,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+85,"119,8,169,81",,Pandita Deva Vajra,Pandita Deva Vajra,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+86,"170,8,225,81",,Shraddha Karavarma,Shraddha Karavarma,,,2,2011-07-24 19:58:48,1,2011-07-24 19:58:48
+87,"225,8,277,81",,Rinchen Zangpo,rin chen bzang po,10199,,2,2011-07-24 19:58:49,2,2011-09-08 0:46:46
+88,"278,8,330,81",,Draktengpa Yonten Tsultrim,brag steng pa yon tan tshul khrims,5753,,2,2011-07-24 19:58:49,1,2011-07-24 19:58:49
+89,"331,8,390,81",,Mel Lotsāwa Lodro Drakpa,mal lo tsA ba blo gros grags pa,5401,,2,2011-07-24 19:58:49,1,2011-07-24 19:58:49
+90,"391,8,445,81",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,2,2011-07-24 19:58:49,1,2011-07-24 19:58:49
+91,"446,8,496,81",,Sonam Tsemo,bsod nams rtse mo,2919,,2,2011-07-24 19:58:49,1,2011-07-24 19:58:49
+92,"497,8,550,81",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,2,2011-07-24 19:58:49,1,2011-07-24 19:58:49
+93,"551,8,600,81",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+94,"601,8,655,81",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+95,"10,87,87,179",,Varuna on a makara,Varuna on a makara,,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+96,"572,89,653,180",,Vayu on a deer,Vayu on a deer,,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+97,"10,182,88,279",,Rakshasa on a zombie,Rakshasa on a zombie,,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+98,"572,186,653,286",,Yaksha on a horse,Yaksha on a horse,,,2,2011-07-24 19:58:50,1,2011-07-24 19:58:50
+99,"10,286,86,382",,Yama on a buffalo,Yama on a buffalo,,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+100,"573,290,651,386",,Ishana on a bull,Ishana on a bull,,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+101,"8,386,85,484",,Agni on a goat,Agni on a goat,,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+102,"570,390,652,484",,Brahma on a goose (?),Brahma on a goose (?),,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+103,"9,490,86,589",,Shakra on an elephant,Shakra on an elephant,,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+104,"571,492,649,588",,Unidentified god,Unidentified god,,,2,2011-07-24 19:58:51,1,2011-07-24 19:58:51
+105,"7,593,84,701",,Vaishravana,Vaishravana,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+106,"573,597,650,702",,Dhritarashtra,Dhritarashtra,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+107,"90,593,154,701",,Virudhaka,Virudhaka,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+108,"497,592,667,703",,Virupaksha,Virupaksha,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+109,"9,706,57,788",,Bhikshu,Bhikshu,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+110,"58,706,113,788",,Sorcerer,Sorcerer,,,2,2011-07-24 19:58:52,1,2011-07-24 19:58:52
+111,"114,706,162,788",,Kala Rakshasa,Kala Rakshasa,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+112,"163,706,213,788",,Kala Rakshasi,Kala Rakshasi,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+113,"214,706,260,788",,Putra,Putra,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+114,"261,706,320,788",,Batra,Batra,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+115,"321,706,375,788",,Singmo,Singmo,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+116,"376,706,431,788",,Black Woman,Black Woman,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+117,"432,706,486,788",,Warrior,Warrior,,,2,2011-07-24 19:58:53,1,2011-07-24 19:58:53
+118,"487,706,541,788",,Outer Retinue Figure,Outer Retinue Figure,,,2,2011-07-24 19:58:54,1,2011-07-24 19:58:54
+119,"542,706,599,788",,Outer Retinue Figure,Outer Retinue Figure,,,2,2011-07-24 19:58:54,1,2011-07-24 19:58:54
+120,"600,706,650,788",,Outer Retinue Figure,Outer Retinue Figure,,,2,2011-07-24 19:58:54,1,2011-07-24 19:58:54
+121,"162,193,327,448",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,18,2011-07-24 20:14:18,1,2011-07-24 20:14:18
+122,"31,286,123,433",,Gyeltsabje Darma Rinchen,rgyal tshab rje dar ma rin chen,9095,,18,2011-07-24 20:14:19,1,2011-07-24 20:14:19
+123,"357,286,465,433",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,18,2011-07-24 20:14:19,1,2011-07-24 20:14:19
+124,"62,13,278,309",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,17,2011-07-24 20:16:15,1,2011-07-24 20:16:15
+125,"355,19,582,309",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,17,2011-07-24 20:16:15,1,2011-07-24 20:16:15
+126,"65,396,270,679",,Zhangton Konchok Pel,zhang ston dkon mchog dpal,2203,,17,2011-07-24 20:16:15,1,2011-07-24 20:16:15
+127,"351,396,580,679",,Naza Drakpukpa Sonam Pel,na bza' brag phug pa bsod nams dpal,5406,,17,2011-07-24 20:16:15,1,2011-07-24 20:16:15
+128,"179,41,333,295",,Zhangton Chobar,zhang ston chos 'bar,7024,,16,2011-07-24 20:18:07,1,2011-07-24 20:18:07
+129,"47,357,216,576",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,16,2011-07-24 20:18:07,1,2011-07-24 20:18:07
+130,"302,353,463,581",,Sonam Tsemo,bsod nams rtse mo,2919,,16,2011-07-24 20:18:08,1,2011-07-24 20:18:08
+131,"127,186,313,550",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,15,2011-07-24 20:40:54,1,2011-07-24 20:40:54
+132,"403,190,555,550",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,15,2011-07-24 20:40:54,1,2011-07-24 20:40:54
+133,"293,85,389,209",,Kalachakra,Kalachakra,,,15,2011-07-24 20:40:54,1,2011-07-24 20:40:54
+134,"200,131,228,171",,Avalokiteshvara,Avalokiteshvara,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+135,"459,135,492,174",,Manjushri,Manjushri,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+136,"85,155,127,205",,Buddha,Buddha,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+137,"563,161,606,212",,Buddha,Buddha,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+138,"79,699,142,779",,(1) Very Joyful Tara,(1) Very Joyful Tara,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+139,"143,699,211,779",,(2) Radiant White Moon Tara,(2) Radiant White Moon Tara,,,15,2011-07-24 20:40:55,1,2011-07-24 20:40:55
+140,"212,699,276,779",,(3) Gold Coloured Tara,(3) Gold Coloured Tara,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+141,"279,699,343,779",,(4) Ushnishavijaya Tara,(4) Ushnishavijaya Tara,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+142,"344,699,408,779",,(5) Tara Shouting Hum,(5) Tara Shouting Hum,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+143,"411,699,477,779",,(6) Victorious Tara,(6) Victorious Tara,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+144,"478,699,541,779",,(7) Tara Destroying Conflict,(7) Tara Destroying Conflict,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+145,"543,695,605,776",,(8) Supreme Power Bestowing Tara,(8) Supreme Power Bestowing Tara,,,15,2011-07-24 20:40:56,1,2011-07-24 20:40:56
+146,"610,697,672,775",,Green Tara of the Sandalwood Forest,Green Tara of the Sandalwood Forest,,,15,2011-07-24 20:40:57,1,2011-07-24 20:40:57
+147,"14,6,81,80",,Shakyamuni Buddha,Shakyamuni Buddha,,,15,2011-07-24 20:40:57,1,2011-07-24 20:40:57
+148,"81,82,139,153",,Red Hand,Red Hand,,,15,2011-07-24 20:40:57,1,2011-07-24 20:40:57
+149,"183,190,401,520",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,14,2011-07-24 20:42:41,1,2011-07-24 20:42:41
+150,"222,192,366,490",,"The Eleventh Ngor Khenchen, Sanggye Sengge",ngor mkhan chen 11 sangs rgyas seng+ge,4219,,13,2011-07-24 20:48:30,1,2011-07-24 20:48:30
+151,"161,35,228,130",,Virupa,Virupa,,,13,2011-07-24 20:48:30,1,2011-07-24 20:48:30
+152,"362,35,431,135",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,13,2011-07-24 20:48:30,1,2011-07-24 20:48:30
+153,"37,34,147,149",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,13,2011-07-24 20:48:30,1,2011-07-24 20:48:30
+154,"444,37,552,146",,Muchen Sempa Chenpo Konchok Gyeltsen,mus chen sems dpa' chen po dkon mchog rgyal mtshan,1898,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+155,"43,177,117,273",,Hevajra,Hevajra,,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+156,"476,180,551,275",,Rakta Yamari,Rakta Yamari,,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+157,"38,310,109,398",,Dronma Chog Dampa (?),Dronma Chog Dampa (?),,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+158,"484,314,553,399",,"The Ninth Ngor Khenchen, Lhachok Sengge",ngor mkhan chen 09 lha mchog seng+ge,4217,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+159,"37,408,113,515",,"The Tenth Ngor Khenchen, Konchok Lhundrub",ngor mkhan chen 10 dkon mchog lhun grub,10507,,13,2011-07-24 20:48:31,1,2011-07-24 20:48:31
+160,"482,408,552,499",,"The Fifteenth Ngor Khenchen, Kunga Sonam Lhundrub",ngor mkhan chen 15 kun dga' bsod nams lhun grub,4220,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+161,"36,545,112,636",,Ngawang Kunga Rinchen,sngags 'chang kun dga' rin chen,7053,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+162,"478,549,550,630",,Sherab Gyaltsen,Sherab Gyaltsen,,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+163,"345,647,426,756",,Panjarnata Mahakala,Panjarnata Mahakala,,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+164,"453,645,551,755",,Vaishravana,Vaishravana,,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+165,"49,662,171,758",,Donor Figure,Donor Figure,,,13,2011-07-24 20:48:32,1,2011-07-24 20:48:32
+166,"13,21,86,117",,Shakyamuni Buddha,Shakyamuni Buddha,,,12,2011-07-24 21:02:56,1,2011-07-24 21:02:56
+167,"87,21,155,117",,Shariputra,Shariputra,,,12,2011-07-24 21:02:56,1,2011-07-24 21:02:56
+168,"156,21,220,117",,Rahula,Rahula,,,12,2011-07-24 21:02:56,1,2011-07-24 21:02:56
+169,"221,20,290,116",,Brahmin Rahula (Saraha),Brahmin Rahula (Saraha),,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+170,"291,20,360,116",,Nagarjuna,Nagarjuna,,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+171,"361,19,425,115",,Ghunamati,Ghunamati,,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+172,"426,19,495,115",,Ratnamitra,Ratnamitra,,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+173,"426,116,495,205",,Manjushri or Maitreya [?],Manjushri or Maitreya [?],,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+174,"496,18,565,114",,Dharmabhadra,Dharmabhadra,,,12,2011-07-24 21:02:57,1,2011-07-24 21:02:57
+175,"496,115,565,206",,Vajrashri,Vajrashri,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+176,"566,18,635,114",,Gunapati,Gunapati,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+177,"566,115,635,206",,Bhava Gupta,Bhava Gupta,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+178,"13,118,86,214",,Dharmamala,Dharmamala,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+179,"87,118,155,214",,Shakyashri,Shakyashri,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+180,"156,118,220,214",,Arya Lokeshvara,Arya Lokeshvara,,,12,2011-07-24 21:02:58,1,2011-07-24 21:02:58
+181,"14,215,86,308",,Prabhashvarashri,Prabhashvarashri,,,12,2011-07-24 21:02:59,1,2011-07-24 21:02:59
+182,"291,113,367,228",,Samputa Vajrasattva,Samputa Vajrasattva,,,12,2011-07-24 21:02:59,1,2011-07-24 21:02:59
+183,"296,229,367,299",,Virupa,Virupa,,,12,2011-07-24 21:02:59,1,2011-07-24 21:04:18
+184,"127,245,283,467",,Kunkhyen,Kunkhyen,,,12,2011-07-24 21:02:59,1,2011-07-24 21:02:59
+185,"377,245,545,467",,Jamyang Chokyi Gyalpo,Jamyang Chokyi Gyalpo,,,12,2011-07-24 21:02:59,1,2011-07-24 21:02:59
+186,"566,205,638,304",,Khenchen Sonam Pel,mkhan chen bsod nams dpal,1029,,12,2011-07-24 21:02:59,1,2011-07-24 21:02:59
+187,"18,309,89,400",,Sharchen Yeshe Gyeltsen,shar chen ye shes rgyal mtshan,5408,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+188,"566,305,638,394",,Khenchen Tashi Tsultrim,mkhan chen bkra shis tshul,1035,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+189,"18,401,89,490",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+190,"566,395,638,494",,"The Twelfth Ngor Khenchen, Konchok Pelden",ngor mkhan chen 12 dkon mchog dpal ldan,10528,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+191,"18,491,89,585",,"The Eighth Ngor Khenchen, Muchen Sanggye Rinchen",ngor mkhan chen 08 mus chen sangs rgyas rin chen,1820,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+192,"566,495,638,590",,"The Ninth Ngor Khenchen, Lhachok Sengge",ngor mkhan chen 09 lha mchog seng+ge,4217,,12,2011-07-24 21:03:00,1,2011-07-24 21:03:00
+193,"20,586,91,685",,"The Tenth Ngor Khenchen, Konchok Lhundrub",ngor mkhan chen 10 dkon mchog lhun grub,10507,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+194,"566,591,638,685",,"The Eleventh Ngor Khenchen, Sanggye Sengge",ngor mkhan chen 11 sangs rgyas seng+ge,4219,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+195,"20,686,91,771",,Paṇchen Bumdrak Sumpa,paN chen'bum phrag gsum pa,7370,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+196,"92,686,163,771",,Unidentified,Unidentified,,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+197,"231,683,294,776",,Brahmarupa Mahakala,Brahmarupa Mahakala,,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+198,"295,683,363,776",,Panjara Mahakala,Panjara Mahakala,,,12,2011-07-24 21:03:01,1,2011-07-24 21:03:01
+199,"364,683,432,776",,"Worldly Protector, unidentified","Worldly Protector, unidentified",,,12,2011-07-24 21:03:02,1,2011-07-24 21:03:02
+200,"433,683,505,776",,"Worldly Protector, unidentified","Worldly Protector, unidentified",,,12,2011-07-24 21:03:02,1,2011-07-24 21:03:02
+201,"506,683,568,776",,"Worldly Protector, unidentified","Worldly Protector, unidentified",,,12,2011-07-24 21:03:02,1,2011-07-24 21:03:02
+202,"569,686,641,776",,Kunga Drolchok,kun dga' grol mchog,4085,,12,2011-07-24 21:03:02,1,2011-07-24 21:03:02
+203,"239,192,421,531",,"The Eleventh Ngor Khenchen, Sanggye Sengge",ngor mkhan chen 11 sangs rgyas seng+ge,4219,,11,2011-07-24 21:10:35,1,2011-07-24 21:10:35
+204,"492,104,560,177",,Sumpa Lotsāwa Darma Yonten,sum pa lo tsA ba dar ma yon tan,1726,,11,2011-07-24 21:10:35,1,2011-07-24 21:10:35
+205,"561,104,628,177",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,11,2011-07-24 21:10:35,1,2011-07-24 21:10:35
+206,"427,190,495,272",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+207,"562,175,627,248",,Kyobpa Pel Zangpo,skyob pa dpal bzang po,6367,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+208,"562,250,627,321",,Unidentified,Unidentified,,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+209,"562,322,627,390",,Lotsāwa Chokden Lekpai Lodro,mchog ldan legs pa'i blo gros,2104,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+210,"560,391,627,460",,Bakton Zhonnu Tsultrim,bag ston gzhon nu tshul khrims,5750,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+211,"560,462,627,530",,Nartangpa Tsultrim Gyeltsen,snar thang pa tshul khrims rgyal mtshan,5555,,11,2011-07-24 21:10:36,1,2011-07-24 21:10:36
+212,"560,532,627,602",,Lama Ngawang Drakpa,ngag dbang mtshan can,9788,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+213,"560,604,627,672",,Lama Jangchub Sengge,bla ma byang chub seng+ge,9789,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+214,"102,673,167,744",,Sabzang Pakpa Zhonnu Lodro,sa bzang 'phags pa gzhon nu blo gros,6257,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+215,"168,673,234,744",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+216,"235,673,299,744",,Gorampa Sonam Sengge,go rams pa bsod nams seng ge,1985,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+217,"301,673,363,744",,Konchok Tsultrim,dkon mchog tshul khrims,6251,,11,2011-07-24 21:10:37,1,2011-07-24 21:10:37
+218,"364,673,431,744",,Gorumpa Kunga Lekpa,sgo rum pa kun dga' legs pa,5858,,11,2011-07-24 21:10:38,1,2011-07-24 21:10:38
+219,"432,673,498,744",,Nesar Jamyang Khyentse Wangchuk,gnas gsar 'jam dbyangs mkhyen brtse'i dbang phyug,2338,,11,2011-07-24 21:10:38,1,2011-07-24 21:10:38
+220,"499,673,563,744",,Janglingpa Tashi Gyeltsen,byang gling pa bkra shis rgyal mtshan,5437,,11,2011-07-24 21:10:38,1,2011-07-24 21:10:38
+221,"109,169,283,469",,Damarupa,Damarupa,,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+222,"383,165,559,480",,Avadhutipa,Avadhutipa,,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+223,"296,85,381,184",,Vairochana Hevajra,Vairochana Hevajra,,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+224,"324,189,364,231",,"Vajrasattva, Solitary Form","Vajrasattva, Solitary Form",,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+225,"95,77,145,148",,Mahamaya,Mahamaya,,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+226,"526,82,570,135",,Unknown deity figure (?),Unknown deity figure (?),,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+227,"302,513,342,566",,Figure of Dedication (deceased),Figure of Dedication (deceased),,,10,2011-07-24 23:21:07,1,2011-07-24 23:21:07
+228,"304,13,365,72",,Vajradhara,Vajradhara,,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+229,"231,13,297,78",,"Tara, Green","Tara, Green",,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+230,"369,12,432,77",,Indian Teacher,Indian Teacher,,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+231,"96,12,157,76",,Drokmi Śākya Yeshe,brog mi shAkya ye shes,5615,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+232,"434,12,502,78",,"Amoghavajra (?), Indian Teacher","Amoghavajra (?), Indian Teacher",,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+233,"158,12,229,81",,Indian Teacher,Indian Teacher,,,10,2011-07-24 23:21:08,1,2011-07-24 23:21:08
+234,"505,12,571,78",,Tibetan Teacher,Tibetan Teacher,,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+235,"30,12,92,76",,Tibetan Teacher,Tibetan Teacher,,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+236,"574,12,637,80",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+237,"31,80,94,149",,Sonam Tsemo,bsod nams rtse mo,2919,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+238,"573,88,633,157",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+239,"30,153,85,229",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,10,2011-07-24 23:21:09,1,2011-07-24 23:21:09
+240,"571,161,635,232",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+241,"25,231,81,313",,Zhangton Konchok Pel,zhang ston dkon mchog dpal,2203,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+242,"580,237,633,314",,Naza Drakpukpa Sonam Pel,na bza' brag phug pa bsod nams dpal,5406,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+243,"24,317,82,403",,Lama Dampa Sonam Gyeltsen,bla ma dam pa bsod nams rgyal mtshan,2491,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+244,"579,327,633,410",,Pelden Tsultrim,dpal ldan tshul khrims,7512,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+245,"23,407,80,494",,(No inscription),(No inscription),,,10,2011-07-24 23:21:10,1,2011-07-24 23:21:10
+246,"573,415,636,493",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+247,"19,495,80,569",,"Jambhala, Black (?)","Jambhala, Black (?)",,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+248,"568,496,631,570",,Humkara (?),Humkara (?),,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+249,"19,570,80,639",,"Achala, Blue","Achala, Blue",,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+250,"568,571,629,642",,"Achala, White","Achala, White",,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+251,"16,642,77,709",,"Devi, Yellow","Devi, Yellow",,,10,2011-07-24 23:21:11,1,2011-07-24 23:21:11
+252,"82,644,130,710",,"Devi, White","Devi, White",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+253,"144,644,204,710",,"Devi, Yellow","Devi, Yellow",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+254,"205,645,262,713",,"Devi, Blue","Devi, Blue",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+255,"265,645,323,713",,"Devi, Yellow","Devi, Yellow",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+256,"325,645,382,713",,"Devi, Yellow","Devi, Yellow",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+257,"385,645,442,713",,"Devi, Blue","Devi, Blue",,,10,2011-07-24 23:21:12,1,2011-07-24 23:21:12
+258,"444,645,502,713",,"Devi, Maroon","Devi, Maroon",,,10,2011-07-24 23:21:13,1,2011-07-24 23:21:13
+259,"505,645,560,713",,"Devi, White","Devi, White",,,10,2011-07-24 23:21:13,1,2011-07-24 23:21:13
+260,"568,644,629,714",,"Devi, Blue","Devi, Blue",,,10,2011-07-24 23:21:13,1,2011-07-24 23:21:13
+262,"215,131,442,509",,Buddhaśrī,sangs rgyas dpal,5626,,8,2011-07-24 23:23:01,1,2011-07-24 23:23:01
+263,"47,50,483,608",,"The Ninth Ngor Khenchen, Lhachok Sengge",ngor mkhan chen 09 lha mchog seng+ge,4217,,9,2011-07-24 23:24:07,1,2011-07-24 23:24:07
+264,"95,234,304,546",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,7,2011-07-24 23:25:26,1,2011-07-24 23:25:26
+265,"366,234,567,546",,Muchen Sempa Chenpo Konchok Gyeltsen,mus chen sems dpa' chen po dkon mchog rgyal mtshan,1898,,7,2011-07-24 23:25:26,1,2011-07-24 23:25:26
+266,"240,124,441,567",,Ngorchen Kunga Zangpo,ngor chen kun dga' bzang po,2387,,6,2011-07-24 23:27:13,1,2011-07-24 23:27:13
+267,"162,7,221,74",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,6,2011-07-24 23:27:13,1,2011-07-24 23:27:13
+268,"228,7,293,74",,Sonam Tsemo,bsod nams rtse mo,2919,,6,2011-07-24 23:27:13,1,2011-07-24 23:27:13
+269,"386,7,449,74",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,6,2011-07-24 23:27:14,1,2011-07-24 23:27:14
+270,"453,5,518,74",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,6,2011-07-24 23:27:14,1,2011-07-24 23:27:14
+271,"525,6,589,74",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,6,2011-07-24 23:27:14,1,2011-07-24 23:27:14
+272,"207,153,457,470",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,5,2011-07-24 23:28:21,1,2011-07-24 23:28:21
+273,"85,299,195,449",,Sonam Tsemo,bsod nams rtse mo,2919,,5,2011-07-24 23:28:21,1,2011-07-24 23:28:21
+274,"473,289,581,452",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,5,2011-07-24 23:28:21,1,2011-07-24 23:28:21
+275,"337,355,146,151",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,19,2011-07-25 21:45:26,2,2011-07-25 21:45:26
+276,"528,353,351,147",,Taklungtangpa Tashi Pel,stag lung thang pa bkra shis dpal,4368,,19,2011-07-25 21:45:46,2,2011-07-25 21:45:46
+277,"352,543,149,347",,Vairocanavajra,bai ro tsa na ba dz+ra,13066,,19,2011-07-25 21:46:15,2,2011-07-25 21:46:15
+278,"530,538,350,348",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,19,2011-07-25 21:46:35,2,2011-07-25 21:46:35
+279,"532,711,357,535",,"The First Karmapa, Dusum Khyenpa",karma pa 01 dus gsum mkhyen pa,2683,,19,2011-07-25 21:46:57,2,2011-07-25 21:46:57
+280,"643,289,530,152",,Nagarjuna,,,,19,2011-07-25 21:47:44,2,2011-07-25 21:56:14
+281,"151,435,35,287",,Dombipa,,,,19,2011-07-25 21:48:02,2,2011-07-25 21:55:21
+282,"656,444,531,290",,Luyipa,,,,19,2011-07-25 21:48:16,2,2011-07-25 21:56:03
+283,"152,572,35,423",,Saraha,,,,19,2011-07-25 21:48:36,2,2011-07-25 21:48:36
+284,"652,607,533,444",,Ghantapa,,,,19,2011-07-25 21:48:50,2,2011-07-25 21:55:57
+285,"149,706,37,573",,Kukkuripa,,,,19,2011-07-25 21:49:06,2,2011-07-25 21:49:06
+286,"652,710,536,601",,Padmavajra,,,,19,2011-07-25 21:49:26,2,2011-07-25 21:49:26
+287,"130,151,27,37",,Shakyamuni Buddha,,,,19,2011-07-25 21:49:43,2,2011-07-25 21:54:54
+288,"226,147,126,38",,Vajradhara,,,,19,2011-07-25 21:49:57,2,2011-07-25 21:49:57
+289,"313,149,222,38",,Ratnamati,,,,19,2011-07-25 21:50:17,2,2011-07-25 21:50:17
+290,"403,145,315,39",,Anandavajra,,,,19,2011-07-25 21:50:31,2,2011-07-25 21:55:06
+291,"479,146,391,40",,Anangavajra,,,,19,2011-07-25 21:50:48,2,2011-07-25 21:55:45
+292,"560,146,481,41",,Vajrāsana the latter,rdo rje gdan chung ba,6214,,19,2011-07-25 21:51:46,2,2011-07-25 21:51:46
+293,"646,145,562,40",,Abhayakaragupta,,,,19,2011-07-25 21:51:54,2,2011-07-25 21:55:30
+294,"142,824,37,704",,Padmakaravarma,padmakaravarma,10892,,19,2011-07-25 21:52:19,2,2011-07-25 21:52:19
+295,"249,824,145,705",,Sadhuraja,,,,19,2011-07-25 21:52:36,2,2011-07-25 21:52:36
+296,"656,829,546,712",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,19,2011-07-25 21:52:54,2,2011-07-25 21:52:54
+297,"540,597,148,127",,"The Second Karmapa, Karma Pakshi",karma pa 02 karma pak+Shi,2776,,20,2011-07-27 17:26:31,2,2011-07-27 17:34:57
+298,"131,124,43,30",,Vajradhara,,,,20,2011-07-27 17:31:18,2,2011-07-27 17:31:18
+299,"217,125,137,33",,Tilopa,,,,20,2011-07-27 17:32:00,2,2011-07-27 17:32:00
+300,"299,119,215,32",,Naropa,,,,20,2011-07-27 17:32:14,2,2011-07-27 17:32:14
+301,"381,123,302,32",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,20,2011-07-27 17:33:23,2,2011-07-27 17:33:23
+302,"459,123,383,34",,Milarepa,mi la ras pa,3178,,20,2011-07-27 17:33:46,2,2011-07-27 17:33:46
+303,"546,124,462,31",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,20,2011-07-27 17:34:07,2,2011-07-27 17:34:07
+304,"633,125,548,31",,"The First Karmapa, Dusum Khyenpa",karma pa 01 dus gsum mkhyen pa,2683,,20,2011-07-27 17:34:33,2,2011-07-27 17:34:33
+306,"278,112,204,29",,Vajradhara,,,,21,2011-07-27 19:39:10,2,2011-07-27 19:39:10
+307,"195,120,119,28",,Tilopa,,,,21,2011-07-27 19:39:20,2,2011-07-27 19:39:20
+308,"101,120,25,29",,Naropa,,,,21,2011-07-27 19:39:27,2,2011-07-27 19:39:27
+309,"471,115,394,34",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,21,2011-07-27 19:40:48,2,2011-07-27 19:40:48
+310,"567,124,483,30",,Milarepa,mi la ras pa,3178,,21,2011-07-27 19:41:19,2,2011-07-27 19:41:19
+311,"655,124,578,31",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,21,2011-07-27 19:41:46,2,2011-07-27 19:41:46
+312,"516,568,150,133",,Taklungtangpa Tashi Pel,stag lung thang pa bkra shis dpal,4368,,21,2011-07-27 19:43:35,2,2011-07-27 19:43:35
+313,"377,107,302,33",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,21,2011-07-27 19:44:17,2,2011-07-27 19:44:17
+315,"352,591,85,180",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,23,2011-07-28 15:49:41,2,2011-07-28 15:49:41
+316,"606,578,340,177",,Sakya Paṇḍita Kunga Gyeltsen,sa skya paN+Dita kun dga' rgyal mtshan,2137,,23,2011-07-28 15:50:11,2,2011-07-28 15:50:11
+317,"88,83,15,10",,Vajrasattva,,,,24,2011-07-28 15:56:47,2,2011-07-28 15:56:47
+318,"147,85,84,11",,Aksobhya,,,,24,2011-07-28 15:57:02,2,2011-07-28 15:57:02
+319,"188,80,139,18",,Vajradhara,,,,24,2011-07-28 15:57:23,2,2011-07-28 15:57:23
+320,"245,80,196,23",,Tilopa,,,,24,2011-07-28 15:57:39,2,2011-07-28 15:57:39
+321,"312,77,253,20",,Naropa,,,,24,2011-07-28 15:58:00,2,2011-07-28 15:58:00
+322,"367,84,310,24",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,24,2011-07-28 15:58:46,2,2011-07-28 15:58:46
+323,"425,83,372,22",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,24,2011-07-28 15:59:28,2,2011-07-28 15:59:28
+325,"669,83,604,15",,Medicine Buddha,,,,24,2011-07-28 16:00:49,2,2011-07-28 16:00:49
+326,"612,81,554,13",,Shakyamuni Buddha,,,,24,2011-07-28 16:01:03,2,2011-07-28 16:01:03
+327,"548,85,489,16",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,24,2011-07-28 16:01:27,2,2011-07-28 16:01:27
+328,"491,85,434,18",,Milarepa,mi la ras pa,3178,,24,2011-07-28 16:01:55,2,2011-07-28 16:01:55
+329,"384,171,304,87",,Jikten Gonpo Rinchen Pel,jig rten mgon po rin chen dpal,2899,,24,2011-07-28 16:07:39,2,2011-07-28 16:07:39
+330,"662,232,639,188",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,24,2011-07-28 16:11:10,2,2011-07-28 16:11:10
+331,"620,224,597,184",,Nagarjuna,,,,24,2011-07-28 16:11:26,2,2011-07-28 16:11:26
+332,"645,234,617,177",,Shakyamuni Buddha,,,,24,2011-07-28 16:11:45,2,2011-07-28 16:11:45
+333,"553,567,120,89",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,25,2011-07-29 16:50:39,2,2011-07-29 16:50:39
+334,"635,809,46,34",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,26,2011-07-29 17:29:18,2,2011-07-29 17:29:18
+345,"389,163,288,31",,Vajradhara,,,,28,2011-08-03 16:16:50,2,2011-08-03 16:16:50
+346,"287,154,184,29",,"The Seventh Ngor Khenchen, Konchok Pelwa",ngor mkhan chen 07 dkon mchog 'phel ba,3200,,28,2011-08-03 16:17:15,2,2011-08-03 16:17:15
+347,"505,156,389,31",,Dakchen Sherab Gyeltsen,bdag chen shes rab rgyal mtshan,3211,,28,2011-08-03 16:18:38,2,2011-08-03 16:18:38
+348,"155,173,28,28",,Jamyang Sherab Rinchen,,,,28,2011-08-03 16:19:02,2,2011-08-03 16:19:02
+349,"656,166,542,31",,Drubchen Chakdorwa,,,,28,2011-08-03 16:19:18,2,2011-08-03 16:19:18
+350,"258,263,159,148",,Trulzhik Tsultrim Gyeltsen,khrul zhig tshul khrims rgyal mtshan,4543,,28,2011-08-03 16:21:04,2,2011-08-03 16:21:04
+351,"512,268,417,154",,Khenchen Kunlowa,,,,28,2011-08-03 16:21:27,2,2011-08-03 16:21:27
+352,"127,296,31,173",,Je - - Gewa,,,,28,2011-08-03 16:21:50,2,2011-08-03 16:21:50
+353,"650,288,551,161",,Ngakchang - - Pelzang,,,,28,2011-08-03 16:22:28,2,2011-08-03 16:22:28
+354,"182,355,90,240",,Shakya Sengge,,,,28,2011-08-03 16:22:50,2,2011-08-03 16:22:50
+355,"474,390,584,248",,Yonten Jungne,yon tan 'byung gnas,12547,,28,2011-08-03 16:23:46,2,2011-08-03 16:23:46
+356,"29,403,89,306",,Dongkyepa,,,,28,2011-08-03 16:24:11,2,2011-08-03 16:24:11
+357,"653,374,582,292",,Serchen Chozangpa,,,,28,2011-08-03 16:24:34,2,2011-08-03 16:24:34
+358,"180,541,29,343",,Drakpa Dorje,grags pa rdo rje,1908,,28,2011-08-03 16:25:17,2,2011-08-03 16:25:17
+359,"652,535,510,347",,Lowo Khenchen Sonam Lhundrub,glo bo mkhan chen bsod nams lhun grub,10497,,28,2011-08-03 16:25:46,2,2011-08-03 16:25:46
+360,"513,596,176,208",,Sakya Lotsāwa Jampai Dorje,sa skya lo tsA ba 'jam pa'i rdo rje,7064,,28,2011-08-03 16:27:08,2,2011-08-03 16:27:08
+367,"607,350,558,282",,Machik Labdron,ma cig lab sgron,5644,,29,2011-09-07 0:48:13,2,2011-09-07 0:48:13
+370,"457,301,402,228",,Pomdrakpa Sonam Dorje,spom brag pa bsod nams rdo rje,4140,,29,2011-09-07 1:02:18,2,2011-09-07 20:25:27
+372,"372,386,302,311",,"The Second Zhamarpa, Kacho Wangpo",zhwa dmar pa 02 mkha' spyod dbang po,2696,,29,2011-09-07 1:07:21,2,2011-09-07 1:07:21
+375,"370,204,303,126",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,29,2011-09-07 20:15:50,2,2011-09-07 20:15:50
+376,"368,263,308,192",,"The First Karmapa, Dusum Khyenpa",karma pa 01 dus gsum mkhyen pa,2683,,29,2011-09-07 20:16:35,2,2011-09-07 20:16:35
+377,"368,315,309,246",,"The Third Karmapa, Rangjung Dorje",karma pa 03 rang byung rdo rje,9201,,29,2011-09-07 20:17:37,2,2011-09-07 20:17:37
+378,"316,251,255,184",,Milarepa,mi la ras pa,3178,,29,2011-09-07 20:18:34,2,2011-09-07 20:18:34
+379,"280,294,223,221",,Rechungpa Dorje Drakpa,ras chung pa rdo rje grags pa,6699,,29,2011-09-07 20:20:39,2,2011-09-07 20:20:39
+380,"224,317,164,246",,"The Second Karmapa, Karma Pakshi",karma pa 02 karma pak+Shi,2776,,29,2011-09-07 20:21:32,2,2011-09-07 20:21:32
+381,"111,339,58,284",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,29,2011-09-07 20:22:19,2,2011-09-07 20:22:19
+382,"610,294,560,221",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,29,2011-09-07 20:23:05,2,2011-09-07 20:23:05
+383,"416,250,360,184",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,29,2011-09-07 20:26:34,2,2011-09-07 20:26:34
+384,"519,318,453,252",,Orgyenpa Rinchen Pel,o rgyan pa rin chen dpal,2733,,29,2011-09-07 20:28:32,2,2011-09-07 20:28:32
+385,"317,342,261,267",,Yungton Dorje Pel,g.yung ston rdo rje dpal,2740,,29,2011-09-07 20:36:54,2,2011-09-07 20:36:54
+386,"422,339,357,269",,"The Fourth Karmapa, Rolpai Dorje",karma pa 04 rol pa'i rdo rje,2742,,29,2011-09-07 20:38:20,2,2011-09-07 20:38:20
+387,"258,356,196,287",,"The Fifth Karmapa, Dezhin Shekpa",karma pa 05 de bzhin gshegs pa,2693,,29,2011-09-07 20:40:02,2,2011-09-07 20:40:02
+388,"300,402,240,334",,"The Sixth Karmapa, Tongwa Donden",karma pa 06 mthong ba don ldan,1597,,29,2011-09-07 20:42:59,2,2011-09-07 20:42:59
+389,"434,412,374,331",,Jampel Zangpo,jam dpal bzang po,7130,,29,2011-09-07 22:23:35,2,2011-09-07 22:23:35
+390,"207,378,148,314",,"The First Gyeltsab, Peljor Dondrub",rgyal tshab 01 dpal 'byor don grub,2661,,29,2011-09-07 22:25:56,2,2011-09-07 22:25:56
+391,"527,383,466,311",,"The Seventh Karmapa, Chodrak Gyatso",karma pa 07 chos grags rgya mtsho,10909,,29,2011-09-07 22:28:29,2,2011-09-07 22:28:29
+392,"242,424,186,354",,"The First Sanggye Nyenpa, Tashi Peljor",sangs rgyas mnyan pa 01 bkra shis dpal 'byor,1659,,29,2011-09-07 22:31:19,2,2011-09-07 22:31:19
+393,"488,429,423,354",,"The Eighth Karmapa, Mikyo Dorje",karma pa 08 mi bskyod rdo rje,6230,,29,2011-09-07 22:32:28,2,2011-09-07 22:32:28
+394,"292,105,262,52",,Lawapa,,,,29,2011-09-07 22:37:06,2,2011-09-07 22:37:06
+395,"318,100,284,49",,Luipa,,,,29,2011-09-07 22:37:20,2,2011-09-07 22:37:20
+396,"283,150,241,91",,Kukkuripa,,,,29,2011-09-07 22:38:59,2,2011-09-07 22:38:59
+397,"276,159,323,96",,Tilopa,,,,29,2011-09-07 22:39:22,2,2011-09-07 22:39:22
+398,"418,102,381,55",,Indrabhuti,,,,29,2011-09-07 22:39:35,2,2011-09-07 22:39:35
+399,"396,154,356,100",,Naropa,,,,29,2011-09-07 22:39:52,2,2011-09-07 22:39:52
+400,"442,156,383,93",,Dombhi Heruka,,,,29,2011-09-07 22:40:17,2,2011-09-07 22:40:17
+401,"363,90,308,32",,Saraha,,,,29,2011-09-07 22:41:22,2,2011-09-07 22:41:22
+402,"388,61,348,14",,Nagarjuna,,,,29,2011-09-07 22:41:38,2,2011-09-07 22:41:38
+403,"393,109,352,51",,Shavaripa,,,,29,2011-09-07 22:41:57,2,2011-09-07 22:41:57
+404,"363,132,311,72",,Maitripa,,,,29,2011-09-07 22:42:09,2,2011-09-07 22:42:09
+405,"57,129,21,76",,Aryadeva,,,,29,2011-09-07 23:04:29,2,2011-09-07 23:04:29
+406,"108,136,153,83",,Candrakirti,,,,29,2011-09-07 23:04:49,2,2011-09-07 23:04:49
+407,"32,131,4,86",,Dignaga,,,,29,2011-09-07 23:05:03,2,2011-09-07 23:05:03
+408,"168,153,134,107",,Dharmakirti,,,,29,2011-09-07 23:05:16,2,2011-09-07 23:05:16
+409,"88,169,42,106",,Shantideva,,,,29,2011-09-07 23:05:29,2,2011-09-07 23:05:29
+410,"564,136,524,76",,Asanga,,,,29,2011-09-07 23:06:33,2,2011-09-07 23:06:33
+411,"597,133,633,82",,Vasubhandu,,,,29,2011-09-07 23:06:52,2,2011-09-07 23:06:52
+412,"542,145,500,96",,Gunaprabha,,,,29,2011-09-07 23:07:14,2,2011-09-07 23:07:14
+413,"617,139,656,95",,Shakyaprabha,,,,29,2011-09-07 23:07:40,2,2011-09-07 23:07:40
+414,"602,157,573,121",,Candragomin,,,,29,2011-09-07 23:08:01,2,2011-09-07 23:08:01
+415,"108,297,60,221",,Padmasambhava,pad+ma 'byung gnas,7442,,29,2011-09-07 23:09:42,2,2011-09-07 23:09:42
+416,"67,309,22,255",,Śāntarakṣita,zhi ba 'tsho,8202,,29,2011-09-07 23:11:57,2,2011-09-07 23:11:57
+417,"144,312,97,259",,Tri Songdetsen,khri srong lde btsan,10467,,29,2011-09-07 23:13:19,2,2011-09-07 23:13:19
+418,"524,304,570,247",,Śākyaśrībhadra,shAkya shrI b+ha dra,2810,,29,2011-09-07 23:14:39,2,2011-09-07 23:14:39
+419,"192,455,141,378",,"The Fifth Zhamarpa, Konchok Yenlag",zhwa dmar pa 05 dkon mchog yan lag,2710,,29,2011-09-07 23:35:43,2,2011-09-07 23:35:43
+420,"532,450,480,383",,"The Ninth Karmapa, Wangchuk Dorje",karma pa 09 dbang phyug rdo rje,11645,,29,2011-09-07 23:37:30,2,2011-09-07 23:37:30
+421,"272,474,210,400",,"The Sixth Zhamarpa, Chokyi Wangchuk",zhwa dmar pa 06 chos kyi dbang phyug,2717,,29,2011-09-07 23:38:42,2,2011-09-07 23:38:42
+422,"401,473,456,399",,"The Tenth Karmapa, Choying Dorje",karma pa 10 chos dbyings rdo rje,2662,,29,2011-09-07 23:40:46,2,2011-09-07 23:40:46
+423,"237,497,174,428",,"The Seventh Zhamarpa, Yeshe Nyingpo",zhwa dmar pa 07 ye shes snying po,2666,,29,2011-09-07 23:42:15,2,2011-09-07 23:42:15
+424,"500,499,440,428",,"The Eleventh Karmapa, Yeshe Dorje",karma pa 11 ye shes rdo rje,12234,,29,2011-09-07 23:50:38,2,2011-09-07 23:50:38
+425,"113,502,169,437",,"The Eighth Zhamarpa, Pelchen Chokyi Dondrub",zhwa dmar pa 08 dpal chen chos kyi don grub,12360,,29,2011-09-07 23:52:03,2,2011-09-07 23:52:03
+426,"561,505,500,432",,"The Twelfth Karmapa, Jangchub Dorje",karma pa 12 byang chub rdo rje,11092,,29,2011-09-07 23:52:56,2,2011-09-07 23:52:56
+427,"278,553,219,487",,"The Eighth Situ, Chokyi Jungne",si tu 08 chos kyi 'byung gnas,12371,,29,2011-09-08 0:04:08,2,2011-09-08 0:04:08
+428,"396,552,455,480",,"The Thirteenth Karmapa, Dudul Dorje",karma pa 13 bdud 'dul rdo rje,10984,,29,2011-09-08 0:14:34,2,2011-09-08 0:14:34
+429,"151,554,209,483",,"The Tenth Zhamarpa, Chodrub Gyatso",zhwa dmar pa 10 chos grub rgya mtsho,11018,,29,2011-09-08 0:15:39,2,2011-09-08 0:15:39
+430,"522,558,464,489",,"The Ninth Situ, Pema Nyinje Wangpo",si tu 09 pad+ma nyin byed dbang po,8126,,29,2011-09-08 0:16:48,2,2011-09-08 0:16:48
+431,"190,602,251,534",,"The Fourteenth Karmapa, Tekchok Dorje",karma pa 14 theg mchog rdo rje,8159,,29,2011-09-08 0:18:01,2,2011-09-08 0:18:01
+432,"485,608,417,531",,Jamgon Kongtrul Lodro Taye,jam mgon kong sprul blo gros mtha' yas,4358,,29,2011-09-08 0:19:23,2,2011-09-08 0:19:23
+433,"372,622,294,534",,"The Fifteenth Karmapa, Khakhyab Dorje",karma pa 15 mkha' khyab rdo rje,8170,,29,2011-09-08 0:20:49,2,2011-09-08 0:20:49
+434,"309,621,240,549",,"The Tenth Situ, Pema Kunzang",si tu 10 pad+ma kun bzang,2672,,29,2011-09-08 0:22:28,2,2011-09-08 0:22:28
+435,"479,362,417,286",,Rinchen Pel,rin chen dpal,2699,,29,2011-09-08 0:34:16,2,2011-09-08 0:34:16
+436,"530,612,179,141",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,30,2011-09-24 1:30:24,2,2011-09-24 1:30:24
+437,"576,540,464,341",,Duldzin Drakpa Gyeltsen,dul 'dzin grags pa rgyal mtshan,2891,,30,2011-09-24 1:32:46,2,2011-09-24 1:32:46
+438,"219,535,110,346",,Gyeltsabje Darma Rinchen,rgyal tshab rje dar ma rin chen,9095,,30,2011-09-24 1:33:26,2,2011-09-24 1:33:26
+439,"308,800,275,756",,"The Fourth Karmapa, Rolpai Dorje",karma pa 04 rol pa'i rdo rje,2742,,30,2011-09-24 1:34:59,2,2011-09-24 1:34:59
+441,"152,224,20,62",,Zhonnu Sengge,gzhon nu seng+ge,11909,,31,2011-11-11 17:10:53,2,2011-11-11 17:10:53
+442,"310,191,158,20",,Sengge Sherab,seng+ge shes rab,11942,,31,2011-11-11 17:11:23,2,2011-11-11 17:11:23
+443,"532,183,389,18",,Sengge Gyelpo,seng+ge rgyal po,8637,,31,2011-11-11 17:12:02,2,2011-11-11 17:12:02
+444,"530,225,684,50",,Dorje Rinchen,rdo rje rin chen,4352,,31,2011-11-11 17:12:32,2,2011-11-11 17:12:32
+445,"670,394,534,228",,Lodro Sengge,blo gros seng+ge,3028,,31,2011-11-11 17:13:11,2,2011-11-11 17:13:11
+446,"678,561,543,388",,Khyentse Tokden,mkhyen brtse rtogs ldan,8361,,31,2011-11-11 17:13:42,2,2011-11-11 17:13:42
+447,"675,717,504,543",,Jamyang Yeshe Rinchen,jam dbyangs ye shes rin chen,4350,,31,2011-11-11 17:14:05,2,2011-11-11 17:14:05
+448,"153,769,17,607",,Sherab Zangpo,shes rab bzang po,4348,,31,2011-11-11 17:14:29,2,2011-11-11 17:14:29
+449,"430,865,252,670",,"The Second Drukchen, Kunga Peljor",brug chen 02 kun dga' dpal 'byor,11986,,31,2011-11-11 17:15:03,2,2011-11-11 17:15:03
+450,"266,949,96,772",,"The Third Drukchen, Jamyang Chodrak",brug chen 03 'jam dbyangs chos grags,11441,,31,2011-11-11 17:16:10,2,2011-11-11 17:16:10
+451,"605,950,432,775",,Yonten Yeshe,yon tan ye shes,11462,,31,2011-11-11 17:16:35,2,2011-11-11 17:16:35
+452,"404,607,95,223",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,31,2011-11-11 17:20:10,2,2011-11-11 17:20:10
+453,"460,590,218,301",,"The Seventh Dalai Lama, Kelzang Gyatso",ta la'i bla ma 07 skal bzang rgya mtsho,3107,,32,2011-12-14 17:18:40,2,2011-12-14 17:18:40
+454,"591,583,681,467",,Tri Relpachen,khri ral pa can,,,32,2011-12-14 17:24:13,2,2011-12-14 17:24:13
+455,"19,765,113,613",,Nyangrel Nyima Wozer,nyang ral nyi ma 'od zer,5999,,32,2011-12-14 17:24:53,2,2011-12-14 17:24:53
+456,"643,738,542,626",,Ngari Paṇchen Pema Wanggyel,mnga' ris paN chen pad+ma dbang rgyal,3006,,32,2011-12-14 17:25:45,2,2011-12-14 17:25:45
+457,"205,818,83,676",,Pakpa Lodro Gyeltsen,phags pa blo gros rgyal mtshan,2051,,32,2011-12-14 17:26:29,2,2011-12-14 17:26:29
+458,"588,815,462,683",,"The First Dalai Lama, Gendun Drub",ta la'i bla ma 01 dge 'dun grub pa,10687,,32,2011-12-14 17:27:08,2,2011-12-14 17:27:08
+459,"400,887,284,749",,"The Third Dalai Lama, Sonam Gyatso",ta la'i bla ma 03 bsod nams rgya mtsho,12828,,32,2011-12-14 17:28:19,2,2011-12-14 17:28:19
+460,"390,753,288,634",,"The Fifth Dalai Lama, Ngawang Lobzang Gyatso",ta la'i bla ma 05 ngag dbang blo bzang rgya mtsho,6065,,32,2011-12-14 17:29:01,2,2011-12-14 17:29:01
+461,"512,541,164,161",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,33,2012-04-04 18:50:29,2,2012-04-04 18:50:55
+462,"390,121,288,16",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,33,2012-04-04 18:51:26,2,2012-04-04 18:51:26
+463,"106,117,0,3",,Jamyang Khyentse Wangpo,jam dbyangs mkhyen brtse'i dbang po,4291,,34,2012-04-04 20:06:40,2,2012-04-04 20:06:40
+466,"548,170,410,23",,Jigme Lingpa,jigs med gling pa,5457,,34,2012-04-04 20:07:09,2,2012-04-04 20:07:09
+467,"258,166,150,29",,Longchenpa Drime Wozer,klong chen pa dri med 'od zer,2882,,34,2012-04-04 20:07:58,2,2012-04-04 20:07:58
+468,"676,160,571,2",,Tri Songdetsen,khri srong lde btsan,10467,,34,2012-04-04 20:08:59,2,2012-04-04 20:08:59
+469,"516,556,171,155",,Padmasambhava,pad+ma 'byung gnas,7442,,34,2012-04-04 20:09:10,2,2012-04-04 20:09:10
+471,"144,287,31,159",,Indrabhūti,indra bhU ti,1009,,19,2013-04-02 18:22:15,2,2013-04-02 18:23:34
+472,"325,704,148,535",,Śrī Vajrakīrtibodhi,,,,19,2013-04-02 18:26:25,2,2013-04-02 18:26:25
+473,"478,446,208,33",,Padmasambhava,pad+ma 'byung gnas,7442,,35,2013-05-02 18:14:10,2,2013-05-02 18:14:10
+474,"231,427,110,172",,Mandāravā,lha lcam man+dA ra bA,9,,35,2013-05-02 18:14:39,2,2013-05-02 18:14:39
+475,"584,447,449,163",,Yeshe Tsogyel,ye shes mtsho rgyal,10373,,35,2013-05-02 18:15:24,2,2013-05-02 18:15:24
+476,"321,769,26,443",,Nyangrel Nyima Wozer,nyang ral nyi ma 'od zer,5999,,35,2013-05-02 18:15:41,2,2013-05-02 18:15:41
+477,"560,79,615,16",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,35,2013-05-02 18:16:14,2,2013-05-02 18:16:14
+478,"420,749,127,313",,Namkha Pelzang,nam mkha' dpal bzang,4349,,36,2013-05-16 14:45:23,2,2013-05-16 14:45:23
+479,"132,551,35,432",,Zurchen Shakya Jungne,zur chen shAkya 'byung gnas,4630,,36,2013-05-16 14:46:11,2,2013-05-16 14:46:11
+480,"95,611,23,529",,Zurchung Sherab Drakpa,zur chung shes rab grags pa,4632,,36,2013-05-16 14:46:33,2,2013-05-16 14:46:33
+481,"454,508,540,400",,Nyangrel Nyima Wozer,nyang ral nyi ma 'od zer,5999,,36,2013-05-16 14:46:58,2,2013-05-16 14:46:58
+482,"595,512,529,425",,Guru Chowang,gu ru chos kyi dbang phyug,5588,,36,2013-05-16 14:47:17,2,2013-05-16 14:47:17
+483,"599,509,658,433",,Pema Ledrel Tsel,pad+ma las 'brel rtsal,10301,,36,2013-05-16 14:47:38,2,2013-05-16 14:47:38
+484,"543,575,472,493",,Longchenpa Drime Wozer,klong chen pa dri med 'od zer,2882,,36,2013-05-16 14:48:01,2,2013-05-16 14:48:01
+485,"624,582,555,504",,"The First Dorje Drak Rigdzin, Rigdzin Godemchen Ngodrub Gyeltsen",rdo rje brag rig 'dzin 01 rig 'dzin rgod ldem chen dngos grub rgyal mtshan,7767,,36,2013-05-16 14:48:22,2,2013-05-16 14:48:22
+488,"507,685,146,278",,dbang sdud snying po,dbang sdud snying po,10763,,39,2014-02-12 9:01:44,2,2014-02-12 9:38:56
+489,"684,333,684,333",,gnya' khri btsan po,gnya' khri btsan po,8995,,39,2014-02-12 9:16:48,2,2014-02-12 9:35:14
+490,"418,387,584,174",,Vajrakīla,,,,39,2014-02-12 9:17:37,2,2014-02-12 9:17:37
+491,"416,311,256,118",,Avalokiteśvara,,,,39,2014-02-12 9:18:13,2,2014-02-12 9:18:13
+492,"508,198,680,1",,Cakrasaṃvara,,,,39,2014-02-12 9:18:41,2,2014-02-12 9:18:41
+493,"398,165,269,1",,Amitābha,,,,39,2014-02-12 9:19:09,2,2014-02-12 9:19:09
+494,"521,701,679,516",,Kṛṣṇācārya,,,,39,2014-02-12 9:21:10,2,2014-02-12 9:21:10
+495,"171,249,3,9",,Hevajra,,,,39,2014-02-12 9:21:25,2,2014-02-12 9:21:25
+496,"250,382,71,198",,Guhyasamāja,,,,39,2014-02-12 9:22:12,2,2014-02-12 9:22:12
+497,"2,317,2,317",,Vessantara,,,,39,2014-02-12 9:22:48,2,2014-02-12 9:22:48
+498,"148,695,3,498",,Padmasambhava,pad+ma 'byung gnas,7442,,39,2014-02-12 9:23:42,2,2014-02-12 9:23:42
+499,"110,686,110,686",,Guhyasiddha,,,,39,2014-02-12 9:24:29,2,2014-02-12 9:24:29
+500,"416,874,252,686",,Drakpa Gyeltsen,grags pa rgyal mtshan,2915,,39,2014-02-12 9:25:46,2,2014-02-12 9:25:46
+501,"449,840,626,681",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,39,2014-02-12 9:26:29,2,2014-02-12 9:26:29
+502,"548,983,681,801",,"The Thirtieth Sakya Tridzin, Sonam Rinchen",sa skya khri 'dzin 30 bsod nams rin chen,10753,,39,2014-02-12 9:29:27,2,2014-02-12 9:29:27
+503,"5,571,013,358,822",,dpal ldan chos skyong,dpal ldan chos skyong,10710,,39,2014-02-12 9:30:12,2,2014-02-12 9:30:12
+504,"309,998,135,826",,mthu stobs dbang phyug,mthu stobs dbang phyug,11940,,39,2014-02-12 9:32:55,2,2014-02-12 9:32:55
+505,"149,962,6,781",,Ngawang Kunga Rinchen,sngags 'chang kun dga' rin chen,7053,,39,2014-02-12 9:34:14,2,2014-02-12 9:34:14
+506,"135,509,4,322",,Vessantara,,,,39,2014-02-12 9:34:53,2,2014-02-12 9:34:53
+507,"522,542,679,330",,gnya' khri btsan po,gnya' khri btsan po,8995,,39,2014-02-12 9:35:54,2,2014-02-12 9:35:54
+508,"235,844,99,667",,Guhyasiddhi,,,,39,2014-02-12 9:36:28,2,2014-02-12 9:36:28
+509,"455,538,219,208",,Jikten Gonpo Rinchen Pel,jig rten mgon po rin chen dpal,2899,,40,2014-02-14 7:48:28,2,2014-02-14 7:48:28
+510,"185,707,5,453",,"The First Drigung Chungtsang, Chokyi Drakpa",bri gung chung tshang 01 chos kyi grags pa,4387,,40,2014-02-14 7:49:05,2,2014-02-14 7:49:05
+511,"467,704,671,451",,"The Second Drigung Chetsang, Konchok Trinle Zangpo",bri gung che tshang 02 dkon mchog 'phrin las bzang po,6569,,40,2014-02-14 7:49:40,2,2014-02-14 7:49:40
+512,"149,163,10,18",,Padmasambhava,pad+ma 'byung gnas,7442,,40,2014-02-14 7:49:59,2,2014-02-14 7:49:59
+513,"176,221,526,541",,Drenpa Namkha,dran pa nam mkha',6681,,42,2016-05-20 11:06:31,2,2016-05-20 11:06:31
+514,"212,103,291,175",,Khyunggo Tsel,khyung rgod rtsal,2973,,42,2016-05-20 11:06:48,2,2016-05-20 11:06:48
+515,"405,706,485,785",,rin chen lhun grub,rin chen lhun grub,12069,,42,2016-05-20 11:07:14,342,2016-05-26 10:49:39
+516,"142,252,60,176",,nam mkha' bzang po,nam mkha' bzang po,12078,,42,2016-05-20 11:07:32,342,2016-05-26 10:49:47
+517,"238,864,149,784",,bstan rgyal bzang po,bstan rgyal bzang po,9613,,42,2016-05-20 12:05:16,342,2016-05-26 10:49:19
+518,"381,74,438,136",,nA ro pa,nA ro pa,5398,,43,2016-05-20 12:50:37,342,2016-05-26 12:27:00
+519,"300,73,238,132",,tai lo pa,tai lo pa,6424,,43,2016-05-20 12:51:14,342,2016-05-26 12:28:46
+520,"240,71,185,129",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,43,2016-05-20 12:52:53,342,2016-05-20 12:52:53
+521,"493,74,437,136",,Milarepa,mi la ras pa,3178,,43,2016-05-20 12:53:30,342,2016-05-20 12:53:30
+522,"185,70,120,126",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,43,2016-05-20 12:54:35,342,2016-05-20 12:54:35
+523,"556,71,492,135",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,43,2016-05-20 12:58:11,342,2016-05-20 12:58:11
+526,"495,134,552,194",,Sengge Sherab,seng+ge shes rab,11942,,43,2016-05-20 15:02:47,342,2016-05-20 15:02:47
+527,"494,196,550,256",,Dorje Rinchen,rdo rje rin chen,4352,,43,2016-05-20 15:05:53,342,2016-05-20 15:05:53
+528,"187,198,124,255",,kun dga' seng+ge,kun dga' seng+ge,4353,,43,2016-05-20 15:06:22,342,2016-05-26 12:26:36
+529,"556,134,613,193",,Sengge Gyelpo,seng+ge rgyal po,8637,,43,2016-05-20 15:07:29,342,2016-05-20 15:07:29
+530,"116,131,61,189",,seng+ge rin chen,seng+ge rin chen,11964,,43,2016-05-20 15:08:07,342,2016-05-26 12:28:27
+531,"490,136,434,196",,Zhonnu Sengge,gzhon nu seng+ge,11909,,43,2016-05-20 15:09:13,342,2016-05-20 15:09:13
+532,"187,132,244,192",,Wonre Darma Sengge,dbon ras dar ma seng+ge,11898,,43,2016-05-20 15:09:52,342,2016-05-20 15:09:52
+533,"115,194,63,252",,Lodro Sengge,blo gros seng+ge,3028,,43,2016-05-20 15:12:03,342,2016-05-20 15:12:03
+534,"613,198,552,257",,Khyentse Tokden,mkhyen brtse rtogs ldan,8361,,43,2016-05-20 15:12:40,342,2016-05-20 15:12:40
+535,"174,261,125,315",,Jamyang Yeshe Rinchen,jam dbyangs ye shes rin chen,4350,,43,2016-05-20 15:15:16,342,2016-05-20 15:15:16
+537,"554,263,497,316",,blo gros mchog ldan,blo gros mchog ldan,8360,,43,2016-05-20 15:21:40,342,2016-05-26 12:25:45
+538,"121,262,71,320",,Sherab Zangpo,shes rab bzang po,4348,,43,2016-05-20 15:22:10,342,2016-05-20 15:22:10
+539,"614,267,560,319",,"The Second Drukchen, Kunga Peljor",brug chen 02 kun dga' dpal 'byor,11986,,43,2016-05-20 15:22:38,342,2016-05-20 15:22:38
+540,"123,331,74,381",,rgyal dbang lhun grub,rgyal dbang lhun grub,8413,,43,2016-05-20 15:25:55,342,2016-05-26 12:29:14
+541,"555,328,611,383",,ngag dbang chos rgyal,ngag dbang chos rgyal,11472,,43,2016-05-20 15:26:54,342,2016-05-26 12:27:12
+542,"128,388,72,444",,ngag gi dbang phyug,ngag gi dbang phyug,6918,,43,2016-05-20 15:27:24,342,2016-05-26 12:27:57
+543,"606,517,550,452",,bstan pa'i nyi ma,bstan pa'i nyi ma,4345,,43,2016-05-20 15:30:38,342,2016-05-26 12:25:56
+544,"120,521,75,576",,lha dbang blo gros,lha dbang blo gros,7578,,43,2016-05-20 15:31:21,342,2016-05-26 12:26:50
+545,"611,528,555,584",,ngag dbang rnam rgyal,ngag dbang rnam rgyal,7589,,43,2016-05-20 15:31:49,342,2016-05-26 12:27:26
+546,"256,770,206,820",,"The Second Je Khenpo, Sonam Wozer",rje mkhan po 02 bsod nams 'od zer,7601,,43,2016-05-20 16:28:24,342,2016-05-20 16:28:24
+547,"420,762,467,819",,Jamgon Ngawang Gyeltsen,jam mgon ngag dbang rgyal mtshan,7803,,43,2016-05-20 16:32:06,342,2016-05-20 16:32:06
+548,"538,772,484,827",,"The Sixteenth Je Khenpo, Sherab Sengge",rje mkhan po 16 shes rab seng+ge,7918,,43,2016-05-20 16:35:08,342,2016-05-20 16:42:56
+549,"129,754,79,820",,"The Twenty-Fifth Je Khenpo, Sherab Gyeltsen",rje mkhan po 25 shes rab rgyal mtshan,8343,,43,2016-05-20 16:42:29,342,2016-05-20 16:42:29
+550,"404,293,268,577",,Gotsangpa Gonpo Dorje,rgod tshang pa mgon po rdo rje,3759,,43,2016-05-20 16:43:59,342,2016-05-20 16:43:59
+551,"175,132,127,189",,nyi ma seng+ge,nyi ma seng+ge,11920,,43,2016-05-20 16:45:00,342,2016-05-26 12:28:06
+553,"380,37,460,131",,tai lo pa,tai lo pa,6424,,44,2016-05-25 15:23:33,343,2016-05-25 15:23:33
+554,"104,43,165,122",,nA ro pa,nA ro pa,5398,,44,2016-05-25 15:24:28,343,2016-05-25 15:24:28
+555,"483,84,534,168",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,44,2016-05-25 15:25:00,343,2016-05-25 15:25:04
+556,"521,41,594,106",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,44,2016-05-25 16:01:19,343,2016-05-25 16:01:19
+557,"156,86,219,176",,Milarepa,mi la ras pa,3178,,44,2016-05-25 16:02:33,343,2016-05-25 16:02:33
+558,"55,91,130,183",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,44,2016-05-25 16:10:47,343,2016-05-25 16:10:47
+559,"570,96,635,176",,Lingrepa Pema Dorje,gling ras pa pad+ma rdo rje,11877,,44,2016-05-25 16:13:58,343,2016-05-25 16:13:58
+560,"205,145,280,239",,"The First Drukchen, Tsangpa Gyare Yeshe Dorje",brug chen 01 gtsang pa rgya ras ye shes rdo rje,11865,,44,2016-05-25 16:15:08,343,2016-05-25 16:15:08
+562,"472,240,546,350",,kun dga' seng+ge,kun dga' seng+ge,4353,,44,2016-05-25 16:32:30,343,2016-05-25 16:32:30
+563,"131,256,209,356",,Dorje Rinchen,rdo rje rin chen,4352,,44,2016-05-25 16:35:18,343,2016-05-25 16:35:18
+564,"578,254,642,361",,Lodro Sengge,blo gros seng+ge,3028,,44,2016-05-25 16:44:37,343,2016-05-25 16:44:37
+565,"483,350,574,456",,Khyentse Tokden,mkhyen brtse rtogs ldan,8361,,44,2016-05-25 16:51:53,343,2016-05-25 16:51:53
+566,"48,398,130,515",,blo gros mchog ldan,blo gros mchog ldan,8360,,44,2016-05-25 17:04:57,343,2016-05-25 17:04:57
+567,"574,371,643,473",,Jamyang Yeshe Rinchen,jam dbyangs ye shes rin chen,4350,,44,2016-05-25 17:07:23,343,2016-05-25 17:07:23
+568,"119,500,191,595",,Sherab Zangpo,shes rab bzang po,4348,,44,2016-05-25 17:11:56,343,2016-05-25 17:11:56
+569,"491,473,567,574",,nam mkha'i rnal 'byor,nam mkha'i rnal 'byor,8447,,44,2016-05-25 17:14:02,343,2016-05-25 17:14:02
+570,"93,603,185,706",,"The Third Drukchen, Jamyang Chodrak",brug chen 03 'jam dbyangs chos grags,11441,,44,2016-05-25 18:16:44,343,2016-05-25 18:16:44
+571,"502,572,576,672",,shes rab rgya mtsho,shes rab rgya mtsho,11975,,44,2016-05-25 18:17:54,343,2016-05-25 18:17:54
+572,"213,249,483,575",,"The Fourth Drukchen, Pema Karpo",brug chen 04 pad+ma dkar po,10952,,44,2016-05-25 18:50:00,343,2016-05-25 18:50:00
+579,"435,125,233,331",,"The First Karmapa, Dusum Khyenpa",karma pa 01 dus gsum mkhyen pa,2683,,22,2016-05-26 14:46:25,342,2016-05-26 14:46:25
+580,"18,219,684,172,242",,Śākyaśrībhadra,shAkya shrI b+ha dra,2810,,49,2016-06-03 13:17:39,342,2016-06-03 13:17:39
+581,"84,360,418,582,172",,"The Third Pawo, Tsuklak Gyatso",dpa' bo 03 gtsug lag rgya mtsho,2665,,48,2016-06-03 17:04:41,342,2016-06-03 17:05:19
+582,"507,1565,75,2088",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,48,2016-06-03 17:11:50,342,2016-06-03 17:11:50
+583,"366,2379,54,2833",,Dromton Gyelwa Jungne,brom ston rgyal ba'i 'byung gnas,4267,,48,2016-06-03 17:12:37,342,2016-06-03 17:12:37
+584,"357,1115,21,1547",,Śāntarakṣita,zhi ba 'tsho,8202,,48,2016-06-03 17:14:14,342,2016-06-03 17:14:14
+585,"2,620,105,422,961,570",,shantideva,shantideva,8747,,48,2016-06-03 17:19:47,342,2016-06-03 17:20:42
+586,"2560,1594,2172,2106",,Buton Rinchen Drub,bu ston rin chen grub,2845,,48,2016-06-03 17:19:57,342,2016-06-03 17:19:57
+589,"697,520,436,812",,Milarepa,mi la ras pa,3178,,46,2016-06-08 22:39:15,233,2016-06-08 22:47:02
+590,"171,19,286,225",,Shakabpa Wangchuk Deden,zhwa sgab pa dbang phyug bde ldan,,,50,2016-06-10 13:54:28,343,2016-06-10 13:54:57
+591,"269,31,359,219",,Lobzang Yampel Pangdatsang,blo bzang yar 'phel spang mda' tshang,13523,,50,2016-06-10 13:55:49,343,2016-06-10 13:55:49
+592,"491,10,656,170",,Surkhang Lhawang Topgyal,zur khang lha dbang stob rgyal,,,50,2016-06-10 13:58:37,343,2016-06-10 14:04:00
+593,"341,4,498,149",,Prime Minister Clement Atlee,,,,50,2016-06-10 14:04:23,343,2016-06-10 14:04:23
+594,"670,59,813,241",,Kaludharma Ratna,,,,50,2016-06-10 14:05:15,343,2016-06-10 14:05:15
+595,"60,21,196,182",,Tubten Tsepel Taikhang,thub bstan tshe 'phel,,,50,2016-06-10 14:13:11,343,2016-06-10 14:13:11
+597,"311,851,3,1217",,Mandāravā,lha lcam man+dA ra bA,9,,51,2016-06-10 14:32:41,342,2016-06-10 14:32:41
+599,"139,786,211,161,208",,Yeshe Tsogyel,ye shes mtsho rgyal,10373,,51,2016-06-10 14:34:47,342,2016-06-10 14:34:47
+600,"10,881,233,243,300",,Padmasambhava,pad+ma 'byung gnas,7442,,51,2016-06-10 14:35:15,342,2016-06-10 14:35:15
+601,"271,1593,6,1890",,Śāntarakṣita,zhi ba 'tsho,8202,,51,2016-06-10 14:36:13,342,2016-06-10 14:36:13
+602,"1132,1572,1374,1789",,Tri Songdetsen,khri srong lde btsan,10467,,51,2016-06-10 14:37:05,342,2016-06-10 14:37:05
+603,"466,48,683,636",,Khandro Tāre Lhamo,mkha' 'gro tA re lha mo,8651,,53,2016-06-13 13:10:00,342,2016-06-13 13:10:00
+604,"221,14,3,615",,"The Fourth Namkhai Nyingpo, Namtrul Jigme Puntsok",nam mkha'i snying po 04 nam sprul 'jigs med phun tshogs,8650,,53,2016-06-13 13:10:18,342,2016-06-13 13:10:18
+605,"461,77,224,634",,Khenpo Jigme Puntsok,mkhan po 'jigs med phun tshogs,10457,,53,2016-06-13 13:10:30,342,2016-06-13 13:10:30
+606,"15,342,118,501,869",,"The First Dorje Drak Rigdzin, Rigdzin Godemchen Ngodrub Gyeltsen",rdo rje brag rig 'dzin 01 rig 'dzin rgod ldem chen dngos grub rgyal mtshan,7767,,54,2016-06-13 16:01:27,342,2016-06-13 16:01:27
+609,"321,627,10,283",,Rinchen Zangpo,rin chen bzang po,10199,,55,2016-06-13 16:41:10,342,2016-06-13 16:41:10
+610,"54,967,612,411,613",,Puchungwa Zhonnu Gyeltsen,phu chung ba gzhon nu rgyal   mtshan,6452,,55,2016-06-13 16:41:24,342,2016-06-13 16:41:24
+612,"2459,1236,2247,1405",877,Lhasa Tsuklakhang ,lha sa gtsug lag khang,,,52,2016-06-14 11:12:19,342,2016-06-14 11:12:19
+613,"2246,1274,2148,1389",443,Chakpori,lcags po ri,,,52,2016-06-14 11:12:49,342,2016-06-14 11:12:49
+614,"2085,1285,1926,1421",38,Drepung Monastery,bras spungs ,,,52,2016-06-14 11:13:17,342,2016-06-14 11:13:17
+615,"2548,1438,2269,1641",165,Samye,bsam yas,,,52,2016-06-14 11:21:24,342,2016-06-14 11:21:24
+616,"2659,1529,2877,1725",672,Trandruk,khra 'brug,,,52,2016-06-14 11:34:43,342,2016-06-14 11:34:43
+617,"3412,1782,3167,2015",811,Khoting Lhakhang,kho thing lha khang,,,52,2016-06-14 11:40:51,342,2016-06-14 11:40:51
+618,"3593,1089,3425,1236",181,Longtang Dolma Lhakhang,klong thang sgrol ma lha khang,,,52,2016-06-14 11:41:45,342,2016-06-14 11:41:45
+619,"31,566,472,906,840",1120,Buchu Lhakhang,bu chu lha khang,,,52,2016-06-14 13:08:56,342,2016-06-14 13:08:56
+620,"82,218,406,142,010",,Kyichu Lhakhang ,skyid chu lha khang,,,52,2016-06-14 13:13:31,342,2016-06-14 13:13:31
+621,"265,593,224,861,097",1121,Katsel,bka' tshal,,,52,2016-06-14 14:19:15,342,2016-06-14 14:19:15
+622,"1668,1634,1486,1796",1122,Drampagyang,gram pa rgyang,,,52,2016-06-14 15:26:52,342,2016-06-15 10:49:14
+623,"153,091,812,941,123",1123,Tsangdram,gtsang 'gram,,,52,2016-06-15 9:48:57,342,2016-06-15 9:48:57
+624,"115,110,688,971,313",1124,Traduntse,pra dun rtse,,,52,2016-06-15 10:48:15,342,2016-06-15 10:48:15
+625,"65,612,644,841,434",1125,Mangyul Jamtrin Lhakhang,mang yul byams sprin lha khang,,,52,2016-06-15 14:23:20,342,2016-06-15 14:23:20
+626,"130,316,237,561,947",82,Drigung Til,bri gung mthil,,,56,2016-06-16 11:58:56,342,2016-06-16 11:58:56
+627,"300,1503,72,1383",822,Terdrom,"gter sgrom dgon, Zhoto Tidro",,,56,2016-06-16 11:59:51,342,2016-06-16 11:59:51
+628,"9,494,133,621,016",,Padmasambhava,pad+ma 'byung gnas,7442,,56,2016-06-16 12:51:21,342,2016-06-16 12:51:21
+629,"933,10,756,212",,mu tig btsan po,mu tig btsan po,13468,,56,2016-06-16 12:52:04,342,2016-06-16 12:56:50
+630,"364,206,197,-1",,rin chen phun tshogs chos kyi   rgyal po,rin chen phun tshogs chos kyi   rgyal po,6384,,56,2016-06-16 12:54:02,342,2016-06-16 12:57:31
+633,"1093,12,938,209",,chos rgyal phun tshogs bkra   shis,chos rgyal phun tshogs bkra   shis,7031,,56,2016-06-16 12:58:29,342,2016-06-16 13:23:51
+634,"686,193,792,398",,dkon mchog rin chen,dkon mchog rin chen,7028,,56,2016-06-16 13:23:13,342,2016-06-16 13:23:15
+635,"502,408,366,222",,"The First Drigung Chungtsang, Chokyi Drakpa",bri gung chung tshang 01 chos kyi grags pa,4387,,56,2016-06-16 13:25:48,342,2016-06-16 13:25:48
+636,"371,233,238,410",,"The Second Drigung Chetsang, Konchok Trinle Zangpo",bri gung che tshang 02 dkon mchog 'phrin las bzang po,6569,,56,2016-06-16 13:29:27,342,2016-06-16 13:29:28
+637,"9,182,281,041,416",,don grub chos rgyal,don grub chos rgyal,12329,,56,2016-06-16 13:30:20,342,2016-06-16 13:30:20
+638,"228,233,123,421",,dkon mchog bstan 'dzin 'gro   'dul,dkon mchog bstan 'dzin 'gro   'dul,5630,,56,2016-06-16 13:31:59,342,2016-06-16 13:31:59
+639,"40,495,610,871,693",,Tseten Chodzom,tshe brtan chos 'dzoms,11796,,57,2016-06-16 13:33:18,343,2016-06-16 13:33:18
+640,"11,361,311,727,944",,Surkhang Wangchen Tseten,zur khang dbang chen tshe brtan,11790,,57,2016-06-16 13:33:40,343,2016-06-16 13:33:46
+644,"13,002,361,163,380",,"The Fourth Drigung Chetsang, Tendzin Pemai Gyeltsen",bri gung che tshang 04 bstan 'dzin pad+ma'i rgyal   mtshan,11167,,56,2016-06-16 13:42:35,342,2016-06-16 13:42:35
+646,"328,390,197,559",,bstan 'dzin chos kyi rgyal   mtshan,bstan 'dzin chos kyi rgyal   mtshan,3915,,56,2016-06-16 13:48:19,342,2016-06-16 13:48:19
+647,"9,242,117,396",,chos kyi nyi ma,chos kyi nyi ma,3916,,56,2016-06-16 13:49:29,342,2016-06-16 13:49:29
+648,"13,033,691,189,551",,chos nyid nor bu,chos nyid nor bu,3914,,56,2016-06-16 13:56:53,342,2016-06-16 13:56:53
+649,"18,441,102,561,830",,Yuthok Dorje Yudon,g.yu thog lha lcam rdo rje g.yu sgron,11798,,58,2016-06-16 13:58:40,343,2016-06-16 13:58:40
+650,"17,55,524,795",,"The Seventeenth Ruler of Eyul, Lhagyari Namgyel Gyatso",e lha rgya ri khri chen 17 rnam rgyal rgya mtsho,276,,59,2016-06-16 14:23:51,343,2016-06-16 14:23:51
+653,"157,35,332,263",,Lhagyari Puntsok Dolkar,lha rgya ri phun tshogs sgrol dkar ,,,60,2016-06-17 14:11:33,343,2016-06-17 14:11:33
+654,"312,4,532,207",,"The Seventeenth Ruler of Eyul, Lhagyari Namgyel Gyatso",e lha rgya ri khri chen 17 rnam rgyal rgya mtsho,276,,60,2016-06-17 14:11:58,343,2016-06-17 14:11:58
+655,"47,052,118,192,027",,Yuthok Dorje Yudon,g.yu thog lha lcam rdo rje g.yu sgron,11798,,61,2016-06-17 14:36:40,343,2016-06-17 14:36:40
+656,"45,130,173,273",,Surkhang Wangchen Gelek,zur khang dbang chen bde legs,2423,,62,2016-06-17 15:04:52,343,2016-06-17 15:12:01
+657,"201,155,368,306",,rag kha shar phun tshogs rab   rgyas,rag kha shar phun tshogs rab   rgyas,9326,,62,2016-06-17 15:12:12,343,2016-06-17 15:16:20
+658,"55,33,235,253",,Surkhang Wangchen Gelek,zur khang dbang chen bde legs,2423,,63,2016-06-17 15:38:24,343,2016-06-17 15:38:24
+659,"285,18,330,256",,Fourteenth Dalai Lama Tendzin Gyatso,tA la'i bla ma 14 bstan 'dzin rgya mtsho,2951,,63,2016-06-17 15:40:21,343,2016-06-17 15:40:21
+660,"47,87,171,250",,Yuthok Tashi Dhondup,g.yu thog bkra shis don grub,9333,,64,2016-06-17 15:58:47,343,2016-06-17 15:58:49
+661,"301,54,407,204",,thub bstan kun 'phel,thub bstan kun 'phel,11903,,64,2016-06-17 16:00:57,343,2016-06-17 16:00:57
+662,"188,236,939,987",,Yuthok Tashi Dhondup,g.yu thog bkra shis don grub,9333,,65,2016-06-17 17:04:09,343,2016-06-17 17:04:09
+663,"11,382,221,754,926",,phreng ring 'jigs med sum rtsen   dbang po,phreng ring 'jigs med sum rtsen   dbang po,12280,,65,2016-06-17 17:06:11,343,2016-06-17 17:06:33
+666,"43,93,525,756",,Lowo Khenchen Sonam Lhundrub,glo bo mkhan chen bsod nams lhun grub,10497,,66,2016-06-22 17:00:47,2,2016-06-22 17:00:47
+667,"2299,1214,2390,1153",37,Sera Monastery,se ra,,,52,2016-07-13 12:36:41,342,2019-01-16 20:13:57
+668,"2381,1000,2184,1114",862,Drak Yerpa,brag yer pa,,,52,2016-07-13 12:42:55,342,2016-07-13 12:42:55
+669,"2249,1281,2148,1391",905,Potala,po ta la,,,52,2016-07-13 12:43:46,342,2016-07-13 12:43:46
+670,"2244,1204,2146,1241",899,Ramoche ,ra mo che gtsug lag khang,,,52,2016-07-13 12:44:51,342,2016-07-13 12:44:54
+671,"2110,1031,1908,1164",327,Reting Monastery,rwa sgreng dgon,,,52,2016-07-13 12:58:50,342,2016-07-13 12:58:50
+672,"1907,1632,1994,1576",11,Dorje Drak,rdo rje brag,,,52,2016-07-13 13:06:06,342,2016-07-13 13:06:06
+673,"1962,1516,1863,1588",141,Kharchu Monastery,mkhar chu dgon,,,52,2016-07-13 13:06:41,342,2016-07-13 13:06:41
+674,"1648,1362,1575,1408",615,Gongkar Chode,gong dkar chos sde,,,52,2016-07-13 13:08:54,342,2016-07-13 13:08:54
+675,"1706,1332,1639,1382",,Chakzam Chuwori,lcags zam chu bo ri,,,52,2016-07-13 13:20:38,342,2016-07-13 13:20:38
+676,"2847,1265,2681,1161",36,Ganden,dga' ldan ,,,52,2016-07-13 13:24:00,342,2016-07-13 13:24:00
+677,"2989,1357,2853,1458",63,Daklha Gampo,dwags lha sgam po,,,52,2016-07-13 13:24:34,342,2016-07-13 13:24:34
+678,"2769,1566,2616,1464",951,Chimpu,mchims phu,,,52,2016-07-13 13:32:44,342,2016-07-13 13:32:44
+680,"3,543,157,332,731,800",1278,Dakpa Shelri,dag pa shel ri,,,52,2016-07-13 13:47:06,342,2016-07-13 13:47:06
+681,"28,828,142,795,914",822,Terdrom,"gter sgrom dgon, Zhoto Tidro",,,52,2016-07-13 13:53:34,342,2016-07-13 13:53:34
+682,"1630,1790,1487,1894",39,Tashilhunpo,bkra shis lhun po,,,52,2016-07-13 16:20:02,342,2016-07-13 16:20:02
+683,"1275,1616,1182,1693",574,Lhunpo Tse,lhun po rtse,,,52,2016-07-13 16:25:00,342,2016-07-13 16:25:00
+684,"1372,1421,1198,1502",603,Sakya Monastery,sa skya dgon pa,,,52,2016-07-13 16:27:27,342,2016-07-13 16:32:18
+685,"1576,1401,1495,1464",561,Shelkar Chode,shel dkar chos sde,,,52,2016-07-13 16:29:33,342,2016-07-13 16:29:33
+686,"1255,1261,1376,1348",711,Dingri Langkhor,ding ri glang 'khor,,,52,2016-07-13 16:38:48,342,2016-07-13 16:38:48
+687,"1219,1292,1134,1357",1134,Tsibri,rtsib ri dgon,,,52,2016-07-13 16:53:39,342,2016-07-13 16:53:41
+688,"1912,1042,1780,1167",80,Taklung Monastery,stag lung dgon,,,52,2016-07-14 13:06:46,342,2016-07-14 13:06:46
+689,"2544,2054,1500,2718",905,Potala,po ta la,,,67,2016-07-14 17:23:51,342,2016-07-14 17:34:14
+690,"8,529,904,502,283",443,Chakpori,lcags po ri,,,67,2016-07-14 17:25:05,342,2016-07-14 17:25:05
+691,"1830,1626,99,486",38,Drepung Monastery,bras spungs ,,,67,2016-07-14 17:29:21,342,2016-07-14 17:29:21
+693,"131,040,491,164,604",91,Sangpu Neutok,gsang phu ne'u thog,,,67,2016-07-14 17:31:41,342,2016-07-14 17:31:41
+694,"3531,4052,2631,4682",877,Lhasa Tsuklakhang ,lha sa gtsug lag khang,,,67,2016-07-14 17:33:40,342,2016-07-14 17:33:40
+695,"2,836,211,425,242,330",878,Lukhang,klu khang,,,67,2016-07-14 17:35:44,342,2016-07-14 17:35:44
+696,"2387,4995,1804,5154",723,Tengyeling,bstan rgyas gling,,,67,2016-07-19 14:32:07,342,2016-07-19 14:32:07
+697,"11,797,738,431,911",,"The Fifth Dalai Lama, Ngawang Lobzang Gyatso",ta la'i bla ma 05 ngag dbang blo bzang rgya mtsho,6065,,68,2016-08-29 17:33:54,342,2016-08-29 17:33:54
+698,"12,624,621,882,904",905,Potala,po ta la,,,68,2016-08-29 17:35:57,342,2016-08-29 17:37:07
+699,"12,417,773,892,011",327,Reting Monastery,rwa sgreng dgon,,,68,2016-08-29 17:37:47,342,2016-08-29 17:37:47
+700,"1592,2564,1098,2283",37,Sera Monastery,se ra,,,68,2016-08-29 17:39:09,342,2016-08-29 17:39:09
+701,"1,872,244,816,072,220",36,Ganden,dga' ldan ,,,68,2016-08-29 17:40:24,342,2016-08-29 17:40:26
+702,"1203,2576,1862,2884",877,Lhasa Tsuklakhang ,lha sa gtsug lag khang,,,68,2016-08-29 17:41:32,342,2016-08-29 17:41:32
+703,"2330,1223,1789,1692",877,Lhasa Tsuklakhang ,lha sa gtsug lag khang,,,69,2016-09-07 12:48:28,342,2016-09-07 12:48:28
+704,"67,227,371,172,286",723,Tengyeling,bstan rgyas gling,,,69,2016-09-07 12:49:47,342,2016-09-07 12:49:47
+705,"83,210,803,201,291",874,Jebumgang Lhakhang,rje 'bum sgang lha khang,,,69,2016-09-07 12:51:40,342,2016-09-07 12:51:40
+706,"8,999,701,394,805",880,Meru Dratsang,rme ru ,,,69,2016-09-07 12:53:25,342,2016-09-07 12:53:25
+707,"12,163,161,736,979",,Lo Gendun Sadutshang,blo dge 'dun sa 'du tshang,13546,,71,2016-09-07 15:37:34,343,2016-09-07 15:37:42
+708,"14,901,792,139,866",,Rinchen Sadutshang,rin chen sa 'du tshang,13545,,70,2016-09-07 15:49:32,343,2016-09-07 15:50:48
+709,"68,448,212,941,252",,stag lha phun tshogs bkra shis,stag lha phun tshogs bkra shis,8688,,70,2016-09-07 15:51:03,343,2016-09-07 17:29:17
+710,"128,78,238,242",,Rinchen Sadutshang,rin chen sa 'du tshang,13545,,72,2016-09-07 16:30:51,343,2016-09-07 16:30:51
+711,"247,92,349,243",,Wangchuk Deden Shakabpa,zhwa sgab pa dbang phyug bde ldan,11950,,72,2016-09-07 16:31:54,343,2016-09-07 16:31:54
+712,"356,82,461,227",,Gyalo Thondup,rgya lo don grub,,,72,2016-09-07 16:33:33,343,2016-09-07 17:25:16
+714,"193,37,567,455",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,73,2016-09-08 14:51:54,342,2016-09-08 14:51:54
+715,"12,211,024,671,467",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,73,2016-09-08 14:54:20,342,2016-09-08 14:54:20
+716,"1430,1966,1082,2301",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,73,2016-09-08 14:54:30,342,2016-09-08 14:54:30
+717,"13,088,806,821,807",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,73,2016-09-08 14:54:43,342,2016-09-08 14:54:43
+718,"2681,1632,3035,1501",,Sampho Manor house,bsam grub pho brang gzims shag,,,69,2016-09-08 15:08:23,342,2016-09-08 15:08:25
+719,"2985,1156,3120,1088",,Pangdatsang Manor House,spom mda' gzims shag,,,69,2016-09-08 15:09:40,342,2016-09-08 15:09:40
+721,"81,933,913,291,332",,"The Third Karmapa, Rangjung Dorje",karma pa 03 rang byung rdo rje,9201,,74,2016-09-29 13:45:31,342,2016-09-29 13:45:31
+723,"30,410,506,411,612",,Bodong Paṇchen Chokle Namgyel,bo dong paN chen phyogs las rnam rgyal,4344,,74,2016-09-29 13:47:51,342,2016-09-29 13:47:51
+724,"3,113,853,132,036",,Tonmi Sambhota,thon mi sam+b+ho Ta,8342,,74,2016-09-29 13:48:08,342,2016-09-29 13:48:08
+726,"681,175,611,172,311",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,74,2016-09-29 13:49:20,342,2016-09-29 13:49:20
+727,"1192,1679,1590,2327",,Shākya Chokden,shAkya mchog ldan,6351,,74,2016-09-29 13:49:58,342,2016-09-29 13:49:58
+728,"1612,1761,1907,2613",,"The Eighth Situ, Chokyi Jungne",si tu 08 chos kyi 'byung gnas,12371,,74,2016-09-29 14:00:10,342,2016-09-29 14:00:10
+729,"2315,2381,1888,1696",,Longchenpa Drime Wozer,klong chen pa dri med 'od zer,2882,,74,2016-09-29 14:00:41,342,2016-09-29 14:00:41
+730,"176,215,941,314,652",,Kawa Peltsek,ska ba dpal brtsegs,10881,,74,2016-09-29 14:11:47,342,2016-09-29 14:11:47
+732,"7,905,252,491,057",,Vairocana,bai ro tsa na,7505,,74,2016-09-29 14:52:05,342,2016-09-29 14:52:05
+745,"314,40,1093,1579",,Milarepa,mi la ras pa,3178,,77,2016-12-15 11:51:51,342,2016-12-15 11:51:51
+746,"11,311,305,319,467",,"The Eighth Tatsak Jedrung, Yeshe Lobzang Tenpai Gonpo",rta tshag rje drung 08 ye shes bstan pa'i mgon po,5328,,78,2016-12-15 12:08:13,342,2016-12-15 12:39:05
+747,"829,301,560,47",,"The Eighth Dalai Lama, Jampel Gyatso",ta la'i bla ma 08 'jam dpal rgya mtsho,2339,,78,2016-12-15 12:09:09,342,2016-12-15 12:09:09
+748,"614,175,323,480",,"The Seventh Paṇchen Lama, bstan pa'i nyi ma",paN chen bla ma 07 bstan pa'i nyi ma,4589,,78,2016-12-15 12:09:50,342,2016-12-15 12:31:13
+749,"1,052,528,816,176",,"The Seventieth Ganden Tripa, Ngawang Chopel",dga' ldan khri pa 70 ngag dbang chos 'phel,5317,,78,2016-12-15 12:11:50,342,2016-12-15 12:11:50
+750,"1753,84,2102,706",,Surkhang Wangchen Gelek,zur khang dbang chen bde legs,2423,,79,2016-12-15 17:41:02,343,2016-12-15 17:41:02
+751,"684,400,252,969",,kun bzang shes rab,kun bzang shes rab,9148,,80,2017-01-30 10:37:06,342,2017-01-30 10:37:06
+752,"24,569,184,792",,Namcho Mingyur Dorje,gnam chos mi 'gyur rdo rje,9190,,80,2017-01-30 10:37:24,342,2017-01-30 10:37:24
+753,"731,589,918,810",,karma chags med,karma chags med,9084,,80,2017-01-30 10:37:58,342,2017-01-30 10:37:58
+754,"559,186,360,391",,Padmasambhava,pad+ma 'byung gnas,7442,,80,2017-01-30 10:38:32,342,2017-01-30 10:38:32
+755,"101,20,268,174",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,81,2017-02-01 12:49:33,342,2017-02-01 12:49:33
+756,"49,155,134,269",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,81,2017-02-01 12:49:52,342,2017-02-01 12:49:52
+757,"292,176,225,275",,Gyeltsabje Darma Rinchen,rgyal tshab rje dar ma rin chen,9095,,81,2017-02-01 12:50:11,342,2017-02-01 12:50:11
+758,"0,1291,0,1291",,Begtse,,,,81,2017-02-01 12:51:57,342,2017-02-01 12:51:57
+759,"987,131,612,761,635",,Damchen Garwai Nagpo,dam chen gar ba nag po,,,81,2017-02-01 12:54:30,342,2017-02-01 12:55:11
+760,"22,419,976,422,818",,Machik Labdron,ma cig lab sgron,5644,,82,2017-02-03 11:24:20,342,2017-02-03 11:24:20
+761,"612,1381,30,2089",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,82,2017-02-03 11:24:34,342,2017-02-03 11:24:34
+762,"18,393,401,143,958",,shAkya thub pa,shAkya thub pa,9986,,82,2017-02-03 11:27:09,342,2017-02-03 11:27:09
+763,"894,892,225,193",,Kagyu Lama,,,,82,2017-02-03 11:27:19,342,2017-02-03 11:27:19
+772,"674,32,963,470",,Jigme Lingpa,jigs med gling pa,5457,,83,2017-02-10 12:22:04,342,2017-02-10 12:22:04
+773,"14,001,894,324,678",,Padmasambhava,pad+ma 'byung gnas,7442,,83,2017-02-10 12:22:20,342,2017-02-10 12:22:20
+776,"388,1906,80,2362",,Kharchen Pelgyi Wangchuk,mkhar chen dpal gyi dbang   phyug,490,,83,2017-02-10 12:23:37,342,2017-02-10 12:23:37
+777,"1664,2406,1272,1854",,Sokpo Pelgyi Yeshe,sog po dpal gyi ye shes,5281,,83,2017-02-10 12:23:55,342,2017-02-10 12:23:55
+778,"32,450,652,66",,Namkhai Nyingpo,nam mkha'i snying po,1108,,83,2017-02-10 12:24:23,342,2017-02-10 12:24:23
+779,"1648,242,1108,-2",,Nanam Yeshe De,sna nam ye shes sde,10904,,83,2017-02-10 12:24:35,342,2017-02-10 12:24:35
+780,"6,604,221,114,906",,"The Fourth Drukchen, Pema Karpo",brug chen 04 pad+ma dkar po,10952,,84,2017-03-22 11:54:59,342,2017-03-22 11:54:59
+781,"624,34,960,414",,Ga Lotsāwa Zhonnu Pel,rgwa lo tsA ba gzhon nu dpal,6037,,84,2017-03-22 11:55:52,342,2017-03-22 11:55:52
+782,"2500,74,2144,462",,"The First Drukchen, Tsangpa Gyare Yeshe Dorje",brug chen 01 gtsang pa rgya ras ye shes rdo rje,11865,,84,2017-03-22 11:56:52,342,2017-03-22 11:56:52
+783,"1808,46,2132,502",,nagarjuna,nagarjuna,7440,,84,2017-03-22 11:57:06,342,2017-03-22 12:03:50
+784,"23,964,942,068,898",,Kunzang Jalu,kun bzang 'ja lus,,,84,2017-03-22 12:03:16,342,2017-03-22 12:03:16
+785,"1816,22,1288,606",,rdo rje 'chang (vajradhara),rdo rje 'chang (vajradhara),354,,84,2017-03-22 12:05:13,342,2017-03-22 12:05:13
+786,"1036,559,569,52",,Tangtong Gyelpo,thang stong rgyal po,4511,,85,2017-06-13 10:15:53,2,2017-06-13 10:15:53
+787,"458,1425,58,970",,Jamgon Kongtrul Lodro Taye,jam mgon kong sprul blo gros mtha' yas,4358,,85,2017-06-13 10:16:28,2,2017-06-13 10:16:28
+788,"238,593,627,891,398",,Jamyang Khyentse Wangpo,jam dbyangs mkhyen brtse'i dbang po,4291,,85,2017-06-13 10:17:06,2,2017-06-13 10:17:06
+789,"9,282,871,348,837",,Tsarong Dasang Damdul,tsha rong zla bzang dgra 'dul,7929,,87,2017-06-15 17:11:14,343,2017-06-15 17:11:14
+791,"1585,57,1845,472",,"taring, rinchen dolma",phreng ring rin chen sgrol ma,10711,,88,2017-06-16 15:30:48,343,2017-06-16 15:30:48
+792,"677,677,147,77",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,89,2017-08-22 12:00:38,342,2017-08-22 12:00:38
+793,"191,108,513,842,329",,Go Khukpa Lhetse,gos khug pa lhas btsas,5803,,89,2017-08-22 12:01:07,342,2017-08-22 12:01:10
+794,"16,481,728,244,438",,Do Khyentse Yeshe Dorje,mdo mkhyen brtse ye shes rdo rje,9612,,90,2017-08-22 12:21:23,342,2017-08-22 12:21:23
+795,"371,6,-1,393",,Longchenpa Drime Wozer,klong chen pa dri med 'od zer,2882,,90,2017-08-22 12:21:42,342,2017-08-22 12:21:42
+796,"1276,1,619,445",,Padmasambhava,pad+ma 'byung gnas,7442,,90,2017-08-22 12:21:56,342,2017-08-22 12:21:56
+797,"1881,390,1569,1",,Jigme Lingpa,jigs med gling pa,5457,,90,2017-08-22 12:22:30,342,2017-08-22 12:22:30
+799,"734,239,41,1260",,Umapa Tsondru Sengge,dbu ma pa brtson 'grus seng ge,5693,,91,2017-08-22 12:44:55,342,2017-08-22 12:44:55
+800,"162,912,402,250,207",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,91,2017-08-22 12:45:11,342,2017-08-22 12:45:11
+803,"1696,3360,2240,2444",,"The Seventh Dalai Lama, Kelzang Gyatso",ta la'i bla ma 07 skal bzang rgya mtsho,3107,,91,2017-08-22 13:02:58,342,2017-08-22 13:02:58
+804,"155,624,667,933,356",,phun tshogs rgya mtsho,phun tshogs rgya mtsho,5778,,91,2017-08-22 13:08:38,342,2017-08-30 9:37:34
+805,"631,3369,13,2480",,"The Fifth Paṇchen Lama, Lobzang Yeshe",paN chen bla ma 05 blo bzang ye shes,2180,,91,2017-08-22 13:10:50,342,2017-08-22 13:18:33
+807,"20,182,210,507,812",,"The Fourth Drukchen, Pema Karpo",brug chen 04 pad+ma dkar po,10952,,93,2017-11-01 16:51:19,342,2017-11-01 16:51:19
+808,"227,411,271,878,628",,Rechungpa Dorje Drakpa,ras chung pa rdo rje grags pa,6699,,93,2017-11-01 16:51:45,342,2017-11-01 16:51:45
+809,"5,301,165,104,706",,Milarepa,mi la ras pa,3178,,93,2017-11-01 16:51:57,342,2017-11-01 16:51:57
+810,"660,506,227,46",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,93,2017-11-01 16:52:09,342,2017-11-01 16:52:09
+811,"20,242,102,278,800",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,94,2017-11-02 15:12:40,342,2017-11-02 15:12:40
+812,"55,648,412,561,210",,Milarepa,mi la ras pa,3178,,95,2018-01-16 15:40:28,342,2018-01-16 15:40:28
+817,"139,524,227,591,210",,Marpa Chokyi Lodro,mar pa chos kyi blo gros,4354,,95,2018-01-16 16:46:00,342,2018-01-16 16:46:00
+818,"273,834,038,281,326",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,95,2018-01-16 16:46:44,342,2018-01-16 16:46:44
+820,"7,647,797,035,439",,Sokpo Pelgyi Yeshe,sog po dpal gyi ye shes,5281,,97,2018-01-24 19:18:09,342,2018-01-24 19:18:11
+821,"3775,4326,1119,1626",,Padmasambhava,pad+ma 'byung gnas,7442,,97,2018-01-24 19:18:22,342,2018-01-24 19:18:22
+822,"2123,2954,1696,2424",,Yeshe Tsogyel,ye shes mtsho rgyal,10373,,98,2018-02-01 19:45:39,342,2018-02-01 19:45:39
+823,"15,047,421,662,000",,Padmasambhava,pad+ma 'byung gnas,7442,,98,2018-02-01 19:46:03,342,2018-02-01 19:46:03
+824,"18,934,011,872,204",,Jatson Nyingpo,ja' tshon snying po,11572,,99,2018-02-02 16:10:40,342,2018-02-02 16:10:40
+825,"311,616,126,484,676",,Machik Labdron,ma cig lab sgron,5644,,100,2018-03-12 15:33:35,342,2018-03-12 15:33:38
+826,"769,784,45,1532",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,100,2018-03-12 15:33:55,342,2018-03-12 15:33:55
+827,"763,1537,4,2298",,"The Second Karmapa, Karma Pakshi",karma pa 02 karma pak+Shi,2776,,100,2018-03-12 15:34:20,342,2018-03-12 15:34:20
+828,"3989,1510,3229,2226",,Drapa Ngonshe,grwa pa mngon shes,7114,,100,2018-03-12 15:34:45,342,2018-03-12 15:34:45
+829,"177,193,222,941,605",,Machik Labdron,ma cig lab sgron,5644,,101,2018-03-12 19:50:37,342,2018-03-12 19:50:37
+830,"2279,1232,2565,1537",,rgyal ba don grub,rgyal ba don grub,5645,,101,2018-03-12 19:53:13,342,2018-03-12 19:53:13
+831,"21,044,081,925,656",,shAkya thub pa,shAkya thub pa,9986,,101,2018-03-12 19:59:05,342,2018-03-12 19:59:06
+832,"7,788,613,871,244",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,101,2018-03-12 19:59:36,342,2018-03-12 19:59:36
+833,"689,636,464,870",,Padmasambhava,pad+ma 'byung gnas,7442,,101,2018-03-12 19:59:53,342,2018-03-12 19:59:53
+836,"115,013,619,381,619",,"The Third Karmapa, Rangjung Dorje",karma pa 03 rang byung rdo rje,9201,,101,2018-03-12 20:08:00,342,2018-03-12 20:08:00
+837,"374,485,511,746",,tai lo pa,tai lo pa,6424,,101,2018-03-12 20:08:49,342,2018-03-12 20:08:49
+838,"663,508,830,719",,nA ro pa,nA ro pa,5398,,101,2018-03-12 20:09:44,342,2018-03-12 20:09:44
+839,"36,111,441,721,308",,"The Second Karmapa, Karma Pakshi",karma pa 02 karma pak+Shi,2776,,101,2018-03-12 20:13:37,342,2018-03-12 20:13:37
+840,"93,210,907,531,288",,saraha,saraha,8746,,101,2018-03-12 20:15:20,342,2018-03-12 20:15:20
+841,"3,628,992,061,102",,asanga,asanga,8700,,101,2018-03-12 20:16:25,342,2018-03-12 20:16:25
+842,"31,513,091,391,471",,rgya nag gcer bu,rgya nag gcer bu,5651,,101,2018-03-12 20:21:59,342,2018-03-12 20:21:59
+843,"91,714,947,421,732",,bsod nams bla ma,bsod nams bla ma,5643,,101,2018-03-12 20:27:43,342,2018-03-12 20:27:43
+845,"26,781,143,185,712",,Yeshe Tsogyel,ye shes mtsho rgyal,10373,,102,2018-10-30 16:16:30,342,2018-10-30 16:16:30
+846,"291,772,833,611,402",,gyur med mthu stobs rnam rgyal,gyur med mthu stobs rnam rgyal,8115,,102,2018-10-30 16:16:44,342,2018-10-30 16:21:56
+847,"336,587,738,071,471",,"The Fifth Shechen Rabjam, Pema Tekchok Tenpai Gyeltsen",zhe chen rab 'byams 05 pad+ma theg mchog bstan pa'i rgyal mtshan,9884,,102,2018-10-30 16:18:17,342,2018-10-30 16:51:25
+848,"35,432,103,140,802",,pad+ma 'gyur med rgya mtsho,pad+ma 'gyur med rgya mtsho,5023,,102,2018-10-30 16:18:43,342,2018-10-30 16:21:28
+849,"35,363,823,924,885",,d+harma shrI,d+harma shrI,9275,,102,2018-10-30 16:22:21,342,2018-10-30 16:24:28
+850,"26,992,792,095,953",,Padmasambhava,pad+ma 'byung gnas,7442,,102,2018-10-30 16:24:58,342,2018-10-30 16:24:58
+851,"1,469,086,551,495",,Jamgon Kongtrul Lodro Taye,jam mgon kong sprul blo gros mtha' yas,4358,,102,2018-10-30 16:28:22,342,2018-10-30 16:28:22
+852,"11,517,315,781,283",,pad+ma gsang sngags bstan 'dzin chos rgyal,pad+ma gsang sngags bstan 'dzin chos rgyal,13591,,102,2018-10-30 16:30:49,342,2018-10-30 16:30:49
+853,"69,392,433,901",,rin chen rnam rgyal,rin chen rnam rgyal,9352,,102,2018-10-30 16:32:29,342,2018-10-30 16:32:29
+855,"7,951,541,308,706",,Vairocana,bai ro tsa na,7505,,102,2018-10-30 16:34:04,342,2018-10-30 16:35:21
+856,"16,239,986,302,146",,Śākyamuni,,,,91,2018-11-01 14:38:24,342,2018-11-01 14:38:24
+857,"831,270,411,798",,gyur med rdo rje,gyur med rdo rje,9633,,102,2018-11-02 17:17:41,342,2018-11-02 17:17:41
+858,"1777,1300,2233,2302",,Bodhisattva Maitreya,,,,91,2018-11-04 14:18:21,342,2018-11-04 14:18:29
+859,"2254,2350,1723,1306",,Bodhisattva Mañjuśrī,,,,91,2018-11-04 14:23:57,342,2018-11-04 14:23:57
+860,"17,247,998,792,553",,Namkhai Nyingpo,nam mkha'i snying po,1108,,103,2019-01-09 15:27:28,342,2019-01-09 15:27:28
+861,"1060,6,719,435",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,105,2019-02-01 18:44:55,342,2019-02-01 18:44:55
+862,"781,129,463,525",,Gyeltsabje Darma Rinchen,rgyal tshab rje dar ma rin chen,9095,,105,2019-02-01 18:46:23,342,2019-02-01 18:46:23
+863,"13,441,501,022,486",,Khedrubje Gelek Pelzang,mkhas grub rje dge legs dpal bzang,8027,,105,2019-02-01 18:46:34,342,2019-02-01 18:46:34
+865,"1820,77,2476,681",,Dromton Gyelwa Jungne,brom ston rgyal ba'i 'byung gnas,4267,,107,2019-04-23 18:26:55,342,2019-04-23 18:26:55
+866,"720,105,17,629",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,107,2019-04-23 18:30:41,342,2019-04-23 18:30:41
+867,"75,224,722,953,022",,Atiśa Dīpaṃkara,a ti sha dI paM ka ra,5717,,108,2019-05-02 15:08:23,342,2019-05-02 15:08:23
+868,"3122,3360,80,82",352,Toling Monastery,mtho lding dgon,,,109,2019-11-15 16:10:01,342,2019-11-15 16:10:01
+869,"219,396,410,700",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,110,2019-12-09 13:36:17,342,2019-12-09 13:36:17
+872,"173,268,536,345",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,114,2019-12-10 18:03:02,342,2019-12-10 18:03:02
+874,"217,627,602,685",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,115,2019-12-10 18:35:30,342,2019-12-10 18:35:30
+875,"264,433,742,504",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,116,2019-12-17 14:35:00,342,2019-12-17 14:35:00
+876,"130,89,444,228",,ngag dbang kun dga' theg chen   dpal 'bar,ngag dbang kun dga' theg chen   dpal 'bar,8641,,116,2019-12-17 14:36:47,342,2019-12-17 14:36:47
+877,"499,553,734,600",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,117,2019-12-17 14:42:07,342,2019-12-17 14:42:07
+878,"100,239,012,531,067",,Diki Lhalungpa,,,,110,2019-12-21 14:13:45,342,2019-12-21 14:19:35
+879,"468,456,676,879",,Sogyal Rinpoche,,,,110,2019-12-21 14:18:59,342,2019-12-21 14:18:59
+880,"125,135,915,631,067",,Harold Talbott,,,,110,2019-12-21 14:19:46,342,2019-12-21 14:19:46
+881,"1,443,220,826",,Jigme Rigden Lhalungpa,,,,110,2019-12-21 14:20:25,342,2019-12-21 14:20:25
+882,"406,67,753,482",,Khon Lui Wangpo,khon klu'i dbang po,1370,,118,2020-05-15 16:27:29,342,2020-05-15 16:27:29
+883,"1311,62,1692,472",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,118,2020-05-15 16:27:43,342,2020-05-15 16:27:43
+884,"29,017,827,682,431",,Yutok Yonten Gonpo,g.yu thog yon tan mgon po,5312,,74,2020-06-19 15:49:37,342,2020-06-19 15:49:37
+885,"183,699,822,711,738",,Tāranātha,tA ra nA tha,2712,,74,2020-06-22 13:45:13,342,2020-06-22 13:45:13
+887,"7,363,481,021,772",,spyi bo lhas pa,spyi bo lhas pa,1268,,119,2020-07-21 16:54:13,342,2020-07-21 16:54:13
+888,"2830,1351,2595,1658",,blo gsal rgya mtsho,blo gsal rgya mtsho,10539,,119,2020-07-21 17:33:48,342,2020-07-21 17:33:48
+889,"16,517,374,721,361",,kun bzang chos kyi nyi ma,kun bzang chos kyi nyi ma,4323,,119,2020-07-21 17:36:04,342,2020-07-21 17:36:04
+890,"2548,1577,2216,1238",,"The Twenty-First Sakya Tridzin, Lodro Gyeltsen",sa skya khri 'dzin 21 blo gros rgyal mtshan,7348,,119,2020-07-21 17:37:54,342,2020-07-21 17:37:54
+891,"78,112,694,811,624",,dpal ldan legs pa,dpal ldan legs pa,1273,,119,2020-07-21 17:39:40,342,2020-07-21 17:39:40
+892,"2,828,130,325,721,010",,"kun dga' bkra shis, theg chen   chos rje","kun dga' bkra shis, theg chen   chos rje",5916,,119,2020-07-21 17:47:18,342,2020-07-21 17:47:18
+893,"16,381,891,996,605",,Tsembupa Darma Wozer,tshem bu pa dar ma 'od zer,12838,,119,2020-07-21 17:48:50,342,2020-07-21 17:48:50
+894,"47,210,411,481,354",,Lama Dampa Sonam Gyeltsen,bla ma dam pa bsod nams rgyal mtshan,2491,,119,2020-07-21 17:52:08,342,2020-07-21 17:52:08
+895,"279,172,724,481,086",,Zhonnu Sengge,gzhon nu seng+ge,11909,,119,2020-07-21 17:54:34,342,2020-07-21 17:54:34
+896,"2,687,175,511,074",,Jangsem Gyelwa Yeshe ,byang sems rgyal ba ye shes,2803,,119,2020-07-21 17:57:43,342,2020-07-21 17:57:43
+897,"22,334,732,511,859",,Tukje Tsondru,thugs rje brtson 'grus,11307,,119,2020-07-21 17:58:19,342,2020-07-21 17:58:19
+898,"5,195,877,031,317",,"The Sixth Tseten Zhabdrung, Jigme Rigpai Lodro",tshe tan zhabs drung 06 'jigs med rigs pa'i blo gros,2948,,120,2020-08-24 16:52:28,342,2020-08-24 16:52:28
+900,"6,965,349,641,295",,Meu Gyelpo Pelgon Trinle Rabten,rme'u rgyal po dpal mgon 'phrin las rab brtan,13655,,120,2020-08-24 16:57:49,646,2020-08-24 23:29:07
+901,"2,856,115,121,313",,Gyelrong Choktse Gyalpo,rgyal rong cog tse rgyal po,,,120,2020-08-24 23:46:23,342,2020-08-24 23:53:52
+902,"8,471,365,115,438",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,37,2020-09-16 17:29:18,342,2020-09-16 17:29:18
+903,"16,423,308,811,383",,"The First Karmapa, Dusum Khyenpa",karma pa 01 dus gsum mkhyen pa,2683,,37,2020-09-16 17:29:31,342,2020-09-16 17:29:31
+905,"9,621,059,688,394",,E. Gene Smith,"jam dbyangs rnam rgyal Smith, E. Gene",,,110,2021-02-16 16:54:41,342,2021-02-16 16:54:41
+906,"56,211,115,621,111",,Lobsang Palden ,,,,121,2021-07-01 18:58:52,2,2021-07-01 18:59:28
+907,"5,395,747,571,109",,"Thupten Gyau"" """,,,,121,2021-07-01 18:59:48,2,2021-07-01 18:59:48
+908,"75,850,610,201,066",,Baba Gyen Yeshi Kalsang,,,,121,2021-07-01 19:00:12,2,2021-07-01 19:00:12
+909,"99,748,811,911,068",,Tsongkha Lhamo Tsering ,,,,121,2021-07-01 19:00:47,2,2021-07-01 19:00:47
+910,"117,454,013,321,062",,Loten Chéso,,,,121,2021-07-01 19:01:07,2,2021-07-01 19:01:07
+912,"149,148,317,481,104",,Dhakpa Dorje (?),,,,121,2021-07-01 19:01:49,2,2021-07-01 19:01:49
+913,"1,556,763,491,132",,"Nima Pagla"" """,,,,121,2021-07-01 19:03:31,2,2021-07-01 19:03:31
+914,"3,576,135,761,116",,Lobsang Palden,,,,121,2021-07-01 19:03:48,2,2021-07-01 19:03:48
+915,"132,350,214,961,072",,"Drayab Lobsang Kambo’""Topgyal""",,,,121,2021-07-01 19:04:17,2,2021-07-01 19:04:17
+916,"151,382,219,841,705",,Drumpa Namgyel Gyeltsen,bhruM pa rnam rgyal rgyal mtshan,13722,,87,2022-07-13 15:24:06,342,2022-07-13 15:24:06
+917,"1258,71,1599,783",,lding bya rdo rje rgyal mtshan,lding bya rdo rje rgyal mtshan,3950,,87,2022-07-13 15:26:01,342,2022-07-13 15:26:01
+918,"77,779,513,551,719",,Surkhang Wangchen Tseten,zur khang dbang chen tshe brtan,11790,,87,2022-07-13 15:28:48,342,2022-07-13 15:49:33
+919,"578,47,969,568",,dpal ldan chos dbang /,dpal ldan chos dbang /,13726,,87,2022-07-13 17:02:01,342,2022-07-13 17:02:01
+920,"70,126,145,289",,Ngawang Jampel Rinchen,ngag dbang 'jam dpal rin chen,13699,,122,2022-09-07 18:44:51,342,2022-09-07 18:44:51
+921,"284,124,359,315",,"The Thirteenth Dalai Lama, Tubten Gyatso",ta la'i bla ma 13 thub bstan rgya mtsho,3307,,122,2022-09-07 18:45:02,342,2022-09-07 18:45:02
+922,"369,123,451,301",,Shatra Peljor Dorje,bshad sgra dpal 'byor rdo rje,9301,,122,2022-09-07 18:47:03,342,2022-09-07 18:47:03
+923,"447,115,498,302",,zhol khang don grub phun tshogs,zhol khang don grub phun tshogs,8706,,122,2022-09-07 18:47:59,342,2022-09-07 18:47:59
+924,"981,458,871,012",,"The Tenth Paṇchen Lama, phrin las lhun grub chos kyi   rgyal mtshan",paN chen bla ma 10 phrin las lhun grub chos kyi   rgyal mtshan,2953,,123,2022-09-07 19:04:58,342,2022-09-07 19:04:58
+925,"114,016,420,841,290",,"The Nineteenth Bakula, Ngawang Lobzang Thubstan Choknor",ba ku la 19 ngag dbang blo bzang thub bstan mchog nor,13652,,123,2022-09-07 19:05:14,342,2022-09-07 19:05:14
+926,"218,58,319,235",,Tsarong Pema Dolkar,tsha rong pad+ma sgrol dkar,13625,,124,2022-09-07 19:16:50,342,2022-09-07 19:16:50
+927,"46,28,178,193",,Tsarong Dasang Damdul,tsha rong zla bzang dgra 'dul,7929,,124,2022-09-07 19:16:59,342,2022-09-07 19:16:59
+932,"228,664,428,072,194",,Dorje Sengge,rdo rje seng ge,13700,,125,2022-09-07 19:52:16,342,2022-09-07 19:54:36
+933,"2,202,161,016,222,260",,Jigme Tsewang Dudul,jigs med tshe dbang bdud 'dul,11290,,125,2022-09-07 19:53:38,342,2022-09-07 19:53:38
+934,"9,581,040,219,326",,"The Sixteenth Karmapa, Rangjung Rigpai Dorje",karma pa 16 rang byung rig pa'i rdo rje,11385,,126,2023-01-10 15:29:29,342,2023-01-10 15:29:29
+935,"6,610,433,431,728",,"The Second Jamgon Kongrul, Khyentse Wozer",jam mgon kong sprul 02 mkhyen brtse 'od zer,12169,,126,2023-01-10 15:30:28,342,2023-01-10 15:30:28
+936,"114,616,988,311,054",,"The First Beru Khyentse, Karma Jamyang Khyentse Wozer",be ru mkhyen brtse 01 karma 'jam dbyangs mkhyen   brtse'i 'od zer,12104,,126,2023-01-10 15:31:20,342,2023-01-10 15:31:20
+939,"33,219,468,381,432",,Tenth Zurmang Tentrul,zur mang bstan sprul 10,,,126,2023-01-10 15:44:04,342,2023-01-10 15:44:04
+940,"704,414,1120,34",,Sanggye Yeshe,sangs rgyas ye shes,12521,,127,2023-01-18 15:29:46,342,2023-01-18 15:29:46
+941,"784,1491,24,586",,"The Fourth Paṇchen Lama, Lobzang Chokyi Gyeltsen",paN chen bla ma 04 blo bzang chos kyi rgyal mtshan,9839,,127,2023-01-18 15:30:08,342,2023-01-18 15:30:08
+944,"180,180,334,422",,"The Sixth Tseten Zhabdrung, Jigme Rigpai Lodro",tshe tan zhabs drung 06 'jigs med rigs pa'i blo gros,2948,,128,2023-05-25 15:47:02,342,2023-05-25 15:47:02
+945,"315,187,483,364",,Sungrab Gyatso,gsung rab rgya mtsho,2945,,128,2023-05-25 15:47:09,342,2023-05-25 15:47:09
+946,"1423,1156,1759,1508",,thod smyon la ston,thod smyon la ston,5648,,101,2023-05-30 14:21:00,342,2023-05-30 14:21:00
+953,"716,107,513,022,095",,Lama Gyurdrak,bla ma 'gyur grags,13811,,130,2024-01-09 22:51:40,342,2024-01-09 22:51:40
+954,"169,376,881,695",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,130,2024-01-09 22:51:56,342,2024-01-09 22:51:56
+955,"87,46,185,159",,Padmasambhava,pad+ma 'byung gnas,7442,,131,2024-01-25 23:13:26,342,2024-01-25 23:13:26
+956,"339,30,432,135",,Gampopa Sonam Rinchen,sgam po pa bsod nams rin chen,3168,,131,2024-01-25 23:13:52,342,2024-01-25 23:13:52
+957,"524,22,438,134",,Rechungpa Dorje Drakpa,ras chung pa rdo rje grags pa,6699,,131,2024-01-25 23:15:00,342,2024-01-25 23:15:00
+958,"763,20,867,125",,Tipupa,ti phu pa,13565,,131,2024-01-25 23:15:42,342,2024-01-25 23:15:42
+959,"864,17,972,124",,Milarepa,mi la ras pa,3178,,131,2024-01-25 23:16:00,342,2024-01-25 23:16:00
+960,"12,431,231,148,258",,Padampa Sanggye,pha dam pa sangs rgyas,2510,,131,2024-01-25 23:16:57,342,2024-01-25 23:16:57
+961,"748,241,850,111",,rin chen dpal bzang,rin chen dpal bzang,8765,,131,2024-01-25 23:20:55,342,2024-01-25 23:20:55
+962,"753,171,653,289",,Yanggonpa Gyeltsen Pel,yang dgon pa rgyal mtshan dpal,7775,,131,2024-01-25 23:22:04,342,2024-01-25 23:22:04
+963,"455,135,549,238",,Barawa Gyeltsen Pelzang,ba' ra ba rgyal mtshan dpal bzang,3266,,131,2024-01-25 23:22:56,342,2024-01-25 23:22:56
+964,"402,235,303,365",,Konchok Gyeltsen,dkon mchog rgyal mtshan,9761,,131,2024-01-25 23:24:54,342,2024-01-25 23:24:54
+965,"337,329,445,454",,"The Third Kagyu Tulku, Ngawang Chokyi Gyatso",bka' brgyud sprul sku 03 ngag dbang chos kyi rgya mtsho,9764,,131,2024-01-25 23:27:52,342,2024-01-25 23:27:52
+966,"242,135,157,275",,Yeshe Tsogyel,ye shes mtsho rgyal,10373,,131,2024-01-25 23:49:03,342,2024-01-25 23:49:03
+967,"130,150,33,274",,Mandāravā,lha lcam man+dA ra bA,9,,131,2024-01-25 23:49:20,342,2024-01-25 23:49:20
+968,"1061,13,960,128",,Pakmodrupa Dorje Gyelpo,phag mo gru pa rdo rje rgyal po,2539,,131,2024-01-26 0:16:09,342,2024-01-26 0:16:09
+969,"225,38,330,129",,Jikten Gonpo Rinchen Pel,jig rten mgon po rin chen dpal,2899,,131,2024-01-28 16:37:56,342,2024-01-28 16:37:56
+970,"526,30,628,121",,Sachen Kunga Nyingpo,sa chen kun dga' snying po,2916,,131,2024-01-28 16:41:03,342,2024-01-28 16:41:03
+971,"1058,20,1175,116",,Chennga Drakpa Jungne,spyan snga grags pa 'byung gnas,2595,,131,2024-01-28 16:44:13,342,2024-01-28 16:44:13
+972,"258,135,357,239",,bsod nams bzang po,bsod nams bzang po,12624,,131,2024-01-28 16:46:34,342,2024-01-28 16:46:34
+973,"454,135,362,232",,rin chen tshul khrims,rin chen tshul khrims,3512,,131,2024-01-28 16:48:00,342,2024-01-28 16:48:00
+974,"550,131,638,226",,rin chen ldan,rin chen ldan,4158,,131,2024-01-28 16:49:37,342,2024-01-28 16:49:37
+975,"10,531,111,146,225",,nam mkha' rgyal mtshan,nam mkha' rgyal mtshan,7218,,131,2024-01-28 17:00:54,342,2024-01-28 17:00:54
+976,"490,224,413,326",,nam mkha' rgyal po,nam mkha' rgyal po,9759,,131,2024-01-28 17:06:48,342,2024-01-28 17:06:48
+977,"583,221,511,324",,nam mkha' rdo rje,nam mkha' rdo rje,8772,,131,2024-01-28 17:11:40,342,2024-01-28 17:11:40
+978,"805,226,889,327",,nam mkha' dpal 'byor,nam mkha' dpal 'byor,3443,,131,2024-01-28 17:15:47,342,2024-01-28 17:15:47
+979,"915,214,987,319",,karma gsal byed,ka.rma gsal byed,9760,,131,2024-01-28 17:16:41,342,2024-01-28 17:16:41
+980,"9,992,151,087,325",,rin chen bstan pa'i gsal byed,rin chen bstan pa'i gsal byed,12255,,131,2024-01-28 17:18:06,342,2024-01-28 17:18:06
+981,"427,377,516,493",,"The Fourth Kagyu Tulku, Kelzang Choying Gyatso",bka' brgyud sprul sku 04 skal bzang chos dbyings rgya mtsho,13856,,131,2024-01-28 17:23:01,342,2024-01-28 17:23:01
+982,"608,432,511,322",,ngag dbang chos grags rgya   mtsho,ngag dbang chos grags rgya   mtsho,11070,,131,2024-01-28 17:24:53,342,2024-01-28 17:24:53
+983,"801,319,888,453",,karma dpal ldan,ka.rma dpal ldan,9762,,131,2024-01-28 18:13:41,342,2024-01-28 18:13:41
+984,"9,603,151,046,452",,chos dbyings rdo rje,chos dbyings rdo rje,8745,,131,2024-01-28 18:15:28,342,2024-01-28 18:15:28
+985,"12,581,281,360,257",,Machik Labdron,ma cig lab sgron,5644,,131,2024-01-28 19:07:19,342,2024-01-28 19:07:19
+986,"797,276,700,417",,ngag dbang ye shes,ngag dbang ye shes,8439,,131,2024-02-01 19:19:38,342,2024-02-01 19:19:38
+987,"846,129,940,228",,Sanggye Gyeltsen,sangs rgyas rgyel mtshan,13870,,131,2024-02-05 18:20:58,2,2024-02-05 18:20:58
+988,"27,25,147,169",,Dawa Zhonnu,zla ba gzhon nu/,13775,,132,2024-02-06 21:36:25,2,2024-02-06 21:36:25
+989,"205,113,327,230",,bal po'i paNDi ta pe nya ba,bal po'i paNDi ta pe nya ba,1114,,132,2024-02-06 21:38:27,2,2024-02-06 21:38:27
+990,"84,117,200,255",,Jñyānabhadra,ye shes bzang po,1113,,132,2024-02-06 21:40:17,2,2024-02-06 21:40:17
+991,"414,339,313,191",,Jangsem Dawa Gyeltsen,byang sems zla ba rgyal mtshan,2918,,132,2024-02-06 21:41:44,2,2024-02-06 21:41:44
+992,"143,170,251,298",,Nyipukpa Chokyi Drakpa,chos grags,13871,,132,2024-02-06 21:44:47,2,2024-02-06 21:44:47
+993,"226,197,326,339",,dgra 'jigs,dgra 'jigs,6883,,132,2024-02-06 21:48:33,2,2024-02-06 21:48:33
+994,"271,291,375,438",,byang chub 'bar,byang chub 'bar,6437,,132,2024-02-06 21:50:22,2,2024-02-06 21:50:22
+995,"214,584,98,433",,Gyelse Tokme Zangpo,rgyal sras thogs med bzang po,3153,,132,2024-02-06 22:02:14,2,2024-02-06 22:02:14
+996,"306,523,200,382",,sher 'bum,sher 'bum,6103,,132,2024-02-06 22:04:07,2,2024-02-06 22:04:07
+997,"1058,51,1208,206",,Gelongma Pelmo,dge slong ma dpal mo,13773,,132,2024-02-06 22:07:43,2,2024-02-06 22:07:43
+998,"9,333,701,050,216",,blo bzang dam chos rgyal mtshan,blo bzang dam chos rgyal mtshan,2333,,132,2024-02-07 15:29:41,2,2024-02-07 15:29:41
+999,"10,585,821,176,425",,"The Seventh Dalai Lama, Kelzang Gyatso",ta la'i bla ma 07 skal bzang rgya mtsho,3107,,132,2024-02-07 15:40:02,2,2024-02-07 15:40:02
+1000,"1192,54,1307,182",,"The Third Paṇchen Lama, Wensapa Lobzang Dondrub",paN chen bla ma 03 dben sa pa blo bzang don grub,13026,,132,2024-02-07 16:14:22,2,2024-02-07 16:14:22
+1001,"860,344,726,181",,Tsongkhapa Lobzang Drakpa,tsong kha pa blo bzang grags pa,8986,,132,2024-02-07 16:36:58,2,2024-02-07 16:36:58
+1002,"12,615,051,144,360",,"The Sixth Paṇchen Lama, dpal ldan ye shes",paN chen bla ma 06 dpal ldan ye shes,2985,,132,2024-02-07 16:38:07,2,2024-02-07 16:38:07
+1003,"10,372,251,138,370",,"The Fifth Paṇchen Lama, Lobzang Yeshe",paN chen bla ma 05 blo bzang ye shes,2180,,132,2024-02-07 16:39:32,2,2024-02-07 16:39:32
+1004,"1,124,258,983,116",,dkon mchog rgyal mtshan,dkon mchog rgyal mtshan,1553,,132,2024-02-07 16:43:58,2,2024-02-07 16:43:58
+1005,"9,714,831,084,327",,blo bzang 'phrin las,blo bzang 'phrin las,3829,,132,2024-02-07 16:47:20,2,2024-02-07 16:47:20
+1006,"10,694,661,189,320",,blo bzang rnam rgyal,blo bzang rnam rgyal,2291,,132,2024-02-07 16:54:32,2,2024-02-07 16:54:32
+1007,"508,321,378,152",,Dudjom Rinpoche Jigdrel Yeshe Dorje,bdud 'joms rin po che 'jigs bral ye shes rdo rje,10019,,134,2024-02-13 20:25:34,2,2024-02-13 20:26:52
+1008,"79,190,184,386",,"The Eleventh Minling Trichen, Kunzang Wanggyel",smin gling khri chen 11 kun bzang dbang rgyal,10177,,134,2024-02-13 20:27:04,2,2024-02-13 20:27:04
+1009,"576,141,632,216",,Kangyur Rinpoche Longchen Yeshe Dorje,bka' 'gyur rin po che klong chen ye shes rdo rje,10001,,134,2024-02-13 20:27:59,2,2024-02-13 20:27:59
+1010,"542,185,475,265",,Polu Khenpo Dorje,spo lu mkhan po rdo rje,12982,,134,2024-02-13 20:37:28,2,2024-02-13 20:37:28
+1011,"277,313,198,226",,Chagdud Tulku Pema Gargyi Wangchuk,lcags mdud sprul sku pad+ma gar gyi dbang phyug,12981,,134,2024-02-13 20:38:04,2,2024-02-13 20:38:04
+1012,"383,49,439,141",,Golok Serta Rinpoche Pema Lungtok Gyatso,mgo log gser rta rin po che pad+ma lung rtogs rgya mtsho,9968,,134,2024-02-13 20:39:46,2,2024-02-13 20:39:46
+1013,"384,284,317,209",,Taklung Tsetrul Rinpoche Trinle Nyinje Wangpo,stag lung rtse sprul rin po che phrin las nyin byed bzang po,12983,,134,2024-02-13 20:41:50,2,2024-02-13 20:41:50
+1015,"701,189,824,371",,Trulzhik Rinpoche Ngawang Chokyi Lodro,khrul zhig rin po che ngag dbang chos kyi blo gros,8836,,134,2024-02-13 20:45:34,2,2024-02-13 20:45:34
+1016,"639,155,983,182",,thub bstan nor bzang,thub bstan nor bzang,11958,,133,2024-02-15 13:53:22,342,2024-02-15 13:53:22
+1017,"554,192,253,220",,blo bzang dpal ldan bstan 'dzin   yar rgyas,blo bzang dpal ldan bstan 'dzin   yar rgyas,4126,,133,2024-02-15 13:54:35,342,2024-02-15 13:54:35
+1018,"567,187,822,217",,Dudjom Rinpoche Jigdrel Yeshe Dorje,bdud 'joms rin po che 'jigs bral ye shes rdo rje,10019,,133,2024-02-15 13:54:50,342,2024-02-15 13:54:50
+1019,"822,183,985,215",,jam dbyangs kun dga' bstan pa'i rgyal mtshan,jam dbyangs kun dga' bstan pa'i rgyal mtshan,13252,,133,2024-02-15 13:57:24,342,2024-02-15 13:57:24
+1020,"370,224,655,251",,Rato Khyongla Rinpoche Ngawang Lobsang Shedrub Tenpai Dronme,rwa stod skyong la rin po che bshad sgrub bstan pa'i sgron me,13831,,133,2024-02-15 13:57:41,342,2024-02-15 13:57:41
+1021,"650,355,403,322",,Kundeling Wozer Gyeltsen,kun bde gling 'od zer rgyal mtshan/,13876,,133,2024-02-15 14:00:13,342,2024-02-15 14:00:13
+1022,"791,317,994,352",,"The Fourteenth Dalai Lama, Tenzin Gyatso",ta la'i bla ma 14 bstan 'dzin rgya mtsho,13576,,133,2024-02-15 14:00:31,342,2024-02-15 14:00:31
+1023,"542,269,863,301",,Lobsang Phuntsok Lhalungpa,blo bzang phun tshogs lha lung pa,13628,,133,2024-02-15 14:00:45,342,2024-02-15 14:00:45
+1025,"59,63,122,132",,Lingrepa Pema Dorje,gling ras pa pad+ma rdo rje,11877,,43,2024-04-05 17:28:28,342,2024-04-05 17:28:28
+1026,"549,66,610,130",,"The First Drukchen, Tsangpa Gyare Yeshe Dorje",brug chen 01 gtsang pa rgya ras ye shes rdo rje,11865,,43,2024-04-05 17:28:44,342,2024-04-05 17:28:44
+1032,"289,368,97,97",,Pema Ledrel Tsel,pad+ma las 'brel rtsal,10301,,136,2024-04-08 13:34:10,342,2024-04-08 13:34:10
+1033,"275,76,454,327",,zhang khrom,zhang khrom,10082,,136,2024-04-08 13:35:39,342,2024-04-08 13:35:39
+1036,"11,721,001,350,368",,"The Tenth Situ, Pema Kunzang",si tu 10 pad+ma kun bzang,2672,,136,2024-04-08 13:36:38,342,2024-04-08 13:36:38
+1037,"493,149,704,346",,Padmasambhava,pad+ma 'byung gnas,7442,,136,2024-04-08 13:49:49,342,2024-04-08 13:49:49
+1038,"1006,68,1177,320",,"The Third Dorje Drak Rigdzin, Ngakgi Wangpo",rdo rje brag rig 'dzin 03 ngag gi dbang po,8975,,136,2024-04-08 13:54:52,342,2024-04-08 13:54:52
+1041,"207,815,133,816,479",37,Sera Monastery,se ra,,,67,2024-04-16 20:42:42,342,2024-04-16 20:42:52

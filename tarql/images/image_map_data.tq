@@ -1,0 +1,78 @@
+PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
+PREFIX bdr: <http://purl.bdrc.io/resource/>
+PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX told: <https://w3id.org/treasuryoflives/ns/data/tol/>
+PREFIX tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/>
+PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
+PREFIX wiki: <https://www.wikidata.org/wiki/>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+## Columns
+# painting_map_id
+# coordinates
+# tol_place_id
+# default_name
+# wylie_name
+# person_id
+# biography_id (all blank - ignore)
+# painting_id
+# create_date
+# last_modified_user_id
+# last_modified_date
+
+# Run:
+# tarql -e utf-8 image_map_data.tq painting-map-8-5-24.csv > tolImageMapData.ttl
+
+CONSTRUCT {
+
+    ?image_iri 
+        gist:hasDirectPart ?image_part_iri .
+
+    ?image_part_iri
+        a gist:FormattedContent ;       
+        skos:prefLabel 
+            ?label_en ,
+            ?label_wylie ;
+        tolo:coordinates ?coordinates ;
+        gist:isAbout 
+            ?person_iri ,
+            ?place_iri ;
+
+        # Editing metadata
+        tolo:createDateTime ?create_datetime ;
+        tolo:isLastModifiedBy ?last_modified_by_iri ;
+        tolo:lastModifiedDateTime ?last_modified_datetime ;
+    .
+}
+
+WHERE {
+
+    # Testing
+    # FILTER(?ROWNUM = 1)
+
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_map_id)) AS ?image_part_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_id)) AS ?image_iri)
+
+    BIND(STRLANG(?default_name, "en") AS ?label_en)
+    BIND(STRLANG(?wylie_name, "bo-x-ewts") AS ?label_wylie)  
+
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?place_id)) AS ?place_iri)
+
+    # Editing metadata
+    BIND(REPLACE(REPLACE(?create_date, " ", "T"), "T(\\d):", "T0$1:") AS ?create_date_clean)
+    BIND(STRDT(?create_date_clean, xsd:dateTime) AS ?create_datetime)
+
+    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?last_modified_by_iri)
+    BIND(REPLACE(REPLACE(?last_modified_date, " ", "T"), "T(\\d):", "T0$1:") AS ?last_modified_date_clean)
+    BIND(STRDT(?last_modified_date_clean, xsd:dateTime) AS ?last_modified_datetime)
+}
