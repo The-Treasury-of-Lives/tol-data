@@ -43,12 +43,12 @@ CONSTRUCT {
         gist:isCategorizedBy ?rank_iri ;
         tolo:credit ?credit ;
         tolo:caption ?caption_en ;
-        rdfs:seeAlso ?har_reference_iri ;
+        gist:isIdentifiedBy ?har_number_iri ;
 
         # File metadata
         tolo:fileName ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isCategorizedBy ?file_media_type_iri ;
+        gist:isExpressedIn ?file_media_type_iri ;
 
         # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
@@ -59,16 +59,17 @@ CONSTRUCT {
 
     ?thumbnail_iri 
         a gist:FormattedContent ;
+        skos:prefLabel ?image_label_en ;
         tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?thumb_media_type_iri ;
         .
 
-    ?har_reference_iri
-        a tolo:Reference ;
-        gist:isCategorizedBy tolx:_ReferenceType_har ;
-        tolo:url ?har_url ;
+    ?har_number_iri
+        a gist:ID ;
+        skos:prefLabel ?har_label ;
+        gist:isCategorizedBy tolx:_IdType_har ;
+        gist:idText ?har_number ;
         .
-
 }
 
 WHERE {
@@ -79,9 +80,6 @@ WHERE {
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_iri)
-    # Add explicit datatype so serializer doesn't add language tag.
-    # Doesn't work.
-    # BIND(STRDT(?image_file_name, xsd:string) AS ?image_file_name_str)
 
     # Main image media type
     BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
@@ -95,9 +93,7 @@ WHERE {
     # Thumbnail
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_name)
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?thumb_name)) AS ?thumbnail_iri)
-    # Add explicit datatype so serializer doesn't add language tag.
-    # Doesn't work.
-    # BIND(STRDT(?thumb_file_name, xsd:string) AS ?thumb_file_name_str)
+
     # Not sure whether we can assume the thumbnail always has the same media type as the main image.
     BIND(LCASE(REPLACE(?thumb_file_name, "^.+\\.", "")) AS ?thumb_file_ext)
     BIND(
@@ -111,9 +107,9 @@ WHERE {
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
 
-    # HAR URL
-    BIND(IF(BOUND(?har_number), tarql:expandPrefixedName(CONCAT("told:_Reference_har_", ?har_number)), ?unbound) AS ?har_reference_iri)
-    BIND(IF(BOUND(?har_reference_iri), STRDT(?har_number, xsd:anyURI), ?unbound) AS ?har_url)
+    # HAR number
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_number)) AS ?har_number_iri)
+    BIND(CONCAT("HAR Item Number ", ?har_number) AS ?har_label)
 
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
 
@@ -123,7 +119,7 @@ WHERE {
     BIND(IF(?caption != "NULL", STRLANG(?caption, "en"), ?unbound) AS ?caption_en)
 
     # Editing metadata
-    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
 
     BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
     BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
@@ -131,7 +127,7 @@ WHERE {
     BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
     
     # If no modification date/user, use creation date/user.
-    BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
+    BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
 
     BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
     BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
