@@ -40,7 +40,7 @@ CONSTRUCT {
         tolo:sourceUrl ?source_url ;
         tolo:creationDate ?creation_date ;
         tolo:filePath ?image_path ;
-        gist:isCategorizedBy ?media_type_iri ;
+        gist:isExpressedIn ?media_type_iri ;
         .
 
 }

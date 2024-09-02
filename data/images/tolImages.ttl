@@ -1,0 +1,3918 @@
+@prefix bdo: <http://purl.bdrc.io/ontology/core/> .
+@prefix bdr: <http://purl.bdrc.io/resource/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gist: <https://w3id.org/semanticarts/ns/ontology/gist/> .
+@prefix media-image: <https://www.iana.org/assignments/media-types/image/> .
+@prefix media-txt: <https://www.iana.org/assignments/media-types/text/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix told: <https://w3id.org/treasuryoflives/ns/data/tol/> .
+@prefix tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/> .
+@prefix tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+told:_FormattedContent_01047
+	a gist:FormattedContent ;
+	skos:prefLabel "Three Sisters"@en ;
+	gist:description '''<p>
+	The Three Sisters were Indian deities brought into the Tibetan pantheon initially in the eleventh century by the Sakya translator <a href="/biographies/view/Bari-Lotsawa-Rinchen-Drak/TBRC_p3731">Bari Lotsawa Rinchen Drak</a> and later through treasure revelation.</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_1047 ;
+	tolo:createDateTime "2017-06-13T10:10:32"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Shelley and Donald Rubin Collection</p>"""@en ;
+	tolo:fileName "01047.JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_01047_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-06-13T12:12:00"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_1034
+	a gist:FormattedContent ;
+	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
+	gist:description """<p>
+	This sixteenth century painting shows the Drigung founder, Jikten Gonpo, with two men who stood at the beginning of the two main incarnation lines at monastery, the Drigung Chetsang and the Drigung Chungtsang.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_42
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_1034 ;
+	tolo:createDateTime "2014-02-14T07:48:04"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "1034.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_1034_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T10:52:58"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_1066_godemchen
+	a gist:FormattedContent ;
+	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
+	gist:description """<p>
+	A nineteenth century painting featuring the First Dorje Drak Rigdzin, Rigdzin Godemchen Ngodrub Gyeltsen, a Nyingma treasure revealer who discovered the Jangter, or Northern Treasures.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_53 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_1066 ;
+	tolo:createDateTime "2016-06-13T16:00:42"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "1066-godemchen.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_1066_godemchen_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-06-13T16:21:29"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_160_padma_and_nyangrel
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:description """<p>
+	An early image of Padmasambhava with Nyangrel Nyima Ozer and masters of various traditions, including Padampa Sanggye.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_160 ;
+	tolo:createDateTime "2013-05-02T18:13:49"^^xsd:dateTime ;
+	tolo:credit "Shelley and Donald Rubin"@en ;
+	tolo:fileName "160.Padma and Nyangrel.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_160_padma_and_nyangrel_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:10:55"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_1997_305_print
+	a gist:FormattedContent ;
+	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
+	gist:description """<p>
+	This eighteenth century painting of a Bodhisattva depicts Atiśa and Kadam founder Dromton on the top (left and right). Tara and Jambala are pictured along the bottom. Dromton is considered an emanation of Padmapani Avalokiteśvara, who is the central figure in this image according to some sources. However, the presence of a sword and book suggests that the central figure is Mañjuśrī.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_70 ,
+		told:_Tradition_4
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_59247 ;
+	tolo:createDateTime "2019-04-23T18:26:17"^^xsd:dateTime ;
+	tolo:credit """<p>
+	The Cleveland Museum of Art, Bequest of Lillian M. Kern</p>
+<p>
+	1997.305</p>"""@en ;
+	tolo:fileName "1997.305_print.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_1997_305_print_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-04-24T14:16:18"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_2000_67_print
+	a gist:FormattedContent ;
+	skos:prefLabel "Preaching Śākyamuni"@en ;
+	gist:description """<p>
+	This prayer card dating to around the year 1000 is from Toling in Western Tibet. It depicts&nbsp;Śākyamuni Buddha in a preaching posture.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_41 ,
+		told:_Tradition_4
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_59217 ;
+	tolo:createDateTime "2019-11-15T16:01:02"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Cleveland Museum of Art</p>"""@en ;
+	tolo:fileName "2000.67_print.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_2000_67_print_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-11-15T16:08:18"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_285_padmasambhava
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:description """<p>
+	The style of this painting is known as <em>tshal thang</em>, a red background with fine gold lines forming the shapes of the subject deities. Only the eyes are filled with white and black pigments.</p>"""@en ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_285 ;
+	tolo:createDateTime "2012-04-04T20:05:53"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "285 Padmasambhava.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_285_padmasambhava_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:30:05"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_362
+	a gist:FormattedContent ;
+	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
+	gist:description """<p>
+	Eighteenth century thangka of Drukpa Kagyu and Kagyu lineage masters.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_40
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_362 ;
+	tolo:createDateTime "2016-05-20T16:38:30"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "362.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_362_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-03T17:26:55"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_376_puchungwa
+	a gist:FormattedContent ;
+	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
+	gist:description """<p>
+	An eighteenth century painting of Puchungwa Zhonnu Gyeltsen with Rinchen Zangpo.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_27 ,
+		told:_Tradition_4
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_376 ;
+	tolo:createDateTime "2016-06-13T16:30:08"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "376-puchungwa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_376_puchungwa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-06-13T16:41:41"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_380_seventh_dl
+	a gist:FormattedContent ;
+	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
+	gist:description """<p>
+	The Seventh Dalai Lama, Kelzang Gyatso, along with a selection of the previous incarnations according to the <em>Kadam Lekbam</em>.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_380 ;
+	tolo:createDateTime "2011-12-14T17:16:45"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "380.Seventh DL.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_380_seventh_dl_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:10:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_410_tsongkhapa
+	a gist:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:description """<p>
+	A very early -- possibly the earliest known -- portrait of Tsongkhapa narrating his life story.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_57 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_410 ;
+	tolo:createDateTime "2011-09-24T01:30:02"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "410 Tsongkhapa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_410_tsongkhapa_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:03:00"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_412
+	a gist:FormattedContent ;
+	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
+	gist:description """<p>
+	Wangdu Nyinpo was the Twenty-ninth Sakya Tridzin. This painting gives visual representation to his previous incarnations, which include Padmasambhava, and some of his disciples.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_412 ;
+	tolo:createDateTime "2014-02-12T09:01:08"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "412.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_412_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:12:44"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_413_padmasambhava
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
+	gist:description """<p>
+	This late eighteenth or early twentieth century Drigung Kagyu painting of Padmasambhava and the Drigung Kagyu refuge field is associated with a terma tradition of Rinchen Puntsok. Drigung Monastery is pictured along the bottom of the painting along with Terdrom on the left edge. A nearby treasure site is shown adjacent to Terdrom.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_76 ,
+		told:_Tradition_42
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_413 ;
+	tolo:createDateTime "2016-06-13T17:00:09"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "413-padmasambhava.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_413_padmasambhava_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-07-14T11:57:23"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_508
+	a gist:FormattedContent ;
+	skos:prefLabel "Early Karmapa with footprints"@en ;
+	gist:description """<p>
+	The footprints of an early Karmapa, probably the first, Dusum Khyenpa, together with a portrait and the eight auspicious symbols.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_48 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_508 ;
+	tolo:createDateTime "2011-07-28T15:45:39"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "508.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_508_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:46:52"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_580
+	a gist:FormattedContent ;
+	skos:prefLabel "Drakpa Gyeltsen and Sakya Pandita"@en ;
+	gist:description """<p>
+	Drakpa Gyeltsen and Sakya Pandita, uncle and nephew, teacher and student surrounded by the lineage Kings of Shambhala. This composition belongs to a larger set of paintings depicting the Lamdre Lineage of the Sakya Tradition in a two figure per composition configuration.</p>"""@en ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_580 ;
+	tolo:createDateTime "2011-07-28T15:48:56"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "580.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_580_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:29:27"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_62_rubin_dalai_lama_c2003_9_2_image_only
+	a gist:FormattedContent ;
+	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
+	gist:description """<p>
+	An eighteenth century painting of The Fifth Dalai Lama pictured with major scenes from his life.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65275 ;
+	tolo:createDateTime "2016-08-29T17:02:24"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>
+<p>
+	C2003.9.2</p>
+<p>
+	(HAR 65275)</p>
+<p>
+	Tibet; 18<sup>th</sup>&nbsp;century</p>
+<p>
+	Pigments on cloth<br />
+	&nbsp;</p>
+<p>
+	&nbsp;</p>"""@en ;
+	tolo:fileName "62 Rubin Dalai Lama C2003.9.2 image only.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_62_rubin_dalai_lama_c2003_9_2_image_only_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-09-06T15:43:44"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65094
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
+	gist:description """<p>
+	A nineteenth century painting of Padmasambhava as Pema Jungne depicts his disciple Sokpo Pelgyi Yeshe in the lower left corner.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65094 ;
+	tolo:createDateTime "2018-01-24T19:17:30"^^xsd:dateTime ;
+	tolo:credit "<p> Rubin Museum of Art</p><p> C2002.19.1</p>"@en ;
+	tolo:fileName "65094.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65094_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-01-24T20:00:40"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65119_pakmodrupa
+	a gist:FormattedContent ;
+	skos:prefLabel "Pakmodrupa"@en ;
+	gist:description """<p>
+	Pakmodrupa Dorje Gyelpo, one of the three principal students of Gampopa.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_53 ,
+		told:_Tradition_45
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65119 ;
+	tolo:createDateTime "2012-04-04T18:50:03"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "65119.Pakmodrupa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65119_pakmodrupa_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_233 ;
+	tolo:lastModifiedDateTime "2016-03-21T13:31:35"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65193
+	a gist:FormattedContent ;
+	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
+	gist:description """<p>
+	This eighteenth century painting of Namkha Pelzang, the twelfth abbot of Ralung Monastery, belongs to a set of Ralung patriarchs. Two other paintings belonging to the set can be seen on Himalayan Art Resources.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_40
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65193 ;
+	tolo:createDateTime "2013-05-16T14:44:23"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "65193.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65193_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:11:47"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65205
+	a gist:FormattedContent ;
+	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel."@en ;
+	gist:description """<p>
+	Chakrasamvara, Sahaja Heruka, with the footprints of Drigungpa Rinchen Pel.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_42
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65205 ;
+	tolo:createDateTime "2011-07-28T15:55:55"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "65205.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65205_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:26:43"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65249
+	a gist:FormattedContent ;
+	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
+	gist:description """<p>
+	Nineteenth century painting of the Drukpa Kagyu lineage of Bhutan.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_40
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65249 ;
+	tolo:createDateTime "2016-05-20T12:46:17"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "65249.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65249_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-10-28T11:39:04"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65401
+	a gist:FormattedContent ;
+	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
+	gist:description """<p>
+	Nineteenth century portrait of the Bon master Drenpa Namkha surrounded by deities and lineage masters.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_72
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65401 ;
+	tolo:createDateTime "2016-05-20T11:05:41"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "65401.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65401_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T11:50:46"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65461
+	a gist:FormattedContent ;
+	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
+	gist:description """<p>
+	Pakmodrupa Dorje Gyelpo. One of the three principal students of Gampopa and teacher to many patriarchs of Kagyu sub-traditions.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_45
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65461 ;
+	tolo:createDateTime "2011-07-29T16:49:41"^^xsd:dateTime ;
+	tolo:fileName "65461.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65461_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T10:15:19"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_65861_refuge_tree_smaller
+	a gist:FormattedContent ;
+	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
+	gist:description """<p>
+	Karma Kagyu Field of Accumulation painting with the Fifteenth Karmapa, Kakyab Dorje, as the last lineage holder at the time of the compositions creation.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_78 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65861 ;
+	tolo:createDateTime "2011-09-06T23:11:34"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "65861 refuge tree smaller.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_65861_refuge_tree_smaller_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:59:07"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_68480
+	a gist:FormattedContent ;
+	skos:prefLabel "Padampa Sanggye"@en ;
+	gist:description """<p>
+	An early statue of the twelfth century adept Padampa Sanggye</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_sculpture ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_37
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_68480 ;
+	tolo:createDateTime "2011-07-29T17:28:09"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Nyingje Lam</p>"""@en ;
+	tolo:fileName "68480.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_68480_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_233 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:56:42"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_68871
+	a gist:FormattedContent ;
+	skos:prefLabel "Karma Pakshi with lineage"@en ;
+	gist:description """<p>
+	A thirteenth-century portrait of the Second Karmapa, Karma Pakshi.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_68871 ;
+	tolo:createDateTime "2011-07-27T17:25:52"^^xsd:dateTime ;
+	tolo:fileName "68871.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_68871_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T10:14:49"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_89141
+	a gist:FormattedContent ;
+	skos:prefLabel
+		"Six Kagyu Teachers With Lineage"@en ,
+		"Six Kagyu Teachers with Lineage"@en
+		;
+	gist:description
+		"""<p>
+	An important early Kagyu painting, possibly the earliest known depiction of the First Karmapa. The lineage depicted is likely the Shri Saraha Hevajra that passed into Tibet through Zhang Yudrakpa.</p>"""@en ,
+		"<p>An unusual Kagyu lineage -- possibly the Shri Sahaja Hevajra -- painting, which includes one of the earliest known image of a Karmapa.</p>"@en
+		;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_53 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_89141 ;
+	tolo:createDateTime
+		"2011-07-11T15:17:36"^^xsd:dateTime ,
+		"2011-07-25T21:37:42"^^xsd:dateTime
+		;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "89141.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_89141_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy
+		told:_User_1 ,
+		told:_User_342
+		;
+	tolo:lastModifiedDateTime
+		"2011-07-24T23:47:34"^^xsd:dateTime ,
+		"2016-05-26T14:02:00"^^xsd:dateTime
+		;
+	.
+
+told:_FormattedContent_89957
+	a gist:FormattedContent ;
+	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
+	gist:description """<p>
+	A portrait of Taklung Tangpa Tashi Pel with the basic Kagyu lineage, dating to the thirteenth century.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_49 ,
+		told:_Tradition_45
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_89957 ;
+	tolo:createDateTime "2011-07-27T19:37:54"^^xsd:dateTime ;
+	tolo:fileName "89957.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_89957_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:28:06"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_Thumbnail_01047_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Three Sisters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "01047_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_1034_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "1034_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_1066_godemchen_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "1066-godemchen_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_160_padma_and_nyangrel_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "160.Padma and Nyangrel_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_1997_305_print_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "1997.305_print_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_2000_67_print_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Preaching Śākyamuni"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "2000.67_print_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_285_padmasambhava_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "285 Padmasambhava_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_362_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "362_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_376_puchungwa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "376-puchungwa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_380_seventh_dl_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "380.Seventh DL_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_410_tsongkhapa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "410 Tsongkhapa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_412_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "412_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_413_padmasambhava_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "413-padmasambhava_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_508_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Early Karmapa with footprints"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "508_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_580_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Drakpa Gyeltsen and Sakya Pandita"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "580_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_62_rubin_dalai_lama_c2003_9_2_image_only_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "62 Rubin Dalai Lama C2003.9.2 image only_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65094_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65094_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65119_pakmodrupa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Pakmodrupa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65119.Pakmodrupa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65193_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65193_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65205_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel."@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65205_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65249_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65249_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65401_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65401_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65461_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65461_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_65861_refuge_tree_smaller_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "65861 refuge tree smaller_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_68480_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padampa Sanggye"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "68480_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_68871_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Karma Pakshi with lineage"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "68871_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_89141_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel
+		"Six Kagyu Teachers With Lineage"@en ,
+		"Six Kagyu Teachers with Lineage"@en
+		;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "89141_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_89957_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "89957_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_atisa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Atiśa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "atisa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_avalokiteshvara_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "avalokiteshvara_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_avalokitesvarahar40_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "AvalokitesvaraHAR40_thumb.jpeg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_avalokitshvara_tsebumluk_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "avalokitshvara-tsebumluk_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_babyaustin_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "BabyAustin_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_bakula_panchen_ktm_1986_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "bakula-panchen-ktm-1986_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_barawa_refuge_field_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "barawa-refuge-field_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_bonpo_foundation_receipt_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Bonpo Foundation Receipt_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_c2009_4har65848_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "C2009.4HAR65848_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_courtesy_of_transhimalayan_heritage1_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen  Gelek"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Courtesy of TransHimalayan Heritage1_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_courtsey_of_shambhala_publications_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Courtsey of Shambhala Publications_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_delegationpicture_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tibetan Trade Delegation to the US and  UK, 1948"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "DelegationPicture_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_demoness_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "The Demoness of Tibet"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "demoness_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_do_khyentse_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "do-khyentse_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_dp_15583_020_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Jnanatapa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "DP-15583-020_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_dudjomrinpochekalimpong_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Dudjom Rinpoche with lamas in Kalimpong"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "DudjomRinpocheKalimpong_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_gampopa_karmapa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Gampopa and Karmapa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "gampopa-karmapa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_georges_lhalungpa_gyurdrak_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "georges-lhalungpa-gyurdrak_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har128_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR128_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har134_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR134_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har269_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Buddhashri"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR269_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har276_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR276_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har457_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Two Lineal Lamas"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR457_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har493_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sanggye Sengge"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR493_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har580_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR580_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har595_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR595_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har63_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Shangton Chobar"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR63_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har642_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Mahakala - Panjarnata"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR642_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har65232_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lhachok Sengge"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR65232_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har65789_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR65789_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har76_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR76_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har82_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Mahakala - Panjarnata"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR82_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har935_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR935_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har944_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR944_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har946_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Damarupa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR946_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_har96_nav_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sangye Sengge"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HAR96_nav_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_hastings_house_calcutta_1910_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Officials at Hastings House"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Hastings_House_Calcutta_1910_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_hhdl_letter_lhalungpa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "HHDL Letter Lhalungpa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_jatson_nyingpo_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Jatson Nyingpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "jatson-nyingpo_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_karmapa_10_avalokiteshvara_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Karmapa-10-Avalokiteshvara_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_khedrupje_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "khedrupje_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_khukpa_lhetse_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "khukpa-lhetse_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_kundeling_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "The Eighth Tatsak"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "kundeling_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lhagyarinamgyelgyatso1_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "LhagyariNamgyelGyatso1_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lhagyariwedding_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "LhagyariWedding_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lhalungpas_gene_smith_delhi_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lhalungpas in Delhi"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Lhalungpas-Gene-Smith-Delhi_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lhasa_perspective_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Lhasa perspective_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lo_gendun_sadutshang_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Lo Gendun Sadutshang_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_lowo_khenchen_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Lowo Khenchen_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_machig_57037_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Machik Labdron"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "machig-57037_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_machik_field_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "machik-field_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_machik_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Machik Labdron"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "machik_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_mahakala_drukpa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Mahakala with Four Hands"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "mahakala-drukpa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_meu_gyalpo_tsetan_zhabdrung_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "meu-gyalpo-tsetan-zhabdrung_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_milarepa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel
+		"Episodes from the Life of Milarepa"@en ,
+		"Milarepa"@en
+		;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "milarepa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_mustang_leaders_medium_res_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "1966 at Kalsang Phug HQ"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Mustang leaders (medium-res)_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_namkhai_nyingpo_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Namkhai Nyingpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "namkhai-nyingpo_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_padmasambhava_disciples_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "padmasambhava-disciples_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_padmasambhava_guru_drakpo_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "padmasambhava-guru-drakpo_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_padmasambhava_sengge_dradok_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Padmasambhava-Sengge-Dradok_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_padmasambhava_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "padmasambhava_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_panchenlama_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "PanchenLama_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_pehar_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Pehar Gyelpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "pehar_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_pemakarpo_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Pema Karpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "pemakarpo_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_11_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Yuthok Dorje Yudon"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (11)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_14_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (14)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_20_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo-20_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_22_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Group of Tibetan Army Officers"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (22)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_23_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Taring Women"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (23)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_7_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Yuthok Dorje Yudon"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (7)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_photo_9_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "photo (9)_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_r_sadutshang_with_taklha_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "R Sadutshang with Taklha_thumb.JPG"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_rahula_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Rahula and Retinue"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "rahula_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_rigdzinkunzangsherab_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "rigdzinkunzangsherab_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_rsz_1rsz_189141_smaller_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "rsz_1rsz_189141_smaller_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_sachen_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "sachen_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_sakya_settlement_receipt_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Sakya Settlement Receipt_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_sakyasribhadra_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Śākyaśrībhadra"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "sakyasribhadra_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_shakyamuni_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "shakyamuni_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_sheltonpage299_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Sheltonpage299_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_sixteenth_karmapa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Sixteenth-Karmapa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_st__josephs_letter_to_lhalungpa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "St. Josephs Letter to Lhalungpa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_terton_couple_with_khenpo_jigme_phuntsok_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "Terton Couple with Khenpo Jigme Phuntsok_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_thirdkarmapa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "thirdkarmapa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_tibetan_primer_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tibetan Primer"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "tibetan-primer_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_tsarongs_losar_1937_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "tsarongs-losar-1937_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_tsetenzhabdrung_subgrabgyatso_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tseten Zhabdrung and Sungrab Gyatso"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "tsetenzhabdrung-subgrabgyatso_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_tsongkhapa_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Shakyamuni Buddha"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "tsongkhapa_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_tsuklak_gyatso_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "tsuklak-gyatso_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_un_delegation_pic_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "UN Delegation pic_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_Thumbnail_vajrakila_thumb
+	a tolo:FormattedContent ;
+	skos:prefLabel "Vajrakila"@en ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:fileName "vajrakila_thumb.jpg"^^xsd:string ;
+	.
+
+told:_FormattedContent_atisa
+	a gist:FormattedContent ;
+	skos:prefLabel "Atiśa"@en ;
+	gist:description """<p>
+	This painting of Atiśa is from the early to mid twelfth century and features extensive inscriptions on the reverse side.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_45 ,
+		told:_Tradition_4
+		;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-05-02T14:58:50"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	The Metropolitan Museum of Art</p>
+<p>
+	Gift of Steven Kossak, The Kronos Collections, 1993</p>
+<p>
+	<a href="https://www.metmuseum.org/art/collection/search/38006" target="_blank">Accession Number:1993.479</a></p>'''@en ;
+	tolo:fileName "atisa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_atisa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-05-02T15:48:11"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_avalokiteshvara
+	a gist:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
+	gist:description """<p>
+	Avalokiteśvara Jinasagara&nbsp;is depicted at center with meditation deities immediately surrounding: Hayagrīva (left), Guhyajñāna (right), Siddharajni (center top), Mahākāla (center bottom). On the uppermost level is Milarepa on the left, Marpa in the center, and Gampopa on the right.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_696 ;
+	tolo:createDateTime "2018-01-16T15:39:56"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "avalokiteshvara.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_avalokiteshvara_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-01-18T15:59:00"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_avalokitesvarahar40
+	a gist:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
+	gist:description '''<p>
+	Avalokiteśvara with one thousand hands and eleven faces in the nyungne tradition of <a href="/biographies/view/Gelongma-Pelmo/TBRC_P4CZ10542">Gelongma Pelmo</a> with Geluk lineage teachers of <a href="/geographies/view/Tashilhunpo-Monastery/TBRC_G104">Tashilhunpo Monastery</a>.&nbsp;</p>
+<p>
+	Rubin Museum of Art, acc.# F1997.1.6</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_40 ;
+	tolo:createDateTime "2024-02-06T21:34:56"^^xsd:dateTime ;
+	tolo:fileName "AvalokitesvaraHAR40.jpeg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_avalokitesvarahar40_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-02-07T17:07:33"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_avalokitshvara_tsebumluk
+	a gist:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara"@en ;
+	gist:description """<div id=\"id_5f171b82bcc329f51625605\">
+	This sixteenth-century thangka&nbsp;of Avalokiteśvara depicts the teaching lineage named for&nbsp;<a href=\"https://treasuryoflives.org/biographies/view/Tsembupa/TBRC_P9999\">Tsembupa</a>&nbsp;known as&nbsp;'tshem bu lugs', one of the five great systems of Avalokiteśvara practice in Tibet. This system is well preserved in Geluk and Sakya traditions.</div>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_86433 ;
+	tolo:createDateTime "2020-07-21T16:49:38"^^xsd:dateTime ;
+	tolo:credit "Metropolitan Museum of Art"@en ;
+	tolo:fileName "avalokitshvara-tsebumluk.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_avalokitshvara_tsebumluk_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2020-12-08T14:50:52"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_babyaustin
+	a gist:FormattedContent ;
+	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
+	gist:description """<p>
+	Yuthok Tashi Dhondup with Kunpel, a favorite of the Thirteenth Dalai Lama, with the Dalai Lama's Baby Austin with the license plate \"Tibet 2.\" The photo was taken in 1933 in front of the British mission at Dekyilingka in Lhasa.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-17T15:55:59"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="https://commons.wikimedia.org/wiki/File:Kunphela_and_Tashi_Dhondup_with_Baby_Austin_at_Dekyi-lingka_19.9.33.jpg">Margaret Williamson, Wikimedia Commons</a></p>'''@en ;
+	tolo:fileName "BabyAustin.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_babyaustin_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:45:24"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_bakula_panchen_ktm_1986
+	a gist:FormattedContent ;
+	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
+	gist:description """<p>
+	Panchen Lama and Bakula Rinpoche photograped in Kathmandu, Nepal, 1986.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_80 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2022-09-07T19:02:08"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Photograph courtesy&nbsp;Sonam Wangchuk&nbsp;Shakspo</p>"""@en ;
+	tolo:fileName "bakula-panchen-ktm-1986.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_bakula_panchen_ktm_1986_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2022-09-07T19:07:12"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_barawa_refuge_field
+	a gist:FormattedContent ;
+	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
+	gist:description """<p>
+	Nineteenth century (likely made after&nbsp;1829)&nbsp;painting from Drumpa Monastery in southern Tibet near the border of Bhutan depicts the&nbsp;Mountain Dharma Trilogy transmission of Yanggonpa. The painting portrays Kagyu masters including lineages of the Barawa subsect of the Drukpa Kagyu. Annotations and analysis courtesy of Dr. Marlene Erschbamer.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_74 ,
+		told:_Tradition_77
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_98406 ;
+	tolo:createDateTime "2024-01-25T23:06:48"^^xsd:dateTime ;
+	tolo:credit """<p>
+	<em>Visual Dharma: The Buddhist Art of Tibet</em> by Chogyam Trungpa. United Kingdom: Shambhala, 1975, pp 8-9.</p>"""@en ;
+	tolo:fileName "barawa-refuge-field.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_barawa_refuge_field_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-01-30T15:45:03"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_bonpo_foundation_receipt
+	a gist:FormattedContent ;
+	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
+	gist:description """<p>
+	A receipt dated from1965 documenting the dispersal of funds to the Tibet Bonpo Foundation by Lobsang P. Lhalungpa on behalf of the Tibet Society of United Kingdom. The Tibet Bonpo Foundation was registered at the Lhalungpa residence in Delhi.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_document ;
+	gist:isConnectedTo told:_HistoricalPeriod_75 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-12-17T14:41:44"^^xsd:dateTime ;
+	tolo:fileName "Bonpo Foundation Receipt.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_bonpo_foundation_receipt_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-12-17T14:42:19"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_c2009_4har65848
+	a gist:FormattedContent ;
+	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
+	gist:description """<p>
+	This painting shows major sites of Lhasa including the Jokhang, Potala Palace and Lukhang. The monasteries of Sera, Drepung, and Sangpu Neutok are also pictured. It is possible that the image depicts activities during Losar festivities.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_77 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65848 ;
+	tolo:createDateTime "2016-07-14T17:23:04"^^xsd:dateTime ;
+	tolo:credit """<div>
+	Tibet or Inner Mongolia; 18th – early 19th century</div>
+<div>
+	Distemper on cloth</div>
+<div>
+	Rubin Museum of Art</div>
+<div>
+	C2009.4 (HAR 65848)</div>
+<div>
+	&nbsp;</div>"""@en ;
+	tolo:fileName "C2009.4HAR65848.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_c2009_4har65848_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-03-22T13:09:34"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_courtesy_of_transhimalayan_heritage1
+	a gist:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen  Gelek"@en ;
+	gist:description """<p>
+	Surkhang Wangchen Gelek is pictured with His Holiness the Fourteenth Dalai Lama to the right. This is clearly at some sort of ceremonial event in Lhasa.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-17T15:38:07"^^xsd:dateTime ;
+	tolo:fileName "Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_courtesy_of_transhimalayan_heritage1_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-17T15:40:41"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_courtsey_of_shambhala_publications
+	a gist:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
+	gist:description """<p>
+	Surkhang Wangchen Gelek, who became a Kalon of the Tibetan government at the age of 33.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-17T15:03:15"^^xsd:dateTime ;
+	tolo:credit "Shambala Publications"@en ;
+	tolo:fileName "Courtsey of Shambhala Publications.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_courtsey_of_shambhala_publications_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-17T15:14:20"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_delegationpicture
+	a gist:FormattedContent ;
+	skos:prefLabel "Tibetan Trade Delegation to the US and  UK, 1948"@en ;
+	gist:description """<p>
+	The Tibetan Trade Delegation to the US and the UK stand outside 10 Downing Street with Prime Minister Clement Atlee. The photo shows, from left to right, Khenchung Tubten Tsepel Taikhang (younger brother of Shakabpa), Finance Minister Wangchuk Deden Shakabpa, Yampel Pangdatsang, Prime Minister Clement Atlee, Surkhang Lhawang Topgyal and Kaludharma Ratna (interpreter). An Advanced Political History of Tibet misidentifies Surkhang Lhawang Topgyal as his father Dzasa Surkhang Surpa Wangchen Tseten, but in fact it was Surkhang Lhawang Topgyal who was part of the trade delegation as its interpreter.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-10T13:50:41"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="http://www.brill.com/one-hundred-thousand-moons-2-vols">One Hundred Thousand Moons: An Advanced Political History of Tibet</a> Vol 2</p>'''@en ;
+	tolo:fileName "DelegationPicture.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_delegationpicture_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-08-05T12:27:09"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_demoness
+	a gist:FormattedContent ;
+	skos:prefLabel "The Demoness of Tibet"@en ;
+	gist:description """<p>
+	The Demoness of Tibet is a close copy of a well-known image located in the Tibet Museum in Lhasa. The landscape of Tibet is shown as the mythical demoness of Tibetan legend. Important Buddhist temples and monasteries are located across her body, spanning from the Ngari region in the west to Kham in the east.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65719 ;
+	tolo:createDateTime "2016-06-10T15:10:40"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Tibet; Late 19th/early 20th century<br />
+	Pigments on cloth<br />
+	Rubin Museum of Art<br />
+	C2006.1.1 (HAR 65719)</p>"""@en ;
+	tolo:fileName "demoness.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_demoness_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-01-23T15:35:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_do_khyentse
+	a gist:FormattedContent ;
+	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
+	gist:description """<p>
+	This 19th century painting depicts the central figure of Do Khyentse Yeshe Dorje with previous Nyingma masters above.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_300 ;
+	tolo:createDateTime "2017-08-22T12:19:51"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "do-khyentse.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_do_khyentse_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-08-22T12:23:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_dp_15583_020
+	a gist:FormattedContent ;
+	skos:prefLabel "Jnanatapa"@en ;
+	gist:description """<p>
+	Jnanatapa is the central figure in this 14th century painting from Tibet. The Eight Mahasiddhas are depicted along with lineage figures from Taklung and Riwoche Monasteries.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_55 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_101352 ;
+	tolo:createDateTime "2019-04-23T17:46:41"^^xsd:dateTime ;
+	tolo:credit "The Metropolitan Museum of Art"@en ;
+	tolo:fileName "DP-15583-020.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_dp_15583_020_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-04-23T17:46:41"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_dudjomrinpochekalimpong
+	a gist:FormattedContent ;
+	skos:prefLabel "Dudjom Rinpoche with lamas in Kalimpong"@en ;
+	gist:description """<p>
+	Dudjom Rinpoche with lamas in Kalimpong,&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2024-02-13T20:25:13"^^xsd:dateTime ;
+	tolo:fileName "DudjomRinpocheKalimpong.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_dudjomrinpochekalimpong_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-02-13T20:46:28"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_gampopa_karmapa
+	a gist:FormattedContent ;
+	skos:prefLabel "Gampopa and Karmapa"@en ;
+	gist:description """<p>
+	This 16th century painting depicts two founding patriarchs of the Karma Kagyu school, Gampopa Sonam Rinchen and Dusum Khyenpa, later known as the First Karmapa.</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_536 ;
+	tolo:createDateTime "2013-05-23T18:37:19"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "gampopa-karmapa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_gampopa_karmapa_thumb ;
+	tolo:isCreatedBy told:_User_294 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2020-09-16T17:30:12"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_georges_lhalungpa_gyurdrak
+	a gist:FormattedContent ;
+	skos:prefLabel "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
+	gist:description """<p>
+	<a href=\"/biographies/view/Lama-Gyurdrak/13811\">Lama Gyurdrak</a>&nbsp;and&nbsp;<a href=\"/biographies/view/LP-Lhalungpa/TBRC_P1KG10060\">LP Lhalungpa</a>&nbsp;photographed with Canadian High Commisioner James George and family,&nbsp;Delhi, late 1960's.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2024-01-09T22:51:19"^^xsd:dateTime ;
+	tolo:fileName "georges-lhalungpa-gyurdrak.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_georges_lhalungpa_gyurdrak_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2024-01-09T22:53:11"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har128_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
+	gist:description """<p>
+	Ngorchen Kunga Zangpo at the left and his successor Muchen Sempa Chenpo Konchok Gyaltsen sitting on the right, surrounded by lineage teachers.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_59 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_128 ;
+	tolo:createDateTime "2011-07-24T20:02:42"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR128_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har128_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:31:44"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har134_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
+	gist:description """<p>
+	Ngorchen Kunga Zangpo, the founder of the Ngor Branch of the Sakya tradition.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_59 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_134 ;
+	tolo:createDateTime "2011-07-24T20:02:02"^^xsd:dateTime ;
+	tolo:credit "Shelley and Donald Rubin"@en ;
+	tolo:fileName "HAR134_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har134_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:33:39"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har269_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Buddhashri"@en ;
+	gist:description """<p>
+	Buddhashri surrounded by the lineage teachers of the Yogachara tradition of Buddhist philosophy. He was the principal teacher of Ngorchen Kunga Zangpo, the founder of the Ngor branch of the Sakya tradition.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_58 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_269 ;
+	tolo:createDateTime "2011-07-24T20:03:32"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR269_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har269_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T12:46:37"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har276
+	a gist:FormattedContent ;
+	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
+	gist:description '''<p>
+	A magnificent eighteenth century painting depicting Gampopa with a number of early Drukpa Kagyu masters, including early abbots of Ralung Monastery and several of the "Nine Incomparable Lions."</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_40
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_276 ;
+	tolo:createDateTime "2011-11-11T17:09:20"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR276.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har276_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:09:31"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har457_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Two Lineal Lamas"@en ;
+	gist:description """<p>
+	Two men, Kunkhyen and Jamyang Chokyi Gyalpo. This painting is from a set of compositions that appears based on similar paintings identified as a Sakya Lamdre Lineage set. The secondary lineage that starts at the top left and proceeds down the right and left registers is possibly the Prajnaparamita Lineage beginning with Shakyamuni Buddha.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_457 ;
+	tolo:createDateTime "2011-07-24T20:08:00"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR457_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har457_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T12:12:55"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har493_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Sanggye Sengge"@en ;
+	gist:description """<p>
+	Sanggye Sengge, the eleventh throne holder of Ngor Ewam Monastery.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_60 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_493 ;
+	tolo:createDateTime "2011-07-24T20:07:18"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR493_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har493_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T12:16:08"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har580_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
+	gist:description """<p>
+	Drakpa Gyaltsen and Sakya Pandita, uncle and nephew, teacher and student surrounded by the lineage Kings of Shambhala. This composition belongs to a larger set of paintings depicting the Lamdre Lineage of the Sakya Tradition of Tibetan Buddhism in a two figure per composition configuration.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_57 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_580 ;
+	tolo:createDateTime "2011-07-24T20:10:05"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR580_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har580_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:51:58"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har595_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:description """<p>
+	A painting of Tsongkapa, founder of the Geluk tradition, with the two principal students, Gyaltsab on the left and Khedrub on the right.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_59 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_595 ;
+	tolo:createDateTime "2011-07-08T21:22:01"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR595_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har595_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:48:44"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har63_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Shangton Chobar"@en ;
+	gist:description """<p>
+	Shangton Chobar with Sachen Kunga Nyingpo on the middle left, Sonam Tsemo on the right.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_63 ;
+	tolo:createDateTime "2011-07-24T20:10:52"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR63_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har63_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T11:19:02"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har642_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Mahakala - Panjarnata"@en ;
+	gist:description """<p>
+	Mahakala surrounded by the stylized flames of pristine awareness and emanating forth from the licks of flame are messengers in the shapes of various animals, black crows, black dogs, wolves, black men and women.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_57 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_642 ;
+	tolo:createDateTime "2011-07-08T21:29:47"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR642_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har642_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:41:34"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har65232_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Lhachok Sengge"@en ;
+	gist:description '''<p>
+	An ivory statue of Lhachok Sengge. The inscription on the base of the statue reads "rgyal ba lha mchog seng ge."</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_sculpture ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65232 ;
+	tolo:createDateTime "2011-07-24T20:05:31"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "HAR65232_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har65232_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_233 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:56:55"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har65789_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:description """<p>
+	A painting of Sachen Kunga Nyingpo.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65789 ;
+	tolo:createDateTime "2011-07-24T20:01:14"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR65789_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har65789_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T13:35:57"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har76_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Tsongkhapa"@en ;
+	gist:description """<p>
+	Tsongkhapa, founder of the Geluk tradition, with the two principal students, Gyaltsab on the left and Khedrubje on the right.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_76 ;
+	tolo:createDateTime "2011-07-24T20:12:28"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "HAR76_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har76_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-10-07T12:05:40"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har82_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Mahakala - Panjarnata"@en ;
+	gist:description """<p>
+	Panjarnata Mahakala is the protector of the Hevajra cycle of Tantras. The iconography and rituals are found in the 18th chapter of the Vajra Panjara (canopy, or pavilion) Tantra, an exclusive 'explanatory tantra' to Hevajra itself. It is dated to the late fourteenth or early fifteenth century.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_56 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_82 ;
+	tolo:createDateTime "2011-07-08T21:27:27"^^xsd:dateTime ;
+	tolo:credit """<p>
+        Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "HAR82_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har82_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-03-22T09:30:26"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har935_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
+	gist:description """<p>
+	A Sakya lineage painting.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_935 ;
+	tolo:createDateTime "2011-07-24T20:11:54"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR935_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har935_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T11:18:03"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har944_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:description """<p>
+	A portrait of Sachen Kunga Nyingpo in the classic Beri style. Based on stylistic comparison, it is likely from the fourteenth or fifteenth century.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_57 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_944 ;
+	tolo:createDateTime "2011-07-24T20:09:24"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR944_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har944_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T11:31:32"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har946_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Damarupa"@en ;
+	gist:description """<p>
+	Damarupa and Avadhutipa, two Indian Siddhas. On the left is the siddha Damarupa holding upraised in his right hand a damaru drum and a skullcup in the left. On the viewer's right is Avadhutipa holding a skullcup to the heart with the left hand and pointing downwards with the right hand.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_946 ;
+	tolo:createDateTime "2011-07-24T20:06:39"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR946_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har946_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T12:25:07"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_har96_nav
+	a gist:FormattedContent ;
+	skos:prefLabel "Sangye Sengge"@en ;
+	gist:description """<p>
+	Sanggye Sengge, the eleventh throne holder of Ngor Ewam Monastery is the main figure in this work, created between 1550 and 1560. It is in the Menri style with Beri elements.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_63 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_96 ;
+	tolo:createDateTime "2011-07-24T20:08:44"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "HAR96_nav.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_har96_nav_thumb ;
+	tolo:isCreatedBy told:_User_1 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T11:43:47"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_hastings_house_calcutta_1910
+	a gist:FormattedContent ;
+	skos:prefLabel "Officials at Hastings House"@en ;
+	gist:description """<p>
+	Officials at Hastings House in Calcutta, 1910.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2022-09-07T18:44:29"^^xsd:dateTime ;
+	tolo:fileName "Hastings_House_Calcutta_1910.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_hastings_house_calcutta_1910_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2022-09-07T18:52:51"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_hhdl_letter_lhalungpa
+	a gist:FormattedContent ;
+	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
+	gist:description """<p>
+	This letter from the Tibetan Government in Exile documents Lobsang Phuntsok Lhalungpa's role in cultural preservation activities of the early exile government.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_document ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-12-10T17:56:47"^^xsd:dateTime ;
+	tolo:fileName "HHDL Letter Lhalungpa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_hhdl_letter_lhalungpa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-12-17T14:44:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_jatson_nyingpo
+	a gist:FormattedContent ;
+	skos:prefLabel "Jatson Nyingpo"@en ;
+	gist:description """<p>
+	19th century painting of Jatson Nyingpo from eastern Tibet depicts the prolific treasure revealer wearing monks robes.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_1035 ;
+	tolo:createDateTime "2018-02-02T16:10:05"^^xsd:dateTime ;
+	tolo:credit "Source: Rubin Museum of Art<br>Gift of Shelley & Donald Rubin<br>C2006.66.556"@en ;
+	tolo:fileName "jatson-nyingpo.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_jatson_nyingpo_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-02-02T16:10:49"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_karmapa_10_avalokiteshvara
+	a gist:FormattedContent ;
+	skos:prefLabel "Avalokiteśvara"@en ;
+	gist:description """<p>
+	Ivory sculpture of Avalokiteśvara is attributed to the Tenth Karmapa, Choying Dorje (b.1604 - d.1674), and is dated to 1647-1648 or 1658.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_sculpture ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_65 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_31668 ;
+	tolo:createDateTime "2019-01-24T20:50:22"^^xsd:dateTime ;
+	tolo:credit "Cleveland Museum of Art"@en ;
+	tolo:fileName "Karmapa-10-Avalokiteshvara.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_karmapa_10_avalokiteshvara_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-01-24T21:21:30"^^xsd:dateTime ;
+	tolo:sourceUrl "https://clevelandart.org/art/1968.280"^^xsd:anyURI ;
+	.
+
+told:_FormattedContent_khedrupje
+	a gist:FormattedContent ;
+	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
+	gist:description """<p>
+	To the left, Khedrupje is depicted while thinking of his great teacher, Tsongkhapa, who appears above him on a cloud. On the middle right, Khedrubje is making an offering to Tsongkhapa. On the lower right, Khedrubje is seated while editing a manuscript.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_56 ;
+	tolo:createDateTime "2016-09-08T14:51:37"^^xsd:dateTime ;
+	tolo:credit "Collection of Shelley & Donald Rubin"@en ;
+	tolo:fileName "khedrupje.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_khedrupje_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-09-08T14:55:11"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_khukpa_lhetse
+	a gist:FormattedContent ;
+	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
+	gist:description """<p>
+	The important translator Go Khukpa Lhetse is the central figure of this 19th century painting, with Atiśa depicted above.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_71925 ;
+	tolo:createDateTime "2017-08-22T12:00:11"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Tibet House Museum, New Delhi</p>"""@en ;
+	tolo:fileName "khukpa-lhetse.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_khukpa_lhetse_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-08-22T12:02:52"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_kundeling
+	a gist:FormattedContent ;
+	skos:prefLabel "The Eighth Tatsak"@en ;
+	gist:description """<p>
+	A nineteenth century painting from Tibet of the Eighth Tatsak with prominent Geluk figures.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65916 ;
+	tolo:createDateTime "2016-12-15T12:07:48"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "kundeling.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_kundeling_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-08-24T18:26:25"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lhagyarinamgyelgyatso1
+	a gist:FormattedContent ;
+	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
+	gist:description """<p>
+	Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul and the head of the aristocratic Lhagyari family, in his later years in exile in India.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-16T14:23:23"^^xsd:dateTime ;
+	tolo:fileName "LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lhagyarinamgyelgyatso1_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-16T14:25:35"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lhagyariwedding
+	a gist:FormattedContent ;
+	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
+	gist:description """<p>
+	A wedding picture of Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul, with his second wife Puntsok Drolkar, in India. In 1985.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-16T14:57:41"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="https://www.tbrc.org/#!rid=W00KG09731">The Lhagyari Chronicles</a></p>'''@en ;
+	tolo:fileName "LhagyariWedding.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lhagyariwedding_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:36:16"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lhalungpas_gene_smith_delhi
+	a gist:FormattedContent ;
+	skos:prefLabel "Lhalungpas in Delhi"@en ;
+	gist:description """<p>
+	This undated photograph (collection of Samphe Lhalungpa) shows Jigme Rigden Lhalungpa, Lobsang Phuntsok Lhalungpa, Sogyal Rinpoche, Diki Lhalungpa, E. Gene Smith and Harold Talbott.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-12-09T13:35:44"^^xsd:dateTime ;
+	tolo:fileName "Lhalungpas-Gene-Smith-Delhi.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lhalungpas_gene_smith_delhi_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2021-02-16T16:45:13"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lhasa_perspective
+	a gist:FormattedContent ;
+	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
+	gist:description """<p>
+	This drawing shows Lhasa before 1950 from an elevated perspective. The highly detailed representation shows many major monasteries and landmarks of Lhasa.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-09-07T12:46:07"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Collection of Knud Larsen</p>"""@en ;
+	tolo:fileName "Lhasa perspective.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lhasa_perspective_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-09-07T12:55:31"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lo_gendun_sadutshang
+	a gist:FormattedContent ;
+	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
+	gist:description """<p>
+	Lo Gendun Sadutshang with Khampas he had gathered as armed guards to escort the young Fourteenth Dalai Lama, who had just assumed full political power, from the capital Lhasa to Yatung by the border for safety, in December 1951.&nbsp;</p>
+<div>
+	&nbsp;</div>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-09-07T15:36:41"^^xsd:dateTime ;
+	tolo:credit """<p>
+	A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang</p>"""@en ;
+	tolo:fileName "Lo Gendun Sadutshang.JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lo_gendun_sadutshang_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-09-09T13:48:35"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_lowo_khenchen
+	a gist:FormattedContent ;
+	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
+	gist:description """<p>
+	A cast bronz sculpture of the 15th-16th century Ngor master Lowo Khenchen Sonam Lhundrub</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_sculpture ;
+	gist:isConnectedTo told:_Tradition_7 ;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_87137 ;
+	tolo:createDateTime "2016-06-22T16:35:58"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Philadelphia Museum of Art</p>"""@en ;
+	tolo:fileName "Lowo Khenchen.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_lowo_khenchen_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2016-06-22T16:41:13"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_machig_57037
+	a gist:FormattedContent ;
+	skos:prefLabel "Machik Labdron"@en ;
+	gist:description """<p>
+	19th Century painting of Machig Labdron as a wisdom dakini.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_57037 ;
+	tolo:createDateTime "2018-03-12T15:33:16"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "machig-57037.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_machig_57037_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-03-12T16:34:35"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_machik
+	a gist:FormattedContent ;
+	skos:prefLabel "Machik Labdron"@en ;
+	gist:description """<p>
+	This nineteenth century painting depicts Machik Labdron with tantric deities and mahasiddhas.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_619 ;
+	tolo:createDateTime "2017-02-03T11:23:20"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "machik.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_machik_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-02-03T11:42:58"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_machik_field
+	a gist:FormattedContent ;
+	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
+	gist:description """<p>
+	Mid-20th century painting of Machik Labdron and the Chod refuge field displaying teachers and deities.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_79 ,
+		told:_Tradition_37
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_223 ;
+	tolo:createDateTime "2018-03-12T19:44:54"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "machik-field.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_machik_field_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-03-13T17:18:36"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_mahakala_drukpa
+	a gist:FormattedContent ;
+	skos:prefLabel "Mahakala with Four Hands"@en ;
+	gist:description """<p>
+	The central figure of Mahakala is depicted with historical figures including Nāgārjuna and Ga Lotsāwa, as well as masters of the Drukpa Kagyu lineage.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_40
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_453 ;
+	tolo:createDateTime "2017-03-22T11:54:14"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "mahakala-drukpa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_mahakala_drukpa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-03-22T12:26:37"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_meu_gyalpo_tsetan_zhabdrung
+	a gist:FormattedContent ;
+	skos:prefLabel "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
+	gist:description """<p>
+	Gyelrong Choktse Gyelpo, Tseten Zhabdrung and Meu Gyalpo photographed at the White Stupa in Beijing.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2020-08-24T16:41:37"^^xsd:dateTime ;
+	tolo:fileName "meu-gyalpo-tsetan-zhabdrung.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_meu_gyalpo_tsetan_zhabdrung_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2020-08-25T13:35:43"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_milarepa
+	a gist:FormattedContent ;
+	skos:prefLabel
+		"Episodes from the Life of Milarepa"@en ,
+		"Milarepa"@en
+		;
+	gist:description
+		"""<p>
+	An eighteenth century scuplture of Milarepa from Tibet, carved of stone.</p>"""@en ,
+		"""<p>
+	This nineteenth century painting of Milarepa is possibly a copy of an original from Pelpung Monastery. A representative of the Situ style, it exemplifies the types of paintings commissioned by Situ Panchen and his circle.&nbsp;</p>"""@en
+		;
+	gist:isCategorizedBy
+		tolx:_WorkType_painting ,
+		tolx:_WorkType_sculpture
+		;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy
+		told:_ID_har_700037 ,
+		told:_ID_har_921
+		;
+	tolo:createDateTime
+		"2016-05-25T16:15:37"^^xsd:dateTime ,
+		"2016-12-15T11:51:39"^^xsd:dateTime
+		;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "milarepa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_milarepa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy
+		told:_User_2 ,
+		told:_User_233
+		;
+	tolo:lastModifiedDateTime
+		"2016-06-08T22:49:14"^^xsd:dateTime ,
+		"2017-01-12T11:25:33"^^xsd:dateTime
+		;
+	.
+
+told:_FormattedContent_mustang_leaders_medium_res
+	a gist:FormattedContent ;
+	skos:prefLabel "1966 at Kalsang Phug HQ"@en ;
+	gist:description """<p>
+	Tibetan resistance fighters at Kalsang Phug HQ in 1966.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
+	tolo:fileName "Mustang leaders (medium-res).jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_mustang_leaders_medium_res_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_namkhai_nyingpo
+	a gist:FormattedContent ;
+	skos:prefLabel "Namkhai Nyingpo"@en ;
+	gist:description """<p>
+	Namkhai Nyingpo, one of the twenty-five disciples of <a href=\"/biographies/view/Padmasambhava/TBRC_P4956\">Padmasambhava</a>, is depicted with long-life ritual implements. Other details of this nineteenth century painting from Kham suggest a elements from <a href=\"/biographies/view/Jamgon-Kongtrul's/TBRC_P264\">Jamgon Kongtrul's</a> story of Namkhai Nyingpo and Dorje Tso.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_678 ;
+	tolo:createDateTime "2019-01-09T15:26:57"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art, Gift of Shelley and Donald Rubin</p>
+<p>
+	C2006.66.20</p>"""@en ;
+	tolo:fileName "namkhai-nyingpo.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_namkhai_nyingpo_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-01-09T16:02:47"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_padmasambhava
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava"@en ;
+	gist:description """<p>
+	This eighteenth century painting features Padmasambhava surrounded by his consorts Yeshe Tsogyel and Mandarava. Below are Śāntarakṣita&nbsp; and Trisong Detsen.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_188 ;
+	tolo:createDateTime "2016-06-10T14:31:39"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "padmasambhava.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_padmasambhava_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-06-10T14:37:22"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_padmasambhava_disciples
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
+	gist:description """<p>
+	This 18th century painting depicts Padmasambhava as a monk surrounded by several disciples and Jigme Lingpa above his head.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_12 ;
+	tolo:createDateTime "2017-02-10T10:41:21"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "padmasambhava-disciples.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_padmasambhava_disciples_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2020-04-30T19:22:51"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_padmasambhava_guru_drakpo
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
+	gist:description '''<p>
+	This 20th century painting depicts Padmasambhava in wrathful form as Guru Dragpo, in the treasure tradition of Padmasambhava biographer <a href="/biographies/view/Nyangrel-Nyima-Ozer/TBRC_P364">Nyangrel Nyima Ozer</a>.</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_77 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_9 ;
+	tolo:createDateTime "2018-10-30T16:15:08"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "padmasambhava-guru-drakpo.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_padmasambhava_guru_drakpo_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-10-30T16:40:20"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_padmasambhava_sengge_dradok
+	a gist:FormattedContent ;
+	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
+	gist:description """<p>
+	This Nyingma painting of Padmasambhava as Sengge Dradok shows Yeshe Tsogyel in the lower right corner.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_633 ;
+	tolo:createDateTime "2018-02-01T19:44:56"^^xsd:dateTime ;
+	tolo:credit "<p>	Rubin Museum of Art<br>	Gift of Shelley & Donald Rubin Foundation<br>	F1997.30.8<br></p>"@en ;
+	tolo:fileName "Padmasambhava-Sengge-Dradok.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_padmasambhava_sengge_dradok_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2018-02-01T19:47:32"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_panchenlama
+	a gist:FormattedContent ;
+	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
+	gist:description """<p>
+	Lobzang Chokyi Gyeltsen, the first person to hold the title of Paṇchen Lama, is pictured in this eighteenth century painting, with Maitreya to the right enveloped in a rainbow. The upper left depicts Cakrasaṃvara and to the right is Paṇchen Lama's teacher Khedrub Sanggye Yeshe. The lower left shows Vaiśravaṇa, with Begtse Chen to the right.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_477 ;
+	tolo:createDateTime "2023-01-18T15:28:52"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "PanchenLama.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_panchenlama_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2023-01-18T15:41:24"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_pehar
+	a gist:FormattedContent ;
+	skos:prefLabel "Pehar Gyelpo"@en ;
+	gist:description """<p>
+	The protector deity Pehar Gyelpo is depicted with three Geluk masters above.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_213 ;
+	tolo:createDateTime "2019-02-01T18:43:45"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "pehar.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_pehar_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-02-01T18:52:41"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_pemakarpo
+	a gist:FormattedContent ;
+	skos:prefLabel "Pema Karpo"@en ;
+	gist:description """<p>
+	This 19th Century painting from Bhutan shows Pema Karpo surrounded by deities and Buddhist masters Marpa, Milarepa, and Marpa. The primordial buddha Vajradhara is pictured above the central figure.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_615 ;
+	tolo:createDateTime "2017-11-01T16:48:54"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "pemakarpo.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_pemakarpo_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-11-01T16:53:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_11
+	a gist:FormattedContent ;
+	skos:prefLabel "Yuthok Dorje Yudon"@en ;
+	gist:description """<p>
+	Yuthok Dorje Yudon, second from right, with her relatives, ca. 1937, was a member of two prominent Lhasa families, the Surkhangs and the Yuthoks.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-16T13:53:59"^^xsd:dateTime ;
+	tolo:fileName "photo (11).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_11_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-16T14:04:47"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_14
+	a gist:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
+	gist:description """<p>
+	Surkhang Wangchen Gelek with wife Dekyi Lhaze and daughter in Lhasa city with the Potala Palace in the background. The photo was taken by Heinrich Harrer.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-12-15T17:39:51"^^xsd:dateTime ;
+	tolo:credit """<p>
+	House of the Turquoise Roof</p>"""@en ;
+	tolo:fileName "photo (14).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_14_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-12-15T17:41:32"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_20
+	a gist:FormattedContent ;
+	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
+	gist:description """<p>
+	Yuthok Tashi Dhondup and Taring Jigme, generals in the Tibetan army, circa 1931. Yuthok was Depon or general of the Drongdrak garrison at the time.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-17T17:03:04"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="http://www.shambhala.com/house-of-the-turquoise-roof.html">House of the Turquoise Roof</a></p>'''@en ;
+	tolo:fileName "photo-20.JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_20_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:01:33"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_22
+	a gist:FormattedContent ;
+	skos:prefLabel "Group of Tibetan Army Officers"@en ;
+	gist:description """<p>
+	A group of Tibetan army officers with Tsarong Dasang Damdul seated in the center. The photo was likely taken in Lhasa. Tsarong, a commoner who rose to become Commander-in-Chief, created the first modern Tibetan army.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2017-06-15T17:08:36"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Wisdom Publications. From Daughter of Tibet by Rinchen Dolma Taring</p>"""@en ;
+	tolo:fileName "photo (22).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_22_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2017-06-15T17:12:24"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_23
+	a gist:FormattedContent ;
+	skos:prefLabel "Taring Women"@en ;
+	gist:description """<p>
+	Taring Rinchen Dolma with her mother-in-law Rani Taring and her sister-in-law Kalden Wangmo. Raja Taring, Tsodrak Namgyal, of Sikkim, fled to Tibet in 1892 when the British Army entered Gangtok. He remained in Tibet, living at Taring estate near Gyantse, and later abdicating the Sikkim throne. His sons entered Tibetan government service.&nbsp;</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2017-06-16T15:06:40"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Courtesy of Wisdom Publications. Daughter of Tibet by Rinchen Dolma Taring</p>"""@en ;
+	tolo:fileName "photo (23).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_23_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2017-06-16T15:10:15"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_7
+	a gist:FormattedContent ;
+	skos:prefLabel "Yuthok Dorje Yudon"@en ;
+	gist:description """<p>
+	A photo of Yuthok Dorje Yudon, a member of the Surkhang family who married into the Yuthoks, in 1988, taken by Christine Cox.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_80 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-17T14:36:04"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="http://www.shambhala.com/house-of-the-turquoise-roof.html">House of the Turquoise Roof</a></p>'''@en ;
+	tolo:fileName "photo (7).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_7_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-22T14:58:29"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_photo_9
+	a gist:FormattedContent ;
+	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
+	gist:description """<p>
+	Surkhang Wangchen Tseten and his first wife Lhagyari Tseten Chodzom, circa 1926.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-16T13:29:08"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<a href="http://www.shambhala.com/house-of-the-turquoise-roof.html">House of the Turquoise Roof</a></p>'''@en ;
+	tolo:fileName "photo (9).JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_photo_9_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-06-22T15:36:32"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_r_sadutshang_with_taklha
+	a gist:FormattedContent ;
+	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
+	gist:description """<p>
+	Rinchen Sadutshang, a fifth rank official at the Tibetan foreign ministry, with his colleague Takla Phuntsok Tashi, a brother in law of the Fourteenth Dalai Lama, in front of the Potala in 1952. Sadutshang would later become a Kalon in India in 1978 and would become the Representative at the Bureau of the Dalai Lama in Delhi, his last post before retirement.&nbsp;</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-09-07T15:34:34"^^xsd:dateTime ;
+	tolo:credit """<p>
+	A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang</p>"""@en ;
+	tolo:fileName "R Sadutshang with Taklha.JPG"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_r_sadutshang_with_taklha_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_343 ;
+	tolo:lastModifiedDateTime "2016-09-07T17:29:01"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_rahula
+	a gist:FormattedContent ;
+	skos:prefLabel "Rahula and Retinue"@en ;
+	gist:description """<p>
+	Rahula, wrathful protector of the the treasure tradition, is depicted with various masters in a nineteenth century painting from Kham.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65864 ;
+	tolo:createDateTime "2024-04-08T13:32:58"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "rahula.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_rahula_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2024-04-08T16:49:12"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_rigdzinkunzangsherab
+	a gist:FormattedContent ;
+	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
+	gist:description """<p>
+	An 18th century painting of Rigdzin Kunzang Sherab, the founder of Pelyul monastery, surrounded by deities and Nyingma masters.</p>"""@en ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_777 ;
+	tolo:createDateTime "2017-01-30T10:22:22"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "rigdzinkunzangsherab.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_rigdzinkunzangsherab_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-30T11:14:03"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_rsz_1rsz_189141_smaller
+	a gist:FormattedContent ;
+	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
+	gist:description """<p>
+	Sakya Lotsawa Jampai Dorje, the twenty-third Sakya Tridzin.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_61 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_89148 ;
+	tolo:createDateTime "2011-08-03T16:08:58"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "rsz_1rsz_189141_smaller.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_rsz_1rsz_189141_smaller_thumb ;
+	tolo:isCreatedBy told:_User_2 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-05-26T14:27:23"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_sachen
+	a gist:FormattedContent ;
+	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
+	gist:description """<p>
+	A fifteenth century painting of Sachen Kunga Nyingpo, the Third Sakya Trizin and son of Khon Konchok Gyelpo.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_57 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_944 ;
+	tolo:createDateTime "2017-11-02T15:12:22"^^xsd:dateTime ;
+	tolo:fileName "sachen.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_sachen_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-11-02T15:13:19"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_sakya_settlement_receipt
+	a gist:FormattedContent ;
+	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
+	gist:description """<p>
+	A receipt dated September 9, 1965 documenting the dispersal of funds to the Sakya Trizin and the Sakya Settlement at Dehra Dun, by Lobsang P. Lhalungpa on behalf of the Tibet Society of United Kingdom.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_document ;
+	gist:isConnectedTo told:_HistoricalPeriod_75 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-12-17T14:32:07"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Lhalungpa Family Archive</p>"""@en ;
+	tolo:fileName "Sakya Settlement Receipt.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_sakya_settlement_receipt_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-12-17T14:42:34"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_sakyasribhadra
+	a gist:FormattedContent ;
+	skos:prefLabel "Śākyaśrībhadra"@en ;
+	gist:description """<p>
+	An eighteenth century painting of the Indian master&nbsp;Śākyaśrībhadra.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo told:_HistoricalPeriod_69 ;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_142 ;
+	tolo:createDateTime "2016-06-03T13:08:54"^^xsd:dateTime ;
+	tolo:fileName "sakyasribhadra.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_sakyasribhadra_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-06-03T13:19:00"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_shakyamuni
+	a gist:FormattedContent ;
+	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
+	gist:description """<p>
+	This eighteenth-century painting depicts Śākyamuni Buddha with primordial buddha Vajradhara, bodhisattvas Maitreya and Mañjuśrī, and multiple Geluk masters.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_27
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_309 ;
+	tolo:createDateTime "2017-08-22T12:35:48"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art acc.# P1996.19.13</p>"""@en ;
+	tolo:fileName "shakyamuni.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_shakyamuni_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-01-25T21:20:27"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_sheltonpage299
+	a gist:FormattedContent ;
+	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
+	gist:description """<p>
+	Members of the Royal Family of Derge led by Dorje Sengge</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2022-09-07T19:43:18"^^xsd:dateTime ;
+	tolo:fileName "Sheltonpage299.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_sheltonpage299_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2022-09-07T19:48:10"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_sixteenth_karmapa
+	a gist:FormattedContent ;
+	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
+	gist:description """<p>
+	This twentieth century painting of the Sixteenth Karmapa depicts Shakyamuni Buddha in the upper register and Kagyu masters below.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_77 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_858 ;
+	tolo:createDateTime "2023-01-10T15:28:27"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "Sixteenth-Karmapa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_sixteenth_karmapa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2023-01-11T17:47:58"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_st__josephs_letter_to_lhalungpa
+	a gist:FormattedContent ;
+	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
+	gist:description """<p>
+	A letter certifying Lobsang Phunstok Lhalungpa's employment and exemplary service as a teacher at St. Joseph's College in Darjeeling.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_document ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2019-12-10T18:35:14"^^xsd:dateTime ;
+	tolo:fileName "St. Josephs Letter to Lhalungpa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_st__josephs_letter_to_lhalungpa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-12-10T18:42:09"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_terton_couple_with_khenpo_jigme_phuntsok
+	a gist:FormattedContent ;
+	skos:prefLabel "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
+	gist:description """<p>
+	Prolific treasure revealers Namtrul Jigme Phuntsok and Khandro Tāre Lhamo are pictured beside Khenpo Jigme Puntsok, who gave them teachings and also authorized them as treasure revealers.&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_80 ,
+		told:_Tradition_1
+		;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-06-13T13:09:37"^^xsd:dateTime ;
+	tolo:fileName "Terton Couple with Khenpo Jigme Phuntsok.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_terton_couple_with_khenpo_jigme_phuntsok_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2016-06-13T13:11:20"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_thirdkarmapa
+	a gist:FormattedContent ;
+	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
+	gist:description """<p>
+	A unique image made with ink shows Buddhist masters from multiple traditions. The style is considered unusual and has been associated with the Tenth Karmapa.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_73 ,
+		told:_Tradition_1 ,
+		told:_Tradition_7 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_65562 ;
+	tolo:createDateTime "2016-09-29T13:36:48"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "thirdkarmapa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_thirdkarmapa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2020-06-19T15:58:07"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_tibetan_primer
+	a gist:FormattedContent ;
+	skos:prefLabel "Tibetan Primer"@en ;
+	gist:description '''<p>
+	1962 <em>Tibetan Primer</em> written by <a href="/biographies/view/Lobsang-Phuntsok-Lhalungpa/TBRC_P1KG10060">Lobsang Phuntsok Lhalungpa</a> on behalf of the <a href="/biographies/view/Fourteenth-Dalai-Lama/TBRC_P1649">Fourteenth Dalai Lama</a> in collaboration with <a href="/biographies/view/Khendrung-Tubten-Norzang/TBRC_P9174">Khendrung Tubten Norzang</a>, <a href="/biographies/view/Dzeme-Rinpoche/TBRC_P2425">Dzeme Rinpoche</a>, <a href="/biographies/view/Dudjom-Rinpoche/TBRC_P736">Dudjom Rinpoche</a>, <a href="/biographies/view/Thartse-Khen-Rinpoche/TBRC_P8LS13104">Thartse Khen Rinpoche</a>, <a href="/biographies/view/Rato-Kyongla-Rinpoche/13831">Rato Kyongla Rinpoche</a>, and published by <a href="/biographies/view/ky/TBRC_P1KG15253">Kundeling Woser Gyeltsen</a>.</p>'''@en ;
+	gist:isCategorizedBy tolx:_WorkType_document ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2024-02-09T18:19:29"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Estate of Lobsang P. Lhalungpa</p>"""@en ;
+	tolo:fileName "tibetan-primer.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_tibetan_primer_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2024-02-15T14:06:05"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_tsarongs_losar_1937
+	a gist:FormattedContent ;
+	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
+	gist:description """<p>
+	Dasang Damdul Tsarong and his wife Pema Dolkar during Losar, 1937.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2022-09-07T19:16:34"^^xsd:dateTime ;
+	tolo:credit '''<p>
+	<span style="color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 13.3333px;">Collection of Frederick Spencer Chapman</span></p>'''@en ;
+	tolo:fileName "tsarongs-losar-1937.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_tsarongs_losar_1937_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2022-09-07T19:18:23"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_tsetenzhabdrung_subgrabgyatso
+	a gist:FormattedContent ;
+	skos:prefLabel "Tseten Zhabdrung and Sungrab Gyatso"@en ;
+	gist:description """<p>
+	An unidentified person, Tseten Zhabdrung, Sungrab Gyatso (left to right)</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_80 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2023-05-25T15:43:21"^^xsd:dateTime ;
+	tolo:fileName "tsetenzhabdrung-subgrabgyatso.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_tsetenzhabdrung_subgrabgyatso_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2023-05-25T15:47:43"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_tsongkhapa
+	a gist:FormattedContent ;
+	skos:prefLabel "Shakyamuni Buddha"@en ;
+	gist:description """<p>
+	The central figure of Shakyamuni Buddha is shown with Tsongkhapa and primary disciples in the upper left corner. Below are protector deities.</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo told:_Tradition_27 ;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_39 ;
+	tolo:createDateTime "2017-02-01T12:48:45"^^xsd:dateTime ;
+	tolo:credit "Rubin Museum of Art"@en ;
+	tolo:fileName "tsongkhapa.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_tsongkhapa_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-02-01T12:55:30"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_tsuklak_gyatso
+	a gist:FormattedContent ;
+	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
+	gist:description """<div>
+	An exceptional painting of the Third Nenang Pawo surrounded by hierarchs of the Karma Kagyu and other traditions. The size of the hand and footprints suggest that they are stylized rather than actual prints.</div>
+<div>
+	&nbsp;</div>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_65 ,
+		told:_Tradition_8
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_825 ;
+	tolo:createDateTime "2016-06-03T11:54:49"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Rubin Museum of Art</p>"""@en ;
+	tolo:fileName "tsuklak-gyatso.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_tsuklak_gyatso_thumb ;
+	tolo:isCreatedBy told:_User_233 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-05-08T12:52:18"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_un_delegation_pic
+	a gist:FormattedContent ;
+	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
+	gist:description """<p>
+	Tibetan government officials Rinchen Sadutshang, Tsipon Wangchuk Deden Shakabpa and Gyalo Thondup, the Dalai Lama's older brother in front of the United Nations in September 1959. The delegation made three such trips to the UN, in the falls of 1959, 1960 and 1961, to seek support for Tibet. &nbsp;</p>
+<p>
+	&nbsp;</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isExpressedIn media-image:jpg ;
+	tolo:createDateTime "2016-09-07T16:30:26"^^xsd:dateTime ;
+	tolo:credit """<p>
+	A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang</p>"""@en ;
+	tolo:fileName "UN Delegation pic.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_un_delegation_pic_thumb ;
+	tolo:isCreatedBy told:_User_343 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2019-06-05T17:58:57"^^xsd:dateTime ;
+	.
+
+told:_FormattedContent_vajrakila
+	a gist:FormattedContent ;
+	skos:prefLabel "Vajrakila"@en ;
+	gist:description """<p>
+	This 18th century painting of Vajrakila depicts Sakya masters on either side of Vajrasattva.</p>"""@en ;
+	gist:isCategorizedBy tolx:_WorkType_painting ;
+	gist:isConnectedTo
+		told:_HistoricalPeriod_69 ,
+		told:_Tradition_1 ,
+		told:_Tradition_7
+		;
+	gist:isExpressedIn media-image:jpg ;
+	gist:isIdentifiedBy told:_ID_har_90907 ;
+	tolo:createDateTime "2020-05-15T16:26:57"^^xsd:dateTime ;
+	tolo:credit """<p>
+	Tibetan Painted Scrolls</p>"""@en ;
+	tolo:fileName "vajrakila.jpg"^^xsd:string ;
+	tolo:hasThumbnail told:_FormattedContent_Thumbnail_vajrakila_thumb ;
+	tolo:isCreatedBy told:_User_342 ;
+	tolo:isLastModifiedBy told:_User_342 ;
+	tolo:lastModifiedDateTime "2020-05-15T16:28:36"^^xsd:dateTime ;
+	.
+
+told:_ID_har_101352
+	a gist:ID ;
+	skos:prefLabel "HAR 101352"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "101352"^^xsd:string ;
+	.
+
+told:_ID_har_1034
+	a gist:ID ;
+	skos:prefLabel "HAR 1034"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "1034"^^xsd:string ;
+	.
+
+told:_ID_har_1035
+	a gist:ID ;
+	skos:prefLabel "HAR 1035"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "1035"^^xsd:string ;
+	.
+
+told:_ID_har_1047
+	a gist:ID ;
+	skos:prefLabel "HAR 1047"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "1047"^^xsd:string ;
+	.
+
+told:_ID_har_1066
+	a gist:ID ;
+	skos:prefLabel "HAR 1066"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "1066"^^xsd:string ;
+	.
+
+told:_ID_har_12
+	a gist:ID ;
+	skos:prefLabel "HAR 12"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "12"^^xsd:string ;
+	.
+
+told:_ID_har_128
+	a gist:ID ;
+	skos:prefLabel "HAR 128"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "128"^^xsd:string ;
+	.
+
+told:_ID_har_134
+	a gist:ID ;
+	skos:prefLabel "HAR 134"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "134"^^xsd:string ;
+	.
+
+told:_ID_har_142
+	a gist:ID ;
+	skos:prefLabel "HAR 142"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "142"^^xsd:string ;
+	.
+
+told:_ID_har_160
+	a gist:ID ;
+	skos:prefLabel "HAR 160"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "160"^^xsd:string ;
+	.
+
+told:_ID_har_188
+	a gist:ID ;
+	skos:prefLabel "HAR 188"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "188"^^xsd:string ;
+	.
+
+told:_ID_har_213
+	a gist:ID ;
+	skos:prefLabel "HAR 213"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "213"^^xsd:string ;
+	.
+
+told:_ID_har_223
+	a gist:ID ;
+	skos:prefLabel "HAR 223"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "223"^^xsd:string ;
+	.
+
+told:_ID_har_269
+	a gist:ID ;
+	skos:prefLabel "HAR 269"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "269"^^xsd:string ;
+	.
+
+told:_ID_har_276
+	a gist:ID ;
+	skos:prefLabel "HAR 276"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "276"^^xsd:string ;
+	.
+
+told:_ID_har_285
+	a gist:ID ;
+	skos:prefLabel "HAR 285"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "285"^^xsd:string ;
+	.
+
+told:_ID_har_300
+	a gist:ID ;
+	skos:prefLabel "HAR 300"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "300"^^xsd:string ;
+	.
+
+told:_ID_har_309
+	a gist:ID ;
+	skos:prefLabel "HAR 309"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "309"^^xsd:string ;
+	.
+
+told:_ID_har_31668
+	a gist:ID ;
+	skos:prefLabel "HAR 31668"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "31668"^^xsd:string ;
+	.
+
+told:_ID_har_362
+	a gist:ID ;
+	skos:prefLabel "HAR 362"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "362"^^xsd:string ;
+	.
+
+told:_ID_har_376
+	a gist:ID ;
+	skos:prefLabel "HAR 376"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "376"^^xsd:string ;
+	.
+
+told:_ID_har_380
+	a gist:ID ;
+	skos:prefLabel "HAR 380"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "380"^^xsd:string ;
+	.
+
+told:_ID_har_39
+	a gist:ID ;
+	skos:prefLabel "HAR 39"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "39"^^xsd:string ;
+	.
+
+told:_ID_har_40
+	a gist:ID ;
+	skos:prefLabel "HAR 40"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "40"^^xsd:string ;
+	.
+
+told:_ID_har_410
+	a gist:ID ;
+	skos:prefLabel "HAR 410"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "410"^^xsd:string ;
+	.
+
+told:_ID_har_412
+	a gist:ID ;
+	skos:prefLabel "HAR 412"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "412"^^xsd:string ;
+	.
+
+told:_ID_har_413
+	a gist:ID ;
+	skos:prefLabel "HAR 413"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "413"^^xsd:string ;
+	.
+
+told:_ID_har_453
+	a gist:ID ;
+	skos:prefLabel "HAR 453"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "453"^^xsd:string ;
+	.
+
+told:_ID_har_457
+	a gist:ID ;
+	skos:prefLabel "HAR 457"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "457"^^xsd:string ;
+	.
+
+told:_ID_har_477
+	a gist:ID ;
+	skos:prefLabel "HAR 477"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "477"^^xsd:string ;
+	.
+
+told:_ID_har_493
+	a gist:ID ;
+	skos:prefLabel "HAR 493"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "493"^^xsd:string ;
+	.
+
+told:_ID_har_508
+	a gist:ID ;
+	skos:prefLabel "HAR 508"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "508"^^xsd:string ;
+	.
+
+told:_ID_har_536
+	a gist:ID ;
+	skos:prefLabel "HAR 536"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "536"^^xsd:string ;
+	.
+
+told:_ID_har_56
+	a gist:ID ;
+	skos:prefLabel "HAR 56"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "56"^^xsd:string ;
+	.
+
+told:_ID_har_57037
+	a gist:ID ;
+	skos:prefLabel "HAR 57037"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "57037"^^xsd:string ;
+	.
+
+told:_ID_har_580
+	a gist:ID ;
+	skos:prefLabel "HAR 580"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "580"^^xsd:string ;
+	.
+
+told:_ID_har_59217
+	a gist:ID ;
+	skos:prefLabel "HAR 59217"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "59217"^^xsd:string ;
+	.
+
+told:_ID_har_59247
+	a gist:ID ;
+	skos:prefLabel "HAR 59247"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "59247"^^xsd:string ;
+	.
+
+told:_ID_har_595
+	a gist:ID ;
+	skos:prefLabel "HAR 595"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "595"^^xsd:string ;
+	.
+
+told:_ID_har_615
+	a gist:ID ;
+	skos:prefLabel "HAR 615"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "615"^^xsd:string ;
+	.
+
+told:_ID_har_619
+	a gist:ID ;
+	skos:prefLabel "HAR 619"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "619"^^xsd:string ;
+	.
+
+told:_ID_har_63
+	a gist:ID ;
+	skos:prefLabel "HAR 63"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "63"^^xsd:string ;
+	.
+
+told:_ID_har_633
+	a gist:ID ;
+	skos:prefLabel "HAR 633"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "633"^^xsd:string ;
+	.
+
+told:_ID_har_642
+	a gist:ID ;
+	skos:prefLabel "HAR 642"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "642"^^xsd:string ;
+	.
+
+told:_ID_har_65094
+	a gist:ID ;
+	skos:prefLabel "HAR 65094"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65094"^^xsd:string ;
+	.
+
+told:_ID_har_65119
+	a gist:ID ;
+	skos:prefLabel "HAR 65119"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65119"^^xsd:string ;
+	.
+
+told:_ID_har_65193
+	a gist:ID ;
+	skos:prefLabel "HAR 65193"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65193"^^xsd:string ;
+	.
+
+told:_ID_har_65205
+	a gist:ID ;
+	skos:prefLabel "HAR 65205"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65205"^^xsd:string ;
+	.
+
+told:_ID_har_65232
+	a gist:ID ;
+	skos:prefLabel "HAR 65232"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65232"^^xsd:string ;
+	.
+
+told:_ID_har_65249
+	a gist:ID ;
+	skos:prefLabel "HAR 65249"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65249"^^xsd:string ;
+	.
+
+told:_ID_har_65275
+	a gist:ID ;
+	skos:prefLabel "HAR 65275"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65275"^^xsd:string ;
+	.
+
+told:_ID_har_65401
+	a gist:ID ;
+	skos:prefLabel "HAR 65401"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65401"^^xsd:string ;
+	.
+
+told:_ID_har_65461
+	a gist:ID ;
+	skos:prefLabel "HAR 65461"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65461"^^xsd:string ;
+	.
+
+told:_ID_har_65562
+	a gist:ID ;
+	skos:prefLabel "HAR 65562"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65562"^^xsd:string ;
+	.
+
+told:_ID_har_65719
+	a gist:ID ;
+	skos:prefLabel "HAR 65719"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65719"^^xsd:string ;
+	.
+
+told:_ID_har_65789
+	a gist:ID ;
+	skos:prefLabel "HAR 65789"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65789"^^xsd:string ;
+	.
+
+told:_ID_har_65848
+	a gist:ID ;
+	skos:prefLabel "HAR 65848"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65848"^^xsd:string ;
+	.
+
+told:_ID_har_65861
+	a gist:ID ;
+	skos:prefLabel "HAR 65861"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65861"^^xsd:string ;
+	.
+
+told:_ID_har_65864
+	a gist:ID ;
+	skos:prefLabel "HAR 65864"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65864"^^xsd:string ;
+	.
+
+told:_ID_har_65916
+	a gist:ID ;
+	skos:prefLabel "HAR 65916"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "65916"^^xsd:string ;
+	.
+
+told:_ID_har_678
+	a gist:ID ;
+	skos:prefLabel "HAR 678"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "678"^^xsd:string ;
+	.
+
+told:_ID_har_68480
+	a gist:ID ;
+	skos:prefLabel "HAR 68480"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "68480"^^xsd:string ;
+	.
+
+told:_ID_har_68871
+	a gist:ID ;
+	skos:prefLabel "HAR 68871"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "68871"^^xsd:string ;
+	.
+
+told:_ID_har_696
+	a gist:ID ;
+	skos:prefLabel "HAR 696"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "696"^^xsd:string ;
+	.
+
+told:_ID_har_700037
+	a gist:ID ;
+	skos:prefLabel "HAR 700037"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "700037"^^xsd:string ;
+	.
+
+told:_ID_har_71925
+	a gist:ID ;
+	skos:prefLabel "HAR 71925"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "71925"^^xsd:string ;
+	.
+
+told:_ID_har_76
+	a gist:ID ;
+	skos:prefLabel "HAR 76"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "76"^^xsd:string ;
+	.
+
+told:_ID_har_777
+	a gist:ID ;
+	skos:prefLabel "HAR 777"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "777"^^xsd:string ;
+	.
+
+told:_ID_har_82
+	a gist:ID ;
+	skos:prefLabel "HAR 82"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "82"^^xsd:string ;
+	.
+
+told:_ID_har_825
+	a gist:ID ;
+	skos:prefLabel "HAR 825"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "825"^^xsd:string ;
+	.
+
+told:_ID_har_858
+	a gist:ID ;
+	skos:prefLabel "HAR 858"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "858"^^xsd:string ;
+	.
+
+told:_ID_har_86433
+	a gist:ID ;
+	skos:prefLabel "HAR 86433"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "86433"^^xsd:string ;
+	.
+
+told:_ID_har_87137
+	a gist:ID ;
+	skos:prefLabel "HAR 87137"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "87137"^^xsd:string ;
+	.
+
+told:_ID_har_89141
+	a gist:ID ;
+	skos:prefLabel "HAR 89141"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "89141"^^xsd:string ;
+	.
+
+told:_ID_har_89148
+	a gist:ID ;
+	skos:prefLabel "HAR 89148"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "89148"^^xsd:string ;
+	.
+
+told:_ID_har_89957
+	a gist:ID ;
+	skos:prefLabel "HAR 89957"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "89957"^^xsd:string ;
+	.
+
+told:_ID_har_9
+	a gist:ID ;
+	skos:prefLabel "HAR 9"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "9"^^xsd:string ;
+	.
+
+told:_ID_har_90907
+	a gist:ID ;
+	skos:prefLabel "HAR 90907"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "90907"^^xsd:string ;
+	.
+
+told:_ID_har_921
+	a gist:ID ;
+	skos:prefLabel "HAR 921"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "921"^^xsd:string ;
+	.
+
+told:_ID_har_935
+	a gist:ID ;
+	skos:prefLabel "HAR 935"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "935"^^xsd:string ;
+	.
+
+told:_ID_har_944
+	a gist:ID ;
+	skos:prefLabel "HAR 944"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "944"^^xsd:string ;
+	.
+
+told:_ID_har_946
+	a gist:ID ;
+	skos:prefLabel "HAR 946"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "946"^^xsd:string ;
+	.
+
+told:_ID_har_96
+	a gist:ID ;
+	skos:prefLabel "HAR 96"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "96"^^xsd:string ;
+	.
+
+told:_ID_har_98406
+	a gist:ID ;
+	skos:prefLabel "HAR 98406"^^xsd:string ;
+	gist:isCategorizedBy tolx:_IdType_har ;
+	gist:uniqueText "98406"^^xsd:string ;
+	.
+
