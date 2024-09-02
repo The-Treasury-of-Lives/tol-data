@@ -68,7 +68,7 @@ CONSTRUCT {
         a gist:ID ;
         skos:prefLabel ?har_label ;
         gist:isCategorizedBy tolx:_IdType_har ;
-        gist:idText ?har_number ;
+        gist:uniqueText ?har_number ;
         .
 }
 
@@ -109,7 +109,7 @@ WHERE {
 
     # HAR number
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_number)) AS ?har_number_iri)
-    BIND(CONCAT("HAR Item Number ", ?har_number) AS ?har_label)
+    BIND(CONCAT("HAR ", ?har_number) AS ?har_label)
 
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
 

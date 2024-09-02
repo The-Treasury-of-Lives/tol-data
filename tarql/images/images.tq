@@ -74,7 +74,7 @@ CONSTRUCT {
     ?thumbnail_iri 
         a tolo:FormattedContent ;
         skos:prefLabel ?title_en ;
-        tolo:fileName ?thumb_file_name ;
+        tolo:fileName ?thumb_name ;
         gist:isExpressedIn ?thumb_media_type_iri ;
         .
 
@@ -82,7 +82,7 @@ CONSTRUCT {
         a gist:ID ;
         skos:prefLabel ?har_label ;
         gist:isCategorizedBy tolx:_IdType_har ;
-        gist:idText ?har_number ;
+        gist:uniqueText ?har_nbr ;
         .
 
 }
@@ -124,12 +124,16 @@ WHERE {
 
     # HAR URL
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_nbr)) AS ?har_number_iri)
-    BIND(CONCAT("HAR Item Number ", ?har_nbr) AS ?har_label)
+    BIND(CONCAT("HAR ", ?har_nbr) AS ?har_label)
 
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_WorkType_", ?type)) AS ?work_type_iri)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?century)) AS ?century_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Tradition_", ?tradition_id)) AS ?tradition_iri)
+    # Historical period
+    BIND(IF(?century != "0", tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?century)), ?unbound) AS ?historical_period_iri)
+
+    # Traditions
+    OPTIONAL { ?tradition_ID apf:strSplit(?tradition_id "; ") }
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Tradition_", ?tradition_ID)) AS ?tradition_iri)
 
     # Sources and credits
     BIND(STRDT(?source_url, xsd:anyURI) AS ?source_url_anyURI)
@@ -137,11 +141,11 @@ WHERE {
 
     # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
-    BIND(STRDT(REPLACE(?create_date, " ", "T"), xsd:dateTime) AS ?create_datetime)
+    BIND(REPLACE(REPLACE(?create_date, " ", "T"), "T(\\d):", "T0$1:") AS ?create_date_clean)
+    BIND(STRDT(?create_date_clean, xsd:dateTime) AS ?create_datetime)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?last_modified_by_iri)
-    BIND(STRDT(REPLACE(?last_modified_date, " ", "T"), xsd:dateTime) AS ?last_modified_datetime)
-
-
+    BIND(REPLACE(REPLACE(?last_modified_date, " ", "T"), "T(\\d):", "T0$1:") AS ?last_modified_date_clean)
+    BIND(STRDT(?last_modified_date_clean, xsd:dateTime) AS ?last_modified_datetime)
 
 }
