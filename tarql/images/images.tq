@@ -92,10 +92,7 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    # Use image filename for IRIs to ensure uniqueness.
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
-
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_id)) AS ?image_iri)
 
     BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
     BIND(
@@ -106,8 +103,7 @@ WHERE {
     )
 
     # Thumbnail
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Thumbnail_", ?thumb_filename)) AS ?thumbnail_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Thumbnail_", ?painting_id)) AS ?thumbnail_iri)
     BIND(LCASE(REPLACE(?thumb_name, "^.+\\.", "")) AS ?thumb_file_ext)
     BIND(
         COALESCE(
