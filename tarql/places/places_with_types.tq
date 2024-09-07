@@ -31,7 +31,7 @@ CONSTRUCT {
 
     ?place_iri
         a ?class_iri ;
-        gist:isCategorizedBy ?type_iri ;
+        gist:isCategorizedBy ?place_type_iri ;
     .
 
 }
@@ -46,45 +46,12 @@ WHERE {
     # that reference the place (e.g., founders, founding dates, descriptions, etc.).
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
-    # Get the local name of the entity's class
-    BIND(
-        COALESCE(
-            # Nunnery has class Monastery but type nunnery, in order to both group with and
-            # distinguish from monasteries.
-            IF(?place_type_name IN ("Monastery", "Nunnery"), "Monastery", ?unbound),
+    # Get the entity's class, either gist:Place or its subclass tolo:Monastery.
+    # Nunnery has class Monastery but type nunnery, in order to both group with and
+    # distinguish from monasteries.
+    BIND(IF(?place_type_name IN ("Monastery", "Nunnery"), "tolo:Monastery", "gist:Place") AS ?class_name)
+    BIND(tarql:expandPrefixedName(?class_name) AS ?class_iri)
 
-            IF(?place_type_name = "Monastic College", "Institution", ?unbound),
-
-            IF(?place_type_name IN ("Cave", 
-                                    "Hidden Land",
-                                    "Lake", 
-                                    "Mountain",
-                                    "Stupa"), 
-                "Landmark", ?unbound),
-
-            # Dharma Center, Government Building, Hermitage, Hospital, Manor, Palace, School, Temple
-            "Building"
-    ) AS ?class_local_name)
-
-    # Get the entity's class IRI - gist:Building, gist:Landmark, tolo:Institution, 
-    # or tolo:Monastery
-    BIND(IF(?class_local_name IN ("Building", "Landmark"), 
-        tarql:expandPrefixedName(CONCAT("gist:", ?class_local_name)),
-        tarql:expandPrefixedName(CONCAT("tolo:", ?class_local_name))
-    ) AS ?class_iri)
-
-    # Get the entity's category - e.g., tolx:_PlaceFunction_manor
-    # Get the category class name used in the infix  
-    BIND(LCASE(REPLACE(?place_type_name, " ", "_")) AS ?type)
-    BIND(
-        COALESCE(
-            IF(?type IN ("monastery", "monastic_college", "nunnery"), "InstitutionType", ?unbound),
-            IF(?type IN ("cave", "hidden_land", "lake", "mountain"), "PlaceType", ?unbound),
-            # dharma_center, government_building, hermitage, hospital, manor, palace, school, 
-            # stupa, temple
-            "PlaceFunction"
-        ) AS ?category_class
-    )
-    BIND(tarql:expandPrefixedName(CONCAT("tolx:_", ?category_class, "_", ?type)) AS ?type_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_PlaceType_", LCASE(REPLACE(?place_type_name, " ", "_")))) AS ?place_type_iri)
 
 }
