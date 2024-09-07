@@ -1,0 +1,90 @@
+@prefix bdo: <http://purl.bdrc.io/ontology/core/> .
+@prefix bdr: <http://purl.bdrc.io/resource/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gist: <https://w3id.org/semanticarts/ns/ontology/gist/> .
+@prefix media-txt: <https://www.iana.org/assignments/media-types/text/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix told: <https://w3id.org/treasuryoflives/ns/data/tol/> .
+@prefix tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/> .
+@prefix tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+told:_Person_10019
+	tolo:hasPreincarnation
+		told:_Person_11877 ,
+		told:_Person_13077 ,
+		told:_Person_2051 ,
+		told:_Person_2589 ,
+		told:_Person_6194 ,
+		told:_Person_7326 ,
+		told:_Person_7776 ,
+		told:_Person_8539 ,
+		told:_Person_8746
+		;
+	.
+
+told:_Person_4358
+	tolo:hasPreincarnation
+		told:_Person_10065 ,
+		told:_Person_10199 ,
+		told:_Person_10299 ,
+		told:_Person_13891 ,
+		told:_Person_1820 ,
+		told:_Person_2080 ,
+		told:_Person_2137 ,
+		told:_Person_2232 ,
+		told:_Person_2712 ,
+		told:_Person_2738 ,
+		told:_Person_2873 ,
+		told:_Person_2882 ,
+		told:_Person_2993 ,
+		told:_Person_3014 ,
+		told:_Person_3164 ,
+		told:_Person_3182 ,
+		told:_Person_3959 ,
+		told:_Person_4261 ,
+		told:_Person_4344 ,
+		told:_Person_4630 ,
+		told:_Person_467 ,
+		told:_Person_5503 ,
+		told:_Person_5628 ,
+		told:_Person_5997 ,
+		told:_Person_6194 ,
+		told:_Person_6285 ,
+		told:_Person_6738 ,
+		told:_Person_7114 ,
+		told:_Person_7370 ,
+		told:_Person_7443 ,
+		told:_Person_7675 ,
+		told:_Person_8342 ,
+		told:_Person_8750 ,
+		told:_Person_8964 ,
+		told:_Person_9041 ,
+		told:_Person_9297 ,
+		told:_Person_9633
+		;
+	.
+
+told:_Person_6646
+	tolo:hasPreincarnation told:_Person_5644 ;
+	.
+
+told:_Person_8651
+	tolo:hasPreincarnation
+		told:_Person_10083 ,
+		told:_Person_10373 ,
+		told:_Person_8495
+		;
+	.
+
+told:_Person_9469
+	tolo:hasPreincarnation told:_Person_9265 ;
+	.
+
