@@ -14352,6 +14352,7 @@ told:_FormattedContent_uploads_communities_translator
 told:_IntellectualProperty_uploads_communities_00045_karsha
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karsha"@en ;
+	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1423 ;
 	.
 
@@ -14412,12 +14413,14 @@ told:_IntellectualProperty_uploads_communities_04097_ca90_se_01o_1
 told:_IntellectualProperty_uploads_communities_049e5_mawochok_2
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mawochok"@en ;
+	tolo:creationDate "2018-11-25T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_553 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_04b60_kumbum_medical_college
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kumbum Medical College"@en ;
+	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_925 ;
 	.
 
@@ -14526,18 +14529,21 @@ told:_IntellectualProperty_uploads_communities_0e389_kongpo_bonri_main
 told:_IntellectualProperty_uploads_communities_0e46a_thiksey_monastery_near_leh
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Thikse Monastery"@en ;
+	tolo:creationDate "2167-08-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1283 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0e589_ramoche
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ramoche "@en ;
+	tolo:creationDate "2019-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_899 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_0e669_thangu
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Thangu Monastery"@en ;
+	tolo:creationDate "2006-04-15T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1686 ;
 	.
 
@@ -14592,6 +14598,7 @@ told:_IntellectualProperty_uploads_communities_1148b_images
 told:_IntellectualProperty_uploads_communities_11683_dartang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dartang Monastery"@en ;
+	tolo:creationDate "2018-07-17T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_567 ;
 	.
 
@@ -14652,6 +14659,7 @@ told:_IntellectualProperty_uploads_communities_137e6_amarbayasgalant
 told:_IntellectualProperty_uploads_communities_13904_kokonor_lake
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kokonor"@en ;
+	tolo:creationDate "2015-08-08T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1142 ;
 	.
 
@@ -14706,6 +14714,7 @@ told:_IntellectualProperty_uploads_communities_16fdc_dzamtang
 told:_IntellectualProperty_uploads_communities_17e40_gungtang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsel Gungtang"@en ;
+	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_68 ;
 	.
 
@@ -14730,6 +14739,7 @@ told:_IntellectualProperty_uploads_communities_1a594_screen_shot_2016_08_08_at_2
 told:_IntellectualProperty_uploads_communities_1b462_serameindia
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sera (India)"@en ;
+	tolo:creationDate "2006-12-06T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1585 ;
 	.
 
@@ -14748,6 +14758,7 @@ told:_IntellectualProperty_uploads_communities_1bc42_rito_pendeling
 told:_IntellectualProperty_uploads_communities_1c21c_zhamar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhamar Monastery"@en ;
+	tolo:creationDate "2017-05-28T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1274 ;
 	.
 
@@ -14766,6 +14777,7 @@ told:_IntellectualProperty_uploads_communities_1c755_photo_3
 told:_IntellectualProperty_uploads_communities_1d112_chubzang_1
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chubzang Hermitage (Sera)"@en ;
+	tolo:creationDate "2006-04-16T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1021 ;
 	.
 
@@ -14790,6 +14802,7 @@ told:_IntellectualProperty_uploads_communities_1d265_zhai_lhakhang
 told:_IntellectualProperty_uploads_communities_1d368_khampa_gar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khampa Gar"@en ;
+	tolo:creationDate "2167-10-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_720 ;
 	.
 
@@ -14802,6 +14815,7 @@ told:_IntellectualProperty_uploads_communities_1d7b2_thumb_65868
 told:_IntellectualProperty_uploads_communities_1dcf8_namgyal_institute_of_tibetology
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namgyal Institute of Tibetology"@en ;
+	tolo:creationDate "2018-05-15T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1354 ;
 	.
 
@@ -14814,6 +14828,7 @@ told:_IntellectualProperty_uploads_communities_1ea6c_kumbum_kalacakra_college
 told:_IntellectualProperty_uploads_communities_1ee21_sanicrematorygrounds
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sani Gonpa"@en ;
+	tolo:creationDate "2012-07-18T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1305 ;
 	.
 
@@ -14832,6 +14847,7 @@ told:_IntellectualProperty_uploads_communities_1fad0_tsongkhapa_lhakhang
 told:_IntellectualProperty_uploads_communities_205c6_ensa___treasury_of_lives
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ensa"@en ;
+	tolo:creationDate "2010-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1419 ;
 	.
 
@@ -14844,6 +14860,7 @@ told:_IntellectualProperty_uploads_communities_20988_drakyangdzong
 told:_IntellectualProperty_uploads_communities_227e6_kagyu_dzong
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Dzong"@en ;
+	tolo:creationDate "2011-08-28T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1459 ;
 	.
 
@@ -14940,18 +14957,21 @@ told:_IntellectualProperty_uploads_communities_2a457_labrang_gyuto
 told:_IntellectualProperty_uploads_communities_2a646_khangsar_geluk
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khangsar"@en ;
+	tolo:creationDate "2018-07-26T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_673 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2a785_charasa
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Charasa"@en ;
+	tolo:creationDate "2018-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1418 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_2a87d_yumbu_lagang_gchilds_1985
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yumbu Lagang"@en ;
+	tolo:creationDate "1985-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1345 ;
 	.
 
@@ -14964,6 +14984,7 @@ told:_IntellectualProperty_uploads_communities_2aa92_screen_shot_2014_05_30_at_4
 told:_IntellectualProperty_uploads_communities_2b65c_matho_monastery
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Matho"@en ;
+	tolo:creationDate "2013-01-29T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1405 ;
 	.
 
@@ -14994,6 +15015,7 @@ told:_IntellectualProperty_uploads_communities_2e8f2_shey_palace
 told:_IntellectualProperty_uploads_communities_2e908_vihara_sarnath
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mulagandhakuti Vihara"@en ;
+	tolo:creationDate "2008-12-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1410 ;
 	.
 
@@ -15072,6 +15094,7 @@ told:_IntellectualProperty_uploads_communities_35627_trashigang_dzong
 told:_IntellectualProperty_uploads_communities_361d9_lachab
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lachab"@en ;
+	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1517 ;
 	.
 
@@ -15114,6 +15137,7 @@ told:_IntellectualProperty_uploads_communities_3ae2f_unknown
 told:_IntellectualProperty_uploads_communities_3b825_dobi_ganden
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dobi Ganden Pelgye Ling"@en ;
+	tolo:creationDate "2018-08-02T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_372 ;
 	.
 
@@ -15126,6 +15150,7 @@ told:_IntellectualProperty_uploads_communities_3badb_kha66_arcg_00_1
 told:_IntellectualProperty_uploads_communities_3bc65_palpung_sherabling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sherabling"@en ;
+	tolo:creationDate "2018-02-23T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1462 ;
 	.
 
@@ -15150,6 +15175,7 @@ told:_IntellectualProperty_uploads_communities_3c29a_screen_shot_2019_05_01_at_9
 told:_IntellectualProperty_uploads_communities_3c792_hiranayavarnamahavihar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hiraṇyavarṇa Mahāvihāra"@en ;
+	tolo:creationDate "2016-09-25T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1539 ;
 	.
 
@@ -15168,6 +15194,7 @@ told:_IntellectualProperty_uploads_communities_3d9a1_bhutanhouse
 told:_IntellectualProperty_uploads_communities_3df11_stupa_gampo_abbey
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gampo Abbey"@en ;
+	tolo:creationDate "2012-05-21T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1443 ;
 	.
 
@@ -15192,6 +15219,7 @@ told:_IntellectualProperty_uploads_communities_3f2b7_kyichu
 told:_IntellectualProperty_uploads_communities_3f3e4_samye_chimphu
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Samye Chimpu"@en ;
+	tolo:creationDate "1935-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_951 ;
 	.
 
@@ -15240,6 +15268,7 @@ told:_IntellectualProperty_uploads_communities_44400_kagyu_kunchab_chuling
 told:_IntellectualProperty_uploads_communities_46606_yiga_choeling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ghum Yiga Choeling"@en ;
+	tolo:creationDate "2018-05-15T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1524 ;
 	.
 
@@ -15282,6 +15311,7 @@ told:_IntellectualProperty_uploads_communities_496a9_yamdrok_tso
 told:_IntellectualProperty_uploads_communities_4995f_tsarang_monastery
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsarang"@en ;
+	tolo:creationDate "2014-10-25T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1595 ;
 	.
 
@@ -15372,12 +15402,14 @@ told:_IntellectualProperty_uploads_communities_4dd4e_gyelje
 told:_IntellectualProperty_uploads_communities_4e916_screen_shot_2016_03_24_at_2_12_46_pm
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tso Pema"@en ;
+	tolo:creationDate "2003-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1081 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_4f4ea_1618px_ka_nying_shedrub_ling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ka-Nying Shedrub Ling"@en ;
+	tolo:creationDate "2015-12-11T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1504 ;
 	.
 
@@ -15426,6 +15458,7 @@ told:_IntellectualProperty_uploads_communities_50ed9_padtseling
 told:_IntellectualProperty_uploads_communities_51369_stongdey
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stongdey"@en ;
+	tolo:creationDate "1994-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1421 ;
 	.
 
@@ -15444,6 +15477,7 @@ told:_IntellectualProperty_uploads_communities_52aa8_pelpung
 told:_IntellectualProperty_uploads_communities_536ab_kirti_ngawa
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kīrti Namgyel Dechen Ling"@en ;
+	tolo:creationDate "2003-02-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_484 ;
 	.
 
@@ -15498,6 +15532,7 @@ told:_IntellectualProperty_uploads_communities_59035_katsel
 told:_IntellectualProperty_uploads_communities_598a9_meru_dratsang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Meru Dratsang"@en ;
+	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_880 ;
 	.
 
@@ -15516,12 +15551,14 @@ told:_IntellectualProperty_uploads_communities_5a157_dagpo_shedrupling
 told:_IntellectualProperty_uploads_communities_5a7b5_kagyu_tsechokling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Tsekchok Ling"@en ;
+	tolo:creationDate "2167-09-30T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1695 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_5c4c1_diskit_monastery
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Diskit"@en ;
+	tolo:creationDate "2012-08-14T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1417 ;
 	.
 
@@ -15540,6 +15577,7 @@ told:_IntellectualProperty_uploads_communities_5d096_screen_shot_2015_03_16_at_1
 told:_IntellectualProperty_uploads_communities_5d191_rinak
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rinak"@en ;
+	tolo:creationDate "2007-09-30T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1692 ;
 	.
 
@@ -15642,12 +15680,14 @@ told:_IntellectualProperty_uploads_communities_660fd_tsangsarngamgo_n1
 told:_IntellectualProperty_uploads_communities_66134_stakna_monastery
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stakna"@en ;
+	tolo:creationDate "2013-01-26T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1587 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_66c1d_petub_khiid
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pethub Stangey Choskhorling"@en ;
+	tolo:creationDate "2008-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1412 ;
 	.
 
@@ -15732,6 +15772,7 @@ told:_IntellectualProperty_uploads_communities_6eade_muktinath_temple
 told:_IntellectualProperty_uploads_communities_6ee90_yungdrung_ling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yungdrung Ling"@en ;
+	tolo:creationDate "2014-12-20T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_861 ;
 	.
 
@@ -15762,6 +15803,7 @@ told:_IntellectualProperty_uploads_communities_70f3f_lerab_ling
 told:_IntellectualProperty_uploads_communities_7117b_naropa_university
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Naropa University"@en ;
+	tolo:creationDate "2012-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1442 ;
 	.
 
@@ -15774,6 +15816,7 @@ told:_IntellectualProperty_uploads_communities_7152d_screen_shot_2019_04_09_at_1
 told:_IntellectualProperty_uploads_communities_71ea8_hepori
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Hepo Ri"@en ;
+	tolo:creationDate "2012-06-04T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1348 ;
 	.
 
@@ -15810,6 +15853,7 @@ told:_IntellectualProperty_uploads_communities_73278_me_2
 told:_IntellectualProperty_uploads_communities_737c7_temple_des_1000_boudhas
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kagyu Ling"@en ;
+	tolo:creationDate "2007-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1460 ;
 	.
 
@@ -15822,6 +15866,7 @@ told:_IntellectualProperty_uploads_communities_743b7_ngor
 told:_IntellectualProperty_uploads_communities_74598_khyunglung_ngulkhar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khyunglung Ngulkhar"@en ;
+	tolo:creationDate "2000-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1364 ;
 	.
 
@@ -15846,6 +15891,7 @@ told:_IntellectualProperty_uploads_communities_762b1_lhasastreets15
 told:_IntellectualProperty_uploads_communities_7732b_kha76_se97_clh_1
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mentsikhang"@en ;
+	tolo:creationDate "1997-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_915 ;
 	.
 
@@ -15930,6 +15976,7 @@ told:_IntellectualProperty_uploads_communities_7b647_rizong
 told:_IntellectualProperty_uploads_communities_7bd1d_drumpa_house
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drumpa Manor House"@en ;
+	tolo:creationDate "1996-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1561 ;
 	.
 
@@ -15948,6 +15995,7 @@ told:_IntellectualProperty_uploads_communities_7daaa_34444790
 told:_IntellectualProperty_uploads_communities_7e61f_nyenchentanglha
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Nyenchen Tanglha"@en ;
+	tolo:creationDate "2006-05-09T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1402 ;
 	.
 
@@ -15978,6 +16026,7 @@ told:_IntellectualProperty_uploads_communities_827e8_unknown
 told:_IntellectualProperty_uploads_communities_82a6d_jamchen_lhakhang__boudha
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jamchen Lhakhang"@en ;
+	tolo:creationDate "2018-03-30T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1591 ;
 	.
 
@@ -16008,6 +16057,7 @@ told:_IntellectualProperty_uploads_communities_84287_pungpo_riwoche
 told:_IntellectualProperty_uploads_communities_8528b_yeru_wensakha
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yeru Wensakha"@en ;
+	tolo:creationDate "2014-02-20T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_245 ;
 	.
 
@@ -16020,6 +16070,7 @@ told:_IntellectualProperty_uploads_communities_86027_yongla_dungsam
 told:_IntellectualProperty_uploads_communities_860da_do_dorje_drak
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Do Dorje Drak"@en ;
+	tolo:creationDate "2158-11-30T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1323 ;
 	.
 
@@ -16074,6 +16125,7 @@ told:_IntellectualProperty_uploads_communities_8b810_zhalugon
 told:_IntellectualProperty_uploads_communities_8b8ad_lhalam
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhalam"@en ;
+	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1516 ;
 	.
 
@@ -16092,6 +16144,7 @@ told:_IntellectualProperty_uploads_communities_8c436_kanchendzonga_1
 told:_IntellectualProperty_uploads_communities_8c6b2_ani_tsemkhung
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ani Tsemkhung"@en ;
+	tolo:creationDate "1996-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1022 ;
 	.
 
@@ -16104,6 +16157,7 @@ told:_IntellectualProperty_uploads_communities_8cc32_screen_shot_2016_07_25_at_5
 told:_IntellectualProperty_uploads_communities_8d4a6_tsetang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsetang"@en ;
+	tolo:creationDate "2161-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_485 ;
 	.
 
@@ -16128,6 +16182,7 @@ told:_IntellectualProperty_uploads_communities_8fb28_derge_gonchens_parkhang
 told:_IntellectualProperty_uploads_communities_908a7_drakmar_drinzang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakmar Drinzang"@en ;
+	tolo:creationDate "1935-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1356 ;
 	.
 
@@ -16140,6 +16195,7 @@ told:_IntellectualProperty_uploads_communities_911cc_khamshe
 told:_IntellectualProperty_uploads_communities_914ba_gangri_tokar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gangri Tokar"@en ;
+	tolo:creationDate "2007-08-04T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1303 ;
 	.
 
@@ -16158,6 +16214,7 @@ told:_IntellectualProperty_uploads_communities_932f8_tharpaling
 told:_IntellectualProperty_uploads_communities_946dd_dzongoling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dzonggo Ling"@en ;
+	tolo:creationDate "2168-02-29T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1536 ;
 	.
 
@@ -16212,6 +16269,7 @@ told:_IntellectualProperty_uploads_communities_9c661_image009
 told:_IntellectualProperty_uploads_communities_9cb61_chenrezig_thekchen_choeling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tekchen Choling Tsuklagkhang"@en ;
+	tolo:creationDate "2003-07-21T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1678 ;
 	.
 
@@ -16242,6 +16300,7 @@ told:_IntellectualProperty_uploads_communities_9e592_labrang_kalacakra
 told:_IntellectualProperty_uploads_communities_9f196_dubdi
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Dubdi"@en ;
+	tolo:creationDate "2010-04-13T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1526 ;
 	.
 
@@ -16284,6 +16343,7 @@ told:_IntellectualProperty_uploads_communities_a0cc6_samstanling
 told:_IntellectualProperty_uploads_communities_a103d_reting_monastery_in_1950
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Reting Monastery"@en ;
+	tolo:creationDate "2006-12-05T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_327 ;
 	.
 
@@ -16308,6 +16368,7 @@ told:_IntellectualProperty_uploads_communities_a19b6_screen_shot_2015_08_26_at_1
 told:_IntellectualProperty_uploads_communities_a1c83_shambhala_mountain_center
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shambhala Mountain Center"@en ;
+	tolo:creationDate "2006-06-21T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1448 ;
 	.
 
@@ -16350,6 +16411,7 @@ told:_IntellectualProperty_uploads_communities_a5fbb_purbuchok_hermitage
 told:_IntellectualProperty_uploads_communities_a615b_chungtang_erschbamer2010
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chungtang"@en ;
+	tolo:creationDate "2167-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1552 ;
 	.
 
@@ -16458,6 +16520,7 @@ told:_IntellectualProperty_uploads_communities_ad789_yeshe_nyingpo
 told:_IntellectualProperty_uploads_communities_adad2_kandze
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Kandze Shedrub Norbu Ling"@en ;
+	tolo:creationDate "2167-03-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1608 ;
 	.
 
@@ -16476,6 +16539,7 @@ told:_IntellectualProperty_uploads_communities_aed4f_6853049
 told:_IntellectualProperty_uploads_communities_af5b5_gesar_lhakhang
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gesar Lhakhang"@en ;
+	tolo:creationDate "2012-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_873 ;
 	.
 
@@ -16512,6 +16576,7 @@ told:_IntellectualProperty_uploads_communities_b3310_tashi_cho_jong_or_tashichoe
 told:_IntellectualProperty_uploads_communities_b3386_namdzong_tse_0717
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Achung Namdzong"@en ;
+	tolo:creationDate "2016-07-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1428 ;
 	.
 
@@ -16536,12 +16601,14 @@ told:_IntellectualProperty_uploads_communities_b3ab9_dr04_0732
 told:_IntellectualProperty_uploads_communities_b471a_taklung
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taklung Monastery"@en ;
+	tolo:creationDate "1921-09-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_80 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b52dc_karme_choling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karmê Chöling"@en ;
+	tolo:creationDate "2013-06-25T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1445 ;
 	.
 
@@ -16554,6 +16621,7 @@ told:_IntellectualProperty_uploads_communities_b5564_cha76_ee96
 told:_IntellectualProperty_uploads_communities_b5dba_tabka_stupa
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tabka"@en ;
+	tolo:creationDate "2167-12-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1437 ;
 	.
 
@@ -16572,18 +16640,21 @@ told:_IntellectualProperty_uploads_communities_b64c4_tibet_institute_rikon
 told:_IntellectualProperty_uploads_communities_b67df_labrang_medical_college
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Labrang Medical College"@en ;
+	tolo:creationDate "2015-07-27T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_921 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b6ae2_shangshungdorjeden
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Zhangzhung Dorjeden"@en ;
+	tolo:creationDate "2007-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_197 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_b76b0_namgyal_palace_in_stok
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Stok Royal Palace"@en ;
+	tolo:creationDate "2013-07-06T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1407 ;
 	.
 
@@ -16614,6 +16685,7 @@ told:_IntellectualProperty_uploads_communities_b8cd5_screen_shot_2016_11_04_at_4
 told:_IntellectualProperty_uploads_communities_b9994_ganden_shedrub_pekar_ling
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ganden Shedrub Pekar Drolwai Ling"@en ;
+	tolo:creationDate "2015-07-02T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_363 ;
 	.
 
@@ -16644,6 +16716,7 @@ told:_IntellectualProperty_uploads_communities_bc927_dzongsho
 told:_IntellectualProperty_uploads_communities_bc950_langtang_akester
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Langtang"@en ;
+	tolo:creationDate "2006-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_199 ;
 	.
 
@@ -16656,6 +16729,7 @@ told:_IntellectualProperty_uploads_communities_bcab8_cha40_se94
 told:_IntellectualProperty_uploads_communities_bd18a_kyi_monastery
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Key"@en ;
+	tolo:creationDate "2018-07-19T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1414 ;
 	.
 
@@ -16680,6 +16754,7 @@ told:_IntellectualProperty_uploads_communities_be3da_trijanglabrang
 told:_IntellectualProperty_uploads_communities_bef92_cta_parliament
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Central Tibetan Administration"@en ;
+	tolo:creationDate "2018-05-17T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1543 ;
 	.
 
@@ -16692,6 +16767,7 @@ told:_IntellectualProperty_uploads_communities_c0399_screen_shot_2016_03_15_at_1
 told:_IntellectualProperty_uploads_communities_c0a41_tharlam_boudha
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tharlam"@en ;
+	tolo:creationDate "2015-10-27T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1573 ;
 	.
 
@@ -16704,6 +16780,7 @@ told:_IntellectualProperty_uploads_communities_c0f66_sakya_monastery_81872
 told:_IntellectualProperty_uploads_communities_c17a1_lo_gekar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lo Gekar"@en ;
+	tolo:creationDate "2015-10-05T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1593 ;
 	.
 
@@ -16734,6 +16811,7 @@ told:_IntellectualProperty_uploads_communities_c2e9a_ea_20121012214221
 told:_IntellectualProperty_uploads_communities_c30ba_daktok
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Daktok"@en ;
+	tolo:creationDate "2010-08-26T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1398 ;
 	.
 
@@ -16758,6 +16836,7 @@ told:_IntellectualProperty_uploads_communities_c36e9_samye
 told:_IntellectualProperty_uploads_communities_c3c33_ladrang_gon
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhadrang Monastery"@en ;
+	tolo:creationDate "2023-06-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1339 ;
 	.
 
@@ -16794,12 +16873,14 @@ told:_IntellectualProperty_uploads_communities_c5ad3_w020110119359010499579
 told:_IntellectualProperty_uploads_communities_c6380_taktsang_lhamo_kirti
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taktsang Lhamo Kīrti"@en ;
+	tolo:creationDate "2015-07-02T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1426 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_c6448_1280px_norbulingka
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Norbulingkha"@en ;
+	tolo:creationDate "2006-05-23T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_906 ;
 	.
 
@@ -16812,6 +16893,7 @@ told:_IntellectualProperty_uploads_communities_c65b5_screen_shot_2017_06_20_at_7
 told:_IntellectualProperty_uploads_communities_c6eef_ivolginsky_datsan
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ivolginsky Datsan"@en ;
+	tolo:creationDate "2017-07-05T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1413 ;
 	.
 
@@ -16848,6 +16930,7 @@ told:_IntellectualProperty_uploads_communities_c87c3_tharlam
 told:_IntellectualProperty_uploads_communities_c97f3_tokden
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tokden Monastery"@en ;
+	tolo:creationDate "2016-02-25T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1179 ;
 	.
 
@@ -16956,6 +17039,7 @@ told:_IntellectualProperty_uploads_communities_d2e22_unknown
 told:_IntellectualProperty_uploads_communities_d30a2_drakkar_taso_gchilds_2000
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drakkar Taso"@en ;
+	tolo:creationDate "2000-07-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1232 ;
 	.
 
@@ -17010,6 +17094,7 @@ told:_IntellectualProperty_uploads_communities_d647f_bardan
 told:_IntellectualProperty_uploads_communities_d65b9_phugtal
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Phuktal"@en ;
+	tolo:creationDate "1991-08-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1422 ;
 	.
 
@@ -17076,6 +17161,7 @@ told:_IntellectualProperty_uploads_communities_d81d7_dzogchen
 told:_IntellectualProperty_uploads_communities_d8bd1_taklunggandendamcholing
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Taklung Ganden Damcho Ling"@en ;
+	tolo:creationDate "2017-05-28T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_831 ;
 	.
 
@@ -17100,6 +17186,7 @@ told:_IntellectualProperty_uploads_communities_db30a_ga27_ne_01
 told:_IntellectualProperty_uploads_communities_db3b4_fort_bihar
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Odantapuri"@en ;
+	tolo:creationDate "1875-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1331 ;
 	.
 
@@ -17118,6 +17205,7 @@ told:_IntellectualProperty_uploads_communities_dc9df_kunzang_dechen_dzong
 told:_IntellectualProperty_uploads_communities_dcb99_papyuk_2010_m_erschbamer
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Papyuk"@en ;
+	tolo:creationDate "2167-05-31T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1696 ;
 	.
 
@@ -17142,6 +17230,7 @@ told:_IntellectualProperty_uploads_communities_df193_doling
 told:_IntellectualProperty_uploads_communities_df9e8_spituk
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Spituk"@en ;
+	tolo:creationDate "2009-12-04T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1406 ;
 	.
 
@@ -17160,6 +17249,7 @@ told:_IntellectualProperty_uploads_communities_e2ccb_dratang
 told:_IntellectualProperty_uploads_communities_e31ef_tsang_chumik
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Chumik"@en ;
+	tolo:creationDate "1994-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1329 ;
 	.
 
@@ -17208,6 +17298,7 @@ told:_IntellectualProperty_uploads_communities_e5b6e_z36_ee_01o
 told:_IntellectualProperty_uploads_communities_e5bc7_tanak_tubten_namgyal
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tanak Tubten Namgyel "@en ;
+	tolo:creationDate "2166-06-30T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_270 ;
 	.
 
@@ -17220,6 +17311,7 @@ told:_IntellectualProperty_uploads_communities_e5c7b_drakri_1
 told:_IntellectualProperty_uploads_communities_e639c_paritashicholing
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pari Tashi Choling "@en ;
+	tolo:creationDate "2017-05-19T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_346 ;
 	.
 
@@ -17304,12 +17396,14 @@ told:_IntellectualProperty_uploads_communities_eb640_bundesarchiv_nedong
 told:_IntellectualProperty_uploads_communities_eb934_img_7193
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ringu Monastery"@en ;
+	tolo:creationDate "2015-07-14T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1216 ;
 	.
 
 told:_IntellectualProperty_uploads_communities_ec737_yarlung_sheldrag_gchilds_1985
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Yarlung Sheldrak"@en ;
+	tolo:creationDate "1985-04-01T00:00:00"^^xsd:dateTime ;
 	tolo:depicts told:_Place_1184 ;
 	.
 
