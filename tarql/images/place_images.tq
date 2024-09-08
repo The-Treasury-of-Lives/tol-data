@@ -54,6 +54,7 @@ CONSTRUCT {
         a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?place_iri ;
+        tolo:creationDate ?creation_date ;
         .
 
     ?source_iri
