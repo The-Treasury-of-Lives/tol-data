@@ -31,18 +31,40 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?image_iri
+    ?image_file_iri 
         a gist:FormattedContent ;
         skos:prefLabel ?image_label_en ;
-        gist:isAbout ?place_iri ;
+        tolo:depicts ?work_iri ;
         tolo:credit ?credit ;
         gist:license ?license ;      
-        tolo:sourceUrl ?source_url ;
-        tolo:creationDate ?creation_date ;
-        tolo:filePath ?image_path ;
+        gist:hasAddress 
+            ?source_iri ,
+            ?file_path_iri ;
         gist:isExpressedIn ?media_type_iri ;
         .
 
+    ?file_path_iri 
+        a gist:Address ;
+        skos:prefLabel ?image_path ;
+        gist:isCategorizedBy tolx:_ElectronicAddressType_file_path ;
+        gist:containedText ?image_path ;
+        .
+
+    ?work_iri   
+        a gist:IntellectualProperty ;
+        skos:prefLabel ?image_label_en ;
+        tolo:depicts ?place_iri ;
+        .
+
+    ?source_iri
+        a gist:Address ;
+        skos:prefLabel ?source_label ;
+        gist:isCategorizedBy 
+            tolx:_ElectronicAddressType_url ,
+            tolx:_AddressUsageType_source ;
+        gist:containedText ?source_url ;
+        .
+  
 }
 
 WHERE {
@@ -51,8 +73,12 @@ WHERE {
     # FILTER(?ROWNUM = 5)
 
     # Use image path for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\W", "_"), "\\.[^.]+$", "")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent", ?filename)) AS ?image_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\.[^\\.]+$", ""), "\\W", "_")) AS ?filename)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent", ?filename)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?work_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Address_file_path", ?filename)) AS ?file_path_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Address_source", ?filename)) AS ?source_iri)
+
     BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(
@@ -70,6 +96,7 @@ WHERE {
     BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license)
 
     BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
+    BIND(IF(?image_source_url != "NULL", ?image_source_url, ?unbound) AS ?source_label)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
 

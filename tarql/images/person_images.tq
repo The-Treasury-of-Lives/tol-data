@@ -36,19 +36,18 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?image_iri
+    ?image_file_iri
         a gist:FormattedContent ;
         skos:prefLabel ?image_label_en ;
-        gist:isAbout ?person_iri ;
+        tolo:depicts ?work_iri ;
         gist:isCategorizedBy ?rank_iri ;
-        tolo:credit ?credit ;
         tolo:caption ?caption_en ;
-        gist:isIdentifiedBy ?har_number_iri ;
 
         # File metadata
+        tolo:credit ?credit ;
         tolo:fileName ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isExpressedIn ?file_media_type_iri ;
+        gist:isExpressedIn ?media_type_iri ;
 
         # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
@@ -57,11 +56,18 @@ CONSTRUCT {
         tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
+    ?work_iri   
+        a gist:IntellectualProperty ;
+        skos:prefLabel ?image_label_en ;
+        tolo:depicts ?person_iri ;
+        gist:isIdentifiedBy ?har_number_iri ;
+        .
+
     ?thumbnail_iri 
         a gist:FormattedContent ;
-        skos:prefLabel ?image_label_en ;
+        skos:prefLabel ?thumb_file_name ;
         tolo:fileName ?thumb_file_name ;
-        gist:isCategorizedBy ?thumb_media_type_iri ;
+        gist:isCategorizedBy ?media_type_iri ;
         .
 
     ?har_number_iri
@@ -79,29 +85,22 @@ WHERE {
 
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_iri)
 
-    # Main image media type
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
+
+    # Media type (applies to both main image and thumbnail)
     BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(
             IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
             IF(?image_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?file_media_type_iri
+        ) AS ?media_type_iri
     )
 
     # Thumbnail
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_name)
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?thumb_name)) AS ?thumbnail_iri)
-
-    # Not sure whether we can assume the thumbnail always has the same media type as the main image.
-    BIND(LCASE(REPLACE(?thumb_file_name, "^.+\\.", "")) AS ?thumb_file_ext)
-    BIND(
-        COALESCE(
-            IF(?thumb_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
-            IF(?thumb_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?thumb_media_type_iri
-    )
 
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
