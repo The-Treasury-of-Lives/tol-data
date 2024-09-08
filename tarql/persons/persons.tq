@@ -85,26 +85,36 @@ CONSTRUCT {
     ?lotsawa_house_iri
         a gist:ElectronicAddress ;
         gist:isCategorizedBy 
-            tolx:_
-        tolx:_ReferenceType_lotsawa_house ;
+            tolx:_AddressUsageType_reference ,
+            tolx:_ElectronicAddressType_url ;
+        gist:refersTo told:_Website_lotsawa_house ;
         tolo:url ?lotsawa_house_url ;
         .
 
     ?har_iri
-        a tolo:Reference ;
-        gist:isCategorizedBy tolx:_ReferenceType_har ;
+        a gist:ElectronicAddress ;
+        gist:isCategorizedBy 
+            tolx:_AddressUsageType_reference ,
+            tolx:_ElectronicAddressType_url ;
+        gist:refersTo told:_Website_har ;
         tolo:url ?har_url ;
         .
 
     # ?rma_iri
-    #     a tolo:Reference ;
-    #     gist:isCategorizedBy tolx:_ReferenceType_rma ;
+    #     a gist:ElectronicAddress ;
+    #     gist:isCategorizedBy 
+    #         tolx:_AddressUsageType_reference ,
+    #         tolx:_ElectronicAddressType_url ;
+    #     gist:refersTo told:_Website_rma ;
     #     tolo:url ?rma_url ;
     #     .
 
     # ?84000_iri
-    #     a tolo:Reference ;
-    #     gist:isCategorizedBy tolx:_ReferenceType_84000 ;
+    #     a gist:ElectronicAddress ;
+    #     gist:isCategorizedBy 
+    #         tolx:_AddressUsageType_reference ,
+    #         tolx:_ElectronicAddressType_url ;
+    #     gist:refersTo told:_Website_84000 ;
     #     tolo:url ?84000_url ;
     #     .
 
@@ -152,21 +162,21 @@ WHERE {
 
     # REFERENCES
     # Lotsawa House
-    BIND(IF(BOUND(?Lotsawa_House_URL), tarql:expandPrefixedName(CONCAT("told:_Reference_lotsawa_house_Person_", ?TOL_ID)), ?unbound) AS ?lotsawa_house_reference_iri)
-    BIND(IF(BOUND(?lotsawa_house_reference_iri), STRDT(?Lotsawa_House_URL, xsd:anyURI), ?unbound) AS ?lotsawa_house_url)
+    BIND(IF(BOUND(?Lotsawa_House_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_lotsawa_house_Person_", ?TOL_ID)), ?unbound) AS ?lotsawa_house_iri)
+    BIND(IF(BOUND(?lotsawa_house_iri), STRDT(?Lotsawa_House_URL, xsd:anyURI), ?unbound) AS ?lotsawa_house_url)
 
     # HAR
-    BIND(IF(BOUND(?HAR_URL), tarql:expandPrefixedName(CONCAT("told:_Reference_har_Person_", ?TOL_ID)), ?unbound) AS ?har_reference_iri)
+    BIND(IF(BOUND(?HAR_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_har_Person_", ?TOL_ID)), ?unbound) AS ?har_iri)
     BIND(STRDT(?HAR_URL, xsd:anyURI) AS ?har_url)
     BIND(IF(BOUND(?HAR_URL), CONCAT("HAR ", ?har_nbr), ?unbound) AS ?har_label)
 
     # RMA
-    # BIND(IF(BOUND(?RMA_URL), tarql:expandPrefixedName(CONCAT("told:_Reference_rma_Person_", ?TOL_ID)), ?unbound) AS ?rma_reference_iri)
-    # BIND(IF(BOUND(?rma_reference_iri), STRDT(?RMA_URL, xsd:anyURI), ?unbound) AS ?rma_url)
+    # BIND(IF(BOUND(?RMA_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_rma_Person_", ?TOL_ID)), ?unbound) AS ?rma_iri)
+    # BIND(IF(BOUND(?rma_iri), STRDT(?RMA_URL, xsd:anyURI), ?unbound) AS ?rma_url)
 
     # 84000
-    # BIND(IF(BOUND(?84000_URL), tarql:expandPrefixedName(CONCAT("told:_Reference_84000_Person_", ?TOL_ID)), ?unbound) AS ?84000_reference_iri)
-    # BIND(IF(BOUND(?84000_reference_iri), STRDT(?84000_URL, xsd:anyURI), ?unbound) AS ?84000_url)
+    # BIND(IF(BOUND(?84000_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_84000_Person_", ?TOL_ID)), ?unbound) AS ?84000_iri)
+    # BIND(IF(BOUND(?84000_iri), STRDT(?84000_URL, xsd:anyURI), ?unbound) AS ?84000_url)
 
 
     # NAMES AND TITLES
