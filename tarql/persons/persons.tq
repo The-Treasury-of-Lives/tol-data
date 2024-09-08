@@ -75,32 +75,34 @@ CONSTRUCT {
 
         # The relationship is not always as specific as aboutness, so use the more general rdfs:seeAlso.
         rdfs:seeAlso
-            ?lotsawa_house_reference_iri ,
-            ?har_reference_iri 
-            # ?rma_url ,
-            # ?84000_url 
+            ?lotsawa_house_iri ,
+            ?har_iri 
+            # ?rma_iri ,
+            # ?84000_iri 
             ;
         .
 
-    ?lotsawa_house_reference_iri
-        a tolo:Reference ;
-        gist:isCategorizedBy tolx:_ReferenceType_lotsawa_house ;
+    ?lotsawa_house_iri
+        a gist:ElectronicAddress ;
+        gist:isCategorizedBy 
+            tolx:_
+        tolx:_ReferenceType_lotsawa_house ;
         tolo:url ?lotsawa_house_url ;
         .
 
-    ?har_reference_iri
+    ?har_iri
         a tolo:Reference ;
         gist:isCategorizedBy tolx:_ReferenceType_har ;
         tolo:url ?har_url ;
         .
 
-    # ?rma_reference_iri
+    # ?rma_iri
     #     a tolo:Reference ;
     #     gist:isCategorizedBy tolx:_ReferenceType_rma ;
     #     tolo:url ?rma_url ;
     #     .
 
-    # ?84000_reference_iri
+    # ?84000_iri
     #     a tolo:Reference ;
     #     gist:isCategorizedBy tolx:_ReferenceType_84000 ;
     #     tolo:url ?84000_url ;

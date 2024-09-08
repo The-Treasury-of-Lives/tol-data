@@ -105,7 +105,7 @@ CONSTRUCT {
         .
 
     ?source_iri
-        a gist:Address ;
+        a gist:ElectronicAddress ;
         skos:prefLabel ?source_en ;
         gist:isCategorizedBy 
             tolx:_ElectronicAddressType_url ,
@@ -171,7 +171,7 @@ WHERE {
     BIND(STRLANG(?location, "en") AS ?location_label_en)
 
     # If there's a source URL, create an address object.
-    BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_Address_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
+    BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
     BIND(IF(BOUND(?source_url), STRDT(?source_url, xsd:anyURI), ?unbound) AS ?source_address)
     BIND(STRLANG(?source, "en") AS ?source_en)
 

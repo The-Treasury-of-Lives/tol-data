@@ -58,7 +58,7 @@ CONSTRUCT {
         .
 
     ?source_iri
-        a gist:Address ;
+        a gist:ElectronicAddress ;
         skos:prefLabel ?source_label ;
         gist:isCategorizedBy 
             tolx:_ElectronicAddressType_url ,
@@ -77,8 +77,8 @@ WHERE {
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\.[^\\.]+$", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?work_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Address_file_path", ?filename)) AS ?file_path_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Address_source", ?filename)) AS ?source_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_file_path", ?filename)) AS ?file_path_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source", ?filename)) AS ?source_iri)
 
     BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
