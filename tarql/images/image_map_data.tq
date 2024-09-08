@@ -59,8 +59,8 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_map_id)) AS ?image_part_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_id)) AS ?image_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Image_Section_", ?painting_map_id)) AS ?image_part_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Image_", ?painting_id)) AS ?image_iri)
 
     BIND(STRLANG(?default_name, "en") AS ?label_en)
     BIND(STRLANG(?wylie_name, "bo-x-ewts") AS ?label_wylie)  
