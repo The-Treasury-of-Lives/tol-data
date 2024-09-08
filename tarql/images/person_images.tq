@@ -42,8 +42,6 @@ CONSTRUCT {
         tolo:depicts ?work_iri ;
         gist:isCategorizedBy ?rank_iri ;
         tolo:caption ?caption_en ;
-
-        # File metadata
         tolo:credit ?credit ;
         tolo:fileName ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
@@ -65,7 +63,7 @@ CONSTRUCT {
 
     ?thumbnail_iri 
         a gist:FormattedContent ;
-        skos:prefLabel ?thumb_file_name ;
+        skos:prefLabel ?image_label_en ;
         tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?media_type_iri ;
         .
@@ -85,8 +83,9 @@ WHERE {
 
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
-
+    
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_file_iri)
+
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
 
     # Media type (applies to both main image and thumbnail)
