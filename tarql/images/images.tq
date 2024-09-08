@@ -32,37 +32,31 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # is_locked (ignore)
 # lock_user_id (ignore)
 # lock_date (ignore)
+# location
 # source
+# source_original (temporary - ignore)
 # source_url
+# creator_name
+# creator_tol_id
 # type
 # century
-# tradition (ignore)
 # tradition_id 
-# tbrc_gid
-# artist_name
-# artist_tbrc_pid
+# tol_place_id
 
 # Run: 
-# tarql -e utf-8 images.tq painting-8-5-24.csv > tolImages.ttl
+# tarql -e utf-8 images.tq painting-9-6-24.csv > tolImages.ttl
 
 CONSTRUCT {
 
-    ?image_iri
+    ?image_file_iri
         a gist:FormattedContent ;
         skos:prefLabel ?title_en ;
-        gist:description ?description_en ;
-        gist:isConnectedTo ?tradition_iri ,
-            ?historical_period_iri ;
-        # TODO This really pertains to the subject of the image, not the image itself (e.g., the file is an image of a sculpture, the file itself is not a sculpture)
-        gist:isCategorizedBy ?work_type_iri ;
-        tolo:sourceUrl ?source_url_anyURI ;
-        tolo:credit ?credit_en ;
-        gist:isIdentifiedBy ?har_number_iri ;
-
-        # File metadata
+        tolo:depicts ?work_iri ;
         tolo:fileName ?image_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
-        gist:isExpressedIn ?file_media_type_iri ;
+        gist:isExpressedIn ?media_type_iri ;
+        gist:hasAddress ?source_iri ;
+        tolo:credit ?credit_en ;
 
         # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
@@ -71,11 +65,36 @@ CONSTRUCT {
         tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
+    ?work_iri   
+        a gist:IntellectualProperty ;
+        skos:prefLabel ?title_en ;
+        gist:description ?description_en ;
+        gist:isConnectedTo ?tradition_iri ,
+            ?historical_period_iri ,
+            ?place_iri ;
+        gist:isCategorizedBy ?work_type_iri ;
+        gist:isIdentifiedBy ?har_number_iri ;
+        gist:hasPhysicalLocation ?work_location_iri ;
+        tolo:isCreatedBy ?creator_iri ;
+        .
+
+    ?creator_iri    
+        a ?person_class ;
+        skos:prefLabel ?creator_name_en ;
+        gist:name ?creator_name_en ;
+        . 
+
+    ?work_location_iri   
+        a gist:Place ;
+        skos:prefLabel ?location_label_en ;
+        gist:name ?location_label_en ;
+        .
+
     ?thumbnail_iri 
         a tolo:FormattedContent ;
         skos:prefLabel ?title_en ;
         tolo:fileName ?thumb_name ;
-        gist:isExpressedIn ?thumb_media_type_iri ;
+        gist:isExpressedIn ?media_type_iri ;
         .
 
     ?har_number_iri
@@ -85,6 +104,17 @@ CONSTRUCT {
         gist:uniqueText ?har_nbr ;
         .
 
+    ?source_iri
+        a gist:Address ;
+        skos:prefLabel ?source_en ;
+        gist:isCategorizedBy 
+            tolx:_ElectronicAddressType_url ,
+            tolx:_AddressUsageType_source ;
+        # Can't use gist:containedText since its range is xsd:string.
+        tolo:url ?source_address ;
+        .
+
+
 }
 
 WHERE {
@@ -92,25 +122,19 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?painting_id)) AS ?image_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Image_", ?painting_id)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?painting_id)) AS ?work_iri)
 
     BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
     BIND(
         COALESCE(
             IF(?file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
             IF(?file_ext = "png", media-image:png, ?unbound)
-        ) AS ?file_media_type_iri
+        ) AS ?media_type_iri
     )
 
     # Thumbnail
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Thumbnail_", ?painting_id)) AS ?thumbnail_iri)
-    BIND(LCASE(REPLACE(?thumb_name, "^.+\\.", "")) AS ?thumb_file_ext)
-    BIND(
-        COALESCE(
-            IF(?thumb_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
-            IF(?thumb_file_ext = "png", media-image:png, ?unbound)
-        ) AS ?thumb_media_type_iri
-    )
 
     # Name
     BIND(STRLANG(?title, "en") AS ?title_en)
@@ -122,7 +146,15 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_nbr)) AS ?har_number_iri)
     BIND(CONCAT("HAR ", ?har_nbr) AS ?har_label)
 
+    # Work category
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_WorkType_", ?type)) AS ?work_type_iri)
+
+    # Creator
+    BIND(IF(BOUND(?creator_tol_id), tarql:expandPrefixedName(CONCAT("told:_Person_", ?creator_tol_id)), ?unbound) AS ?existing_creator_iri)
+    BIND(IF(!BOUND(?existing_creator_iri) && BOUND(?creator_name), tarql:expandPrefixedName(CONCAT("told:_Person_", LCASE(REPLACE(REPLACE(?creator_name, "[,\\.]", ""), " ", "_")))), ?unbound) AS ?new_creator_iri)
+    BIND(IF(BOUND(?new_creator_iri), STRLANG(?creator_name, "en"), ?unbound) AS ?creator_name_en)
+    BIND(IF(BOUND(?new_creator_iri), tarql:expandPrefixedName("gist:Person"), ?unbound) AS ?person_class)
+    BIND(COALESCE(?existing_creator_iri, ?new_creator_iri) AS ?creator_iri)
 
     # Historical period
     BIND(IF(?century != "0", tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?century)), ?unbound) AS ?historical_period_iri)
@@ -131,9 +163,20 @@ WHERE {
     OPTIONAL { ?tradition_ID apf:strSplit(?tradition_id "; ") }
     BIND(tarql:expandPrefixedName(CONCAT("told:_Tradition_", ?tradition_ID)) AS ?tradition_iri)
 
-    # Sources and credits
-    BIND(STRDT(?source_url, xsd:anyURI) AS ?source_url_anyURI)
-    BIND(STRLANG(?source, "en") AS ?credit_en)
+    # Related place
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?tol_place_id)) AS ?place_iri)
+
+    # Physical location of work (museum, collection, etc.)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", LCASE(REPLACE(?location, " ", "_")))) AS ?work_location_iri)
+    BIND(STRLANG(?location, "en") AS ?location_label_en)
+
+    # If there's a source URL, create an address object.
+    BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_Address_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
+    BIND(IF(BOUND(?source_url), STRDT(?source_url, xsd:anyURI), ?unbound) AS ?source_address)
+    BIND(STRLANG(?source, "en") AS ?source_en)
+
+    # If there's source text with no URL, and it's different from the location, make it the credit.
+    BIND(IF(!BOUND(?source_url) && (!BOUND(?location) || ?source != ?location), ?source_en, ?unbound) AS ?credit_en)
 
     # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
