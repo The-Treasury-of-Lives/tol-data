@@ -49,7 +49,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_file_iri
-        a gist:FormattedContent ;
+        a tolo:Image ;
         skos:prefLabel ?title_en ;
         tolo:depicts ?work_iri ;
         tolo:fileName ?image_name ;
@@ -91,7 +91,7 @@ CONSTRUCT {
         .
 
     ?thumbnail_iri 
-        a tolo:FormattedContent ;
+        a tolo:Image ;
         skos:prefLabel ?title_en ;
         tolo:fileName ?thumb_name ;
         gist:isExpressedIn ?media_type_iri ;
@@ -122,7 +122,7 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Image_", ?painting_id)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?painting_id)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?painting_id)) AS ?work_iri)
 
     BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
@@ -134,7 +134,7 @@ WHERE {
     )
 
     # Thumbnail
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Thumbnail_", ?painting_id)) AS ?thumbnail_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_Thumbnail_", ?painting_id)) AS ?thumbnail_iri)
 
     # Name
     BIND(STRLANG(?title, "en") AS ?title_en)

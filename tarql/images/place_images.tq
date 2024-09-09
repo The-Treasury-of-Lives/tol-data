@@ -32,7 +32,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_file_iri 
-        a gist:FormattedContent ;
+        a tolo:Image ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
         tolo:credit ?credit ;
@@ -75,7 +75,7 @@ WHERE {
 
     # Use image path for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "['()]", ""), "\\.[^\\.]+$", ""), "\\W", "_")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent", ?filename)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty", ?filename)) AS ?work_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_file_path", ?filename)) AS ?file_path_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source", ?filename)) AS ?source_iri)

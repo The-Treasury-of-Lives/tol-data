@@ -37,7 +37,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_file_iri
-        a gist:FormattedContent ;
+        a tolo:Image ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
         gist:isCategorizedBy ?rank_iri ;
@@ -62,7 +62,7 @@ CONSTRUCT {
         .
 
     ?thumbnail_iri 
-        a gist:FormattedContent ;
+        a tolo:Image ;
         skos:prefLabel ?image_label_en ;
         tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?media_type_iri ;
@@ -84,7 +84,7 @@ WHERE {
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
     
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?filename)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
 
@@ -99,7 +99,7 @@ WHERE {
 
     # Thumbnail
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_name)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_", ?thumb_name)) AS ?thumbnail_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?thumb_name)) AS ?thumbnail_iri)
 
     BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
     
