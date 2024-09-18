@@ -23,13 +23,14 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 # Wikidata ID
 # Name
 # Wylie Name
+# Tibetan
 # Chinese
 # Founder TOL ID (may be multiple)
 # Parent TOL ID
 # Description
 
 # Run: 
-# tarql -e utf-8 --dedup 1000 traditions.tq traditions-5-22-23.csv > tolTraditions.ttl
+# tarql -e utf-8 --dedup 1000 traditions.tq traditions-9-15-24.csv > tolTraditions.ttl
 
 
 CONSTRUCT {
@@ -42,10 +43,12 @@ CONSTRUCT {
         skos:prefLabel 
             ?name_en , 
             ?name_wylie , 
+            ?name_tibetan ,
             ?name_chinese ;
         tolo:primaryName 
             ?name_en , 
             ?name_wylie , 
+            ?name_tibetan ,
             ?name_chinese ;
         tolo:hasFounder ?founder_iri ;
         tolo:isDerivedFrom ?parent_tradition_iri ;
@@ -77,6 +80,7 @@ WHERE {
     # Names
     BIND(STRLANG(?Name, "en") AS ?name_en)
     BIND(STRLANG(?Wylie_Name, "bo-x-ewts") AS ?name_wylie)
+    BIND(STRLANG(?Tibetan, "bo") AS ?name_tibetan)
     BIND(STRLANG(?Chinese, "zh-Hani") AS ?name_chinese)
 
     # Founder(s)

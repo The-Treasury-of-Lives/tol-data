@@ -227,6 +227,13 @@ told:_TeacherStudentRelationship_10019_9083
 	gist:hasRecipient told:_Person_9083 ;
 	.
 
+told:_TeacherStudentRelationship_10019_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10019 - Student 9278"@en ;
+	gist:hasGiver told:_Person_10019 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_10019_9722
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 10019 - Student 9722"@en ;
@@ -260,6 +267,13 @@ told:_TeacherStudentRelationship_10073_3485
 	skos:prefLabel "Teacher 10073 - Student 3485"@en ;
 	gist:hasGiver told:_Person_10073 ;
 	gist:hasRecipient told:_Person_3485 ;
+	.
+
+told:_TeacherStudentRelationship_10073_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10073 - Student 9278"@en ;
+	gist:hasGiver told:_Person_10073 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_10083_10073
@@ -318,6 +332,13 @@ told:_TeacherStudentRelationship_10103_13820
 	gist:hasRecipient told:_Person_13820 ;
 	.
 
+told:_TeacherStudentRelationship_10113_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10113 - Student 9278"@en ;
+	gist:hasGiver told:_Person_10113 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_10135_13648
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 10135 - Student 13648"@en ;
@@ -330,6 +351,13 @@ told:_TeacherStudentRelationship_10169_12180
 	skos:prefLabel "Teacher 10169 - Student 12180"@en ;
 	gist:hasGiver told:_Person_10169 ;
 	gist:hasRecipient told:_Person_12180 ;
+	.
+
+told:_TeacherStudentRelationship_10169_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10169 - Student 9278"@en ;
+	gist:hasGiver told:_Person_10169 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_10203_12479
@@ -365,6 +393,13 @@ told:_TeacherStudentRelationship_10298_3417
 	skos:prefLabel "Teacher 10298 - Student 3417"@en ;
 	gist:hasGiver told:_Person_10298 ;
 	gist:hasRecipient told:_Person_3417 ;
+	.
+
+told:_TeacherStudentRelationship_10298_4935
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10298 - Student 4935"@en ;
+	gist:hasGiver told:_Person_10298 ;
+	gist:hasRecipient told:_Person_4935 ;
 	.
 
 told:_TeacherStudentRelationship_10301_3417
@@ -409,6 +444,13 @@ told:_TeacherStudentRelationship_10355_13249
 	gist:hasRecipient told:_Person_13249 ;
 	.
 
+told:_TeacherStudentRelationship_10443_13889
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10443 - Student 13889"@en ;
+	gist:hasGiver told:_Person_10443 ;
+	gist:hasRecipient told:_Person_13889 ;
+	.
+
 told:_TeacherStudentRelationship_10449_12741
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 10449 - Student 12741"@en ;
@@ -442,6 +484,13 @@ told:_TeacherStudentRelationship_10457_13884
 	skos:prefLabel "Teacher 10457 - Student 13884"@en ;
 	gist:hasGiver told:_Person_10457 ;
 	gist:hasRecipient told:_Person_13884 ;
+	.
+
+told:_TeacherStudentRelationship_10457_2953
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 10457 - Student 2953"@en ;
+	gist:hasGiver told:_Person_10457 ;
+	gist:hasRecipient told:_Person_2953 ;
 	.
 
 told:_TeacherStudentRelationship_10548_9761
@@ -773,6 +822,13 @@ told:_TeacherStudentRelationship_11385_13860
 	gist:hasRecipient told:_Person_13860 ;
 	.
 
+told:_TeacherStudentRelationship_11385_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 11385 - Student 9278"@en ;
+	gist:hasGiver told:_Person_11385 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_11396_13859
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 11396 - Student 13859"@en ;
@@ -862,6 +918,13 @@ told:_TeacherStudentRelationship_12040_8507
 	skos:prefLabel "Teacher 12040 - Student 8507"@en ;
 	gist:hasGiver told:_Person_12040 ;
 	gist:hasRecipient told:_Person_8507 ;
+	.
+
+told:_TeacherStudentRelationship_12040_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12040 - Student 9278"@en ;
+	gist:hasGiver told:_Person_12040 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_12093_11385
@@ -1053,6 +1116,13 @@ told:_TeacherStudentRelationship_12489_10355
 	gist:hasRecipient told:_Person_10355 ;
 	.
 
+told:_TeacherStudentRelationship_12489_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12489 - Student 12980"@en ;
+	gist:hasGiver told:_Person_12489 ;
+	gist:hasRecipient told:_Person_12980 ;
+	.
+
 told:_TeacherStudentRelationship_12500_10355
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 12500 - Student 10355"@en ;
@@ -1235,6 +1305,13 @@ told:_TeacherStudentRelationship_12606_12479
 	gist:hasRecipient told:_Person_12479 ;
 	.
 
+told:_TeacherStudentRelationship_12606_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12606 - Student 9278"@en ;
+	gist:hasGiver told:_Person_12606 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_12613_12479
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 12613 - Student 12479"@en ;
@@ -1289,6 +1366,13 @@ told:_TeacherStudentRelationship_12629_7882
 	skos:prefLabel "Teacher 12629 - Student 7882"@en ;
 	gist:hasGiver told:_Person_12629 ;
 	gist:hasRecipient told:_Person_7882 ;
+	.
+
+told:_TeacherStudentRelationship_12653_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12653 - Student 12980"@en ;
+	gist:hasGiver told:_Person_12653 ;
+	gist:hasRecipient told:_Person_12980 ;
 	.
 
 told:_TeacherStudentRelationship_12741_10355
@@ -1438,6 +1522,20 @@ told:_TeacherStudentRelationship_12906_13162
 	gist:hasRecipient told:_Person_13162 ;
 	.
 
+told:_TeacherStudentRelationship_12980_10055
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12980 - Student 10055"@en ;
+	gist:hasGiver told:_Person_12980 ;
+	gist:hasRecipient told:_Person_10055 ;
+	.
+
+told:_TeacherStudentRelationship_12980_10679
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12980 - Student 10679"@en ;
+	gist:hasGiver told:_Person_12980 ;
+	gist:hasRecipient told:_Person_10679 ;
+	.
+
 told:_TeacherStudentRelationship_12982_12839
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 12982 - Student 12839"@en ;
@@ -1450,6 +1548,13 @@ told:_TeacherStudentRelationship_12982_12981
 	skos:prefLabel "Teacher 12982 - Student 12981"@en ;
 	gist:hasGiver told:_Person_12982 ;
 	gist:hasRecipient told:_Person_12981 ;
+	.
+
+told:_TeacherStudentRelationship_12982_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 12982 - Student 9278"@en ;
+	gist:hasGiver told:_Person_12982 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_12983_13884
@@ -1471,6 +1576,20 @@ told:_TeacherStudentRelationship_1311_8455
 	skos:prefLabel "Teacher 1311 - Student 8455"@en ;
 	gist:hasGiver told:_Person_1311 ;
 	gist:hasRecipient told:_Person_8455 ;
+	.
+
+told:_TeacherStudentRelationship_13139_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13139 - Student 9278"@en ;
+	gist:hasGiver told:_Person_13139 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
+told:_TeacherStudentRelationship_13152_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13152 - Student 9278"@en ;
+	gist:hasGiver told:_Person_13152 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_13186_10355
@@ -1583,6 +1702,13 @@ told:_TeacherStudentRelationship_13576_8972
 	skos:prefLabel "Teacher 13576 - Student 8972"@en ;
 	gist:hasGiver told:_Person_13576 ;
 	gist:hasRecipient told:_Person_8972 ;
+	.
+
+told:_TeacherStudentRelationship_13576_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13576 - Student 9278"@en ;
+	gist:hasGiver told:_Person_13576 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_13577_12839
@@ -2180,6 +2306,27 @@ told:_TeacherStudentRelationship_13879_9945
 	gist:hasRecipient told:_Person_9945 ;
 	.
 
+told:_TeacherStudentRelationship_13885_11385
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13885 - Student 11385"@en ;
+	gist:hasGiver told:_Person_13885 ;
+	gist:hasRecipient told:_Person_11385 ;
+	.
+
+told:_TeacherStudentRelationship_13889_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13889 - Student 9278"@en ;
+	gist:hasGiver told:_Person_13889 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
+told:_TeacherStudentRelationship_13892_3004
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 13892 - Student 3004"@en ;
+	gist:hasGiver told:_Person_13892 ;
+	gist:hasRecipient told:_Person_3004 ;
+	.
+
 told:_TeacherStudentRelationship_1616_11437
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 1616 - Student 11437"@en ;
@@ -2206,6 +2353,13 @@ told:_TeacherStudentRelationship_200_12180
 	skos:prefLabel "Teacher 200 - Student 12180"@en ;
 	gist:hasGiver told:_Person_200 ;
 	gist:hasRecipient told:_Person_12180 ;
+	.
+
+told:_TeacherStudentRelationship_2060_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2060 - Student 12980"@en ;
+	gist:hasGiver told:_Person_2060 ;
+	gist:hasRecipient told:_Person_12980 ;
 	.
 
 told:_TeacherStudentRelationship_2069_12743
@@ -2341,6 +2495,13 @@ told:_TeacherStudentRelationship_2670_4086
 	gist:hasRecipient told:_Person_4086 ;
 	.
 
+told:_TeacherStudentRelationship_2670_4935
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2670 - Student 4935"@en ;
+	gist:hasGiver told:_Person_2670 ;
+	gist:hasRecipient told:_Person_4935 ;
+	.
+
 told:_TeacherStudentRelationship_2673_13861
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 2673 - Student 13861"@en ;
@@ -2362,11 +2523,25 @@ told:_TeacherStudentRelationship_2730_10355
 	gist:hasRecipient told:_Person_10355 ;
 	.
 
+told:_TeacherStudentRelationship_2730_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2730 - Student 9278"@en ;
+	gist:hasGiver told:_Person_2730 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_2733_8455
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 2733 - Student 8455"@en ;
 	gist:hasGiver told:_Person_2733 ;
 	gist:hasRecipient told:_Person_8455 ;
+	.
+
+told:_TeacherStudentRelationship_2740_10298
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2740 - Student 10298"@en ;
+	gist:hasGiver told:_Person_2740 ;
+	gist:hasRecipient told:_Person_10298 ;
 	.
 
 told:_TeacherStudentRelationship_2758_1902
@@ -2390,11 +2565,25 @@ told:_TeacherStudentRelationship_2776_8455
 	gist:hasRecipient told:_Person_8455 ;
 	.
 
+told:_TeacherStudentRelationship_2784_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2784 - Student 12980"@en ;
+	gist:hasGiver told:_Person_2784 ;
+	gist:hasRecipient told:_Person_12980 ;
+	.
+
 told:_TeacherStudentRelationship_2788_7882
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 2788 - Student 7882"@en ;
 	gist:hasGiver told:_Person_2788 ;
 	gist:hasRecipient told:_Person_7882 ;
+	.
+
+told:_TeacherStudentRelationship_2790_4935
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2790 - Student 4935"@en ;
+	gist:hasGiver told:_Person_2790 ;
+	gist:hasRecipient told:_Person_4935 ;
 	.
 
 told:_TeacherStudentRelationship_2799_13462
@@ -2423,6 +2612,13 @@ told:_TeacherStudentRelationship_2810_6010
 	skos:prefLabel "Teacher 2810 - Student 6010"@en ;
 	gist:hasGiver told:_Person_2810 ;
 	gist:hasRecipient told:_Person_6010 ;
+	.
+
+told:_TeacherStudentRelationship_2812_4935
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2812 - Student 4935"@en ;
+	gist:hasGiver told:_Person_2812 ;
+	gist:hasRecipient told:_Person_4935 ;
 	.
 
 told:_TeacherStudentRelationship_2845_13870
@@ -2474,11 +2670,39 @@ told:_TeacherStudentRelationship_294_13688
 	gist:hasRecipient told:_Person_13688 ;
 	.
 
+told:_TeacherStudentRelationship_2953_10457
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2953 - Student 10457"@en ;
+	gist:hasGiver told:_Person_2953 ;
+	gist:hasRecipient told:_Person_10457 ;
+	.
+
+told:_TeacherStudentRelationship_2953_13890
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2953 - Student 13890"@en ;
+	gist:hasGiver told:_Person_2953 ;
+	gist:hasRecipient told:_Person_13890 ;
+	.
+
 told:_TeacherStudentRelationship_2953_2945
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 2953 - Student 2945"@en ;
 	gist:hasGiver told:_Person_2953 ;
 	gist:hasRecipient told:_Person_2945 ;
+	.
+
+told:_TeacherStudentRelationship_2953_8128
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2953 - Student 8128"@en ;
+	gist:hasGiver told:_Person_2953 ;
+	gist:hasRecipient told:_Person_8128 ;
+	.
+
+told:_TeacherStudentRelationship_2953_8691
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 2953 - Student 8691"@en ;
+	gist:hasGiver told:_Person_2953 ;
+	gist:hasRecipient told:_Person_8691 ;
 	.
 
 told:_TeacherStudentRelationship_2959_40
@@ -2535,6 +2759,48 @@ told:_TeacherStudentRelationship_2992_158
 	skos:prefLabel "Teacher 2992 - Student 158"@en ;
 	gist:hasGiver told:_Person_2992 ;
 	gist:hasRecipient told:_Person_158 ;
+	.
+
+told:_TeacherStudentRelationship_3000_3004
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3000 - Student 3004"@en ;
+	gist:hasGiver told:_Person_3000 ;
+	gist:hasRecipient told:_Person_3004 ;
+	.
+
+told:_TeacherStudentRelationship_3004_12875
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3004 - Student 12875"@en ;
+	gist:hasGiver told:_Person_3004 ;
+	gist:hasRecipient told:_Person_12875 ;
+	.
+
+told:_TeacherStudentRelationship_3004_3014
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3004 - Student 3014"@en ;
+	gist:hasGiver told:_Person_3004 ;
+	gist:hasRecipient told:_Person_3014 ;
+	.
+
+told:_TeacherStudentRelationship_3004_4465
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3004 - Student 4465"@en ;
+	gist:hasGiver told:_Person_3004 ;
+	gist:hasRecipient told:_Person_4465 ;
+	.
+
+told:_TeacherStudentRelationship_3004_8134
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3004 - Student 8134"@en ;
+	gist:hasGiver told:_Person_3004 ;
+	gist:hasRecipient told:_Person_8134 ;
+	.
+
+told:_TeacherStudentRelationship_3005_3004
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3005 - Student 3004"@en ;
+	gist:hasGiver told:_Person_3005 ;
+	gist:hasRecipient told:_Person_3004 ;
 	.
 
 told:_TeacherStudentRelationship_3020_3436
@@ -2642,6 +2908,13 @@ told:_TeacherStudentRelationship_3417_1654
 	gist:hasRecipient told:_Person_1654 ;
 	.
 
+told:_TeacherStudentRelationship_3417_4935
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3417 - Student 4935"@en ;
+	gist:hasGiver told:_Person_3417 ;
+	gist:hasRecipient told:_Person_4935 ;
+	.
+
 told:_TeacherStudentRelationship_3417_7767
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 3417 - Student 7767"@en ;
@@ -2682,6 +2955,13 @@ told:_TeacherStudentRelationship_3633_3485
 	skos:prefLabel "Teacher 3633 - Student 3485"@en ;
 	gist:hasGiver told:_Person_3633 ;
 	gist:hasRecipient told:_Person_3485 ;
+	.
+
+told:_TeacherStudentRelationship_3780_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 3780 - Student 9278"@en ;
+	gist:hasGiver told:_Person_3780 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
 told:_TeacherStudentRelationship_3790_11437
@@ -3202,6 +3482,13 @@ told:_TeacherStudentRelationship_4868_6194
 	gist:hasRecipient told:_Person_6194 ;
 	.
 
+told:_TeacherStudentRelationship_5024_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 5024 - Student 9278"@en ;
+	gist:hasGiver told:_Person_5024 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_5164_3436
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 5164 - Student 3436"@en ;
@@ -3363,6 +3650,13 @@ told:_TeacherStudentRelationship_6209_4086
 	gist:hasRecipient told:_Person_4086 ;
 	.
 
+told:_TeacherStudentRelationship_6351_3004
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 6351 - Student 3004"@en ;
+	gist:hasGiver told:_Person_6351 ;
+	gist:hasRecipient told:_Person_3004 ;
+	.
+
 told:_TeacherStudentRelationship_6405_8455
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 6405 - Student 8455"@en ;
@@ -3382,6 +3676,13 @@ told:_TeacherStudentRelationship_6676_6194
 	skos:prefLabel "Teacher 6676 - Student 6194"@en ;
 	gist:hasGiver told:_Person_6676 ;
 	gist:hasRecipient told:_Person_6194 ;
+	.
+
+told:_TeacherStudentRelationship_6681_13888
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 6681 - Student 13888"@en ;
+	gist:hasGiver told:_Person_6681 ;
+	gist:hasRecipient told:_Person_13888 ;
 	.
 
 told:_TeacherStudentRelationship_7007_11437
@@ -3510,6 +3811,13 @@ told:_TeacherStudentRelationship_7331_12439
 	gist:hasRecipient told:_Person_12439 ;
 	.
 
+told:_TeacherStudentRelationship_7442_4909
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 7442 - Student 4909"@en ;
+	gist:hasGiver told:_Person_7442 ;
+	gist:hasRecipient told:_Person_4909 ;
+	.
+
 told:_TeacherStudentRelationship_7560_8972
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 7560 - Student 8972"@en ;
@@ -3634,6 +3942,13 @@ told:_TeacherStudentRelationship_8170_13841
 	skos:prefLabel "Teacher 8170 - Student 13841"@en ;
 	gist:hasGiver told:_Person_8170 ;
 	gist:hasRecipient told:_Person_13841 ;
+	.
+
+told:_TeacherStudentRelationship_8170_13885
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 8170 - Student 13885"@en ;
+	gist:hasGiver told:_Person_8170 ;
+	gist:hasRecipient told:_Person_13885 ;
 	.
 
 told:_TeacherStudentRelationship_8170_2730
@@ -3832,6 +4147,13 @@ told:_TeacherStudentRelationship_8564_8592
 	gist:hasRecipient told:_Person_8592 ;
 	.
 
+told:_TeacherStudentRelationship_8565_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 8565 - Student 12980"@en ;
+	gist:hasGiver told:_Person_8565 ;
+	gist:hasRecipient told:_Person_12980 ;
+	.
+
 told:_TeacherStudentRelationship_8568_9895
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 8568 - Student 9895"@en ;
@@ -3865,6 +4187,13 @@ told:_TeacherStudentRelationship_8574_13659
 	skos:prefLabel "Teacher 8574 - Student 13659"@en ;
 	gist:hasGiver told:_Person_8574 ;
 	gist:hasRecipient told:_Person_13659 ;
+	.
+
+told:_TeacherStudentRelationship_8574_13889
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 8574 - Student 13889"@en ;
+	gist:hasGiver told:_Person_8574 ;
+	gist:hasRecipient told:_Person_13889 ;
 	.
 
 told:_TeacherStudentRelationship_8574_9594
@@ -3914,6 +4243,13 @@ told:_TeacherStudentRelationship_8592_8538
 	skos:prefLabel "Teacher 8592 - Student 8538"@en ;
 	gist:hasGiver told:_Person_8592 ;
 	gist:hasRecipient told:_Person_8538 ;
+	.
+
+told:_TeacherStudentRelationship_8594_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 8594 - Student 12980"@en ;
+	gist:hasGiver told:_Person_8594 ;
+	gist:hasRecipient told:_Person_12980 ;
 	.
 
 told:_TeacherStudentRelationship_8611_10019
@@ -4273,6 +4609,13 @@ told:_TeacherStudentRelationship_9203_3485
 	gist:hasRecipient told:_Person_3485 ;
 	.
 
+told:_TeacherStudentRelationship_9203_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9203 - Student 9278"@en ;
+	gist:hasGiver told:_Person_9203 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_9213_5152
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 9213 - Student 5152"@en ;
@@ -4334,6 +4677,41 @@ told:_TeacherStudentRelationship_9394_9502
 	skos:prefLabel "Teacher 9394 - Student 9502"@en ;
 	gist:hasGiver told:_Person_9394 ;
 	gist:hasRecipient told:_Person_9502 ;
+	.
+
+told:_TeacherStudentRelationship_9469_10984
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9469 - Student 10984"@en ;
+	gist:hasGiver told:_Person_9469 ;
+	gist:hasRecipient told:_Person_10984 ;
+	.
+
+told:_TeacherStudentRelationship_9469_11007
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9469 - Student 11007"@en ;
+	gist:hasGiver told:_Person_9469 ;
+	gist:hasRecipient told:_Person_11007 ;
+	.
+
+told:_TeacherStudentRelationship_9469_11051
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9469 - Student 11051"@en ;
+	gist:hasGiver told:_Person_9469 ;
+	gist:hasRecipient told:_Person_11051 ;
+	.
+
+told:_TeacherStudentRelationship_9469_13591
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9469 - Student 13591"@en ;
+	gist:hasGiver told:_Person_9469 ;
+	gist:hasRecipient told:_Person_13591 ;
+	.
+
+told:_TeacherStudentRelationship_9469_9426
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9469 - Student 9426"@en ;
+	gist:hasGiver told:_Person_9469 ;
+	gist:hasRecipient told:_Person_9426 ;
 	.
 
 told:_TeacherStudentRelationship_9513_13688
@@ -4441,6 +4819,13 @@ told:_TeacherStudentRelationship_9594_8887
 	gist:hasRecipient told:_Person_8887 ;
 	.
 
+told:_TeacherStudentRelationship_9594_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9594 - Student 9278"@en ;
+	gist:hasGiver told:_Person_9594 ;
+	gist:hasRecipient told:_Person_9278 ;
+	.
+
 told:_TeacherStudentRelationship_9594_9586
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 9594 - Student 9586"@en ;
@@ -4532,6 +4917,13 @@ told:_TeacherStudentRelationship_9633_5805
 	gist:hasRecipient told:_Person_5805 ;
 	.
 
+told:_TeacherStudentRelationship_9646_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9646 - Student 12980"@en ;
+	gist:hasGiver told:_Person_9646 ;
+	gist:hasRecipient told:_Person_12980 ;
+	.
+
 told:_TeacherStudentRelationship_9646_12981
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 9646 - Student 12981"@en ;
@@ -4616,6 +5008,13 @@ told:_TeacherStudentRelationship_9699_12171
 	gist:hasRecipient told:_Person_12171 ;
 	.
 
+told:_TeacherStudentRelationship_9699_12980
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9699 - Student 12980"@en ;
+	gist:hasGiver told:_Person_9699 ;
+	gist:hasRecipient told:_Person_12980 ;
+	.
+
 told:_TeacherStudentRelationship_9699_9895
 	a tolo:TeacherStudentRelationship ;
 	skos:prefLabel "Teacher 9699 - Student 9895"@en ;
@@ -4691,6 +5090,13 @@ told:_TeacherStudentRelationship_9884_12981
 	skos:prefLabel "Teacher 9884 - Student 12981"@en ;
 	gist:hasGiver told:_Person_9884 ;
 	gist:hasRecipient told:_Person_12981 ;
+	.
+
+told:_TeacherStudentRelationship_9890_3004
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9890 - Student 3004"@en ;
+	gist:hasGiver told:_Person_9890 ;
+	gist:hasRecipient told:_Person_3004 ;
 	.
 
 told:_TeacherStudentRelationship_9895_12981
@@ -4887,5 +5293,12 @@ told:_TeacherStudentRelationship_9990_8507
 	skos:prefLabel "Teacher 9990 - Student 8507"@en ;
 	gist:hasGiver told:_Person_9990 ;
 	gist:hasRecipient told:_Person_8507 ;
+	.
+
+told:_TeacherStudentRelationship_9990_9278
+	a tolo:TeacherStudentRelationship ;
+	skos:prefLabel "Teacher 9990 - Student 9278"@en ;
+	gist:hasGiver told:_Person_9990 ;
+	gist:hasRecipient told:_Person_9278 ;
 	.
 
