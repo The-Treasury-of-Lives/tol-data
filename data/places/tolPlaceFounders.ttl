@@ -405,7 +405,6 @@ told:_Founding_1216
 	a tolo:Founding ;
 	gist:hasParticipant
 		told:_Person_10909 ,
-		told:_Person_13553 ,
 		told:_Place_1216
 		;
 	.
@@ -1188,6 +1187,54 @@ told:_Founding_160
 		;
 	.
 
+told:_Founding_1611
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_8641 ,
+		told:_Place_1611
+		;
+	.
+
+told:_Founding_1612
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_10355 ,
+		told:_Place_1612
+		;
+	.
+
+told:_Founding_1627
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_2051 ,
+		told:_Place_1627
+		;
+	.
+
+told:_Founding_1632
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_9126 ,
+		told:_Place_1632
+		;
+	.
+
+told:_Founding_1633
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_2962 ,
+		told:_Place_1633
+		;
+	.
+
+told:_Founding_1642
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_12981 ,
+		told:_Place_1642
+		;
+	.
+
 told:_Founding_165
 	a tolo:Founding ;
 	gist:hasParticipant
@@ -1196,11 +1243,43 @@ told:_Founding_165
 		;
 	.
 
+told:_Founding_1662
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_7305 ,
+		told:_Place_1662
+		;
+	.
+
+told:_Founding_1717
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_10019 ,
+		told:_Place_1717
+		;
+	.
+
 told:_Founding_174
 	a tolo:Founding ;
 	gist:hasParticipant
 		told:_Person_12523 ,
 		told:_Place_174
+		;
+	.
+
+told:_Founding_1750
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_6646 ,
+		told:_Place_1750
+		;
+	.
+
+told:_Founding_1752
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_11036 ,
+		told:_Place_1752
 		;
 	.
 
@@ -1515,6 +1594,14 @@ told:_Founding_270
 	gist:hasParticipant
 		told:_Person_1985 ,
 		told:_Place_270
+		;
+	.
+
+told:_Founding_275
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_1952 ,
+		told:_Place_275
 		;
 	.
 
@@ -2230,6 +2317,14 @@ told:_Founding_447
 		;
 	.
 
+told:_Founding_449
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_13814 ,
+		told:_Place_449
+		;
+	.
+
 told:_Founding_45
 	a tolo:Founding ;
 	gist:hasParticipant
@@ -2570,7 +2665,6 @@ told:_Founding_571
 	a tolo:Founding ;
 	gist:hasParticipant
 		told:_Person_10909 ,
-		told:_Person_13553 ,
 		told:_Place_571
 		;
 	.

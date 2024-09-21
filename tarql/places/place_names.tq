@@ -25,7 +25,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # en_variants
 # bo_x_ewts_variants
 # zh_hani_variants
-# sh_iast_variants
+# sa_iast_variants
 # sa_deva_variants
 # ru_cyrl_variants
 # mn_cyrl_variants
@@ -72,6 +72,7 @@ WHERE {
     # Primary names
     BIND(STRLANG(?community_name, "en") AS ?primary_name_en)
     BIND(STRLANG(?wylie_name, "bo-x-ewts") AS ?primary_name_wylie)
+    BIND(STRLANG(?tibetan, "bo") AS ?primary_name_tibetan)
     BIND(STRLANG(?chinese_name, "zh-Hani") AS ?primary_name_zh_hani)
 
     # Alternate names
