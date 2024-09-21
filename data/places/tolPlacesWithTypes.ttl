@@ -3384,6 +3384,52 @@ told:_Place_1753
 	gist:isCategorizedBy tolx:_PlaceType_cave ;
 	.
 
+told:_Place_1755
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
+	.
+
+told:_Place_1756
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
+	.
+
+told:_Place_1758
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1759
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_school ;
+	.
+
+told:_Place_1761
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1762
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1763
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_stupa ;
+	.
+
+told:_Place_1766
+	a
+		gist:Place ,
+		tolo:Monastery
+		;
+	gist:isCategorizedBy
+		tolx:_PlaceType_monastery ,
+		tolx:_PlaceType_temple
+		;
+	.
+
 told:_Place_178
 	a tolo:Monastery ;
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;

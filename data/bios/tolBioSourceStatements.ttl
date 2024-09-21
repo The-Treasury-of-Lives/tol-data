@@ -76,6 +76,10 @@ told:_Biography_1029
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_1029 ;
 	.
 
+told:_Biography_10298
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10298 ;
+	.
+
 told:_Biography_10301
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10301 ;
 	.
@@ -210,10 +214,6 @@ told:_Biography_10573
 
 told:_Biography_10579
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10579 ;
-	.
-
-told:_Biography_10580
-	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10580 ;
 	.
 
 told:_Biography_10591
@@ -358,10 +358,6 @@ told:_Biography_10904
 
 told:_Biography_10908
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10908 ;
-	.
-
-told:_Biography_10909
-	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_10909 ;
 	.
 
 told:_Biography_10911
@@ -750,6 +746,10 @@ told:_Biography_12883
 
 told:_Biography_12906
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_12906 ;
+	.
+
+told:_Biography_12980
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_12980 ;
 	.
 
 told:_Biography_12981
@@ -2236,6 +2236,14 @@ told:_Biography_13884
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13884 ;
 	.
 
+told:_Biography_13885
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13885 ;
+	.
+
+told:_Biography_13888
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13888 ;
+	.
+
 told:_Biography_1564
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_1564 ;
 	.
@@ -2844,6 +2852,10 @@ told:_Biography_2952
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_2952 ;
 	.
 
+told:_Biography_2953
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_2953 ;
+	.
+
 told:_Biography_2973
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_2973 ;
 	.
@@ -2874,6 +2886,10 @@ told:_Biography_2997
 
 told:_Biography_3000
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_3000 ;
+	.
+
+told:_Biography_3004
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_3004 ;
 	.
 
 told:_Biography_3006
@@ -3742,6 +3758,14 @@ told:_Biography_490
 
 told:_Biography_4903
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_4903 ;
+	.
+
+told:_Biography_4909
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_4909 ;
+	.
+
+told:_Biography_4935
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_4935 ;
 	.
 
 told:_Biography_494
@@ -5512,6 +5536,10 @@ told:_Biography_9254
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9254 ;
 	.
 
+told:_Biography_9278
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9278 ;
+	.
+
 told:_Biography_9287
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9287 ;
 	.
@@ -5562,6 +5590,10 @@ told:_Biography_9394
 
 told:_Biography_9442
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9442 ;
+	.
+
+told:_Biography_9469
+	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9469 ;
 	.
 
 told:_Biography_9482
@@ -6071,6 +6103,44 @@ told:_FormattedContent_Biography_SourceStatement_1029
 	skos:prefLabel "Biography of Person 1029 Sources"@en ;
 	gist:containedText '''<p>
 	For a brief discussion of several teachers named Sonam Pel, see Leonard W.J. Van der Kuijp, 1995, "Two Biographies of Sakyasribhadra, The Eulogy of Khro phu Lo-tsa-ba and its "Commentary" by bSod-nams-dpal-bzang-po: Texts and Variants from Two Rare Exemplars Preserved in the Bihar Research Society, Patna, a Review Article." <em>Journal of the American Oriental Society</em>.</p>'''@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_10298
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 10298 Sources"@en ;
+	gist:containedText """<p>
+	Arguillère, Stéphane. 2007. <em>Profusion de la vaste sphère—Klong-chen rab-'byams </em>(<em>Tibet, 1308–1364</em>),<em> Sa vie, son œuvre, sa doctrine</em>. Oslo: The Institute for Comparative Research in Human Culture / Leuven: Peeters.</p>
+<p>
+	Arguillère, Stéphane. 2024. \"A King of Dharma forgotten on the Jewel Island: Was Me ban Chos rgyal Rin chen gling pa Rig 'dzin rGod ldem's rDzogs chen master? (How half of the <em>mKha' 'gro snying thig</em> got included in the <em>dGongs pa zang thal</em>).\" Revue d'Etudes Tibétaines, no.68, January 2024, pp. 69–147 (<a href=\"https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_68_04.pdf\">https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_68_04.pdf</a>).</p>
+<p>
+	Arguillère, Stéphane. 2024. \"Meban Rinchen Lingpa,\" <em>The Treasury of Lives</em> (<a href=\"https://treasuryoflives.org/bo/biographies/view/Meban-Rinchen-Lingpa/3417\">https://treasuryoflives.org/bo/biographies/view/Meban-Rinchen-Lingpa/3417</a>).</p>
+<p>
+	Aris, Michael. 1988. <em>Hidden Teachings and Secret Lives: A Study of Pemalingpa (1450-1521) and the Sixth Dalai Lama (1683-1706)</em>. London: Kegan Paul International.</p>
+<p>
+	Bde legs rgya mtsho, s.d.: <em>Sprul sku legs ldan pa'i rnam thar</em>. In Mkha' 'gro snying thig, \"handwritten manuscript in Umed script; margin marked ka-tha, na-a, ki-pi, bi-zi, yi; missing volume da, phi, zhi-i, ri\", BDRC W8LS16393. This text includes autobiographical fragments by Gyelse Lekpa and was completed by Delek Gyatso in the 14th century; the manuscript as we have it is no later than mid-15<sup>th</sup> century for its latest annotations.</p>
+<p>
+	Gter bdag gling pa 'gyur med rdo rje. 1998<em>. Zab pa dang rgya che ba'i chos kyi thob yig rin chen 'byung gnas</em>. In <em>The collected works (gsuṅ 'bum) of Smin-gliṅ Gter-chen Rig-'zin-'gyur-med-rdo-rje</em>, vols. 1-2. Dehra Dun: D.G. Khochhen Tulku. MW22096</p>
+<p>
+	Gu ru bkra shis. 1990. <em>Bstan pa'i snying po gsang chen snga 'gyur nges don zab mo'i chos kyi 'byung ba gsal bar byed pa'i legs bshad mkhas pa dga' byed ngo mtshar gtam gyi rol mtsho</em>. Xining: Mtsho sngon mi rigs par khang.</p>
+<p>
+	Klong chen rab 'byams. 2009.&nbsp;&nbsp;<em>Mthong snang ’od kyi drwa ba</em>, in Longchenpa 2009, vol. 8, p. 155-194.</p>
+<p>
+	Longchenpa. 2009.&nbsp;<em>Dri med ’od zer gsung ’bum.</em>&nbsp;Beijing: Krung go’i bod kyi shes rigs dpe skrun khang (Dpal brtsegs / Mes po’i shul bzhag).</p>
+<p>
+	Ngag dbang blo bzang rgya mtsho. 1970–1971. <em>Zab pa dang rgya che ba'i chos kyi thob yig gaṅgā'i chu rgyun</em>, vol. 1-4, Delhi: Nechung &amp; Lakhar. Referred as \"Fifth Dalai Lama's <em>Record of Teachings Received</em>\"</p>
+<p>
+	Nyi ma bzang po. 1983<em>. Sprul sku rig 'dzin rgod kyi ldem 'phru can kyi rnam thar gsal byed nyi ma'i 'od zer</em>. In <em>Byang gter lugs kyi rnam thar dang ma 'ongs lung bstan</em>. Gangtok: Sherab Gyaltsen &amp; Lama Dawa.</p>
+<p>
+	Nyoshul Khenpo. 2005. <em>A Marvelous Garland of Rare Gems—Biographies of Masters of Awareness in the Dzogchen Lineage</em>. Translated by Barron, Richard. Junction City: Padma Publishing.</p>
+<p>
+	Rgyal sras bzod pa grags pa. 2009: <em>Mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba</em>. In <em>Kun mkhyen klong chen rab 'byams kyi gsung 'bum</em>, vol. 6, pp.&nbsp;188-214. Beijing: Krung go'i bod kyi shes rigs dpe skrun khang. MW1KG4884</p>
+<p>
+	Smyo shul mkhan po 'jam dbyangs rdo rje. 1998. <em>Snyun zhi mkhan po 'jam dbyangs rdo rje'i gsung rdzogs chen chos 'byung</em>. New Delhi: Rigpa House.</p>
+<p>
+	<em>Sprul sku legs ldan pa'i lung bstan</em>. In Longchenpa 2009, vol. 6, p.&nbsp;176.</p>
+<p>
+	Zur mang Tshe dbang kun khyab. 1998. <em>Karma kaṃ tshang brgyud pa rin po che'i rnam thar tshe dbang kun khyab</em><em> rab 'byams nor bu zla ba chu shel gyi phreng</em>, vol.&nbsp;1-2. Kunming:&nbsp;Yun nan mi rigs dpe skrun khang.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -6590,7 +6660,7 @@ told:_FormattedContent_Biography_SourceStatement_10579
 <p>
 	Byams pa phrin las. 2000. <em>Gangs ljongs gso rig bstan pa'i nyin byed rim byon gyi rnam thar phyogs bsgrigs</em>, pp. 205-206. Beijing: Mi rigs dpe skrun khang. <a href=\"http://tbrc.org/link?RID=O1GS49750%7CO1GS497501GS49816$W17722\">TBRC W17722</a>.</p>
 <p>
-	Cabezón, José. 1995. \"On the sGra pa Shes rab rin chen pa' i rtsod lan of Pan chen bLo bzang chos rgyan.\" In <a href=\"http://www.e-periodica.ch/digbib/view?var=true&amp;pid=ast-002:1995:49::1091#659\">Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft</a>, vol. 49, issue 4, pp. 643-69.</p>
+	Cabezón, José. 1995. \"On the sGra pa Shes rab rin chen pa' i rtsod lan of Pan chen bLo bzang chos rgyan.\" In <a href=\"http://www.e-periodica.ch/digbib/view?var=true&amp;pid=ast-002:1995:49::1091#659 \">Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft</a>, vol. 49, issue 4, pp. 643-69.</p>
 <p>
 	Chos kyi rgya mtsho. 2001. \"Zhol thar gling chos gter.\" In <em>Dbus gtsang gnas yig</em>, pp. 362-363. Khreng tu'u: Si khron mi rigs dpe skrun khang. <a href=\"https://www.tbrc.org/#%21rid=O1PD86694%7CO1PD866941PD86847$W27524\">TBRC W27524</a>.</p>
 <p>
@@ -6611,16 +6681,6 @@ told:_FormattedContent_Biography_SourceStatement_10579
 	Thub bstan nyi ma. 2007. \"Stag tshang lo tsA ba'i rnam thar mdor bsdus dad pa'i sa bon.\" In <em>Stag tshang lo tsA b ashes rab rin chen gyi gsung 'bum</em>, vol. 1, pp. 22-30. Beijing: Krung go'i bod rig pa dpe skrun khang. <a href=\"http://tbrc.org/link?RID=O1CZ2873%7CO1CZ28731CZ2884$W2DB4577\">TBRC W2DB4577</a>.</p>
 <p>
 	Thuken Losang Chokyi Nyima. 2009. <em>The Crystal Mirror of Philosophical Systems</em>. Geshe Lhundub Sopa, trans. Roger R. Jackson, ed. Somerville: Wisdom Publications.</p>"""@en ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_FormattedContent_Biography_SourceStatement_10580
-	a gist:FormattedContent ;
-	skos:prefLabel "Biography of Person 10580 Sources"@en ;
-	gist:containedText """<p>
-	Dung dkar blo bzang 'phrin las. 2002.&nbsp;<em>Dung dkar tshig mdzod chen mo</em>. Beijing: Krung go'i bod rig pa dpe skrun khang, p. 2327.&nbsp;<a href=\"http://tbrc.org/link?RID=W26372\">TBRC W26372</a>.</p>
-<p>
-	Kun dga' blo gros. 1991.&nbsp;<em>Sa skya'i gdung rabs ngo mtshar bang mdzod kyi kha skong</em>. Beijing: Mi rigs dpe skun khang, pp. 223-287.&nbsp;<a href=\"http://indium.tbrc.org/#library_work_Object-W27309\">TBRC W27309</a>.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -6940,7 +7000,7 @@ told:_FormattedContent_Biography_SourceStatement_10811
 <p>
 	Sangs rgyas rin chen. 1988. \"Rgya 'bza kong jo bod la phebs pa'i lo rgyus la che long tsam dpyad pa.\" <em>Mtsho sngon slob gso</em>, vol. 5, pp. 65-71.</p>
 <p>
-	Seegers, Eva. 2015. \"Two <em>stūpa</em>s of princess Wencheng:A comparative study on two ancient terrace <em>stūpa</em>s in eastern Tibet.\" <em>Journal of Comparative Cultural Studies in Architecture</em>, pp. 52-63.</p>
+	Seegers, Eva. 2015. \"Two <em>stūpa</em>s of princess Wencheng: A comparative study on two ancient terrace <em>stūpa</em>s in eastern Tibet.\" <em>Journal of Comparative Cultural Studies in Architecture</em>, pp. 52-63.</p>
 <p>
 	Slobodník, Martin. 2006. \"The Chinese Princess Wencheng in Tibet: A Cultural Intermediary between Facts and Myth.\" In <em>Trade, Journeys, Inner- and Intercultural Communication in East and West (up to 1250)</em>. M Gálik and T. Štefanovičová, editors. Bratislava: Lufema, pp.&nbsp;267–276.</p>
 <p>
@@ -7147,12 +7207,6 @@ told:_FormattedContent_Biography_SourceStatement_10908
 	skos:prefLabel "Biography of Person 10908 Sources"@en ;
 	gist:containedText '''<p>
 	Susumu, Otake. 2007. "On the Origin and Early Development of the <em>Buddhāvataṃsaka Sūtra.</em>" In&nbsp;<em>Reflecting Mirrors: Perspectives on Huayan Buddhism, </em>edited by Imre&nbsp;Hamar, pp. 87-107. Asiatische Forschungen.</p>'''@en ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_FormattedContent_Biography_SourceStatement_10909
-	a gist:FormattedContent ;
-	skos:prefLabel "Biography of Person 10909 Sources"@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -8583,6 +8637,38 @@ told:_FormattedContent_Biography_SourceStatement_12906
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Biography_SourceStatement_12980
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 12980 Sources"@en ;
+	gist:containedText """<p>
+	Fall 1992. \"The Enthronement of Aka Nyima (Tulku Wyatt).\" <em>The Wind Horse: Newsletter of Chagdud Gonpa</em>. <a href=\"https://www.chagdudgonpa.org/windhorse-articles/the-enthronement-of-aka-nyima-tulku-wyatt-1992-fall\">https://www.chagdudgonpa.org/windhorse-articles/the-enthronement-of-aka-nyima-tulku-wyatt-1992-fall</a></p>
+<p>
+	Chagdud Tulku. 1992. <em>Lord of the Dance: The Autobiography of a Tibetan Lama</em>. Junction City, Calif: Padma Pub.</p>
+<p>
+	Chagdud Tulku. 1993. <em>Gates to Buddhist Practice</em>. Junction City: Padma Publishing.</p>
+<p>
+	Chatzisavva, Varvara. Janvier 2024. \"'Khor gdong Monastery 'ja' lus pa, Lama sGrib bral (1946-2018).\" <em>Revue d’Etudes Tibétaines</em>, no. 68, pp. 279-293.</p>
+<p>
+	Jackson, David P. 2003. <em>A Saint in Seattle: The Life of the Tibetan Mystic Dezhung Rinpoche</em>. Somerville, MA: Wisdom Publications.</p>
+<p>
+	Khenchenlama.com. <a href=\"https://khenchenlama.com/lineage/\">https://khenchenlama.com/lineage/</a></p>
+<p>
+	Lama Shenphen Drolma, ed. 2003. <em>A Change of Heart: The Bodhisattva Peace Training of Chagdud Tulku</em>. Junction City: Padma Publishing.</p>
+<p>
+	Lama Tsering Everest. 2023. \"The Meaning of Life • Part 1: With Tulku Arik Rinpoche.\" <em>Youtube</em>, <a href=\"https://www.youtube.com/watch?v=1MsJ2gXMS90&amp;ab_channel=ChagdudGonpaOdsalLing\">https://www.youtube.com/watch?v=1MsJ2gXMS90&amp;ab_channel=ChagdudGonpaOdsalLing</a></p>
+<p>
+	Nyoshul Khenpo. 2005. <em>A Marvelous Garland of Rare Gems: Biographies of Masters of Awareness in the Dzogchen Lineage</em>, pp. 519—521. Junction City, CA: Padma Publications.</p>
+<p>
+	Phur pa bkra shis and 'Brug rgyal (eds). n.d. <em>Rje bka’ drin mtshungs med grub dbang lung rtogs rgyal mtshan mdzad bsdus lha rnga’i sgra dbyangs,</em> Dpal yul, Sichuan (PRC): Ya chen Monastery, 2–3.</p>
+<p>
+	Rgyal rtse arya de ba. <em>Ya chen o rgyan bsam gtan gling gi chos ʼbyung</em>. Par gzhi dang po. [S.l.]: [S.n.]. <a href=\"http://purl.bdrc.io/resource/W3CN5423\">BDRC W3CN5423</a>.</p>
+<p>
+	Rigpa Shedra, \"Tromgé Tulku Dechen Dorje.\" <em>RigpaWiki</em>, <a href=\"https://www.rigpawiki.org/index.php?title=Tromg%C3%A9_Tulku_Dechen_Dorje\">https://www.rigpawiki.org/index.php?title=Tromg%C3%A9_Tulku_Dechen_Dorje</a>.</p>
+<p>
+	Terrone, Antonio. 2009. \"Householders and Monks: A Study of Treasure Revealers and their Role in Religious Revival in Contemporary Eastern Tibet.\" In <em>Buddhism Beyond the Monastery: Tantric Practices and Their Performers in Tibet and the Himalayas</em>, edited by Sarah Jacoby and Antonio Terrone, pp.73–109. Leiden: Brill.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Biography_SourceStatement_12981
 	a gist:FormattedContent ;
 	skos:prefLabel "Biography of Person 12981 Sources"@en ;
@@ -8881,7 +8967,7 @@ told:_FormattedContent_Biography_SourceStatement_13080
 	a gist:FormattedContent ;
 	skos:prefLabel "Biography of Person 13080 Sources"@en ;
 	gist:containedText """<p>
-	Achard Jean-Luc. 1998. “Bon zhig khyung nag and the&nbsp;<em>Rig pa gcer mthong&nbsp;</em>tradition of rDzogs chen.”&nbsp;<em>The Tibet Journal</em>, vol. XXIII, no. 4: 28-57.</p>
+	Achard Jean-Luc. 1998. “Bon zhig khyung nag and the&nbsp;&nbsp;<em>Rig pa gcer mthong&nbsp;</em>tradition of rDzogs chen.”&nbsp;&nbsp;<em>The Tibet Journal</em>, vol. XXIII, no. 4: 28-57.</p>
 <p>
 	Bon zhig khyung nag. 1972.&nbsp;<em>Snyan rgyud rin po che rig pa gcer mthong gi gzhung</em>. Delhi: Tibetan Bonpo Monastic Center.</p>
 <p>
@@ -13414,6 +13500,8 @@ told:_FormattedContent_Biography_SourceStatement_13863
 <p>
 	Brtse byang spen pa dbang 'dus. 2010. \"Gong dkar sgang stod mkhyen brtse chen mo dge bsnyen rnam par rgyal ba dang mkhyen lugs kyi khyad chos skor rags tsam gleng ba.\" <em>Journal of Tibet University</em> no. 4, pp. 112–117.</p>
 <p>
+	Fermer, Mathias, Losal Dondup, and Jampal Gawa. 2024. <em>The Gongkar Lamdre: Masters in Khyenluk Style</em>. Dehradun: Gongkar Choede.</p>
+<p>
 	Jackson, David P. 1996. <em>A History of Tibetan Painting: The Great Painters and Their Traditions</em>. Vienna: Verlag der Österreichischen Akademie der Wissenschaften.</p>
 <p>
 	Jackson, David P. 1997. \"Chronological Notes on the Founding Masters of Tibetan Painting Traditions.\" In <em>Tibetan Art: Towards a Definition of Style</em>, edited by Jane Casey Singer and Philip Denwood, 254–261. London: Laurence King.</p>
@@ -13659,6 +13747,46 @@ told:_FormattedContent_Biography_SourceStatement_13884
 	TibetanReview.net. November 26, 2018. \"Tibetan religious leaders’ conference put off after Nyingma head’s passing away.\" <em>Tibetan Review</em>.&nbsp;<a href=\"https://www.tibetanreview.net/tibetan-religious-leaders-conference-put-off-after-nyingma-heads-passing-away/\">https://www.tibetanreview.net/tibetan-religious-leaders-conference-put-off-after-nyingma-heads-passing-away/</a></p>
 <p>
 	TsintaMani.org. \"Biography of Lama Lakshey Zangpo.\" <a href=\"https://tsintamani.org/bio\">https://tsintamani.org/bio</a></p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_13885
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 13885 Sources"@en ;
+	gist:containedText """<p>
+	Bausch, Gerd. 2018. <em>Radiant Compassion: The Life of the 16th Gyalwa Karmapa Rangjung Rigpe Dorje. Vol. 1</em>. Darmstadt: Edition Karuna.</p>
+<p>
+	Haas, Michaela. 2013. <em>Dakini Power: Twelve Extraordinary Women Shaping the Transmission of Tibetan Buddhism in the West</em>. Boston et al.: Snow Lion.</p>
+<p>
+	Kar sras Kong sprul Mkhyen brtse 'od zer. 1993. <em>'Jig rten dbang phyug dpal karma pa chen po bco lnga pa'i gsung gi gsang ba bsam gyis mi khyab pa las ngo mtshar spar du bzhugs pa'i glegs bam rnams kyi dkar chag chos tshul rnam par 'byed pa'i zla snang</em>. Delhi: Konchhog Lhadrepa.</p>
+<p>
+	Lama Kunsang, Lama Pemo and Marie Aubèle. 2012. <em>History of the Karmapas: The Odyssey of the Masters with the Black Crown</em>. Ithaca: Snow Lion.</p>
+<p>
+	Simmer-Brown, Judith. 2002. <em>Dakini's Warm Breath: The Feminine Principle in Tibetan Buddhism</em>. Boston &amp; London: Shambhala.</p>
+<p>
+	Topga Yulgyal. 1993. <em>Bka' rgyud gser phreng gi rnam thar rab 'byams zla ba chu shel gyi 'phreng ba kha skong</em>. Delhi: Topga Yulgyal.</p>
+<p>
+	Tulku Urgyen. 2005. <em>Blazing Splendor: The Memoirs of Tulku Urgyen Rinpoche as told to Erik Pema Kunsang &amp; Marcia Binder Schmidt</em>. Hong Kong: Rangjung Yeshe.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_13888
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 13888 Sources"@en ;
+	gist:containedText """<p>
+	Karmay, Samten G. 1972.&nbsp;<em>The Treasury of Good Sayings</em>. Delhi: Motilal Banarsidass Publishers Private Limited, 1972.</p>
+<p>
+	Klein, Anne Carolyn, and Geshe Tenzin Wangyal Rinpoche. 2006. <em>Unbounded Wholeness: Dzogchen, Bon, and the Logic of the Nonconceptual</em>. Oxford: Oxford University Press.&nbsp;</p>
+<p>
+	Kvaerne, Per, and Dan Martin. 2023.&nbsp;<em>Drenpa's Proclamation: The Rise and Decline of the Bon Religion in Tibet, Vajra Academic Vol. III</em>. Kathmandu: Vajra Books.</p>
+<p>
+	Nag ru dge bshes dge legs sbyin pa.&nbsp;<em>Mkha' 'gro co za bon mo'i rnam thar skal ldan sems kyi sgron me</em>. In&nbsp;<em>The Heart Essence of the Khandro, Experiential Instructions on Bonpo Dzogchen: Thirty Signs and Meanings from Women Lineage-Holders,</em>&nbsp;pp. 157–169. Translated, transcribed, and edited by Nagru Geshe Gelek Jinpa, C. Ermakova, and Dmitri Ermakov. New Delhi: Heritage Publishers.</p>
+<p>
+	Sman ri'i yongs 'dzin slob dpon bstan 'dzin rnam dag rin po che. <em>Gco bza' bon mo'i rnam thar</em>. In <em>Sman ri'i yongs 'dzin slob dpon bstan 'dzin rnam dag rin po che'i gsung 'bum</em>, vol. 2, pp. 265–267. Khri brtan nor bu rtse'i dpe mdzod khang.</p>
+<p>
+	Yongdzin Lopon Tenzin Namdak. 2012. <em>The Heart Essence of the Khandro, Experiential Instructions on Bonpo Dzogchen: Thirty Signs and Meanings from Women Lineage-Holders.</em> Translated, transcribed, and edited by Nagru Geshe Gelek Jinpa, C. Ermakova, and Dmitri Ermakov. New Delhi: Heritage Publishers.</p>
+<p>
+	&nbsp;</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -16238,6 +16366,28 @@ told:_FormattedContent_Biography_SourceStatement_2952
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Biography_SourceStatement_2953
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 2953 Sources"@en ;
+	gist:containedText """<p>
+	Arjia Rinpoche<em>.</em> 2010. <em>&nbsp;Surviving the Dragon: A Tibetan Lama's Account of 40 Years Under Chinese Rule</em>. New York: Rodale Press.</p>
+<p>
+	Blo bsang bkra shis and Gtsang phrug stobs lags, eds. 2009. <em>Paṇchen sku 'phreng bcu pa'i mdzad rnam</em>. Bylakuppe, India: Central Association for H.H. the Paṇchen Lama.</p>
+<p>
+	Jiang, Ping. 1998. <em>Banchan e’erdeni pingzhuan</em>. Beijing, Zhongguo Zangxue chubanshe.</p>
+<p>
+	Jiangbian Jiacuo. 1989. <em>Banchan da shi</em>. Beijing, Dongfang chubanshe.</p>
+<p>
+	Lin, Guanqun. 2001. <em>Shi shi Banchan zhuan</em>. Guo shi ni zhuan, n°10.</p>
+<p>
+	Luozhuo Jicun. 1998. <em>Di shi shi Banchan e’erdeni pingzhuan. </em>Beijing, Wuzhou zhuanbo chubanshe.</p>
+<p>
+	Tibet Information Network. 1997. <em>A Poisoned Arrow. The Secret Report of the 10th Paṇ</em><em>chen Lama</em>. London, UK: Tibet Information Network.</p>
+<p>
+	Tsangtrul Thopla. 2022. <em>The Prince of Shambala: A Biography of the Tenth Paṇ</em><em>chen Lama</em>. Translated by Phurbu Dolma. Dharamsala, India: The Library of Tibetan Works and Archives.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Biography_SourceStatement_2973
 	a gist:FormattedContent ;
 	skos:prefLabel "Biography of Person 2973 Sources"@en ;
@@ -16435,6 +16585,58 @@ told:_FormattedContent_Biography_SourceStatement_3000
 	Roerich, George, trans. 1996. <em>The Blue Annals</em>. 2nd ed. Delhi: Motilal Banarsidas.</p>
 <p>
 	Tshewang, Padma, Khenpo Phuntshok Tashi, Chris Butters and Sigmund K. Sætreng. 1995.<em> The Treasure Revealer of Bhutan: Pemalingpa, the Terma Tradition and Its Critics.</em> Biblioteca Himalayica, Series III, Volume 8.&nbsp; Kathmandu: EMR Publishing House.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_3004
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 3004 Sources"@en ;
+	gist:containedText """<p>
+	1990. <em>Bod kyi lo rgyus deb ther khag lnga</em>, Gangs can rig mdzod 9, Bod ljongs bod yig dpe rnying dpe skrun khang.</p>
+<p>
+	Achard, Jean-Luc. 2004. \"bsTan gnyis gling pa (1480-1535) et la Révélation du <em>Yang tig ye shes mthong grol.</em>\" <em>Revue d'Etudes Tibétaines</em>, no. 5, pp. 57–96.&nbsp;&nbsp;<a href=\"http://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_05_03.pdf\">http://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_05_03.pdf</a></p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. N.d. <em>Yang tig ye shes mthong grol</em>, Darjeeling (&nbsp;?), s.d., 355 pages.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1970. <em>Yang tig ye shes mthong grol las zhi khro rang gsal gyi khrin las bklags chog par bkod pa</em>, s.l.,</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1973. <em>Yang tig ye shes mthong grol las zhi khro rang gsal gyi phrin las bklags chog par bkod pa</em>. India.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1982A. <em>Rig 'dzin bstan gnyis gling pa'i rnam thar las&nbsp;| rnal lam lung bstan gyi skor sogs. </em>In <em>Collected Songs of spiritual realization and Visionary writings of bsTan-gnyis gling-pa Padma-tshe-dbang-rgyal po</em>, pp.&nbsp;1–166. Delhi.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1982B. <em>Rig 'dzin chen po bstan gnyis gling pa'i rnam thar las mnal lam lung bstan gyi skor. </em>In <em>Collected Songs of spiritual realization and Visionary writings of bsTan-gnyis gling-pa Padma-tshe-dbang-rgyal po</em>, pp.&nbsp;169–274. Delhi.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1982C. <em>Sprul sku bstan gnyis gling pa pad+ma tshe dbang rgyal po'i mgur 'bum dgos 'dod kun 'byung. </em>In <em>Collected Songs of spiritual realization and Visionary writings of bsTan-gnyis gling-pa Padma-tshe-dbang-rgyal po</em>, pp.&nbsp;275–609. Delhi.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1982D. <em>Rigs</em> (sic) <em>'dzin bstan gnyis gling pa'i rnam thar kha sking gsal ba'i nyin byed. </em>In <em>Collected Songs of spiritual realization and Visionary writings of bsTan-gnyis gling-pa Padma-tshe-dbang-rgyal po</em>, p. 233ff. Delhi.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1983. <em>Zhi khro ye shes mthong grol</em>, A cycle of teachings focusing on the groups of Quiescent and Wrathful Deities / Revealed from its place of concealment by Bstan gnyis gling pa. Gangtok, Sikkim: Bla ma zla ba and Sherab Gyaltsen.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1984. <em>Yang tig ye shes mthong grol gyi chos skor</em>: \"A<em> cycle of Rdzogs chen Practice</em> <em>/</em> Revealed from its place of concealment at Brag dmar by Gter ston Bstan gnyis gling pa.\" Gangtok, Sikkim: Lama Dawa &amp; Sherab Gyaltsen.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1984. <em>Yang tig ye shes mthong grol gyi chos skor: Teachings of the Rdzogs chen Tradition of Tibetan Buddhism</em> / \"Recovered from their place of concealment by Bstan gnyis gling pa Padma Tshe dbang rgyal po.\" Darjeeling: Lama Dawa and Chopal Lama.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 1984. <em>Yang tig ye shes mthong grol gyi chos skor: A cycle of Rdzogs chen practice of the Rnying ma pa Tradition</em> / \"Revealed from its place of concealment by Bstan gnyis gling pa Padma Tshe dbang rgyal po.\" Darjeeling: Konchhog Lhadripa.</p>
+<p>
+	Bstan gnyis gling pa Padma Tshe dbang rgyal po. 199?. <em>Yang tig yeshe ​thong dol: discover</em> (sic!) <em>of Ter-ton Tenngyi</em> (sic!)<em> Lingpa</em>, Solukhumbu: Pema Tharchin Lama.</p>
+<p>
+	Everding, Karl-Heinz. 2004. \"rNying ma pa Lamas at the Court of Mang yul Gung thang: The Meeting of gTer ston bsTan gnyis gling pa with King Kun bzang nyi zla grags pa. In <em>The Relationship Between Religion and State </em>(<em>chos srid zung 'brel</em>)<em> In Traditional Tibet</em>.\" Edited by Christopher Cuppers. Lumbini: Lumbini International Research Institute, Lumbini.</p>
+<p>
+	Gu ru bkra shis. 1990. <em>Gu bkra'i chos 'byung</em>. Beijing: Krung go'i bod kyi shes rig dpe skrun khang.</p>
+<p>
+	'Jam mgon kong sprul. 1990. <em>Bstan gnyis gling pa</em>. In <em>Zab mo'i gter dang gter ston grub thob ji ltar byon pa'i lo rgyus mdor bsdus bkod pa rin chen bee dū rya'i phreng ba zhes bya ba</em>. In Rin chen gter mdzod chen mo, vol. 1, p. 291–759. Chengdu.</p>
+<p>
+	Martin, Dan. 1991. \"A Brief Political History of Tibet by Gu-ru Bkra-shis.\" In <em>Tibetan History and Language</em>. Edited by Ernst Steinkellner, pp. 329–351. Vienna: Arbeitskreis fur Tibetische und Buddhistische Studen Universität Wien.</p>
+<p>
+	Mkhas btsun bzang po rin po che. 1973. <em>Biographical Dictionary of Tibet</em>, vol. IV. Dharamsala.</p>
+<p>
+	Mi pham chos kyi dbang phyug. 1982. <em>Gter dbon rig 'dzin brgyud pa'i gdung rabs lo rgyus tshangs pa'i do shal</em>. Delhi.</p>
+<p>
+	O rgyan gling pa. 1987. <em>Padma bka' thang</em>. Chengdu: Si khron mi rigs dpe skrun khang. Collective</p>
+<p>
+	Rig ’dzin Chos kyi dbang phyug. 1984. <em>Rdzogs pa chen po yang tig ye shes mthong grol gyi man ngag zur rgyan gnad don gsal byed blo rmongs mun sel snang byed</em> <em>'od dkar zhes bya ba</em>. In <em>Yang tig ye shes mthong grol gyi chos skor: A cycle of Rdzogs chen Practice / Revealed from its place of concealment at Brag dmar by Gter ston Bstan gnyis gling pa</em>, pp. 411­–555. Gangtok, Sikkim: Lama Dawa &amp; Sherab Gyaltsen.</p>
+<p>
+	Sangs rgyas gling pa. N.d. <em>Bka' thang gser phreng: U rgyan gu ru padma 'byung gnyis kyi rnam thar rgyas pa gser gyi phreng ba thar lam gsal byed</em>, xyl., s.l (Bhutan ?), s.d., 793 p.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -16664,7 +16866,7 @@ told:_FormattedContent_Biography_SourceStatement_3072
 <p>
 	Gonpo Wanggyel. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, &nbsp;pp. 43-45. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
 	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
 <p>
@@ -17538,7 +17740,7 @@ told:_FormattedContent_Biography_SourceStatement_3736
 <p>
 	'Jam mgon kong sprul yon tan rgya mtsho. 1973.<em> Phyogs med ris med kyi bstan pa la ’dun shing dge sbying gi gzugs brnyan ’chang ba blo gros mtha’ yas kyi sde’i byung ba brjod pa nor bu sna tshogs mdog can</em>. Bir: Tibetan Khampa Industrial Society. TBRC W20880. See also TBRC W23723.</p>
 <p>
-	Mathes, Kaus-Dieter. 2008. \"The Śrī-Śabarapādastotraratna of Vanaratna.\" In <em>Bauddhasāhityastabakāvalī: Essays and Studies on Buddhist Sanskrit Literature Dedicated to Claus Vogel by Colleagues, Students, and Friends</em>. Dimitrov von Dragomir, Michael Hahn, and Roland Steiner, editors. Marburg: Indica et Tibetica 36, pp. 245-268.</p>
+	Mathes, Klaus-Dieter. 2008. \"The Śrī-Śabarapādastotraratna of Vanaratna.\" In <em>Bauddhasāhityastabakāvalī: Essays and Studies on Buddhist Sanskrit Literature Dedicated to Claus Vogel by Colleagues, Students, and Friends</em>. Dimitrov von Dragomir, Michael Hahn, and Roland Steiner, editors. Marburg: Indica et Tibetica 36, pp. 245-268.</p>
 <p>
 	Punya Prasad Parajuli. 2014. \"Vanaratna and His Activities in Nepal in Fifteenth-Century Nepal.\" In <em>Himalayan Passages: Tibetan and Newari Studies in Honor of Hubert Decleer</em>. Andrew Quintman and Benjamin Bogin, editors. Boston: Wisdom, pp. 289-300.</p>
 <p>
@@ -19861,6 +20063,60 @@ told:_FormattedContent_Biography_SourceStatement_4903
 	’Jam mgon kong sprul blo gros mtha’ yas. 2007. <em>Gter ston brgya rtsa.</em> In <em>Rin chen gter mdzod chen mo</em>. New Delhi: Shechen, p. 391.</p>
 <p>
 	Tarthang Tulku. 1975. <em><a href="http://shop.dharmapublishing.com/products/crystal-mirror-4-bringing-the-teachings-alive"><em>Bringing the Teachings Alive</em></a></em>. Cazadero, CA: Dharma Publishing.</p>'''@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_4909
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 4909 Sources"@en ;
+	gist:containedText """<p>
+	Wangdu, Pasang and Hildegard Diemberger. 2000. <em>dBa' bzhed: The Royal Narrative Concerning the Bringing of the Buddha's Doctrine to Tibet</em>. Vienna: Verlag der Österrichischen Akademie der Wissenschaften.</p>
+<p>
+	Dudjom Rinpoche Jikdrel Yeshe Dorje. 1991. <em>The Nyingma School of Tibetan Buddhism: Its Fundamentals and History</em>. Translated and edited by Gyurme Dorje and Matthew Kapstein. Boston: Wisdom Publications.</p>
+<p>
+	Kapstein, Matthew T. 2000. <em>The Tibetan Assimilation of Buddhism: Conversion, Contestation and Memory</em>. New York: Oxford University Press.</p>
+<p>
+	Karma mi 'gyur dbang rgyal. 1978. <em>Gter bton brgya rtsa'i mtshan sdom gsol 'debs chos rgyal bkra shis stobs rgyal gyi mdzad pa'i 'grel pa lo rgyus gter bton chos 'byung</em>. Darjeeling: Orgyan Kunsang Chokhor Ling. MW19709.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_4935
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 4935 Sources"@en ;
+	gist:containedText """<p>
+	Arguillère, Stéphane. 2007. <em>Profusion de la vaste sphère—Klong-chen rab-'byams </em>(<em>Tibet, 1308–1364</em>),<em> Sa vie, son œuvre, sa doctrine</em>. Oslo: The Institute for Comparative Research in Human Culture / Leuven: Peeters.</p>
+<p>
+	Arguillère, Stéphane. 2024. \"A King of Dharma forgotten on the Jewel Island: Was Me ban Chos rgyal Rin chen gling pa Rig 'dzin rGod ldem's rDzogs chen master? (How half of the <em>mKha' 'gro snying thig</em> got included in the <em>dGongs pa zang thal</em>).\" <em>Revue d'Etudes Tibétaines</em>, no.68, January 2024, pp. 69–147 (<a href=\"https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_68_04.pdf\">https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_68_04.pdf</a>).</p>
+<p>
+	Arguillère, Stéphane. 2024. \"Meban Rinchen Lingpa,\" <em>The Treasury of Lives</em> (<a href=\"https://treasuryoflives.org/bo/biographies/view/Meban-Rinchen-Lingpa/3417\">https://treasuryoflives.org/bo/biographies/view/Meban-Rinchen-Lingpa/3417</a>).</p>
+<p>
+	Aris, Michael. 1988.&nbsp;<em>Hidden Teachings and Secret Lives: A Study of Pemalingpa (1450-1521) and the Sixth Dalai Lama (1683-1706)</em>. London: Kegan Paul International.</p>
+<p>
+	Bde legs rgya mtsho, s.d.: <em>Sprul sku legs ldan pa'i rnam thar</em>. In <em>Mkha' 'gro snying thig.&nbsp;</em>&nbsp;BDRC W8LS16393. This text includes autobiographical fragments by Gyelse Lekpa and was completed by Delek Gyatso in the 14th century; the manuscript as we have it is no later than mid-15th century for its latest annotations.</p>
+<p>
+	Gter bdag gling pa 'gyur med rdo rje. 1998<em>. Zab pa dang rgya che ba'i chos kyi thob yig rin chen 'byung gnas</em>. In <em>The collected works (gsuṅ 'bum) of Smin-gliṅ Gter-chen Rig-'zin-'gyur-med-rdo-rje</em>, vols. 1–2. Dehra Dun: D.G. Khochhen Tulku. MW22096</p>
+<p>
+	Gu ru bkra shis. 1990. <em>Bstan pa'i snying po gsang chen snga 'gyur nges don zab mo'i chos kyi 'byung ba gsal bar byed pa'i legs bshad mkhas pa dga' byed ngo mtshar gtam gyi rol mtsho</em>. Xining: Mtsho sngon mi rigs par khang.</p>
+<p>
+	Klong chen rab 'byams. 2009. <em>Mthong snang ’od kyi drwa ba</em>, in Longchenpa 2009, vol. 8, p. 155–194.</p>
+<div>
+	<p>
+		Longchenpa. 2009.&nbsp;<em>Dri med ’od zer gsung ’bum.</em>&nbsp;Beijing: Krung go’i bod kyi shes rigs dpe skrun khang (Dpal brtsegs / Mes po’i shul bzhag).</p>
+</div>
+<p>
+	Ngag dbang blo bzang rgya mtsho. 1970–1971. <em>Zab pa dang rgya che ba'i chos kyi thob yig gaṅgā'i chu rgyun</em>, vol. 1–4, Delhi: Nechung &amp; Lakhar. Referred as \"Fifth Dalai Lama's <em>Record of Teachings Received</em>\"</p>
+<p>
+	Nyi ma bzang po. 1983<em>. Sprul sku rig 'dzin rgod kyi ldem 'phru can kyi rnam thar gsal byed nyi ma'i 'od zer</em>. In <em>Byang gter lugs kyi rnam thar dang ma 'ongs lung bstan</em>. Gangtok: Sherab Gyaltsen &amp; Lama Dawa.</p>
+<p>
+	Nyoshul Khenpo. 2005. <em>A Marvelous Garland of Rare Gems—Biographies of Masters of Awareness in the Dzogchen Lineage</em>. Translated by Barron, Richard. Junction City: Padma Publishing.</p>
+<p>
+	Rgyal sras bzod pa grags pa. 2009: <em>Mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba</em>. In <em>Kun mkhyen klong chen rab 'byams kyi gsung 'bum</em>, vol. 6, pp.&nbsp;188-214. Beijing: Krung go'i bod kyi shes rigs dpe skrun khang. MW1KG4884</p>
+<p>
+	Smyo shul mkhan po 'jam dbyangs rdo rje. 1998. <em>Snyun zhi mkhan po 'jam dbyangs rdo rje'i gsung rdzogs chen chos 'byung</em>. New Delhi: Rigpa House.</p>
+<p>
+	<em>Sprul sku legs ldan pa'i lung bstan</em>. In Longchenpa 2009, vol. 6, p.&nbsp;176.</p>
+<p>
+	Zur mang Tshe dbang kun khyab. 1998. <em>Karma kaṃ tshang brgyud pa rin po che'i rnam thar tshe dbang kun khyab</em><em> rab 'byams nor bu zla ba chu shel gyi phreng</em>, vol.&nbsp;1-2. Kunming:&nbsp;Yun nan mi rigs dpe skrun khang.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -22260,7 +22516,7 @@ told:_FormattedContent_Biography_SourceStatement_6337
 <p>
 	Dkon mchog 'jigs med dbang po. 1971. <em>Dkon mchog 'jigs med dbang po'i gsung 'bum</em>. In <em>Co je'i bstan 'gyur gyi dkar chag yid bzhin nor bu'i phreng ba</em>, vol. 5, pp. 1-528. New Delhi: Ngawang Gelek Demo, pp. 383-384.<a href=\"http://tbrc.org/#!rid=O4CZ28036|O4CZ280364CZ28057$W1KG9560\"> TBRC W1KG9560</a>.</p>
 <p>
-	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 27-29. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
+	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 27-29. <a href=\"http://tbrc.org/#!rid=W19834 \">TBRC W19834</a>.</p>
 <p>
 	Pu Wencheng 蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
 <p>
@@ -22280,7 +22536,7 @@ told:_FormattedContent_Biography_SourceStatement_6338
 <p>
 	Dkon mchog 'jigs med dbang po. 1971. <em>Co je'i bstan 'gyur gyi dkar chag yid bzhin nor bu'i phreng ba. </em>In <em>Dkon mchog 'jigs med dbang po'i gsung 'bum</em>, v. 5, pp. 1-528. New Delhi: Ngawang Gelek Demo, p. 384.&nbsp; <a href=\"http://tbrc.org/#!rid=O4CZ28036|O4CZ280364CZ28057$W1KG9560\">TBRC W1KG9560</a>.</p>
 <p>
-	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 30-31. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
+	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 30-31. <a href=\"http://tbrc.org/#!rid=W19834 \">TBRC W19834</a>.</p>
 <p>
 	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
 <p>
@@ -22298,7 +22554,7 @@ told:_FormattedContent_Biography_SourceStatement_6339
 <p>
 	Dkon mchog 'jigs med dbang po. 1971. <em>Co je'i bstan 'gyur gyi dkar chag yid bzhin nor bu'i phreng ba</em>. In <em>Dkon mchog 'jigs med dbang po'i gsung 'bum</em>, v. 5, pp. 1-528. New Delhi: Ngawang Gelek Demo, p. 384. <a href=\"http://tbrc.org/#!rid=O4CZ28036|O4CZ280364CZ28057$W1KG9560\">TBRC W1KG9560</a>.</p>
 <p>
-	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 31-32. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
+	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 31-32. <a href=\"http://tbrc.org/#!rid=W19834 \">TBRC W19834</a>.</p>
 <p>
 	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
 <p>
@@ -22330,7 +22586,7 @@ told:_FormattedContent_Biography_SourceStatement_6341
 <p>
 	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 32-34. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
 	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao Siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
 <p>
@@ -22350,9 +22606,9 @@ told:_FormattedContent_Biography_SourceStatement_6342
 <p>
 	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, p. 31-32. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
-	Pu Wencheng 蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
+	Pu Wencheng 蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1. </p>
 <p>
 	Rock, Joseph F. 1928. \"Life Among the Lamas of Choni,\" <em>National Geographic Magazine</em>, vol. LIV, November, pp. 569-620.</p>
 <p>
@@ -22370,9 +22626,9 @@ told:_FormattedContent_Biography_SourceStatement_6343
 <p>
 	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 34-35. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
-	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
+	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1. </p>
 <p>
 	Rock, Joseph F. 1928. \"Life Among the Lamas of Choni,\" <em>National Geographic Magazine</em>, vol. LIV, November, pp. 569-620.</p>
 <p>
@@ -22392,9 +22648,9 @@ told:_FormattedContent_Biography_SourceStatement_6344
 <p>
 	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 36-37. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
-	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
+	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1. </p>
 <p>
 	Rock, Joseph F. 1928. \"Life Among the Lamas of Choni,\" <em>National Geographic Magazine</em>, vol. LIV, November, pp. 569-620.</p>
 <p>
@@ -22414,7 +22670,7 @@ told:_FormattedContent_Biography_SourceStatement_6345
 <p>
 	Mgon po dbang rgyal. 1997. <em>Co je sa skyong gi lo rgyus klu chu sngon mo'i gyer dbyangs</em>. Lan kru'u: Kan su'u mi rigs dpe skrun khang, pp. 37-39. <a href=\"http://tbrc.org/#!rid=W19834\">TBRC W19834</a>.</p>
 <p>
-	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46.</p>
+	Gruschke, Andreas. 2001.&nbsp;<em>The Cultural Monuments of Tibet's Outer Provinces: Volume 2</em>. <em>The Gansu and Sichuan Parts of Amdo. </em>Bangkok: White Lotus Press, pp. 44-46. </p>
 <p>
 	Pu Wencheng蒲文成. 1990.&nbsp;<em>Gan-Qing Zangchuan Fojiao siyuan [Gansu and Qinghai Tibetan Buddhist Monasteries].</em>&nbsp;Xining 西宁: Qinghai minzu chubanshe 青海民族出版社 [Qinghai Nationalities Press], pp. 530-1.</p>
 <p>
@@ -26304,51 +26560,51 @@ told:_FormattedContent_Biography_SourceStatement_8964
 	a gist:FormattedContent ;
 	skos:prefLabel "Biography of Person 8964 Sources"@en ;
 	gist:containedText """<p>
-	Blo gros mtha' yas. 1976-1980. <em>Zab mo'i gter dang gter ston grub thob ji ltar byon pa'i lo rgyus mdor bsdus bkod pa rin chen bai ḍū rya'i phreng ba (</em><em>Gter ston brgya rtsa)</em>. In <em>Rin chen gter mdzod,</em> 111 vols, vol. 1, pp. 559-563. Paro, Buthan: Ngodrup and Sherab Drimay.</p>
+	Blo gros mtha' yas. 1976–1980. <em>Zab mo'i gter dang gter ston grub thob ji ltar byon pa'i lo rgyus mdor bsdus bkod pa rin chen bai ḍū rya'i phreng ba (</em><em>Gter ston brgya rtsa)</em>. In <em>Rin chen gter mdzod,</em> 111 vols, vol. 1, pp. 559–563. Paro, Buthan: Ngodrup and Sherab Drimay.</p>
 <p>
-	'Bri gung dkon mchog rgya mtsho. 2004. <em>'Bri gung chos 'byung, </em>Beijing: Mi rigs dpe skrun khang, pp. 441-442.</p>
+	'Bri gung dkon mchog rgya mtsho. 2004. <em>'Bri gung chos 'byung, </em>Beijing: Mi rigs dpe skrun khang, pp. 441–442.</p>
 <p>
-	Bstan 'dzin kun bzang lung rtogs bstan pa'i nyi ma. 2004. <em>Rdzogs chen chos 'byung chen mo.</em> Beijing: Krung go'i bod rig pa dpe skrun khang, pp. 829-835.</p>
+	Bstan 'dzin kun bzang lung rtogs bstan pa'i nyi ma. 2004. <em>Rdzogs chen chos 'byung chen mo.</em> Beijing: Krung go'i bod rig pa dpe skrun khang, pp. 829–835.</p>
 <p>
-	Byang bdag bkra shis stobs rgyal. 1976-1980. <em>Gter brgya'i rnam thar don bsdus gsol 'debs</em>. In <em>Rin chen gter mdzod</em>, 111 vols, vol. 2, pp. 1-31. Paro, Buthan: Ngodrup and Sherab Drimay.</p>
+	Byang bdag bkra shis stobs rgyal. 1976–1980. <em>Gter brgya'i rnam thar don bsdus gsol 'debs</em>. In <em>Rin chen gter mdzod</em>, 111 vols, vol. 2, pp. 1–31. Paro, Buthan: Ngodrup and Sherab Drimay.</p>
 <p>
 	Chos 'phel. 2002. <em>Gangs can bod kyi gnas bshad lam yig gsar ma</em>. Beijing: Mi rigs dpe skrun khang, 4 vols, vol. 1, p. 66.</p>
 <p>
-	Deroche, Marc-Henri. 2011. \"Instructions on the View (<em>lta khrid</em>) of the Two Truths: Prajñāraśmi’s (1518-1584) <em>Bden gnyis gsal ba'i sgron me.</em>\" In <em>Revisiting Tibetan Religion and Philosophy: Proceedings of the Second International Seminar of Young Tibetologists, Paris, 2009. </em>Marc-Henri Deroche, Joshua Schapiro, Seiji Kumagai and Kalsang Norbu Gurung, eds. Paris:<em> Revue d’Études Tibétaines, </em>no. 22, pp. 139-213.</p>
+	Deroche, Marc-Henri. 2009. \"'Phreng po gter ston Shes rab 'od zer (1518–1584) on the Eight Lineages of Attainment: Research on a&nbsp;<em>Ris med</em>&nbsp;Paradigm.\"&nbsp;<em>Contemporary Visions in Tibetan Studies. Proceeding of the First International Seminar of Young Tibetologists</em>. Brandon Dotson&nbsp;<em>et al.</em>, eds. Chicago: Serindia Publications, pp. 319–342.</p>
 <p>
-	Deroche, Marc-Henri. 2011. <em>Prajñāraśmi ('Phreng po gter ston Shes rab 'od zer, Tibet, 1518-1584): Vie, œuvre et contribution à la tradition ancienne </em>(rnying<em> </em>ma) <em>et au mouvement non-partisan </em>(ris med). Unpublished<em> </em>doctoral dissertation. Paris: École Pratique des Hautes<em> </em>Études.</p>
+	Deroche, Marc-Henri. 2011. \"Instructions on the View (<em>lta khrid</em>) of the Two Truths: Prajñāraśmi’s (1518–1584) <em>Bden gnyis gsal ba'i sgron me.</em>\" In <em>Revisiting Tibetan Religion and Philosophy: Proceedings of the Second International Seminar of Young Tibetologists, Paris, 2009. </em>Marc-Henri Deroche, Joshua Schapiro, Seiji Kumagai and Kalsang Norbu Gurung, eds. Paris:<em> Revue d’Études Tibétaines, </em>no. 22, pp. 139–213.</p>
 <p>
-	Deroche, Marc-Henri. 2009. \"'Phreng po gter ston Shes rab 'od zer (1518-1584) on the Eight Lineages of Attainment: Research on a <em>Ris med</em> Paradigm.\" <em>Contemporary Visions in Tibetan Studies. Proceeding of the First International Seminar of Young Tibetologists</em>. Brandon Dotson <em>et al.</em>, eds. Chicago: Serindia Publications, pp. 319-342.</p>
+	Deroche, Marc-Henri. 2023. Une quête tibétaine de la sagesse: Prajñāraśmi (1518-1584) et l’attitude impartiale (ris med). Louvain: Brepols Publishers, Collection des Hautes Etudes, Section des sciences religieuses.</p>
 <p>
 	Grong khyer lha sa srid gros lo rgyus rig gnas dpyad yig rgyu cha rtsom 'bri u yon lhan khang. 1997. <em>Mal gro gung dkar rdzong</em>. Lhasa: Lha sa grong khyer khul, p. 39.</p>
 <p>
-	Gu ru bkra shis. 1990. <em>Gu ru bkra shis chos 'byung</em>. Beijing: Krung go'i bod kyi shes rig dpe skrun khang, pp. 544-550.<em> </em></p>
+	Gu ru bkra shis. 1990. <em>Gu ru bkra shis chos 'byung</em>. Beijing: Krung go'i bod kyi shes rig dpe skrun khang, pp. 544–550.<em> </em></p>
 <p>
-	'Jigs med gling pa mkhyen brtse 'od zer. 1985. <em>Dpal ri theg pa chen po'i gling gi gtam rdo rje sgra ma'i rgyud mngas. </em>In<em> </em><em>Gsung 'bum </em>/<em> </em>’Jigs med gling pa. A 'dzom chos sgar, ed. vol. 7,<em> </em>pp. 381-404.<em> </em>Paro, Buthan: Lama Ngodrup and Sherab Drimay. <em> </em></p>
+	'Jigs med gling pa mkhyen brtse 'od zer. 1985. <em>Dpal ri theg pa chen po'i gling gi gtam rdo rje sgra ma'i rgyud mngas. </em>In<em> </em><em>Gsung 'bum </em>/<em> </em>’Jigs med gling pa. A 'dzom chos sgar, ed. vol. 7,<em> </em>pp. 381–404.<em> </em>Paro, Buthan: Lama Ngodrup and Sherab Drimay. <em> </em></p>
 <p>
-	Kaḥ thog si tu 04 chos kyi rgya mtsho. 1999.<em> Kaḥ thog si tu'i dbus gtsang gnas yig</em>. Lhasa: Bod ljongs bod yig dpe rnying dpe skrun khang, pp. 40-45, 123, 206-207.</p>
+	Kaḥ thog si tu 04 chos kyi rgya mtsho. 1999.<em> Kaḥ thog si tu'i dbus gtsang gnas yig</em>. Lhasa: Bod ljongs bod yig dpe rnying dpe skrun khang, pp. 40–45, 123, 206–207.</p>
 <p>
-	Kun bzang nges don klong yangs. 1976. <em>Rnying ma'i skyes mchog rim byon gyi rnam thar </em><em>(Norbu'i do shal)</em>. Dalhousie: Damchoe Sangpo, pp. 282.6-286.2.</p>
+	Kun bzang nges don klong yangs. 1976. <em>Rnying ma'i skyes mchog rim byon gyi rnam thar </em><em>(Norbu'i do shal)</em>. Dalhousie: Damchoe Sangpo, pp. 282.6–286.2.</p>
 <p>
-	Mkhas bstun bzang po. 1973. <em>Biographical Dictionary of Tibet and Tibetan Buddhism</em>. Dharamsala: Library of Tibetan Works and Archives, vol. 3, pp. 755-759.</p>
+	Mkhas bstun bzang po. 1973. <em>Biographical Dictionary of Tibet and Tibetan Buddhism</em>. Dharamsala: Library of Tibetan Works and Archives, vol. 3, pp. 755–759.</p>
 <p>
 	Ngag dbang blo bzang rgya mtsho. 1980. <em>Gangs can yul gyi sa la spyod pa'i mtho ris kyi rgyal blon gtso bor brjod pa'i deb ther rdzogs ldan gzhon nu'i dga' ston dpyid kyi rgyal mo'i glu dbyangs. </em>Beijing, Mi rigs dpe skrun khang, p. 70.</p>
 <p>
-	Ngag dbang blo bzang rgya mtsho. 1989-1991. <em>Za hor gyi ban de ngag dbang blo bzang rgya mcho'i 'di snang 'khrul ba'i rol rtsed rtogs brjod kyi tshul du bkod pa du kū la'i gos bzang las glegs bam dang po</em>. Lhasa: Bod ljongs mi dmangs dpe skrun khang, vol. 1, pp. 34-35.</p>
+	Ngag dbang blo bzang rgya mtsho. 1989–1991. <em>Za hor gyi ban de ngag dbang blo bzang rgya mcho'i 'di snang 'khrul ba'i rol rtsed rtogs brjod kyi tshul du bkod pa du kū la'i gos bzang las glegs bam dang po</em>. Lhasa: Bod ljongs mi dmangs dpe skrun khang, vol. 1, pp. 34–35.</p>
 <p>
-	Ngag dbang blo bzang rgya mtsho. 2009. <em>Gter ston shes rab 'od zer gyis spyan drangs pa'i gter chos khag gi skor</em>. In <em>Gsung 'bum / ngag dbang blo bzang rgya mtsho</em>, vol. 4, pp. 184-196. Beijing: Krung go'i bod rig pa dpe skrun khang. <a href=\"http://tbrc.org/link?RID=O8LS6083%7CO8LS60838LS6261$W1PD107937\">TBRC W1PD107937</a>.</p>
+	Ngag dbang blo bzang rgya mtsho. 2009. <em>Gter ston shes rab 'od zer gyis spyan drangs pa'i gter chos khag gi skor</em>. In <em>Gsung 'bum / ngag dbang blo bzang rgya mtsho</em>, vol. 4, pp. 184–196. Beijing: Krung go'i bod rig pa dpe skrun khang. <a href=\"http://tbrc.org/link?RID=O8LS6083%7CO8LS60838LS6261$W1PD107937\">TBRC W1PD107937</a>.</p>
 <p>
-	O rgyan gling pa. 2006. <em>Padma bka' thang</em>, Chengdu: Si khron mi rigs dpe skrun khang, pp. 581-589</p>
+	O rgyan gling pa. 2006. <em>Padma bka' thang</em>, Chengdu: Si khron mi rigs dpe skrun khang, pp. 581–589</p>
 <p>
 	'Phreng po gter ston Shes rab 'od zer. 1977.<em> Gsung 'bum</em>, 1 vol. Gangtok: Gonpo Tseten.</p>
 <p>
 	Sangs rgyas rgyas mtsho and Rdo rje rgyal po.<strong> </strong>1991. <em>Dga' ldan chos 'byung baidūrya ser po</em>. Lhasa: Krung go'i bod kyi shes rig dpe skrun khang, pp. 82, 170.<strong> </strong></p>
 <p>
-	Tarthang, Tulku and Bradburn Leslie. 1995. <em>Masters of the Nyingma Lineage</em>. Berkeley: Dharma Publishing, Crystal Mirror Series, vol. 11, pp. 214, 219-220.</p>
+	Tarthang, Tulku and Bradburn Leslie. 1995. <em>Masters of the Nyingma Lineage</em>. Berkeley: Dharma Publishing, Crystal Mirror Series, vol. 11, pp. 214, 219–220.</p>
 <p>
-	Tucci, Giuseppe. 1949. <em>Tibetan Painted Scrolls</em>. Roma: La Libreria Dello Stato, vol. 1, pp. 110-115.</p>
+	Tucci, Giuseppe. 1949. <em>Tibetan Painted Scrolls</em>. Roma: La Libreria Dello Stato, vol. 1, pp. 110–115.</p>
 <p>
-	Zhe chen rgyal tshab 04 Padma rnam rgyal. 1994. <em>Snga 'gyur rdo rje theg pa gtso bor gyur pa'i sgrub brgyud shing rta brgyad kyi byung ba brjod pa'i gtam mdor bsdus legs bshad padma dkar po'i rdzing bu</em><em> (Zhe chen chos ’byung)</em>. Chengdu: Si khron mi rigs dpe skrun khang, pp. 262-269.</p>"""@en ;
+	Zhe chen rgyal tshab 04 Padma rnam rgyal. 1994. <em>Snga 'gyur rdo rje theg pa gtso bor gyur pa'i sgrub brgyud shing rta brgyad kyi byung ba brjod pa'i gtam mdor bsdus legs bshad padma dkar po'i rdzing bu</em><em> (Zhe chen chos ’byung)</em>. Chengdu: Si khron mi rigs dpe skrun khang, pp. 262–269.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -27028,6 +27284,46 @@ told:_FormattedContent_Biography_SourceStatement_9254
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Biography_SourceStatement_9278
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 9278 Sources"@en ;
+	gist:containedText """<p>
+	Allione, Tsultrim. 2000. <em>Women of Wisdom</em>. Ithaca, Snow Lion.</p>
+<p>
+	Chos rgyal nam mkha'i nor bu. <em>Chos rgyal nam mkha'i nor bu'i dus phrin</em>. Unpublished manuscript.</p>
+<p>
+	Chögyal Namkhai Norbu. 1981. <em>The Necklace of Gzi:&nbsp;A Cultural History of Tibet</em>, Dharamsala: Library of Tibetan Works and Archives.</p>
+<p>
+	Chos rgyal nam mkha'i nor bu. 1982. <em>Rtsom pa po ngo sprod pa'i lo rgyus</em><em> mdor bsdus</em>. In <em>Gzi yi phreng ba</em>. Dharamsala: Library of Tibetan Works and Archives.</p>
+<p>
+	Chögyal Namkhai Norbu. 1995. <em>Drung, Deu and Bön:&nbsp;Narrations, Symbolic Languages and the Bön Tradition in&nbsp;Ancient Tibet</em>. Dharamsala: Library of Tibetan Works and Archives.<em>The Golden Letters</em>, Foreword, Snow Lion Publications, Ithaca, NY&nbsp;1996.</p>
+<p>
+	Chögyal Namkhai Norbu. 2000. <em>The Crystal and the Way of Light: Sutra, Tantra and Dzogchen</em>. Ithaca: Snow Lion&nbsp;Publications.</p>
+<p>
+	Chögyal Namkhai Norbu. 2002. <em>Journey Among the Tibetan Nomads</em>. Paljor Publications.</p>
+<p>
+	Chögyal Namkhai Norbu. 2005. <em>The Mirror: Advice on Presence and Awareness</em>. Arcidosso: Shang Shung Edizioni.</p>
+<p>
+	Chögyal Namkhai Norbu. 2008. <em>Yantra Yoga: The Tibetan Yoga of Movement</em>. Ithaca: Snow Lion Publications.</p>
+<p>
+	Chögyal Namkhai Norbu. 2009. <em>The Light of Kailash, Vol. 1: The Early Period</em>.&nbsp;Translated by Donatella Rossi. Arcidosso: Shang Shung Edizioni.</p>
+<p>
+	Chögyal Namkhai Norbu. 2010. <em>Rainbow Body:&nbsp;The Life and Realization of Togden Ugyen Tendzin</em>. Arcidosso: Shang Shung&nbsp;Edizioni.</p>
+<p>
+	Chögyal Namkhai Norbu. 2013. <em>The Light of Kailash, Vol. </em><em>2: The Intermediate Period</em>.&nbsp;Translated by Donatella Rossi. Arcidosso: Shang Shung Edizioni.</p>
+<p>
+	Chögyal Namkhai Norbu. 2015. <em>The Light of Kailash, Vol. </em><em>3: The Later Period</em>.&nbsp;Translated by Donatella Rossi. Arcidosso: Shang Shung Edizioni.</p>
+<p>
+	Chos rgyal Nam mkha'i Norbu. 2015. Chos rgyal nam mkha'i nor bu 'i gsung 'bum, 5 Vols. Xining: Mtsho snon mi rigs dpe skrun khang.</p>
+<p>
+	Chögyal Namkhai Norbu. 2020. <em>Dzogchen: Our Real Condition; An Introduction in Questions and Answers</em>. Arcidosso: Shang Shung Edizioni.</p>
+<p>
+	Elena De Rossi Filibeck. 1994. <em>Catalogue of the Tucci Tibetan Fund in the Library of IsMEO, Volume 1</em>. IsMEO, Rome.</p>
+<p>
+	Elena De Rossi Filibeck. 2003. <em>Catalogue of the Tucci Tibetan Fund in the Library of IsMEO, Volume 2</em>. ISIAO, Rome.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Biography_SourceStatement_9287
 	a gist:FormattedContent ;
 	skos:prefLabel "Biography of Person 9287 Sources"@en ;
@@ -27329,6 +27625,18 @@ told:_FormattedContent_Biography_SourceStatement_9442
 	skos:prefLabel "Biography of Person 9442 Sources"@en ;
 	gist:containedText """<p>
 	Byams pa phrin las. 2000. <em>Gangs ljongs gso rig bstan pa'i nyin byed rim byon gyi rnam thar phyogs bsgrigs</em>. Pe cin: Mi rigs dpe skrun khang, pp. 410-413. <a href=\"http://tbrc.org/#!rid=W1KG15446\">TBRC W1KG15446</a>.</p>"""@en ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_SourceStatement_9469
+	a gist:FormattedContent ;
+	skos:prefLabel "Biography of Person 9469 Sources"@en ;
+	gist:containedText """<p>
+	'Jam mgon kong sprul blo gros mtha' yas. 1976-1980. <em>Gter ston brgya rtsa</em>. In <em>Rin chen gter mdzod chen mo</em>, vol. 1, pp. 291–759. Paro: Ngodrup and Sherab Drimay, pp. 634–636.</p>
+<p>
+	Jamgön Kongtrul Lodrö Taye. 2011. <em>The Hundred Tertöns: A Garland of Beryl: A Brief Account of Profound Terma and the Siddha Who Have Revealed It</em>. Translated by Yeshe Gyamtso. New York: KTD Publishing.</p>
+<p>
+	Ricard, Matthieu. 2001. <em>The Life of Shabkar: The Autobiography of a Tibetan Yogin</em>. Ithaca: Snow Lion.</p>"""@en ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
