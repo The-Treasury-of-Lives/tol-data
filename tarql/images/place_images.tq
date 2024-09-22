@@ -27,7 +27,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # image_path
 
 # Run: 
-# tarql --dedup 5000 -e utf-8 place_images.tq place-image-3-18-24.csv > tolPlaceImages.ttl
+# tarql --dedup 10000 -e utf-8 place_images.tq place-image-3-18-24.csv > tolPlaceImages.ttl
 
 CONSTRUCT {
 
