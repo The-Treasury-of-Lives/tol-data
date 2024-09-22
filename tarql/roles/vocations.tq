@@ -90,7 +90,7 @@ WHERE {
 
     BIND(STRDT(CONCAT(?start_date_alternate, ?date_time_completion), xsd:dateTime) AS ?alternate_start_datetime_1)
 
-    # Actual vs approximate vs alternate founding year:
+    # Actual vs approximate vs alternate start year:
 
     # If no alternate and date is not approximate, it is the actual date.
     BIND(IF(!BOUND(?start_date_alternate) && (!BOUND(?start_date_approx) || ?start_date_approx = "0"), ?start_datetime, ?unbound) AS ?actual_start_datetime)

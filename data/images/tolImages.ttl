@@ -19,401 +19,281 @@
 
 told:_ElectronicAddress_source_image_100
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/2213/machik-labdron-10551153"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_101
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1398/refuge-field-with-machik-labdron-10551153"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_103
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1418/namkhai-nyingpo-8th9th-century-performing-a-longlife-rit"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_104
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Cleveland Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://clevelandart.org/art/1968.280"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_107
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Cleveland Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.clevelandart.org/art/1997.305"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_108
 	a gist:ElectronicAddress ;
-	skos:prefLabel "The Metropolitan Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.metmuseum.org/art/collection/search/38006"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_109
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Cleveland Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.clevelandart.org/art/2000.67"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_11
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1404/sanggye-sengge-15041569"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_119
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Trungpa, Chögyam. 1975. Visual Dharma: The Buddhist Art of Tibet. United Kingdom: Shambhala Publications."@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.metmuseum.org/art/collection/search/37800"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_122
 	a gist:ElectronicAddress ;
-	skos:prefLabel "World Museum Liverpool"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.liverpoolmuseums.org.uk/artifact/tibetan-delegation-hastings-house-calcutta"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_124
 	a gist:ElectronicAddress ;
-	skos:prefLabel 'The Tibet Album. "Tsarong and Pema Dolkar at home at New Year" 05 Dec. 2006. The Pitt Rivers Museum.'@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://tibet.prm.ox.ac.uk/photo_1998.131.473.2.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_125
 	a gist:ElectronicAddress ;
-	skos:prefLabel 'Shelton, AL. 1921. "Life Among the People of Eastern Tibet. National Geographic, vol. 40, no. 3, pp. 294-326.'@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/tibet-king-china-history"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_127
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1360/first-panchen-lama-lobzang-chokyi-gyaltsen-15701662af"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_136
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1471/rahula-and-his-assembly"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_15
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/947/drakpa-gyeltsen-11471216-and-sakya-pandita-11821251"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_19
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/3679/two-indian-and-four-tibetan-masters"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_2
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/104/panjarnatha-mahakala"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_22
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/560/karmapa-with-his-footprints"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_24
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1452/chakrasamvara-and-the-footprints-of-drigungpa-jikten-sumgon"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_29
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/3791/the-field-of-accumulation-of-merit"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_32
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/159/seventh-dalai-lama-17081757-and-his-preincarnations"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_33
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1555/phakmodrupa-11101170-with-his-previous-incarnations-and-e"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_34
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/2839/padmasambhava"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_42
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1365/drenpa-namkha-ca-8th-century"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_48
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/459/third-pawo-rinpoche-tsuklak-gyatso-15681630-with-his-han"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_5
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1490/sachen-kunga-nyingpo-10921158-with-his-two-sons-sonam-ts"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_50
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Shakabpa, Wangchuk Deden. 2010. One Hundred Thousand Moons: An Advanced Political History of Tibet. Translated by Derek Maher. Netherlands: Brill."@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://brill.com/display/title/17829"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_52
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_62
 	a gist:ElectronicAddress ;
-	skos:prefLabel 'The Tibet Album. "Wangchen Geleg Surkhang, Phuntsog Rabgye Ragashar" 05 Dec. 2006. The Pitt Rivers Museum.'@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://tibet.prm.ox.ac.uk/photo_2001.59.7.5.1.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_64
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Wikipedia"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "Kunphela_and_Tashi_Dhondup_with_Baby_Austin_at_Dekyi-lingka_19.9.33.jpg"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_66
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Philadelphia Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://philamuseum.org/collection/object/258403"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_67
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1821/the-potala-palace-and-the-main-monuments-of-lhasa"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_68
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_77
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_8
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/511/buddhashri-sanggye-pel-13391419-surrounded-by-the-yogacha"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_81
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_9
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/220/abbot-lhachok-sengge-14681535"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_97
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_98
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/187"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_99
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Rubin Museum of Art"@en ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_source ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "Image Source"@en ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/862/jatson-nyingpo-15851656"^^xsd:anyURI ;
 	.
 
@@ -1027,7 +907,7 @@ told:_Image_10
 told:_Image_100
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_100 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_100 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T15:33:16"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_100 ;
@@ -1041,7 +921,7 @@ told:_Image_100
 told:_Image_101
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_101 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_101 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T19:44:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_101 ;
@@ -1068,7 +948,7 @@ told:_Image_102
 told:_Image_103
 	a tolo:Image ;
 	skos:prefLabel "Namkhai Nyingpo"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_103 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_103 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-09T15:26:57"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_103 ;
@@ -1082,7 +962,7 @@ told:_Image_103
 told:_Image_104
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_104 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_104 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-24T20:50:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_104 ;
@@ -1109,7 +989,7 @@ told:_Image_105
 told:_Image_107
 	a tolo:Image ;
 	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_107 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_107 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-04-23T18:26:17"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_107 ;
@@ -1123,7 +1003,7 @@ told:_Image_107
 told:_Image_108
 	a tolo:Image ;
 	skos:prefLabel "Atiśa"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_108 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_108 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-05-02T14:58:50"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_108 ;
@@ -1137,7 +1017,7 @@ told:_Image_108
 told:_Image_109
 	a tolo:Image ;
 	skos:prefLabel "Preaching Śākyamuni"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_109 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_109 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-11-15T16:01:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_109 ;
@@ -1151,7 +1031,7 @@ told:_Image_109
 told:_Image_11
 	a tolo:Image ;
 	skos:prefLabel "Sanggye Sengge"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_11 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_11 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:07:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_11 ;
@@ -1232,7 +1112,6 @@ told:_Image_118
 	skos:prefLabel "Vajrakila"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-05-15T16:26:57"^^xsd:dateTime ;
-	tolo:credit "Tucci, Giuseppe. 1980. Tibetan Painted Scrolls. Japan: Rinsen Book."@en ;
 	tolo:depicts told:_IntellectualProperty_118 ;
 	tolo:fileName "vajrakila.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_118 ;
@@ -1244,7 +1123,7 @@ told:_Image_118
 told:_Image_119
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_119 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_119 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-07-21T16:49:38"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_119 ;
@@ -1286,7 +1165,6 @@ told:_Image_121
 	skos:prefLabel "Resistance fighters at Kalsang Phug"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
-	tolo:credit "Tenzing Sonam"@en ;
 	tolo:depicts told:_IntellectualProperty_121 ;
 	tolo:fileName "Mustang leaders (medium-res).jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_121 ;
@@ -1298,7 +1176,7 @@ told:_Image_121
 told:_Image_122
 	a tolo:Image ;
 	skos:prefLabel "Officials at Hastings House"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_122 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_122 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T18:44:29"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_122 ;
@@ -1314,7 +1192,6 @@ told:_Image_123
 	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:02:08"^^xsd:dateTime ;
-	tolo:credit "Sonam Wangchuk Shakspo"@en ;
 	tolo:depicts told:_IntellectualProperty_123 ;
 	tolo:fileName "bakula-panchen-ktm-1986.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_123 ;
@@ -1326,7 +1203,7 @@ told:_Image_123
 told:_Image_124
 	a tolo:Image ;
 	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_124 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_124 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:16:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_124 ;
@@ -1340,7 +1217,7 @@ told:_Image_124
 told:_Image_125
 	a tolo:Image ;
 	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_125 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_125 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:43:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_125 ;
@@ -1367,7 +1244,7 @@ told:_Image_126
 told:_Image_127
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_127 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_127 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-01-18T15:28:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_127 ;
@@ -1422,7 +1299,6 @@ told:_Image_131
 	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-01-25T23:06:48"^^xsd:dateTime ;
-	tolo:credit "Visual Dharma: The Buddhist Art of Tibet by Chogyam Trungpa. United Kingdom: Shambhala, 1975."@en ;
 	tolo:depicts told:_IntellectualProperty_131 ;
 	tolo:fileName "barawa-refuge-field.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_131 ;
@@ -1473,7 +1349,7 @@ told:_Image_134
 told:_Image_136
 	a tolo:Image ;
 	skos:prefLabel "Rahula and Retinue"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_136 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_136 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-04-08T13:32:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_136 ;
@@ -1487,7 +1363,7 @@ told:_Image_136
 told:_Image_15
 	a tolo:Image ;
 	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_15 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_15 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_15 ;
@@ -1540,7 +1416,7 @@ told:_Image_18
 told:_Image_19
 	a tolo:Image ;
 	skos:prefLabel "Six Kagyu Teachers With Lineage"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_19 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_19 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-25T21:37:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_19 ;
@@ -1554,7 +1430,7 @@ told:_Image_19
 told:_Image_2
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_2 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_2 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:27:27"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_2 ;
@@ -1570,7 +1446,6 @@ told:_Image_20
 	skos:prefLabel "Karma Pakshi with lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T17:25:52"^^xsd:dateTime ;
-	tolo:credit "Private"@en ;
 	tolo:depicts told:_IntellectualProperty_20 ;
 	tolo:fileName "68871.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_20 ;
@@ -1584,7 +1459,6 @@ told:_Image_21
 	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T19:37:54"^^xsd:dateTime ;
-	tolo:credit "Private"@en ;
 	tolo:depicts told:_IntellectualProperty_21 ;
 	tolo:fileName "89957.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_21 ;
@@ -1596,7 +1470,7 @@ told:_Image_21
 told:_Image_22
 	a tolo:Image ;
 	skos:prefLabel "Early Karmapa with footprints"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_22 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_22 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:45:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_22 ;
@@ -1610,7 +1484,7 @@ told:_Image_22
 told:_Image_24
 	a tolo:Image ;
 	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_24 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_24 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:55:55"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_24 ;
@@ -1639,7 +1513,6 @@ told:_Image_26
 	skos:prefLabel "Padampa Sanggye"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-29T17:28:09"^^xsd:dateTime ;
-	tolo:credit "Nyingjei Lam"@en ;
 	tolo:depicts told:_IntellectualProperty_26 ;
 	tolo:fileName "68480.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_26 ;
@@ -1664,7 +1537,7 @@ told:_Image_28
 told:_Image_29
 	a tolo:Image ;
 	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_29 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_29 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-09-06T23:11:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_29 ;
@@ -1717,7 +1590,7 @@ told:_Image_31
 told:_Image_32
 	a tolo:Image ;
 	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_32 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_32 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-12-14T17:16:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_32 ;
@@ -1731,7 +1604,7 @@ told:_Image_32
 told:_Image_33
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_33 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_33 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T18:50:03"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_33 ;
@@ -1745,7 +1618,7 @@ told:_Image_33
 told:_Image_34
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_34 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_34 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T20:05:53"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_34 ;
@@ -1824,7 +1697,7 @@ told:_Image_40
 told:_Image_42
 	a tolo:Image ;
 	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_42 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_42 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T11:05:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_42 ;
@@ -1877,7 +1750,7 @@ told:_Image_46
 told:_Image_48
 	a tolo:Image ;
 	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_48 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_48 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-03T11:54:49"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_48 ;
@@ -1904,7 +1777,7 @@ told:_Image_49
 told:_Image_5
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_5 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_5 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:01:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_5 ;
@@ -1918,7 +1791,7 @@ told:_Image_5
 told:_Image_50
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Trade Delegation to the US and UK, 1948"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_50 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_50 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T13:50:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_50 ;
@@ -1945,7 +1818,7 @@ told:_Image_51
 told:_Image_52
 	a tolo:Image ;
 	skos:prefLabel "The Demoness of Tibet"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_52 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_52 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T15:10:40"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_52 ;
@@ -2013,7 +1886,6 @@ told:_Image_57
 	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:29:08"^^xsd:dateTime ;
-	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."@en ;
 	tolo:depicts told:_IntellectualProperty_57 ;
 	tolo:fileName "photo (9).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_57 ;
@@ -2027,7 +1899,6 @@ told:_Image_58
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:53:59"^^xsd:dateTime ;
-	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."@en ;
 	tolo:depicts told:_IntellectualProperty_58 ;
 	tolo:fileName "photo (11).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_58 ;
@@ -2041,7 +1912,6 @@ told:_Image_59
 	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:23:23"^^xsd:dateTime ;
-	tolo:credit "Lhagyari Family"@en ;
 	tolo:depicts told:_IntellectualProperty_59 ;
 	tolo:fileName "LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_59 ;
@@ -2068,7 +1938,6 @@ told:_Image_60
 	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:57:41"^^xsd:dateTime ;
-	tolo:credit "The Lhagyari Chronicles"@en ;
 	tolo:depicts told:_IntellectualProperty_60 ;
 	tolo:fileName "LhagyariWedding.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_60 ;
@@ -2082,7 +1951,6 @@ told:_Image_61
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T14:36:04"^^xsd:dateTime ;
-	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."@en ;
 	tolo:depicts told:_IntellectualProperty_61 ;
 	tolo:fileName "photo (7).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_61 ;
@@ -2094,7 +1962,7 @@ told:_Image_61
 told:_Image_62
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_62 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_62 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:03:15"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_62 ;
@@ -2110,7 +1978,6 @@ told:_Image_63
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:38:07"^^xsd:dateTime ;
-	tolo:credit "TransHimalayan Heritage"@en ;
 	tolo:depicts told:_IntellectualProperty_63 ;
 	tolo:fileName "Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_63 ;
@@ -2122,7 +1989,7 @@ told:_Image_63
 told:_Image_64
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_64 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_64 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:55:59"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_64 ;
@@ -2138,7 +2005,6 @@ told:_Image_65
 	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T17:03:04"^^xsd:dateTime ;
-	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."@en ;
 	tolo:depicts told:_IntellectualProperty_65 ;
 	tolo:fileName "photo-20.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_65 ;
@@ -2150,7 +2016,7 @@ told:_Image_65
 told:_Image_66
 	a tolo:Image ;
 	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_66 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_66 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-22T16:35:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_66 ;
@@ -2164,7 +2030,7 @@ told:_Image_66
 told:_Image_67
 	a tolo:Image ;
 	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_67 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_67 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-07-14T17:23:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_67 ;
@@ -2178,7 +2044,7 @@ told:_Image_67
 told:_Image_68
 	a tolo:Image ;
 	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_68 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_68 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-08-29T17:02:24"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_68 ;
@@ -2194,7 +2060,6 @@ told:_Image_69
 	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T12:46:07"^^xsd:dateTime ;
-	tolo:credit "Larsen, Knud and Sinding-Larsen, Amund. 2001. The Lhasa Atlas: Traditional Tibetan Architecture and Townscape. Kiribati: Serindia."@en ;
 	tolo:depicts told:_IntellectualProperty_69 ;
 	tolo:fileName "Lhasa perspective.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_69 ;
@@ -2221,7 +2086,6 @@ told:_Image_70
 	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:34:34"^^xsd:dateTime ;
-	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"@en ;
 	tolo:depicts told:_IntellectualProperty_70 ;
 	tolo:fileName "R Sadutshang with Taklha.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_70 ;
@@ -2235,7 +2099,6 @@ told:_Image_71
 	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:36:41"^^xsd:dateTime ;
-	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"@en ;
 	tolo:depicts told:_IntellectualProperty_71 ;
 	tolo:fileName "Lo Gendun Sadutshang.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_71 ;
@@ -2249,7 +2112,6 @@ told:_Image_72
 	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T16:30:26"^^xsd:dateTime ;
-	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"@en ;
 	tolo:depicts told:_IntellectualProperty_72 ;
 	tolo:fileName "UN Delegation pic.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_72 ;
@@ -2287,7 +2149,7 @@ told:_Image_74
 told:_Image_77
 	a tolo:Image ;
 	skos:prefLabel "Milarepa"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_77 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_77 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T11:51:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_77 ;
@@ -2316,7 +2178,6 @@ told:_Image_79
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T17:39:51"^^xsd:dateTime ;
-	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."@en ;
 	tolo:depicts told:_IntellectualProperty_79 ;
 	tolo:fileName "photo (14).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_79 ;
@@ -2328,7 +2189,7 @@ told:_Image_79
 told:_Image_8
 	a tolo:Image ;
 	skos:prefLabel "Buddhashri"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_8 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_8 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:03:32"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_8 ;
@@ -2355,7 +2216,7 @@ told:_Image_80
 told:_Image_81
 	a tolo:Image ;
 	skos:prefLabel "Shakyamuni Buddha"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_81 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_81 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-01T12:48:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_81 ;
@@ -2423,7 +2284,6 @@ told:_Image_87
 	skos:prefLabel "Group of Tibetan Army Officers"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-15T17:08:36"^^xsd:dateTime ;
-	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."@en ;
 	tolo:depicts told:_IntellectualProperty_87 ;
 	tolo:fileName "photo (22).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_87 ;
@@ -2437,7 +2297,6 @@ told:_Image_88
 	skos:prefLabel "Taring Women"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-16T15:06:40"^^xsd:dateTime ;
-	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."@en ;
 	tolo:depicts told:_IntellectualProperty_88 ;
 	tolo:fileName "photo (23).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_88 ;
@@ -2462,7 +2321,7 @@ told:_Image_89
 told:_Image_9
 	a tolo:Image ;
 	skos:prefLabel "Lhachok Sengge"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_9 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_9 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:05:31"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_9 ;
@@ -2541,7 +2400,7 @@ told:_Image_95
 told:_Image_97
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_97 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_97 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-01-24T19:17:30"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_97 ;
@@ -2554,7 +2413,7 @@ told:_Image_97
 told:_Image_98
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_98 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_98 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-01T19:44:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_98 ;
@@ -2568,7 +2427,7 @@ told:_Image_98
 told:_Image_99
 	a tolo:Image ;
 	skos:prefLabel "Jatson Nyingpo"@en ;
-	gist:hasAddress told:_ElectronicAddress_source_image_99 ;
+	gist:comesFromPlace told:_ElectronicAddress_source_image_99 ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-02T16:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_99 ;
@@ -3606,6 +3465,7 @@ told:_IntellectualProperty_118
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_90907 ;
+	tolo:credit "Tucci, Giuseppe. 1980. Tibetan Painted Scrolls. Japan: Rinsen Book."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_119
@@ -3619,6 +3479,7 @@ told:_IntellectualProperty_119
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_86433 ;
+	tolo:credit "Trungpa, Chögyam. 1975. Visual Dharma: The Buddhist Art of Tibet. United Kingdom: Shambhala Publications."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_12
@@ -3648,6 +3509,7 @@ told:_IntellectualProperty_121
 	gist:description "Tibetan resistance fighters at Kalsang Phug HQ in 1966."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	tolo:credit "Tenzing Sonam"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_122
@@ -3669,6 +3531,7 @@ told:_IntellectualProperty_123
 		told:_HistoricalPeriod_80 ,
 		told:_Tradition_27
 		;
+	tolo:credit "Sonam Wangchuk Shakspo"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_124
@@ -3678,6 +3541,7 @@ told:_IntellectualProperty_124
 	gist:hasPhysicalLocation told:_Place_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit 'The Tibet Album. "Tsarong and Pema Dolkar at home at New Year" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:isCreatedBy told:_Person_frederick_spencer_chapman ;
 	.
 
@@ -3687,6 +3551,7 @@ told:_IntellectualProperty_125
 	gist:description "Members of the Royal Family of Derge led by Dorje Sengge"@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit 'Shelton, AL. 1921. "Life Among the People of Eastern Tibet. National Geographic, vol. 40, no. 3, pp. 294-326.'^^xsd:string ;
 	tolo:isCreatedBy told:_Person_al_shelton ;
 	.
 
@@ -3756,6 +3621,7 @@ told:_IntellectualProperty_131
 		told:_Tradition_77
 		;
 	gist:isIdentifiedBy told:_ID_har_98406 ;
+	tolo:credit "Visual Dharma: The Buddhist Art of Tibet by Chogyam Trungpa. United Kingdom: Shambhala, 1975."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_132
@@ -3886,6 +3752,7 @@ told:_IntellectualProperty_20
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_68871 ;
+	tolo:credit "Private"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_21
@@ -3898,6 +3765,7 @@ told:_IntellectualProperty_21
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_89957 ;
+	tolo:credit "Private"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_22
@@ -3949,6 +3817,7 @@ told:_IntellectualProperty_26
 		told:_Tradition_37
 		;
 	gist:isIdentifiedBy told:_ID_har_68480 ;
+	tolo:credit "Nyingjei Lam"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_28
@@ -4216,6 +4085,7 @@ told:_IntellectualProperty_50
 	gist:description "The Tibetan Trade Delegation to the US and the UK stand outside 10 Downing Street with Prime Minister Clement Atlee. The photo shows, from left to right, Khenchung Tubten Tsepel Taikhang (younger brother of Shakabpa), Finance Minister Wangchuk Deden Shakabpa, Yampel Pangdatsang, Prime Minister Clement Atlee, Surkhang Lhawang Topgyal and Kaludharma Ratna (interpreter). An Advanced Political History of Tibet misidentifies Surkhang Lhawang Topgyal as his father Dzasa Surkhang Surpa Wangchen Tseten, but in fact it was Surkhang Lhawang Topgyal who was part of the trade delegation as its interpreter."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit "Shakabpa, Wangchuk Deden. 2010. One Hundred Thousand Moons: An Advanced Political History of Tibet. Translated by Derek Maher. Netherlands: Brill."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_51
@@ -4299,6 +4169,7 @@ told:_IntellectualProperty_57
 	gist:description "Surkhang Wangchen Tseten and his first wife Lhagyari Tseten Chodzom, circa 1926."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_58
@@ -4307,6 +4178,7 @@ told:_IntellectualProperty_58
 	gist:description "Yuthok Dorje Yudon, second from right, with her relatives, ca. 1937, was a member of two prominent Lhasa families, the Surkhangs and the Yuthoks."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_59
@@ -4315,6 +4187,7 @@ told:_IntellectualProperty_59
 	gist:description "Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul and the head of the aristocratic Lhagyari family, in his later years in exile in India."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	tolo:credit "Lhagyari Family"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_6
@@ -4336,6 +4209,7 @@ told:_IntellectualProperty_60
 	gist:description "A wedding picture of Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul, with his second wife Puntsok Drolkar, in India. In 1985."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	tolo:credit "The Lhagyari Chronicles"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_61
@@ -4344,6 +4218,7 @@ told:_IntellectualProperty_61
 	gist:description "A photograph of Yuthok Dorje Yudon, a member of the Surkhang family who married into the Yuthoks, in 1988, taken by Christine Cox."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_80 ;
+	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_62
@@ -4353,6 +4228,7 @@ told:_IntellectualProperty_62
 	gist:hasPhysicalLocation told:_Place_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit 'The Tibet Album. "Wangchen Geleg Surkhang, Phuntsog Rabgye Ragashar" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:isCreatedBy told:_Person_hugh_e_richardson ;
 	.
 
@@ -4362,6 +4238,7 @@ told:_IntellectualProperty_63
 	gist:description "Surkhang Wangchen Gelek is pictured with the Fourteenth Dalai Lama to the right."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit "TransHimalayan Heritage"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_64
@@ -4370,6 +4247,7 @@ told:_IntellectualProperty_64
 	gist:description "Yuthok Tashi Dhondup with Kunpel, a favorite of the Thirteenth Dalai Lama, with the Dalai Lama's Baby Austin with the license plate \"Tibet 2.\" The photo was taken in 1933 in front of the British mission at Dekyilingka in Lhasa."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	tolo:credit "Wikipedia"^^xsd:string ;
 	tolo:isCreatedBy told:_Person_margaret_williamson ;
 	.
 
@@ -4379,6 +4257,7 @@ told:_IntellectualProperty_65
 	gist:description "Yuthok Tashi Dhondup and Taring Jigme, generals in the Tibetan army, circa 1931. Yuthok was Depon or general of the Drongdrak garrison at the time."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_66
@@ -4424,6 +4303,7 @@ told:_IntellectualProperty_69
 	gist:hasPhysicalLocation told:_Place_collection_of_knud_larsen ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit "Larsen, Knud and Sinding-Larsen, Amund. 2001. The Lhasa Atlas: Traditional Tibetan Architecture and Townscape. Kiribati: Serindia."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_7
@@ -4445,6 +4325,7 @@ told:_IntellectualProperty_70
 	gist:description "Rinchen Sadutshang, a fifth rank official at the Tibetan foreign ministry, with his colleague Takla Phuntsok Tashi, a brother in law of the Fourteenth Dalai Lama, in front of the Potala in 1952. Sadutshang would later become a Kalon in India in 1978 and would become the Representative at the Bureau of the Dalai Lama in Delhi, his last post before retirement."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_71
@@ -4453,6 +4334,7 @@ told:_IntellectualProperty_71
 	gist:description "Lo Gendun Sadutshang with Khampas he had gathered as armed guards to escort the young Fourteenth Dalai Lama, who had just assumed full political power, from the capital Lhasa to Yatung by the border for safety, in December 1951. "@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_72
@@ -4461,6 +4343,7 @@ told:_IntellectualProperty_72
 	gist:description "Tibetan government officials Rinchen Sadutshang, Tsipon Wangchuk Deden Shakabpa and Gyalo Thondup, the Dalai Lama's older brother, in front of the United Nations in September 1959. The delegation made three such trips to the UN, in the falls of 1959, 1960 and 1961, to seek support for Tibet."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_73
@@ -4522,6 +4405,7 @@ told:_IntellectualProperty_79
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
 	gist:description "Surkhang Wangchen Gelek with wife Dekyi Lhaze and daughter in Lhasa city with the Potala Palace in the background. The photo was taken by Heinrich Harrer."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_8
@@ -4621,6 +4505,7 @@ told:_IntellectualProperty_87
 	gist:description "A group of Tibetan army officers with Tsarong Dasang Damdul seated in the center. The photo was likely taken in Lhasa. Tsarong, a commoner who rose to become commander-in-chief, created the first modern Tibetan army."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_88
@@ -4629,6 +4514,7 @@ told:_IntellectualProperty_88
 	gist:description "Taring Rinchen Dolma with her mother-in-law Rani Taring and her sister-in-law Kalden Wangmo. Raja Taring, Tsodrak Namgyal, of Sikkim, fled to Tibet in 1892 when the British Army entered Gangtok. He remained in Tibet, living at Taring estate near Gyantse, and later abdicating the Sikkim throne. His sons entered Tibetan government service."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."^^xsd:string ;
 	.
 
 told:_IntellectualProperty_89

@@ -18,7 +18,7 @@ PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 # COLUMNS
-# person_image
+# person_image_id (ignore)
 # person_id
 # image_file_name
 # thumb_file_name
@@ -32,7 +32,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # caption
 
 # Run: 
-# tarql -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
+# tarql --dedup 5000 -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
 
 CONSTRUCT {
 
@@ -42,7 +42,6 @@ CONSTRUCT {
         tolo:depicts ?work_iri ;
         gist:isCategorizedBy ?rank_iri ;
         tolo:caption ?caption_en ;
-        tolo:credit ?credit ;
         tolo:fileName ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
@@ -59,6 +58,7 @@ CONSTRUCT {
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?person_iri ;
         gist:isIdentifiedBy ?har_number_iri ;
+        tolo:credit ?credit ;
         .
 
     ?thumbnail_iri 
@@ -83,9 +83,7 @@ WHERE {
 
     # Use image filename for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
-    
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
-
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
 
     # Media type (applies to both main image and thumbnail)
@@ -109,6 +107,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_number)) AS ?har_number_iri)
     BIND(CONCAT("HAR ", ?har_number) AS ?har_label)
 
+    # This may be an institution, book reference, text string.
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
 
     BIND(IF(?is_primary = "1", "primary", "secondary") AS ?rank_value)
