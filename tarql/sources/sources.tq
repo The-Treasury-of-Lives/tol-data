@@ -90,7 +90,7 @@ WHERE {
 
     BIND(
         COALESCE(
-            IF(BOUND(?PERSON_ID), tarql:expandPrefixedName("tolo:hasSource"), ?unbound),
+            IF(BOUND(?PERSON_ID), tarql:expandPrefixedName("tolo:hasBibliographicSource"), ?unbound),
             IF(BOUND(?PLACE_ID), tarql:expandPrefixedName("rdfs:seeAlso"), ?unbound)
         )
         AS ?predicate_iri

@@ -28,13 +28,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # create_date
 # last_modified_user_id
 # last_modified_date
-# publish_type_id (ignore)
-# is_locked (ignore)
-# lock_user_id (ignore)
-# lock_date (ignore)
 # location
 # source
-# source_original (temporary - ignore)
 # source_url
 # creator_name
 # creator_tol_id
@@ -44,7 +39,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # tol_place_id
 
 # Run: 
-# tarql -e utf-8 images.tq painting-9-6-24.csv > tolImages.ttl
+# tarql --dedup 10000 -e utf-8 images.tq painting-9-6-24.csv > tolImages.ttl
 
 CONSTRUCT {
 
@@ -55,8 +50,7 @@ CONSTRUCT {
         tolo:fileName ?image_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
-        gist:hasAddress ?source_iri ;
-        tolo:credit ?credit_en ;
+        gist:comesFromPlace ?source_iri ;
 
         # Editing metadata
         tolo:isCreatedBy ?created_by_iri ;
@@ -76,6 +70,7 @@ CONSTRUCT {
         gist:isIdentifiedBy ?har_number_iri ;
         gist:hasPhysicalLocation ?work_location_iri ;
         tolo:isCreatedBy ?creator_iri ;
+        tolo:credit ?credit_en ;
         .
 
     ?creator_iri    
@@ -107,13 +102,10 @@ CONSTRUCT {
     ?source_iri
         a gist:ElectronicAddress ;
         skos:prefLabel ?source_en ;
-        gist:isCategorizedBy 
-            tolx:_ElectronicAddressType_url ,
-            tolx:_AddressUsageType_source ;
+        gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         # Can't use gist:containedText since its range is xsd:string.
         tolo:url ?source_address ;
         .
-
 
 }
 
@@ -173,10 +165,10 @@ WHERE {
     # If there's a source URL, create an address object.
     BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
     BIND(IF(BOUND(?source_url), STRDT(?source_url, xsd:anyURI), ?unbound) AS ?source_address)
-    BIND(STRLANG(?source, "en") AS ?source_en)
+    BIND(STRLANG("Image Source", "en") AS ?source_en)
 
-    # If there's source text with no URL, and it's different from the location, make it the credit.
-    BIND(IF(!BOUND(?source_url) && (!BOUND(?location) || ?source != ?location), ?source_en, ?unbound) AS ?credit_en)
+    # If there's a source and it's different from the location, make it the credit; otherwise ignore it.
+    BIND(IF(!BOUND(?location) || ?source != ?location, ?source, ?unbound) AS ?credit_en)
 
     # Editing metadata
     BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)

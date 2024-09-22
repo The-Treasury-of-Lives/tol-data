@@ -20,11 +20,11 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 told:_Biography_12481
-	tolo:hasSource told:_ContentExpression_Source_1 ;
+	tolo:hasBibliographicSource told:_ContentExpression_Source_1 ;
 	.
 
 told:_Biography_5
-	tolo:hasSource told:_ContentExpression_Source_2 ;
+	tolo:hasBibliographicSource told:_ContentExpression_Source_2 ;
 	.
 
 told:_ContentExpression_Source_1
