@@ -58,7 +58,10 @@ CONSTRUCT {
             ?name_variant_wylie ,
             ?name_variant_tibetan ;
         gist:isCategorizedBy ?kinship_group_type_iri ;
-        gist:hasMember ?person_iri ;
+    .
+
+    ?person_iri 
+        gist:isMemberOf ?kinship_group_iri ;
     .
 
     ?description_iri 

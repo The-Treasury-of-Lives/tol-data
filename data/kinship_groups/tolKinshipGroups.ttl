@@ -1528,7 +1528,6 @@ told:_KinshipGroup_1011
 		"lcags mdud nyag rong"@bo-x-ewts ,
 		"ལྕགས་མདུད་ཉག་རོང་།"@bo
 		;
-	gist:hasMember told:_Person_8583 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Chakdu Nyarong"@en ,
@@ -1543,28 +1542,6 @@ told:_KinshipGroup_1040
 		"Ga (dga')"@en ,
 		"dga'"@bo-x-ewts ,
 		"དགའ།"@bo
-		;
-	gist:hasMember
-		told:_Person_13502 ,
-		told:_Person_13550 ,
-		told:_Person_3072 ,
-		told:_Person_6331 ,
-		told:_Person_6334 ,
-		told:_Person_6335 ,
-		told:_Person_6336 ,
-		told:_Person_6337 ,
-		told:_Person_6338 ,
-		told:_Person_6339 ,
-		told:_Person_6341 ,
-		told:_Person_6342 ,
-		told:_Person_6343 ,
-		told:_Person_6344 ,
-		told:_Person_6345 ,
-		told:_Person_6346 ,
-		told:_Person_6348 ,
-		told:_Person_6349 ,
-		told:_Person_6350 ,
-		told:_Person_6353
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -1581,11 +1558,6 @@ told:_KinshipGroup_1047
 		"Surkhang"@en ,
 		"zur khang"@bo-x-ewts ,
 		"ཟུར་ཁང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_11790 ,
-		told:_Person_11798 ,
-		told:_Person_2423
 		;
 	gist:isCategorizedBy
 		tolx:_KinshipGroupType_gerpa ,
@@ -1605,13 +1577,6 @@ told:_KinshipGroup_1061
 		"Pangdatsang"@en ,
 		"spang mda' tshang"@bo-x-ewts ,
 		"སྤང་མདའ་ཚང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13519 ,
-		told:_Person_13520 ,
-		told:_Person_13521 ,
-		told:_Person_13522 ,
-		told:_Person_13523
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant "Pomdatsang"@en ;
@@ -1645,12 +1610,6 @@ told:_KinshipGroup_1063
 		"sa 'du tshang"@bo-x-ewts ,
 		"ས་འདུ་ཚང་།"@bo
 		;
-	gist:hasMember
-		told:_Person_13545 ,
-		told:_Person_13546 ,
-		told:_Person_13548 ,
-		told:_Person_13549
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_lhasa_aristocracy ;
 	tolo:nameVariant "Sadutsang"@en ;
 	tolo:primaryName
@@ -1667,7 +1626,6 @@ told:_KinshipGroup_1067
 		"rgya nag ra ba"@bo-x-ewts ,
 		"རྒྱ་ནག་ར་བ།"@bo
 		;
-	gist:hasMember told:_Person_7681 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gyanak Rawa"@en ,
@@ -1683,26 +1641,6 @@ told:_KinshipGroup_1076
 		"Lhagyari"@en ,
 		"lha rgya ri"@bo-x-ewts ,
 		"ལྷ་རྒྱ་རི།"@bo
-		;
-	gist:hasMember
-		told:_Person_11796 ,
-		told:_Person_12865 ,
-		told:_Person_13534 ,
-		told:_Person_13535 ,
-		told:_Person_13536 ,
-		told:_Person_13537 ,
-		told:_Person_13538 ,
-		told:_Person_13539 ,
-		told:_Person_13541 ,
-		told:_Person_13542 ,
-		told:_Person_13543 ,
-		told:_Person_13558 ,
-		told:_Person_13559 ,
-		told:_Person_13560 ,
-		told:_Person_13561 ,
-		told:_Person_13562 ,
-		told:_Person_13563 ,
-		told:_Person_13564
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_depon ;
 	tolo:primaryName
@@ -1720,7 +1658,6 @@ told:_KinshipGroup_1078
 		"khe smad"@bo-x-ewts ,
 		"ཁེ་སྨད།"@bo
 		;
-	gist:hasMember told:_Person_3152 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant "Khemey, Kunsangtse, Kunzangtse"@en ;
 	tolo:primaryName
@@ -1738,10 +1675,6 @@ told:_KinshipGroup_1090
 		"gnya'"@bo-x-ewts ,
 		"གཉའ།"@bo
 		;
-	gist:hasMember
-		told:_Person_6567 ,
-		told:_Person_6568
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nya"@en ,
@@ -1758,14 +1691,6 @@ told:_KinshipGroup_1132
 		"tsha rong"@bo-x-ewts ,
 		"ཚ་རོང་།"@bo
 		;
-	gist:hasMember
-		told:_Person_13583 ,
-		told:_Person_13625 ,
-		told:_Person_13708 ,
-		told:_Person_2424 ,
-		told:_Person_7929 ,
-		told:_Person_9305
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:primaryName
 		"Tsarong"@en ,
@@ -1780,10 +1705,6 @@ told:_KinshipGroup_1156
 		"'bru"@bo-x-ewts ,
 		"Dru ('bru)"@en ,
 		"འབྲུ།"@bo
-		;
-	gist:hasMember
-		told:_Person_10561 ,
-		told:_Person_13572
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -1800,7 +1721,6 @@ told:_KinshipGroup_1202
 		"phag mo gru pa"@bo-x-ewts ,
 		"ཕག་མོ་གྲུ་པ།"@bo
 		;
-	gist:hasMember told:_Person_2539 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Pakmodrupa"@en ,
@@ -1833,7 +1753,6 @@ told:_KinshipGroup_131
 		"ldong"@bo-x-ewts ,
 		"ལྡོང་།"@bo
 		;
-	gist:hasMember told:_Person_6110 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Dong"@en ,
@@ -1865,7 +1784,6 @@ told:_KinshipGroup_1375
 		"zhang pa"@bo-x-ewts ,
 		"ཞང་པ།"@bo
 		;
-	gist:hasMember told:_Person_10699 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zhangpa"@en ,
@@ -1880,10 +1798,6 @@ told:_KinshipGroup_1382
 		"Tsur"@en ,
 		"mtshur"@bo-x-ewts ,
 		"མཚུར།"@bo
-		;
-	gist:hasMember
-		told:_Person_5386 ,
-		told:_Person_6733
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -1915,7 +1829,6 @@ told:_KinshipGroup_148
 		"lo nang"@bo-x-ewts ,
 		"ལོ་ནང་།"@bo
 		;
-	gist:hasMember told:_Person_6671 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Lonang"@en ,
@@ -1932,7 +1845,6 @@ told:_KinshipGroup_1495
 		"bshad sgra"@bo-x-ewts ,
 		"བཤད་སྒྲ།"@bo
 		;
-	gist:hasMember told:_Person_9301 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_lhasa_aristocracy ;
 	tolo:nameVariant
 		"bshad grwa"@bo-x-ewts ,
@@ -1953,10 +1865,6 @@ told:_KinshipGroup_1519
 		"bhruM pa"@bo-x-ewts ,
 		"བྷྲུཾ་པ།"@bo
 		;
-	gist:hasMember
-		told:_Person_13722 ,
-		told:_Person_9289
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant "Trumpa, Dakpo Drumpa"@en ;
 	tolo:primaryName
@@ -1974,7 +1882,6 @@ told:_KinshipGroup_152
 		"rngan"@bo-x-ewts ,
 		"རྔན།"@bo
 		;
-	gist:hasMember told:_Person_6159 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngen"@en ,
@@ -1990,7 +1897,6 @@ told:_KinshipGroup_153
 		"kyi"@bo-x-ewts ,
 		"ཀྱི།"@bo
 		;
-	gist:hasMember told:_Person_3881 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Kyi"@en ,
@@ -2006,7 +1912,6 @@ told:_KinshipGroup_1540
 		"gtshang sar"@bo-x-ewts ,
 		"གཚང་སར་།"@bo
 		;
-	gist:hasMember told:_Person_13686 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tsangsar"@en ,
@@ -2046,10 +1951,6 @@ told:_KinshipGroup_1571
 		"bde legs rab brtan"@bo-x-ewts ,
 		"བདེ་ལེགས་རབ་བརྟན།"@bo
 		;
-	gist:hasMember
-		told:_Person_2418 ,
-		told:_Person_3950
-		;
 	gist:isCategorizedBy
 		tolx:_KinshipGroupType_gerpa ,
 		tolx:_KinshipGroupType_midrak
@@ -2069,7 +1970,6 @@ told:_KinshipGroup_1583
 		"bde mkhar"@bo-x-ewts ,
 		"བདེ་མཁར།"@bo
 		;
-	gist:hasMember told:_Person_13724 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_lhasa_aristocracy ;
 	tolo:nameVariant
 		"Lukhang"@en ,
@@ -2090,7 +1990,6 @@ told:_KinshipGroup_1584
 		"rmar lam pa"@bo-x-ewts ,
 		"རྨར་ལམ་པ།"@bo
 		;
-	gist:hasMember told:_Person_13724 ;
 	gist:isCategorizedBy
 		tolx:_KinshipGroupType_gerpa ,
 		tolx:_KinshipGroupType_midrak
@@ -2114,11 +2013,6 @@ told:_KinshipGroup_1590
 		"mdo mkhar"@bo-x-ewts ,
 		"མདོ་མཁར།"@bo
 		;
-	gist:hasMember
-		told:_Person_13788 ,
-		told:_Person_13843 ,
-		told:_Person_9343
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_depon ;
 	tolo:nameVariant
 		"rag kha shar"@bo-x-ewts ,
@@ -2139,7 +2033,6 @@ told:_KinshipGroup_161
 		"bya nag"@bo-x-ewts ,
 		"བྱ་ནག།"@bo
 		;
-	gist:hasMember told:_Person_9169 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Janak"@en ,
@@ -2155,7 +2048,6 @@ told:_KinshipGroup_162
 		"mkhar chen"@bo-x-ewts ,
 		"མཁར་ཆེན།"@bo
 		;
-	gist:hasMember told:_Person_490 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Kharchen"@en ,
@@ -2171,10 +2063,6 @@ told:_KinshipGroup_1626
 		"zhwa lu sku zhang"@bo-x-ewts ,
 		"ཞྭ་ལུ་སྐུ་ཞང་།"@bo
 		;
-	gist:hasMember
-		told:_Person_11158 ,
-		told:_Person_13790
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zhalu Kuzhang"@en ,
@@ -2189,11 +2077,6 @@ told:_KinshipGroup_163
 		"Nanam"@en ,
 		"sna nam"@bo-x-ewts ,
 		"སྣ་ནམ།"@bo
-		;
-	gist:hasMember
-		told:_Person_10904 ,
-		told:_Person_303 ,
-		told:_Person_3182
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -2226,7 +2109,6 @@ told:_KinshipGroup_1643
 		"hor khang"@bo-x-ewts ,
 		"ཧོར་ཁང་།"@bo
 		;
-	gist:hasMember told:_Person_2424 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_lhasa_aristocracy ;
 	tolo:primaryName
 		"Horkhang"@en ,
@@ -2242,11 +2124,6 @@ told:_KinshipGroup_166
 		"'brog mi"@bo-x-ewts ,
 		"Drokmi"@en ,
 		"འབྲོག་མི།"@bo
-		;
-	gist:hasMember
-		told:_Person_11117 ,
-		told:_Person_13077 ,
-		told:_Person_5615
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant "Drogmi"@en ;
@@ -2264,7 +2141,6 @@ told:_KinshipGroup_168
 		"gnyags"@bo-x-ewts ,
 		"གཉགས།"@bo
 		;
-	gist:hasMember told:_Person_5078 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nyak"@en ,
@@ -2281,12 +2157,6 @@ told:_KinshipGroup_169
 		"myang"@bo-x-ewts ,
 		"མྱང་།"@bo
 		;
-	gist:hasMember
-		told:_Person_10301 ,
-		told:_Person_5999 ,
-		told:_Person_6205 ,
-		told:_Person_6856
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nyang"@en ,
@@ -2302,7 +2172,6 @@ told:_KinshipGroup_171
 		"rma"@bo-x-ewts ,
 		"རྨ།"@bo
 		;
-	gist:hasMember told:_Person_5234 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ma"@en ,
@@ -2318,11 +2187,6 @@ told:_KinshipGroup_176
 		"Go (sgo)"@en ,
 		"sgo"@bo-x-ewts ,
 		"སྒོ།"@bo
-		;
-	gist:hasMember
-		told:_Person_13132 ,
-		told:_Person_13140 ,
-		told:_Person_9372
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
@@ -2344,30 +2208,6 @@ told:_KinshipGroup_184
 		"Khon"@en ,
 		"འཁོན།"@bo
 		;
-	gist:hasMember
-		told:_Person_10536 ,
-		told:_Person_10591 ,
-		told:_Person_13186 ,
-		told:_Person_1370 ,
-		told:_Person_1974 ,
-		told:_Person_2314 ,
-		told:_Person_2491 ,
-		told:_Person_2915 ,
-		told:_Person_2916 ,
-		told:_Person_2919 ,
-		told:_Person_3189 ,
-		told:_Person_3191 ,
-		told:_Person_3194 ,
-		told:_Person_3204 ,
-		told:_Person_3208 ,
-		told:_Person_3211 ,
-		told:_Person_4220 ,
-		told:_Person_4327 ,
-		told:_Person_6100 ,
-		told:_Person_7053 ,
-		told:_Person_7545 ,
-		told:_Person_9062
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'khon"@bo-x-ewts ,
@@ -2383,13 +2223,6 @@ told:_KinshipGroup_200
 		"Khyungpo"@en ,
 		"khyung po"@bo-x-ewts ,
 		"ཁྱུང་པོ།"@bo
-		;
-	gist:hasMember
-		told:_Person_10644 ,
-		told:_Person_13081 ,
-		told:_Person_13088 ,
-		told:_Person_3178 ,
-		told:_Person_6285
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -2407,7 +2240,6 @@ told:_KinshipGroup_201
 		"rgyus"@bo-x-ewts ,
 		"རྒྱུས།"@bo
 		;
-	gist:hasMember told:_Person_2733 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gyu"@en ,
@@ -2424,7 +2256,6 @@ told:_KinshipGroup_203
 		"bzi ra"@bo-x-ewts ,
 		"བཟི་ར།"@bo
 		;
-	gist:hasMember told:_Person_8752 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zira"@en ,
@@ -2440,7 +2271,6 @@ told:_KinshipGroup_211
 		"lcag gong"@bo-x-ewts ,
 		"ལྕག་གོང་།"@bo
 		;
-	gist:hasMember told:_Person_9990 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Chakgong"@en ,
@@ -2455,11 +2285,6 @@ told:_KinshipGroup_220
 		"Gar Ratsang"@en ,
 		"mgar ra tsang"@bo-x-ewts ,
 		"མགར་ར་ཙང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_10315 ,
-		told:_Person_13072 ,
-		told:_Person_13598
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -2477,12 +2302,6 @@ told:_KinshipGroup_222
 		"bse"@bo-x-ewts ,
 		"བསེ།"@bo
 		;
-	gist:hasMember
-		told:_Person_2854 ,
-		told:_Person_6025 ,
-		told:_Person_6505 ,
-		told:_Person_8027
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Se"@en ,
@@ -2497,11 +2316,6 @@ told:_KinshipGroup_230
 		"Zur"@en ,
 		"zur"@bo-x-ewts ,
 		"ཟུར།"@bo
-		;
-	gist:hasMember
-		told:_Person_11352 ,
-		told:_Person_4630 ,
-		told:_Person_4632
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -2519,11 +2333,6 @@ told:_KinshipGroup_238
 		"Drom"@en ,
 		"འབྲོམ།"@bo
 		;
-	gist:hasMember
-		told:_Person_10687 ,
-		told:_Person_4267 ,
-		told:_Person_8730
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'brom"@bo-x-ewts ,
@@ -2540,10 +2349,6 @@ told:_KinshipGroup_239
 		"bya"@bo-x-ewts ,
 		"བྱ།"@bo
 		;
-	gist:hasMember
-		told:_Person_11441 ,
-		told:_Person_5791
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ja"@en ,
@@ -2559,7 +2364,6 @@ told:_KinshipGroup_252
 		"g.yu"@bo-x-ewts ,
 		"གཡུ།"@bo
 		;
-	gist:hasMember told:_Person_13081 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Yu"@en ,
@@ -2575,12 +2379,6 @@ told:_KinshipGroup_264
 		"Dro"@en ,
 		"gro"@bo-x-ewts ,
 		"གྲོ།"@bo
-		;
-	gist:hasMember
-		told:_Person_13509 ,
-		told:_Person_13869 ,
-		told:_Person_3957 ,
-		told:_Person_9590
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -2598,10 +2396,6 @@ told:_KinshipGroup_281
 		"dwags"@bo-x-ewts ,
 		"དྭགས།"@bo
 		;
-	gist:hasMember
-		told:_Person_3168 ,
-		told:_Person_8868
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Dak"@en ,
@@ -2618,7 +2412,6 @@ told:_KinshipGroup_284
 		"rtse gdong"@bo-x-ewts ,
 		"རྩེ་གདོང་།"@bo
 		;
-	gist:hasMember told:_Person_4220 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tsedong"@en ,
@@ -2650,7 +2443,6 @@ told:_KinshipGroup_438
 		"dbal shul"@bo-x-ewts ,
 		"དབལ་ཤུལ།"@bo
 		;
-	gist:hasMember told:_Person_2943 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Welshul"@en ,
@@ -2682,10 +2474,6 @@ told:_KinshipGroup_46
 		"lce"@bo-x-ewts ,
 		"ལྕེ།"@bo
 		;
-	gist:hasMember
-		told:_Person_13456 ,
-		told:_Person_495
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Che"@en ,
@@ -2701,7 +2489,6 @@ told:_KinshipGroup_460
 		"gling mod"@bo-x-ewts ,
 		"གླིང་མོད།"@bo
 		;
-	gist:hasMember told:_Person_8069 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Lingmo"@en ,
@@ -2718,7 +2505,6 @@ told:_KinshipGroup_463
 		"g.yi"@bo-x-ewts ,
 		"གཡི།"@bo
 		;
-	gist:hasMember told:_Person_6760 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Yi"@en ,
@@ -2750,19 +2536,6 @@ told:_KinshipGroup_49
 		"gnubs"@bo-x-ewts ,
 		"གནུབས།"@bo
 		;
-	gist:hasMember
-		told:_Person_10083 ,
-		told:_Person_1108 ,
-		told:_Person_11299 ,
-		told:_Person_12553 ,
-		told:_Person_13241 ,
-		told:_Person_2798 ,
-		told:_Person_2799 ,
-		told:_Person_4626 ,
-		told:_Person_6749 ,
-		told:_Person_8460 ,
-		told:_Person_9688
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
 		"snubs"@bo-x-ewts ,
@@ -2782,7 +2555,6 @@ told:_KinshipGroup_51
 		"zla ba"@bo-x-ewts ,
 		"ཟླ་བ།"@bo
 		;
-	gist:hasMember told:_Person_9612 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Dawa"@en ,
@@ -2799,7 +2571,6 @@ told:_KinshipGroup_513
 		"gtum"@bo-x-ewts ,
 		"གཏུམ།"@bo
 		;
-	gist:hasMember told:_Person_5790 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tum"@en ,
@@ -2816,7 +2587,6 @@ told:_KinshipGroup_53
 		"la gsum"@bo-x-ewts ,
 		"ལ་གསུམ།"@bo
 		;
-	gist:hasMember told:_Person_84 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Lasum"@en ,
@@ -2833,7 +2603,6 @@ told:_KinshipGroup_54
 		"Dre"@en ,
 		"འབྲེ།"@bo
 		;
-	gist:hasMember told:_Person_13057 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'bre"@bo-x-ewts ,
@@ -2850,7 +2619,6 @@ told:_KinshipGroup_548
 		"skyod"@bo-x-ewts ,
 		"སྐྱོད།"@bo
 		;
-	gist:hasMember told:_Person_2483 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Kyo"@en ,
@@ -2867,7 +2635,6 @@ told:_KinshipGroup_549
 		"ram"@bo-x-ewts ,
 		"རམ།"@bo
 		;
-	gist:hasMember told:_Person_13199 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ram"@en ,
@@ -2884,7 +2651,6 @@ told:_KinshipGroup_55
 		"dge rtse"@bo-x-ewts ,
 		"དགེ་རྩེ།"@bo
 		;
-	gist:hasMember told:_Person_9579 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Getse"@en ,
@@ -2900,7 +2666,6 @@ told:_KinshipGroup_550
 		"ze'u"@bo-x-ewts ,
 		"ཟེའུ།"@bo
 		;
-	gist:hasMember told:_Person_2578 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zeu"@en ,
@@ -2916,7 +2681,6 @@ told:_KinshipGroup_56
 		"man dge"@bo-x-ewts ,
 		"མན་དགེ།"@bo
 		;
-	gist:hasMember told:_Person_9579 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Menge"@en ,
@@ -2947,10 +2711,6 @@ told:_KinshipGroup_57
 		"ngan lam"@bo-x-ewts ,
 		"ངན་ལམ།"@bo
 		;
-	gist:hasMember
-		told:_Person_13198 ,
-		told:_Person_4903
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngenlam"@en ,
@@ -2966,12 +2726,6 @@ told:_KinshipGroup_570
 		"Ra"@en ,
 		"dbra"@bo-x-ewts ,
 		"དབྲ་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13220 ,
-		told:_Person_13221 ,
-		told:_Person_13531 ,
-		told:_Person_6668
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
@@ -2994,10 +2748,6 @@ told:_KinshipGroup_577
 		"Tong"@en ,
 		"stong"@bo-x-ewts ,
 		"སྟོང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13196 ,
-		told:_Person_7775
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
@@ -3022,7 +2772,6 @@ told:_KinshipGroup_578
 		"g.yu sgra"@bo-x-ewts ,
 		"གཡུ་སྒྲ།"@bo
 		;
-	gist:hasMember told:_Person_10199 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Yudra"@en ,
@@ -3038,7 +2787,6 @@ told:_KinshipGroup_579
 		"nag tsho"@bo-x-ewts ,
 		"ནག་ཚོ།"@bo
 		;
-	gist:hasMember told:_Person_5801 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Naktso"@en ,
@@ -3055,7 +2803,6 @@ told:_KinshipGroup_58
 		"Wodren"@en ,
 		"འོ་བྲན།"@bo
 		;
-	gist:hasMember told:_Person_13058 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'o bran"@bo-x-ewts ,
@@ -3072,7 +2819,6 @@ told:_KinshipGroup_580
 		"g.yu rngog"@bo-x-ewts ,
 		"གཡུ་རྔོག།"@bo
 		;
-	gist:hasMember told:_Person_1564 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Yungok"@en ,
@@ -3088,10 +2834,6 @@ told:_KinshipGroup_582
 		"Namseling"@en ,
 		"rnam sras gling"@bo-x-ewts ,
 		"རྣམ་སྲས་གླིང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13190 ,
-		told:_Person_9169
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3109,7 +2851,6 @@ told:_KinshipGroup_588
 		"dbang mda'"@bo-x-ewts ,
 		"དབང་མདའ།"@bo
 		;
-	gist:hasMember told:_Person_12785 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Wangda"@en ,
@@ -3145,7 +2886,6 @@ told:_KinshipGroup_598
 		"a gro"@bo-x-ewts ,
 		"ཨ་གྲོ།"@bo
 		;
-	gist:hasMember told:_Person_11427 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Adro"@en ,
@@ -3162,7 +2902,6 @@ told:_KinshipGroup_600
 		"a rig"@bo-x-ewts ,
 		"ཨ་རིག།"@bo
 		;
-	gist:hasMember told:_Person_5479 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
 		"Arig"@en ,
@@ -3187,7 +2926,6 @@ told:_KinshipGroup_601
 		"ban"@bo-x-ewts ,
 		"བན།"@bo
 		;
-	gist:hasMember told:_Person_5615 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ban"@en ,
@@ -3219,7 +2957,6 @@ told:_KinshipGroup_604
 		"ber"@bo-x-ewts ,
 		"བེར།"@bo
 		;
-	gist:hasMember told:_Person_13083 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ber"@en ,
@@ -3236,7 +2973,6 @@ told:_KinshipGroup_605
 		"lcag khung"@bo-x-ewts ,
 		"ལྕག་ཁུང་།"@bo
 		;
-	gist:hasMember told:_Person_10457 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Chakhung"@en ,
@@ -3253,7 +2989,6 @@ told:_KinshipGroup_606
 		"sde pa mthon po"@bo-x-ewts ,
 		"སྡེ་པ་མཐོན་པོ།"@bo
 		;
-	gist:hasMember told:_Person_9213 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Depa Tonpo"@en ,
@@ -3270,11 +3005,6 @@ told:_KinshipGroup_607
 		"Dru ('dru)"@en ,
 		"འདྲུ།"@bo
 		;
-	gist:hasMember
-		told:_Person_13135 ,
-		told:_Person_13174 ,
-		told:_Person_2180
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'dru"@bo-x-ewts ,
@@ -3290,7 +3020,6 @@ told:_KinshipGroup_608
 		"shar"@bo-x-ewts ,
 		"ཤར།"@bo
 		;
-	gist:hasMember told:_Person_5408 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Shar"@en ,
@@ -3322,11 +3051,6 @@ told:_KinshipGroup_614
 		"a skyong"@bo-x-ewts ,
 		"ཨ་སྐྱོང་།"@bo
 		;
-	gist:hasMember
-		told:_Person_13864 ,
-		told:_Person_13868 ,
-		told:_Person_9612
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Akyong"@en ,
@@ -3343,7 +3067,6 @@ told:_KinshipGroup_619
 		"sbra"@bo-x-ewts ,
 		"སྦྲ།"@bo
 		;
-	gist:hasMember told:_Person_2980 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Dra"@en ,
@@ -3375,7 +3098,6 @@ told:_KinshipGroup_622
 		"Dzeng"@en ,
 		"འཛེང་།"@bo
 		;
-	gist:hasMember told:_Person_2598 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'dzeng"@bo-x-ewts ,
@@ -3392,7 +3114,6 @@ told:_KinshipGroup_623
 		"rgwa"@bo-x-ewts ,
 		"རྒྭ།"@bo
 		;
-	gist:hasMember told:_Person_6037 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ga (rgwa)"@en ,
@@ -3408,7 +3129,6 @@ told:_KinshipGroup_624
 		"gu rib"@bo-x-ewts ,
 		"གུ་རིབ།"@bo
 		;
-	gist:hasMember told:_Person_13164 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gurib"@en ,
@@ -3425,7 +3145,6 @@ told:_KinshipGroup_625
 		"skya su"@bo-x-ewts ,
 		"སྐྱ་སུ།"@bo
 		;
-	gist:hasMember told:_Person_8181 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Kyasu"@en ,
@@ -3441,12 +3160,6 @@ told:_KinshipGroup_626
 		"Lang"@en ,
 		"rlangs"@bo-x-ewts ,
 		"རླངས།"@bo
-		;
-	gist:hasMember
-		told:_Person_13437 ,
-		told:_Person_2539 ,
-		told:_Person_2595 ,
-		told:_Person_96
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3464,7 +3177,6 @@ told:_KinshipGroup_627
 		"glan"@bo-x-ewts ,
 		"གླན།"@bo
 		;
-	gist:hasMember told:_Person_2740 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Len"@en ,
@@ -3480,10 +3192,6 @@ told:_KinshipGroup_628
 		"Meu"@en ,
 		"rme'u"@bo-x-ewts ,
 		"རྨེའུ།"@bo
-		;
-	gist:hasMember
-		told:_Person_12096 ,
-		told:_Person_13079
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3501,7 +3209,6 @@ told:_KinshipGroup_629
 		"me"@bo-x-ewts ,
 		"མེ།"@bo
 		;
-	gist:hasMember told:_Person_13090 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Me"@en ,
@@ -3517,13 +3224,6 @@ told:_KinshipGroup_630
 		"Mukpo"@en ,
 		"smug po ldong"@bo-x-ewts ,
 		"སྨུག་པོ་ལྡོང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_11231 ,
-		told:_Person_4425 ,
-		told:_Person_4676 ,
-		told:_Person_9355 ,
-		told:_Person_9588
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3541,7 +3241,6 @@ told:_KinshipGroup_634
 		"dngul chu"@bo-x-ewts ,
 		"དངུལ་ཆུ།"@bo
 		;
-	gist:hasMember told:_Person_4402 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngulchu"@en ,
@@ -3558,7 +3257,6 @@ told:_KinshipGroup_635
 		"nyag shul"@bo-x-ewts ,
 		"ཉག་ཤུལ།"@bo
 		;
-	gist:hasMember told:_Person_5078 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nyakshul"@en ,
@@ -3575,13 +3273,6 @@ told:_KinshipGroup_636
 		"gnyos"@bo-x-ewts ,
 		"གཉོས།"@bo
 		;
-	gist:hasMember
-		told:_Person_13142 ,
-		told:_Person_13231 ,
-		told:_Person_2789 ,
-		told:_Person_3000 ,
-		told:_Person_9394
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nyo"@en ,
@@ -3597,7 +3288,6 @@ told:_KinshipGroup_639
 		"dbra dkar khyung po"@bo-x-ewts ,
 		"དབྲ་དཀར་ཁྱུང་པོ།"@bo
 		;
-	gist:hasMember told:_Person_13222 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Rakar Khyungpo"@en ,
@@ -3614,11 +3304,6 @@ told:_KinshipGroup_640
 		"Rok"@en ,
 		"ཪོག།"@bo
 		;
-	gist:hasMember
-		told:_Person_6134 ,
-		told:_Person_6721 ,
-		told:_Person_6726
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Rog"@bo-x-ewts ,
@@ -3634,7 +3319,6 @@ told:_KinshipGroup_642
 		"pra ti zhwa dmar rigs"@bo-x-ewts ,
 		"པྲ་ཏི་ཞྭ་དམར་རིགས།"@bo
 		;
-	gist:hasMember told:_Person_5902 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tati Zhamar"@en ,
@@ -3651,7 +3335,6 @@ told:_KinshipGroup_643
 		"khro kho nu ma'i dpal shul"@bo-x-ewts ,
 		"ཁྲོ་ཁོ་ནུ་མའི་དཔལ་ཤུལ།"@bo
 		;
-	gist:hasMember told:_Person_7937 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Trokho Numai Pelshul"@en ,
@@ -3667,10 +3350,6 @@ told:_KinshipGroup_644
 		"Tukwan"@en ,
 		"thu'u bkwan"@bo-x-ewts ,
 		"ཐུའུ་བཀྭན།"@bo
-		;
-	gist:hasMember
-		told:_Person_3008 ,
-		told:_Person_5899
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3688,7 +3367,6 @@ told:_KinshipGroup_645
 		"bzhag"@bo-x-ewts ,
 		"བཞག།"@bo
 		;
-	gist:hasMember told:_Person_13087 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zhak"@en ,
@@ -3705,7 +3383,6 @@ told:_KinshipGroup_646
 		"thon mi"@bo-x-ewts ,
 		"ཐོན་མི།"@bo
 		;
-	gist:hasMember told:_Person_8342 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tonmi"@en ,
@@ -3722,7 +3399,6 @@ told:_KinshipGroup_647
 		"Ju"@en ,
 		"འཇུ།"@bo
 		;
-	gist:hasMember told:_Person_4228 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"'ju"@bo-x-ewts ,
@@ -3739,7 +3415,6 @@ told:_KinshipGroup_649
 		"be gu"@bo-x-ewts ,
 		"བེ་གུ།"@bo
 		;
-	gist:hasMember told:_Person_5 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Begu"@en ,
@@ -3754,13 +3429,6 @@ told:_KinshipGroup_65
 		"Shupu"@en ,
 		"shud phu"@bo-x-ewts ,
 		"ཤུད་ཕུ།"@bo
-		;
-	gist:hasMember
-		told:_Person_2593 ,
-		told:_Person_5817 ,
-		told:_Person_5818 ,
-		told:_Person_5819 ,
-		told:_Person_6653
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
@@ -3784,7 +3452,6 @@ told:_KinshipGroup_651
 		"sa gnam"@bo-x-ewts ,
 		"ས་གནམ།"@bo
 		;
-	gist:hasMember told:_Person_10497 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Sanam"@en ,
@@ -3801,7 +3468,6 @@ told:_KinshipGroup_653
 		"shing khams sga"@bo-x-ewts ,
 		"ཤིང་ཁམས་སྒ།"@bo
 		;
-	gist:hasMember told:_Person_4291 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Shingkhamga"@en ,
@@ -3831,10 +3497,6 @@ told:_KinshipGroup_656
 		"Pugyel"@en ,
 		"spu rgyal"@bo-x-ewts ,
 		"སྤུ་རྒྱལ།"@bo
-		;
-	gist:hasMember
-		told:_Person_13509 ,
-		told:_Person_13566
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3874,14 +3536,6 @@ told:_KinshipGroup_66
 		"rngog"@bo-x-ewts ,
 		"རྔོག།"@bo
 		;
-	gist:hasMember
-		told:_Person_11471 ,
-		told:_Person_13061 ,
-		told:_Person_3773 ,
-		told:_Person_4261 ,
-		told:_Person_5728 ,
-		told:_Person_5789
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngok"@en ,
@@ -3896,10 +3550,6 @@ told:_KinshipGroup_664
 		"'gos"@bo-x-ewts ,
 		"Go ('gos)"@en ,
 		"འགོས།"@bo
-		;
-	gist:hasMember
-		told:_Person_5500 ,
-		told:_Person_5803
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
@@ -3919,12 +3569,6 @@ told:_KinshipGroup_665
 		"Lhalung"@en ,
 		"lha lung"@bo-x-ewts ,
 		"ལྷ་ལུང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13628 ,
-		told:_Person_13683 ,
-		told:_Person_13725 ,
-		told:_Person_9618
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -3978,7 +3622,6 @@ told:_KinshipGroup_670
 		"zhi ba tshang"@bo-x-ewts ,
 		"ཞི་བ་ཚང་།"@bo
 		;
-	gist:hasMember told:_Person_8538 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Zhiwatsang"@en ,
@@ -3994,11 +3637,6 @@ told:_KinshipGroup_671
 		"Doring"@en ,
 		"rdo ring"@bo-x-ewts ,
 		"རྡོ་རིང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13690 ,
-		told:_Person_3738 ,
-		told:_Person_5306
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_depon ;
 	tolo:primaryName
@@ -4031,11 +3669,6 @@ told:_KinshipGroup_675
 		"Gar"@en ,
 		"mgar"@bo-x-ewts ,
 		"མགར།"@bo
-		;
-	gist:hasMember
-		told:_Person_10824 ,
-		told:_Person_8460 ,
-		told:_Person_8571
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -4082,7 +3715,6 @@ told:_KinshipGroup_678
 		"rgya mo"@bo-x-ewts ,
 		"རྒྱ་མོ།"@bo
 		;
-	gist:hasMember told:_Person_8459 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gyamo"@en ,
@@ -4099,7 +3731,6 @@ told:_KinshipGroup_680
 		"rngu pa"@bo-x-ewts ,
 		"རྔུ་པ།"@bo
 		;
-	gist:hasMember told:_Person_2781 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngupa"@en ,
@@ -4115,7 +3746,6 @@ told:_KinshipGroup_681
 		"rtse dbus byams shul"@bo-x-ewts ,
 		"རྩེ་དབུས་བྱམས་ཤུལ།"@bo
 		;
-	gist:hasMember told:_Person_3173 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tseu Jamshul"@en ,
@@ -4180,7 +3810,6 @@ told:_KinshipGroup_691
 		"yab gzhis bsam pho"@bo-x-ewts ,
 		"ཡབ་གཞིས་བསམ་ཕོ་།"@bo
 		;
-	gist:hasMember told:_Person_13226 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:nameVariant
 		"Samdrub Podrang"@en ,
@@ -4202,7 +3831,6 @@ told:_KinshipGroup_698
 		"a phang"@bo-x-ewts ,
 		"ཨ་ཕང་།"@bo
 		;
-	gist:hasMember told:_Person_8651 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
 		"a paM"@bo-x-ewts ,
@@ -4240,7 +3868,6 @@ told:_KinshipGroup_714
 		"ngor rje"@bo-x-ewts ,
 		"ངོར་རྗེ།"@bo
 		;
-	gist:hasMember told:_Person_2606 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Ngoje"@en ,
@@ -4256,7 +3883,6 @@ told:_KinshipGroup_72
 		"gling smad"@bo-x-ewts ,
 		"གླིང་སྨད།"@bo
 		;
-	gist:hasMember told:_Person_11877 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Lingme"@en ,
@@ -4273,7 +3899,6 @@ told:_KinshipGroup_74
 		"zi"@bo-x-ewts ,
 		"ཟི།"@bo
 		;
-	gist:hasMember told:_Person_6547 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
 		"gzi"@bo-x-ewts ,
@@ -4294,10 +3919,6 @@ told:_KinshipGroup_77
 		"lo mi"@bo-x-ewts ,
 		"ལོ་མི།"@bo
 		;
-	gist:hasMember
-		told:_Person_4175 ,
-		told:_Person_6578
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Lomi"@en ,
@@ -4313,10 +3934,6 @@ told:_KinshipGroup_79
 		"ga zi"@bo-x-ewts ,
 		"ག་ཟི།"@bo
 		;
-	gist:hasMember
-		told:_Person_3101 ,
-		told:_Person_4368
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gazi"@en ,
@@ -4331,24 +3948,6 @@ told:_KinshipGroup_81
 		"Kyura"@en ,
 		"skyu ra"@bo-x-ewts ,
 		"སྐྱུ་ར།"@bo
-		;
-	gist:hasMember
-		told:_Person_13230 ,
-		told:_Person_13242 ,
-		told:_Person_13449 ,
-		told:_Person_13451 ,
-		told:_Person_2584 ,
-		told:_Person_2774 ,
-		told:_Person_2899 ,
-		told:_Person_3902 ,
-		told:_Person_3903 ,
-		told:_Person_3904 ,
-		told:_Person_3906 ,
-		told:_Person_3907 ,
-		told:_Person_620 ,
-		told:_Person_7038 ,
-		told:_Person_7040 ,
-		told:_Person_7523
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -4366,15 +3965,6 @@ told:_KinshipGroup_820
 		"brang ti"@bo-x-ewts ,
 		"བྲང་ཏི།"@bo
 		;
-	gist:hasMember
-		told:_Person_10452 ,
-		told:_Person_13246 ,
-		told:_Person_13788 ,
-		told:_Person_13794 ,
-		told:_Person_13795 ,
-		told:_Person_13797 ,
-		told:_Person_7718
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Drangti"@en ,
@@ -4391,7 +3981,6 @@ told:_KinshipGroup_83
 		"dgyer"@bo-x-ewts ,
 		"དགྱེར།"@bo
 		;
-	gist:hasMember told:_Person_5 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gyer"@en ,
@@ -4408,7 +3997,6 @@ told:_KinshipGroup_84
 		"khang gsar"@bo-x-ewts ,
 		"ཁང་གསར།"@bo
 		;
-	gist:hasMember told:_Person_5 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant
 		"Trehor Khangsar"@en ,
@@ -4430,21 +4018,6 @@ told:_KinshipGroup_86
 		"rgya"@bo-x-ewts ,
 		"རྒྱ།"@bo
 		;
-	gist:hasMember
-		told:_Person_10857 ,
-		told:_Person_11056 ,
-		told:_Person_11865 ,
-		told:_Person_11909 ,
-		told:_Person_11942 ,
-		told:_Person_11986 ,
-		told:_Person_13078 ,
-		told:_Person_3028 ,
-		told:_Person_4348 ,
-		told:_Person_4350 ,
-		told:_Person_4352 ,
-		told:_Person_7622 ,
-		told:_Person_8637
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gya"@en ,
@@ -4460,11 +4033,6 @@ told:_KinshipGroup_930
 		"Yabzhi Langdun"@en ,
 		"yab gzhis glang mdun"@bo-x-ewts ,
 		"ཡབ་གཞིས་གླང་མདུན་།"@bo
-		;
-	gist:hasMember
-		told:_Person_13722 ,
-		told:_Person_9287 ,
-		told:_Person_9289
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:primaryName
@@ -4482,7 +4050,6 @@ told:_KinshipGroup_931
 		"yab gzhi phun khang"@bo-x-ewts ,
 		"ཡབ་གཞི་ཕུན་ཁང་།"@bo
 		;
-	gist:hasMember told:_Person_13425 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:nameVariant
 		"phun tshogs khang gsar"@bo-x-ewts ,
@@ -4503,11 +4070,6 @@ told:_KinshipGroup_932
 		"yab gzhis g.yu thog"@bo-x-ewts ,
 		"ཡབ་གཞིས་གཡུ་ཐོག།"@bo
 		;
-	gist:hasMember
-		told:_Person_11798 ,
-		told:_Person_13426 ,
-		told:_Person_9333
-		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:primaryName
 		"Yabzhi Yuthok"@en ,
@@ -4524,7 +4086,6 @@ told:_KinshipGroup_933
 		"yab gzhis lha klu"@bo-x-ewts ,
 		"ཡབ་གཞིས་ལྷ་ཀླུ།"@bo
 		;
-	gist:hasMember told:_Person_13428 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:primaryName
 		"Yabzhi Lhalu (earlier)"@en ,
@@ -4541,7 +4102,6 @@ told:_KinshipGroup_94
 		"shar kha pa"@bo-x-ewts ,
 		"ཤར་ཁ་པ།"@bo
 		;
-	gist:hasMember told:_Person_4167 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:nameVariant "Sharkha"@en ;
 	tolo:primaryName
@@ -4559,7 +4119,6 @@ told:_KinshipGroup_940
 		"yab gzhis lha klu"@bo-x-ewts ,
 		"ཡབ་གཞིས་ལྷ་ཀླུ།"@bo
 		;
-	gist:hasMember told:_Person_13427 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
 	tolo:nameVariant
 		"lha klu dga' tshal"@bo-x-ewts ,
@@ -4579,7 +4138,6 @@ told:_KinshipGroup_946
 		"nyag ras"@bo-x-ewts ,
 		"ཉག་རས།"@bo
 		;
-	gist:hasMember told:_Person_13440 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Nyakre"@en ,
@@ -4595,7 +4153,6 @@ told:_KinshipGroup_966
 		"rgya kong bshad sgrub tshang"@bo-x-ewts ,
 		"རྒྱ་ཀོང་བཤད་སྒྲུབ་ཚང་།"@bo
 		;
-	gist:hasMember told:_Person_4987 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Gyakong Shedrubtsang"@en ,
@@ -4610,10 +4167,6 @@ told:_KinshipGroup_967
 		"'dan a thub tshang"@bo-x-ewts ,
 		"Den Atub Tsang"@en ,
 		"འདན་ཨ་ཐུབ་ཚང་།"@bo
-		;
-	gist:hasMember
-		told:_Person_11385 ,
-		told:_Person_13152
 		;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
@@ -4630,7 +4183,6 @@ told:_KinshipGroup_969
 		"tshong dpon"@bo-x-ewts ,
 		"ཚོང་དཔོན།"@bo
 		;
-	gist:hasMember told:_Person_4659 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Tsongpon"@en ,
@@ -4661,12 +4213,1347 @@ told:_KinshipGroup_975
 		"dil mgo"@bo-x-ewts ,
 		"དིལ་མགོ།"@bo
 		;
-	gist:hasMember told:_Person_8825 ;
 	gist:isCategorizedBy tolx:_KinshipGroupType_clan ;
 	tolo:primaryName
 		"Dilgo"@en ,
 		"dil mgo"@bo-x-ewts ,
 		"དིལ་མགོ།"@bo
 		;
+	.
+
+told:_Person_10083
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_10199
+	gist:isMemberOf told:_KinshipGroup_578 ;
+	.
+
+told:_Person_10301
+	gist:isMemberOf told:_KinshipGroup_169 ;
+	.
+
+told:_Person_10315
+	gist:isMemberOf told:_KinshipGroup_220 ;
+	.
+
+told:_Person_10452
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_10457
+	gist:isMemberOf told:_KinshipGroup_605 ;
+	.
+
+told:_Person_10497
+	gist:isMemberOf told:_KinshipGroup_651 ;
+	.
+
+told:_Person_10536
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_10561
+	gist:isMemberOf told:_KinshipGroup_1156 ;
+	.
+
+told:_Person_10591
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_10644
+	gist:isMemberOf told:_KinshipGroup_200 ;
+	.
+
+told:_Person_10687
+	gist:isMemberOf told:_KinshipGroup_238 ;
+	.
+
+told:_Person_10699
+	gist:isMemberOf told:_KinshipGroup_1375 ;
+	.
+
+told:_Person_10824
+	gist:isMemberOf told:_KinshipGroup_675 ;
+	.
+
+told:_Person_10857
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_10904
+	gist:isMemberOf told:_KinshipGroup_163 ;
+	.
+
+told:_Person_11056
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_1108
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_11117
+	gist:isMemberOf told:_KinshipGroup_166 ;
+	.
+
+told:_Person_11158
+	gist:isMemberOf told:_KinshipGroup_1626 ;
+	.
+
+told:_Person_11231
+	gist:isMemberOf told:_KinshipGroup_630 ;
+	.
+
+told:_Person_11299
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_11352
+	gist:isMemberOf told:_KinshipGroup_230 ;
+	.
+
+told:_Person_11385
+	gist:isMemberOf told:_KinshipGroup_967 ;
+	.
+
+told:_Person_11427
+	gist:isMemberOf told:_KinshipGroup_598 ;
+	.
+
+told:_Person_11441
+	gist:isMemberOf told:_KinshipGroup_239 ;
+	.
+
+told:_Person_11471
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_11790
+	gist:isMemberOf told:_KinshipGroup_1047 ;
+	.
+
+told:_Person_11796
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_11798
+	gist:isMemberOf
+		told:_KinshipGroup_1047 ,
+		told:_KinshipGroup_932
+		;
+	.
+
+told:_Person_11865
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_11877
+	gist:isMemberOf told:_KinshipGroup_72 ;
+	.
+
+told:_Person_11909
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_11942
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_11986
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_12096
+	gist:isMemberOf told:_KinshipGroup_628 ;
+	.
+
+told:_Person_12553
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_12785
+	gist:isMemberOf told:_KinshipGroup_588 ;
+	.
+
+told:_Person_12865
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13057
+	gist:isMemberOf told:_KinshipGroup_54 ;
+	.
+
+told:_Person_13058
+	gist:isMemberOf told:_KinshipGroup_58 ;
+	.
+
+told:_Person_13061
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_13072
+	gist:isMemberOf told:_KinshipGroup_220 ;
+	.
+
+told:_Person_13077
+	gist:isMemberOf told:_KinshipGroup_166 ;
+	.
+
+told:_Person_13078
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_13079
+	gist:isMemberOf told:_KinshipGroup_628 ;
+	.
+
+told:_Person_13081
+	gist:isMemberOf
+		told:_KinshipGroup_200 ,
+		told:_KinshipGroup_252
+		;
+	.
+
+told:_Person_13083
+	gist:isMemberOf told:_KinshipGroup_604 ;
+	.
+
+told:_Person_13087
+	gist:isMemberOf told:_KinshipGroup_645 ;
+	.
+
+told:_Person_13088
+	gist:isMemberOf told:_KinshipGroup_200 ;
+	.
+
+told:_Person_13090
+	gist:isMemberOf told:_KinshipGroup_629 ;
+	.
+
+told:_Person_13132
+	gist:isMemberOf told:_KinshipGroup_176 ;
+	.
+
+told:_Person_13135
+	gist:isMemberOf told:_KinshipGroup_607 ;
+	.
+
+told:_Person_13140
+	gist:isMemberOf told:_KinshipGroup_176 ;
+	.
+
+told:_Person_13142
+	gist:isMemberOf told:_KinshipGroup_636 ;
+	.
+
+told:_Person_13152
+	gist:isMemberOf told:_KinshipGroup_967 ;
+	.
+
+told:_Person_13164
+	gist:isMemberOf told:_KinshipGroup_624 ;
+	.
+
+told:_Person_13174
+	gist:isMemberOf told:_KinshipGroup_607 ;
+	.
+
+told:_Person_13186
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_13190
+	gist:isMemberOf told:_KinshipGroup_582 ;
+	.
+
+told:_Person_13196
+	gist:isMemberOf told:_KinshipGroup_577 ;
+	.
+
+told:_Person_13198
+	gist:isMemberOf told:_KinshipGroup_57 ;
+	.
+
+told:_Person_13199
+	gist:isMemberOf told:_KinshipGroup_549 ;
+	.
+
+told:_Person_13220
+	gist:isMemberOf told:_KinshipGroup_570 ;
+	.
+
+told:_Person_13221
+	gist:isMemberOf told:_KinshipGroup_570 ;
+	.
+
+told:_Person_13222
+	gist:isMemberOf told:_KinshipGroup_639 ;
+	.
+
+told:_Person_13226
+	gist:isMemberOf told:_KinshipGroup_691 ;
+	.
+
+told:_Person_13230
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_13231
+	gist:isMemberOf told:_KinshipGroup_636 ;
+	.
+
+told:_Person_13241
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_13242
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_13246
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_13425
+	gist:isMemberOf told:_KinshipGroup_931 ;
+	.
+
+told:_Person_13426
+	gist:isMemberOf told:_KinshipGroup_932 ;
+	.
+
+told:_Person_13427
+	gist:isMemberOf told:_KinshipGroup_940 ;
+	.
+
+told:_Person_13428
+	gist:isMemberOf told:_KinshipGroup_933 ;
+	.
+
+told:_Person_13437
+	gist:isMemberOf told:_KinshipGroup_626 ;
+	.
+
+told:_Person_13440
+	gist:isMemberOf told:_KinshipGroup_946 ;
+	.
+
+told:_Person_13449
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_13451
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_13456
+	gist:isMemberOf told:_KinshipGroup_46 ;
+	.
+
+told:_Person_13502
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_13509
+	gist:isMemberOf
+		told:_KinshipGroup_264 ,
+		told:_KinshipGroup_656
+		;
+	.
+
+told:_Person_13519
+	gist:isMemberOf told:_KinshipGroup_1061 ;
+	.
+
+told:_Person_13520
+	gist:isMemberOf told:_KinshipGroup_1061 ;
+	.
+
+told:_Person_13521
+	gist:isMemberOf told:_KinshipGroup_1061 ;
+	.
+
+told:_Person_13522
+	gist:isMemberOf told:_KinshipGroup_1061 ;
+	.
+
+told:_Person_13523
+	gist:isMemberOf told:_KinshipGroup_1061 ;
+	.
+
+told:_Person_13531
+	gist:isMemberOf told:_KinshipGroup_570 ;
+	.
+
+told:_Person_13534
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13535
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13536
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13537
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13538
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13539
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13541
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13542
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13543
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13545
+	gist:isMemberOf told:_KinshipGroup_1063 ;
+	.
+
+told:_Person_13546
+	gist:isMemberOf told:_KinshipGroup_1063 ;
+	.
+
+told:_Person_13548
+	gist:isMemberOf told:_KinshipGroup_1063 ;
+	.
+
+told:_Person_13549
+	gist:isMemberOf told:_KinshipGroup_1063 ;
+	.
+
+told:_Person_13550
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_13558
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13559
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13560
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13561
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13562
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13563
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13564
+	gist:isMemberOf told:_KinshipGroup_1076 ;
+	.
+
+told:_Person_13566
+	gist:isMemberOf told:_KinshipGroup_656 ;
+	.
+
+told:_Person_13572
+	gist:isMemberOf told:_KinshipGroup_1156 ;
+	.
+
+told:_Person_13583
+	gist:isMemberOf told:_KinshipGroup_1132 ;
+	.
+
+told:_Person_13598
+	gist:isMemberOf told:_KinshipGroup_220 ;
+	.
+
+told:_Person_13625
+	gist:isMemberOf told:_KinshipGroup_1132 ;
+	.
+
+told:_Person_13628
+	gist:isMemberOf told:_KinshipGroup_665 ;
+	.
+
+told:_Person_13683
+	gist:isMemberOf told:_KinshipGroup_665 ;
+	.
+
+told:_Person_13686
+	gist:isMemberOf told:_KinshipGroup_1540 ;
+	.
+
+told:_Person_13690
+	gist:isMemberOf told:_KinshipGroup_671 ;
+	.
+
+told:_Person_1370
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_13708
+	gist:isMemberOf told:_KinshipGroup_1132 ;
+	.
+
+told:_Person_13722
+	gist:isMemberOf
+		told:_KinshipGroup_1519 ,
+		told:_KinshipGroup_930
+		;
+	.
+
+told:_Person_13724
+	gist:isMemberOf
+		told:_KinshipGroup_1583 ,
+		told:_KinshipGroup_1584
+		;
+	.
+
+told:_Person_13725
+	gist:isMemberOf told:_KinshipGroup_665 ;
+	.
+
+told:_Person_13788
+	gist:isMemberOf
+		told:_KinshipGroup_1590 ,
+		told:_KinshipGroup_820
+		;
+	.
+
+told:_Person_13790
+	gist:isMemberOf told:_KinshipGroup_1626 ;
+	.
+
+told:_Person_13794
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_13795
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_13797
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_13843
+	gist:isMemberOf told:_KinshipGroup_1590 ;
+	.
+
+told:_Person_13864
+	gist:isMemberOf told:_KinshipGroup_614 ;
+	.
+
+told:_Person_13868
+	gist:isMemberOf told:_KinshipGroup_614 ;
+	.
+
+told:_Person_13869
+	gist:isMemberOf told:_KinshipGroup_264 ;
+	.
+
+told:_Person_1564
+	gist:isMemberOf told:_KinshipGroup_580 ;
+	.
+
+told:_Person_1974
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2180
+	gist:isMemberOf told:_KinshipGroup_607 ;
+	.
+
+told:_Person_2314
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2418
+	gist:isMemberOf told:_KinshipGroup_1571 ;
+	.
+
+told:_Person_2423
+	gist:isMemberOf told:_KinshipGroup_1047 ;
+	.
+
+told:_Person_2424
+	gist:isMemberOf
+		told:_KinshipGroup_1132 ,
+		told:_KinshipGroup_1643
+		;
+	.
+
+told:_Person_2483
+	gist:isMemberOf told:_KinshipGroup_548 ;
+	.
+
+told:_Person_2491
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2539
+	gist:isMemberOf
+		told:_KinshipGroup_1202 ,
+		told:_KinshipGroup_626
+		;
+	.
+
+told:_Person_2578
+	gist:isMemberOf told:_KinshipGroup_550 ;
+	.
+
+told:_Person_2584
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_2593
+	gist:isMemberOf told:_KinshipGroup_65 ;
+	.
+
+told:_Person_2595
+	gist:isMemberOf told:_KinshipGroup_626 ;
+	.
+
+told:_Person_2598
+	gist:isMemberOf told:_KinshipGroup_622 ;
+	.
+
+told:_Person_2606
+	gist:isMemberOf told:_KinshipGroup_714 ;
+	.
+
+told:_Person_2733
+	gist:isMemberOf told:_KinshipGroup_201 ;
+	.
+
+told:_Person_2740
+	gist:isMemberOf told:_KinshipGroup_627 ;
+	.
+
+told:_Person_2774
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_2781
+	gist:isMemberOf told:_KinshipGroup_680 ;
+	.
+
+told:_Person_2789
+	gist:isMemberOf told:_KinshipGroup_636 ;
+	.
+
+told:_Person_2798
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_2799
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_2854
+	gist:isMemberOf told:_KinshipGroup_222 ;
+	.
+
+told:_Person_2899
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_2915
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2916
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2919
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_2943
+	gist:isMemberOf told:_KinshipGroup_438 ;
+	.
+
+told:_Person_2980
+	gist:isMemberOf told:_KinshipGroup_619 ;
+	.
+
+told:_Person_3000
+	gist:isMemberOf told:_KinshipGroup_636 ;
+	.
+
+told:_Person_3008
+	gist:isMemberOf told:_KinshipGroup_644 ;
+	.
+
+told:_Person_3028
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_303
+	gist:isMemberOf told:_KinshipGroup_163 ;
+	.
+
+told:_Person_3072
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_3101
+	gist:isMemberOf told:_KinshipGroup_79 ;
+	.
+
+told:_Person_3152
+	gist:isMemberOf told:_KinshipGroup_1078 ;
+	.
+
+told:_Person_3168
+	gist:isMemberOf told:_KinshipGroup_281 ;
+	.
+
+told:_Person_3173
+	gist:isMemberOf told:_KinshipGroup_681 ;
+	.
+
+told:_Person_3178
+	gist:isMemberOf told:_KinshipGroup_200 ;
+	.
+
+told:_Person_3182
+	gist:isMemberOf told:_KinshipGroup_163 ;
+	.
+
+told:_Person_3189
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3191
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3194
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3204
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3208
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3211
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_3738
+	gist:isMemberOf told:_KinshipGroup_671 ;
+	.
+
+told:_Person_3773
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_3881
+	gist:isMemberOf told:_KinshipGroup_153 ;
+	.
+
+told:_Person_3902
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_3903
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_3904
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_3906
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_3907
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_3950
+	gist:isMemberOf told:_KinshipGroup_1571 ;
+	.
+
+told:_Person_3957
+	gist:isMemberOf told:_KinshipGroup_264 ;
+	.
+
+told:_Person_4167
+	gist:isMemberOf told:_KinshipGroup_94 ;
+	.
+
+told:_Person_4175
+	gist:isMemberOf told:_KinshipGroup_77 ;
+	.
+
+told:_Person_4220
+	gist:isMemberOf
+		told:_KinshipGroup_184 ,
+		told:_KinshipGroup_284
+		;
+	.
+
+told:_Person_4228
+	gist:isMemberOf told:_KinshipGroup_647 ;
+	.
+
+told:_Person_4261
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_4267
+	gist:isMemberOf told:_KinshipGroup_238 ;
+	.
+
+told:_Person_4291
+	gist:isMemberOf told:_KinshipGroup_653 ;
+	.
+
+told:_Person_4327
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_4348
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_4350
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_4352
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_4368
+	gist:isMemberOf told:_KinshipGroup_79 ;
+	.
+
+told:_Person_4402
+	gist:isMemberOf told:_KinshipGroup_634 ;
+	.
+
+told:_Person_4425
+	gist:isMemberOf told:_KinshipGroup_630 ;
+	.
+
+told:_Person_4626
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_4630
+	gist:isMemberOf told:_KinshipGroup_230 ;
+	.
+
+told:_Person_4632
+	gist:isMemberOf told:_KinshipGroup_230 ;
+	.
+
+told:_Person_4659
+	gist:isMemberOf told:_KinshipGroup_969 ;
+	.
+
+told:_Person_4676
+	gist:isMemberOf told:_KinshipGroup_630 ;
+	.
+
+told:_Person_490
+	gist:isMemberOf told:_KinshipGroup_162 ;
+	.
+
+told:_Person_4903
+	gist:isMemberOf told:_KinshipGroup_57 ;
+	.
+
+told:_Person_495
+	gist:isMemberOf told:_KinshipGroup_46 ;
+	.
+
+told:_Person_4987
+	gist:isMemberOf told:_KinshipGroup_966 ;
+	.
+
+told:_Person_5
+	gist:isMemberOf
+		told:_KinshipGroup_649 ,
+		told:_KinshipGroup_83 ,
+		told:_KinshipGroup_84
+		;
+	.
+
+told:_Person_5078
+	gist:isMemberOf
+		told:_KinshipGroup_168 ,
+		told:_KinshipGroup_635
+		;
+	.
+
+told:_Person_5234
+	gist:isMemberOf told:_KinshipGroup_171 ;
+	.
+
+told:_Person_5306
+	gist:isMemberOf told:_KinshipGroup_671 ;
+	.
+
+told:_Person_5386
+	gist:isMemberOf told:_KinshipGroup_1382 ;
+	.
+
+told:_Person_5408
+	gist:isMemberOf told:_KinshipGroup_608 ;
+	.
+
+told:_Person_5479
+	gist:isMemberOf told:_KinshipGroup_600 ;
+	.
+
+told:_Person_5500
+	gist:isMemberOf told:_KinshipGroup_664 ;
+	.
+
+told:_Person_5615
+	gist:isMemberOf
+		told:_KinshipGroup_166 ,
+		told:_KinshipGroup_601
+		;
+	.
+
+told:_Person_5728
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_5789
+	gist:isMemberOf told:_KinshipGroup_66 ;
+	.
+
+told:_Person_5790
+	gist:isMemberOf told:_KinshipGroup_513 ;
+	.
+
+told:_Person_5791
+	gist:isMemberOf told:_KinshipGroup_239 ;
+	.
+
+told:_Person_5801
+	gist:isMemberOf told:_KinshipGroup_579 ;
+	.
+
+told:_Person_5803
+	gist:isMemberOf told:_KinshipGroup_664 ;
+	.
+
+told:_Person_5817
+	gist:isMemberOf told:_KinshipGroup_65 ;
+	.
+
+told:_Person_5818
+	gist:isMemberOf told:_KinshipGroup_65 ;
+	.
+
+told:_Person_5819
+	gist:isMemberOf told:_KinshipGroup_65 ;
+	.
+
+told:_Person_5899
+	gist:isMemberOf told:_KinshipGroup_644 ;
+	.
+
+told:_Person_5902
+	gist:isMemberOf told:_KinshipGroup_642 ;
+	.
+
+told:_Person_5999
+	gist:isMemberOf told:_KinshipGroup_169 ;
+	.
+
+told:_Person_6025
+	gist:isMemberOf told:_KinshipGroup_222 ;
+	.
+
+told:_Person_6037
+	gist:isMemberOf told:_KinshipGroup_623 ;
+	.
+
+told:_Person_6100
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_6110
+	gist:isMemberOf told:_KinshipGroup_131 ;
+	.
+
+told:_Person_6134
+	gist:isMemberOf told:_KinshipGroup_640 ;
+	.
+
+told:_Person_6159
+	gist:isMemberOf told:_KinshipGroup_152 ;
+	.
+
+told:_Person_620
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_6205
+	gist:isMemberOf told:_KinshipGroup_169 ;
+	.
+
+told:_Person_6285
+	gist:isMemberOf told:_KinshipGroup_200 ;
+	.
+
+told:_Person_6331
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6334
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6335
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6336
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6337
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6338
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6339
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6341
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6342
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6343
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6344
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6345
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6346
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6348
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6349
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6350
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6353
+	gist:isMemberOf told:_KinshipGroup_1040 ;
+	.
+
+told:_Person_6505
+	gist:isMemberOf told:_KinshipGroup_222 ;
+	.
+
+told:_Person_6547
+	gist:isMemberOf told:_KinshipGroup_74 ;
+	.
+
+told:_Person_6567
+	gist:isMemberOf told:_KinshipGroup_1090 ;
+	.
+
+told:_Person_6568
+	gist:isMemberOf told:_KinshipGroup_1090 ;
+	.
+
+told:_Person_6578
+	gist:isMemberOf told:_KinshipGroup_77 ;
+	.
+
+told:_Person_6653
+	gist:isMemberOf told:_KinshipGroup_65 ;
+	.
+
+told:_Person_6668
+	gist:isMemberOf told:_KinshipGroup_570 ;
+	.
+
+told:_Person_6671
+	gist:isMemberOf told:_KinshipGroup_148 ;
+	.
+
+told:_Person_6721
+	gist:isMemberOf told:_KinshipGroup_640 ;
+	.
+
+told:_Person_6726
+	gist:isMemberOf told:_KinshipGroup_640 ;
+	.
+
+told:_Person_6733
+	gist:isMemberOf told:_KinshipGroup_1382 ;
+	.
+
+told:_Person_6749
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_6760
+	gist:isMemberOf told:_KinshipGroup_463 ;
+	.
+
+told:_Person_6856
+	gist:isMemberOf told:_KinshipGroup_169 ;
+	.
+
+told:_Person_7038
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_7040
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_7053
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_7523
+	gist:isMemberOf told:_KinshipGroup_81 ;
+	.
+
+told:_Person_7545
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_7622
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_7681
+	gist:isMemberOf told:_KinshipGroup_1067 ;
+	.
+
+told:_Person_7718
+	gist:isMemberOf told:_KinshipGroup_820 ;
+	.
+
+told:_Person_7775
+	gist:isMemberOf told:_KinshipGroup_577 ;
+	.
+
+told:_Person_7929
+	gist:isMemberOf told:_KinshipGroup_1132 ;
+	.
+
+told:_Person_7937
+	gist:isMemberOf told:_KinshipGroup_643 ;
+	.
+
+told:_Person_8027
+	gist:isMemberOf told:_KinshipGroup_222 ;
+	.
+
+told:_Person_8069
+	gist:isMemberOf told:_KinshipGroup_460 ;
+	.
+
+told:_Person_8181
+	gist:isMemberOf told:_KinshipGroup_625 ;
+	.
+
+told:_Person_8342
+	gist:isMemberOf told:_KinshipGroup_646 ;
+	.
+
+told:_Person_84
+	gist:isMemberOf told:_KinshipGroup_53 ;
+	.
+
+told:_Person_8459
+	gist:isMemberOf told:_KinshipGroup_678 ;
+	.
+
+told:_Person_8460
+	gist:isMemberOf
+		told:_KinshipGroup_49 ,
+		told:_KinshipGroup_675
+		;
+	.
+
+told:_Person_8538
+	gist:isMemberOf told:_KinshipGroup_670 ;
+	.
+
+told:_Person_8571
+	gist:isMemberOf told:_KinshipGroup_675 ;
+	.
+
+told:_Person_8583
+	gist:isMemberOf told:_KinshipGroup_1011 ;
+	.
+
+told:_Person_8637
+	gist:isMemberOf told:_KinshipGroup_86 ;
+	.
+
+told:_Person_8651
+	gist:isMemberOf told:_KinshipGroup_698 ;
+	.
+
+told:_Person_8730
+	gist:isMemberOf told:_KinshipGroup_238 ;
+	.
+
+told:_Person_8752
+	gist:isMemberOf told:_KinshipGroup_203 ;
+	.
+
+told:_Person_8825
+	gist:isMemberOf told:_KinshipGroup_975 ;
+	.
+
+told:_Person_8868
+	gist:isMemberOf told:_KinshipGroup_281 ;
+	.
+
+told:_Person_9062
+	gist:isMemberOf told:_KinshipGroup_184 ;
+	.
+
+told:_Person_9169
+	gist:isMemberOf
+		told:_KinshipGroup_161 ,
+		told:_KinshipGroup_582
+		;
+	.
+
+told:_Person_9213
+	gist:isMemberOf told:_KinshipGroup_606 ;
+	.
+
+told:_Person_9287
+	gist:isMemberOf told:_KinshipGroup_930 ;
+	.
+
+told:_Person_9289
+	gist:isMemberOf
+		told:_KinshipGroup_1519 ,
+		told:_KinshipGroup_930
+		;
+	.
+
+told:_Person_9301
+	gist:isMemberOf told:_KinshipGroup_1495 ;
+	.
+
+told:_Person_9305
+	gist:isMemberOf told:_KinshipGroup_1132 ;
+	.
+
+told:_Person_9333
+	gist:isMemberOf told:_KinshipGroup_932 ;
+	.
+
+told:_Person_9343
+	gist:isMemberOf told:_KinshipGroup_1590 ;
+	.
+
+told:_Person_9355
+	gist:isMemberOf told:_KinshipGroup_630 ;
+	.
+
+told:_Person_9372
+	gist:isMemberOf told:_KinshipGroup_176 ;
+	.
+
+told:_Person_9394
+	gist:isMemberOf told:_KinshipGroup_636 ;
+	.
+
+told:_Person_9579
+	gist:isMemberOf
+		told:_KinshipGroup_55 ,
+		told:_KinshipGroup_56
+		;
+	.
+
+told:_Person_9588
+	gist:isMemberOf told:_KinshipGroup_630 ;
+	.
+
+told:_Person_9590
+	gist:isMemberOf told:_KinshipGroup_264 ;
+	.
+
+told:_Person_96
+	gist:isMemberOf told:_KinshipGroup_626 ;
+	.
+
+told:_Person_9612
+	gist:isMemberOf
+		told:_KinshipGroup_51 ,
+		told:_KinshipGroup_614
+		;
+	.
+
+told:_Person_9618
+	gist:isMemberOf told:_KinshipGroup_665 ;
+	.
+
+told:_Person_9688
+	gist:isMemberOf told:_KinshipGroup_49 ;
+	.
+
+told:_Person_9990
+	gist:isMemberOf told:_KinshipGroup_211 ;
 	.
 
