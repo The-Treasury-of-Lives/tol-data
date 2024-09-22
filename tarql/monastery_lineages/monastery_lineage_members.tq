@@ -37,12 +37,9 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
 CONSTRUCT {
 
-    ?monastery_lineage_iri 
-        gist:hasMember ?lineage_member_iri ;
-        .
-    
     ?lineage_member_iri
         a tolo:LineageMember ;
+        gist:isMemberOf ?monastery_lineage_iri ;
         gist:providesOrderFor ?person_iri ;
         gist:sequence ?sequence ;
         tolo:ordinal ?ordinal_int ;

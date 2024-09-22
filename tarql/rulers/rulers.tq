@@ -26,13 +26,10 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # tarql -e utf-8 --dedup 50000 rulers.tq person-ruler-7-31-24.csv > tolRulers.ttl
 
 CONSTRUCT {
-
-    ?ruler_lineage_iri 
-        gist:hasMember ?lineage_member_iri ;
-        .
-    
+  
     ?lineage_member_iri
         a tolo:LineageMember ;
+        gist:isMemberOf ?ruler_lineage_iri ;
         gist:providesOrderFor ?person_iri ;
         # Seqeunce and ordinal the same, but add ordinal for uniformity in lineage models.
         gist:sequence ?sequence_int ;

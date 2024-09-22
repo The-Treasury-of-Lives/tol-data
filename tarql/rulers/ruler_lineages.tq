@@ -34,7 +34,7 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # BDRC Institution ID (ignore - should be in place data)
 
 # Run:
-# tarql -e utf-8 --dedup 50000 ruler_lineages.tq ruler-5-5-23.csv > tolRoles.ttl
+# tarql -e utf-8 --dedup 50000 ruler_lineages.tq ruler-5-5-23.csv > tolRulerLineages.ttl
 
 CONSTRUCT {
 
@@ -50,14 +50,11 @@ CONSTRUCT {
             ?pref_label_tibetan ;
         gist:isConnectedTo ?place_iri ;
         gist:isCategorizedBy tolx:_Role_ruler ;
+        gist:isMemberOf ?kinship_group_iri ;
         .
 
     ?region_iri
         gist:isGovernedBy ?ruler_lineage_iri ;
-        .
-
-    ?kinship_group_iri 
-        gist:hasMember ?ruler_lineage_iri ;
         .
 
     ?description_iri 

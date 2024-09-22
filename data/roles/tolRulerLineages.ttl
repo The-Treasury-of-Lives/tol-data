@@ -68,22 +68,6 @@ told:_GeoRegion_7
 	gist:isGovernedBy told:_RulerLineage_693 ;
 	.
 
-told:_KinshipGroup_1040
-	gist:hasMember told:_RulerLineage_1033 ;
-	.
-
-told:_KinshipGroup_1156
-	gist:hasMember told:_RulerLineage_1155 ;
-	.
-
-told:_KinshipGroup_656
-	gist:hasMember told:_RulerLineage_1048 ;
-	.
-
-told:_KinshipGroup_675
-	gist:hasMember told:_RulerLineage_693 ;
-	.
-
 told:_RulerLineage_1033
 	a tolo:RulerLineage ;
 	skos:prefLabel
@@ -93,6 +77,7 @@ told:_RulerLineage_1033
 		;
 	gist:isCategorizedBy tolx:_Role_ruler ;
 	gist:isConnectedTo told:_Place_354 ;
+	gist:isMemberOf told:_KinshipGroup_1040 ;
 	tolo:primaryName
 		"Chone"@en ,
 		"co ne sa skyong"@bo-x-ewts ,
@@ -109,6 +94,7 @@ told:_RulerLineage_1048
 		;
 	gist:isCategorizedBy tolx:_Role_ruler ;
 	gist:isConnectedTo told:_Place_1075 ;
+	gist:isMemberOf told:_KinshipGroup_656 ;
 	tolo:primaryName
 		"Yarlung"@en ,
 		"yar klungs rgyal rigs"@bo-x-ewts ,
@@ -125,6 +111,7 @@ told:_RulerLineage_1155
 		;
 	gist:isCategorizedBy tolx:_Role_ruler ;
 	gist:isConnectedTo told:_Place_1175 ;
+	gist:isMemberOf told:_KinshipGroup_1156 ;
 	tolo:primaryName
 		"Nangchen"@en ,
 		"nang chen rgyal rigs"@bo-x-ewts ,
@@ -156,6 +143,7 @@ told:_RulerLineage_693
 		;
 	gist:isCategorizedBy tolx:_Role_ruler ;
 	gist:isConnectedTo told:_Place_207 ;
+	gist:isMemberOf told:_KinshipGroup_675 ;
 	tolo:primaryName
 		"Derge"@en ,
 		"sde dge rgyal rigs"@bo-x-ewts ,
