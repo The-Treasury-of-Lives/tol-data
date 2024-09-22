@@ -37,8 +37,6 @@ CONSTRUCT {
 
     ?incarnation_lineage_iri 
         tolo:isDerivedFrom ?parent_lineage_iri ;
-        gist:hasMember ?incarnation_iri ;
-        #tolo:hasPreincarnation ?preincarnation_iri ;
         .
     
     ?incarnation_iri 
@@ -46,6 +44,7 @@ CONSTRUCT {
         gist:providesOrderFor ?person_iri ;
         gist:sequence ?sequence ;
         tolo:ordinal ?ordinal_int ;
+        gist:isMemberOf ?incarnation_lineage_iri ;
         .
 
 }

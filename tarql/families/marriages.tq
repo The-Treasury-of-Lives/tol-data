@@ -46,8 +46,8 @@ CONSTRUCT {
         tolo:hasHusband ?husband_iri ;
         ?start_predicate_iri ?start_datetime ;
         ?end_predicate_iri ?end_datetime ;
-        gist:isCategorizedBy    
-            ?termination_cause_iri ;
+        gist:isCategorizedBy ?termination_cause_iri ;
+        gist:isMemberOf ?kinship_group_iri ;
         .
 
     ?wife_status_assignment_iri
@@ -60,10 +60,6 @@ CONSTRUCT {
         a tolo:StatusAssignment ;
         tolo:isAssignmentTo ?marriage_iri ;
         tolo:isAssignmentOf ?husband_status_iri ;
-        .
-
-    ?kinship_group_iri
-        gist:hasMember ?marriage_iri ;
         .
 
 }
