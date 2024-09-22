@@ -16,40 +16,6 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_KinshipGroup_1047
-	gist:hasMember told:_Marriage_11790_11796 ;
-	.
-
-told:_KinshipGroup_1048
-	gist:hasMember
-		told:_Marriage_10760_10811 ,
-		told:_Marriage_13567_13509
-		;
-	.
-
-told:_KinshipGroup_1132
-	gist:hasMember
-		told:_Marriage_13583_32 ,
-		told:_Marriage_13709_13708 ,
-		told:_Marriage_7929_10711 ,
-		told:_Marriage_7929_13625 ,
-		told:_Marriage_7929_13708 ,
-		told:_Marriage_9305_7585
-		;
-	.
-
-told:_KinshipGroup_1583
-	gist:hasMember told:_Marriage_10712_13724 ;
-	.
-
-told:_KinshipGroup_693
-	gist:hasMember told:_Marriage_11290_13703 ;
-	.
-
-told:_KinshipGroup_932
-	gist:hasMember told:_Marriage_9333_11798 ;
-	.
-
 told:_Marriage_10019_13843
 	a tolo:Marriage ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
@@ -76,6 +42,7 @@ told:_Marriage_10712_13724
 	gist:actualEndYear "1987-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1950-01-01T00:00:00"^^xsd:dateTime ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
+	gist:isMemberOf told:_KinshipGroup_1583 ;
 	tolo:hasHusband told:_Person_10712 ;
 	tolo:hasWife told:_Person_13724 ;
 	.
@@ -85,6 +52,7 @@ told:_Marriage_10760_10811
 	gist:actualEndYear "0641-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "0641-01-01T00:00:00"^^xsd:dateTime ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
+	gist:isMemberOf told:_KinshipGroup_1048 ;
 	tolo:hasHusband told:_Person_10760 ;
 	tolo:hasWife told:_Person_10811 ;
 	.
@@ -94,6 +62,7 @@ told:_Marriage_11290_13703
 	gist:actualEndYear "1942-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1938-01-01T00:00:00"^^xsd:dateTime ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
+	gist:isMemberOf told:_KinshipGroup_693 ;
 	tolo:hasHusband told:_Person_11290 ;
 	tolo:hasWife told:_Person_13703 ;
 	.
@@ -101,6 +70,7 @@ told:_Marriage_11290_13703
 told:_Marriage_11790_11796
 	a tolo:Marriage ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
+	gist:isMemberOf told:_KinshipGroup_1047 ;
 	tolo:hasHusband told:_Person_11790 ;
 	tolo:hasWife told:_Person_11796 ;
 	.
@@ -132,18 +102,21 @@ told:_Marriage_13546_13805
 told:_Marriage_13567_13509
 	a tolo:Marriage ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
+	gist:isMemberOf told:_KinshipGroup_1048 ;
 	tolo:hasHusband told:_Person_13567 ;
 	tolo:hasWife told:_Person_13509 ;
 	.
 
 told:_Marriage_13583_32
 	a tolo:Marriage ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_13583 ;
 	tolo:hasWife told:_Person_32 ;
 	.
 
 told:_Marriage_13709_13708
 	a tolo:Marriage ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_13709 ;
 	tolo:hasWife told:_Person_13708 ;
 	.
@@ -216,12 +189,14 @@ told:_Marriage_7562_13187
 told:_Marriage_7929_10711
 	a tolo:Marriage ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_10711 ;
 	.
 
 told:_Marriage_7929_13625
 	a tolo:Marriage ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13625 ;
 	.
@@ -229,6 +204,7 @@ told:_Marriage_7929_13625
 told:_Marriage_7929_13708
 	a tolo:Marriage ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13708 ;
 	.
@@ -248,6 +224,7 @@ told:_Marriage_8538_13850
 
 told:_Marriage_9305_7585
 	a tolo:Marriage ;
+	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_9305 ;
 	tolo:hasWife told:_Person_7585 ;
 	.
@@ -257,6 +234,7 @@ told:_Marriage_9333_11798
 	gist:actualEndYear "1947-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1933-01-01T00:00:00"^^xsd:dateTime ;
 	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
+	gist:isMemberOf told:_KinshipGroup_932 ;
 	tolo:hasHusband told:_Person_9333 ;
 	tolo:hasWife told:_Person_11798 ;
 	.
