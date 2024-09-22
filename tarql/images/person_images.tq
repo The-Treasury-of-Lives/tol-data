@@ -32,7 +32,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # caption
 
 # Run: 
-# tarql --dedup 5000 -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
+# tarql --dedup 10000 -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
 
 CONSTRUCT {
 
