@@ -142,6 +142,15 @@ told:_Authorship_10280_103
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_10298_98
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_98 ,
+		told:_Biography_10298
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_1029_5
 	a tolo:Authorship ;
 	gist:hasParticipant
@@ -6487,6 +6496,15 @@ told:_Authorship_2952_19
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_2953_60
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_60 ,
+		told:_Biography_2953
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_2973_26
 	a tolo:Authorship ;
 	gist:hasParticipant
@@ -6564,6 +6582,24 @@ told:_Authorship_3000_14
 	gist:hasParticipant
 		told:_Author_14 ,
 		told:_Biography_3000
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_3004_1
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_1 ,
+		told:_Biography_3004
+		;
+	tolo:displayOrder "2"^^xsd:integer ;
+	.
+
+told:_Authorship_3004_98
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_98 ,
+		told:_Biography_3004
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -8557,11 +8593,29 @@ told:_Authorship_4903_15
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_4909_5
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_5 ,
+		told:_Biography_4909
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_490_15
 	a tolo:Authorship ;
 	gist:hasParticipant
 		told:_Author_15 ,
 		told:_Biography_490
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_4935_98
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_98 ,
+		told:_Biography_4935
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -12621,6 +12675,15 @@ told:_Authorship_9254_39
 	gist:hasParticipant
 		told:_Author_39 ,
 		told:_Biography_9254
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_9278_147
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_147 ,
+		told:_Biography_9278
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.

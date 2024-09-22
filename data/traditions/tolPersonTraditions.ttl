@@ -35,8 +35,7 @@ told:_Person_10083
 told:_Person_10093
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
@@ -80,14 +79,15 @@ told:_Person_10258
 	.
 
 told:_Person_10280
-	gist:isConnectedTo
-		told:_Tradition_43 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_43 ;
 	.
 
 told:_Person_1029
 	gist:isConnectedTo told:_Tradition_7 ;
+	.
+
+told:_Person_10298
+	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
 told:_Person_10301
@@ -101,8 +101,7 @@ told:_Person_10311
 told:_Person_10315
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_45 ,
-		told:_Tradition_8
+		told:_Tradition_45
 		;
 	.
 
@@ -113,8 +112,7 @@ told:_Person_10319
 told:_Person_10320
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -129,8 +127,7 @@ told:_Person_10355
 told:_Person_10372
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -165,8 +162,7 @@ told:_Person_10422
 told:_Person_10442
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -179,10 +175,7 @@ told:_Person_10480
 	.
 
 told:_Person_10482
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_10497
@@ -204,16 +197,14 @@ told:_Person_10531
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_37 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_10536
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -224,8 +215,7 @@ told:_Person_10546
 told:_Person_10548
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -245,8 +235,7 @@ told:_Person_10573
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_4 ,
-		told:_Tradition_8
+		told:_Tradition_4
 		;
 	.
 
@@ -337,8 +326,7 @@ told:_Person_10687
 told:_Person_10699
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -363,10 +351,7 @@ told:_Person_10815
 	.
 
 told:_Person_10824
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_10827
@@ -386,17 +371,11 @@ told:_Person_10835
 	.
 
 told:_Person_10857
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_10878
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_10881
@@ -408,10 +387,7 @@ told:_Person_10892
 	.
 
 told:_Person_10898
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_10904
@@ -446,8 +422,7 @@ told:_Person_11114
 	gist:isConnectedTo
 		told:_Tradition_27 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -463,8 +438,7 @@ told:_Person_11141
 	gist:isConnectedTo
 		told:_Tradition_37 ,
 		told:_Tradition_45 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -479,8 +453,7 @@ told:_Person_11183
 told:_Person_11231
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -491,8 +464,7 @@ told:_Person_11245
 told:_Person_11246
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -523,16 +495,12 @@ told:_Person_11290
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_11299
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_11307
@@ -546,16 +514,12 @@ told:_Person_11352
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_27 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_11385
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_11417
@@ -593,10 +557,7 @@ told:_Person_11437
 	.
 
 told:_Person_11441
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_11443
@@ -612,17 +573,15 @@ told:_Person_11445
 	.
 
 told:_Person_11453
-	gist:isConnectedTo
-		told:_Tradition_23 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_23 ;
 	.
 
 told:_Person_11462
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
+	.
+
+told:_Person_11471
+	gist:isConnectedTo told:_Tradition_49 ;
 	.
 
 told:_Person_11487
@@ -678,10 +637,7 @@ told:_Person_11632
 	.
 
 told:_Person_11645
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_11731
@@ -690,8 +646,7 @@ told:_Person_11731
 		told:_Tradition_28 ,
 		told:_Tradition_40 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -706,7 +661,7 @@ told:_Person_11798
 told:_Person_11865
 	gist:isConnectedTo
 		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_49
 		;
 	.
 
@@ -715,10 +670,7 @@ told:_Person_11866
 	.
 
 told:_Person_11877
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_11883
@@ -726,40 +678,27 @@ told:_Person_11883
 	.
 
 told:_Person_11898
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_11909
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_11942
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_11972
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_11986
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_12096
@@ -781,23 +720,18 @@ told:_Person_12180
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_67 ,
-		told:_Tradition_8
+		told:_Tradition_67
 		;
 	.
 
 told:_Person_12264
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_12340
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -806,10 +740,7 @@ told:_Person_12403
 	.
 
 told:_Person_12405
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_12479
@@ -878,8 +809,7 @@ told:_Person_12839
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_22 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -895,6 +825,10 @@ told:_Person_12906
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
+told:_Person_12980
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
 told:_Person_12981
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
@@ -907,6 +841,14 @@ told:_Person_13026
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
+told:_Person_13054
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
+told:_Person_13056
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
 told:_Person_13057
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
@@ -915,8 +857,22 @@ told:_Person_13058
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
+told:_Person_13060
+	gist:isConnectedTo told:_Tradition_23 ;
+	.
+
 told:_Person_13061
-	gist:isConnectedTo told:_Tradition_37 ;
+	gist:isConnectedTo
+		told:_Tradition_37 ,
+		told:_Tradition_49
+		;
+	.
+
+told:_Person_13062
+	gist:isConnectedTo
+		told:_Tradition_37 ,
+		told:_Tradition_43
+		;
 	.
 
 told:_Person_13063
@@ -930,8 +886,7 @@ told:_Person_13064
 	gist:isConnectedTo
 		told:_Tradition_28 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -947,45 +902,29 @@ told:_Person_13066
 	.
 
 told:_Person_13067
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13068
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13069
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13070
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13071
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13072
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_45 ,
-		told:_Tradition_8
+		told:_Tradition_45
 		;
 	.
 
@@ -994,16 +933,14 @@ told:_Person_13073
 		told:_Tradition_25 ,
 		told:_Tradition_27 ,
 		told:_Tradition_4 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13074
 	gist:isConnectedTo
 		told:_Tradition_22 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -1024,8 +961,7 @@ told:_Person_13078
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
 		told:_Tradition_28 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -1036,8 +972,7 @@ told:_Person_13079
 told:_Person_13080
 	gist:isConnectedTo
 		told:_Tradition_45 ,
-		told:_Tradition_72 ,
-		told:_Tradition_8
+		told:_Tradition_72
 		;
 	.
 
@@ -1055,6 +990,10 @@ told:_Person_13083
 
 told:_Person_13084
 	gist:isConnectedTo told:_Tradition_72 ;
+	.
+
+told:_Person_13085
+	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
 told:_Person_13086
@@ -1196,16 +1135,14 @@ told:_Person_13120
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_13121
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -1222,10 +1159,7 @@ told:_Person_13124
 	.
 
 told:_Person_13125
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_13127
@@ -1272,10 +1206,7 @@ told:_Person_13140
 	.
 
 told:_Person_13141
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13142
@@ -1286,11 +1217,14 @@ told:_Person_13143
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
+told:_Person_13144
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
 told:_Person_13145
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -1301,8 +1235,7 @@ told:_Person_13146
 told:_Person_13147
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -1325,12 +1258,15 @@ told:_Person_13151
 told:_Person_13152
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
 told:_Person_13157
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
+told:_Person_13161
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
@@ -1486,16 +1422,14 @@ told:_Person_13204
 told:_Person_13205
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_67 ,
-		told:_Tradition_8
+		told:_Tradition_67
 		;
 	.
 
 told:_Person_13206
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_67 ,
-		told:_Tradition_8
+		told:_Tradition_67
 		;
 	.
 
@@ -1532,95 +1466,58 @@ told:_Person_13228
 	.
 
 told:_Person_13230
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13231
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13232
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13233
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13234
 	gist:isConnectedTo
 		told:_Tradition_4 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13235
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13236
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13237
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13238
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13239
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13240
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13241
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13242
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13246
@@ -1660,108 +1557,78 @@ told:_Person_13428
 	.
 
 told:_Person_13429
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13430
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13431
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13432
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13433
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13434
 	gist:isConnectedTo
 		told:_Tradition_23 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13435
 	gist:isConnectedTo
 		told:_Tradition_40 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13436
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13437
 	gist:isConnectedTo
 		told:_Tradition_25 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13438
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13439
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13440
 	gist:isConnectedTo
 		told:_Tradition_25 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_13442
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13443
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13444
@@ -1769,52 +1636,31 @@ told:_Person_13444
 	.
 
 told:_Person_13445
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13446
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13447
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13448
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13449
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13450
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13451
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13452
@@ -1836,8 +1682,7 @@ told:_Person_13455
 told:_Person_13462
 	gist:isConnectedTo
 		told:_Tradition_37 ,
-		told:_Tradition_43 ,
-		told:_Tradition_8
+		told:_Tradition_43
 		;
 	.
 
@@ -1947,8 +1792,7 @@ told:_Person_13532
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -1956,8 +1800,7 @@ told:_Person_13533
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -2060,10 +1903,7 @@ told:_Person_13566
 	.
 
 told:_Person_13572
-	gist:isConnectedTo
-		told:_Tradition_22 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_22 ;
 	.
 
 told:_Person_13574
@@ -2086,10 +1926,7 @@ told:_Person_13597
 	.
 
 told:_Person_13598
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_13612
@@ -2100,10 +1937,7 @@ told:_Person_13612
 	.
 
 told:_Person_13613
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13614
@@ -2129,8 +1963,7 @@ told:_Person_13628
 	gist:isConnectedTo
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
-		told:_Tradition_72 ,
-		told:_Tradition_8
+		told:_Tradition_72
 		;
 	.
 
@@ -2167,8 +2000,7 @@ told:_Person_13654
 told:_Person_13659
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -2195,8 +2027,7 @@ told:_Person_13684
 told:_Person_13686
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_22 ,
-		told:_Tradition_8
+		told:_Tradition_22
 		;
 	.
 
@@ -2242,8 +2073,7 @@ told:_Person_13699
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -2258,8 +2088,7 @@ told:_Person_13700
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -2314,17 +2143,11 @@ told:_Person_13737
 	.
 
 told:_Person_13738
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_13740
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_13744
@@ -2338,8 +2161,7 @@ told:_Person_13745
 told:_Person_13747
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_22 ,
-		told:_Tradition_8
+		told:_Tradition_22
 		;
 	.
 
@@ -2350,8 +2172,7 @@ told:_Person_13748
 told:_Person_13749
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_22 ,
-		told:_Tradition_8
+		told:_Tradition_22
 		;
 	.
 
@@ -2466,10 +2287,7 @@ told:_Person_13820
 	.
 
 told:_Person_13821
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13822
@@ -2481,17 +2299,11 @@ told:_Person_13823
 	.
 
 told:_Person_13824
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13825
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_13828
@@ -2501,8 +2313,7 @@ told:_Person_13828
 told:_Person_13836
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
@@ -2510,48 +2321,42 @@ told:_Person_13837
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13838
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13839
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13840
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13841
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13842
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
@@ -2568,62 +2373,42 @@ told:_Person_13853
 	.
 
 told:_Person_13855
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_13856
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_13857
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_13858
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_13859
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_13860
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13861
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
 told:_Person_13862
-	gist:isConnectedTo
-		told:_Tradition_59 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_59 ;
 	.
 
 told:_Person_13865
@@ -2641,28 +2426,56 @@ told:_Person_13868
 told:_Person_13870
 	gist:isConnectedTo
 		told:_Tradition_7 ,
-		told:_Tradition_77 ,
-		told:_Tradition_8
+		told:_Tradition_77
 		;
 	.
 
 told:_Person_13877
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_77 ,
-		told:_Tradition_8
+		told:_Tradition_77
 		;
 	.
 
 told:_Person_13878
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_77 ,
-		told:_Tradition_8
+		told:_Tradition_77
 		;
 	.
 
 told:_Person_13879
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
+told:_Person_13882
+	gist:isConnectedTo told:_Tradition_8 ;
+	.
+
+told:_Person_13883
+	gist:isConnectedTo
+		told:_Tradition_1 ,
+		told:_Tradition_27 ,
+		told:_Tradition_8
+		;
+	.
+
+told:_Person_13884
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
+told:_Person_13885
+	gist:isConnectedTo
+		told:_Tradition_1 ,
+		told:_Tradition_24
+		;
+	.
+
+told:_Person_13888
+	gist:isConnectedTo told:_Tradition_72 ;
+	.
+
+told:_Person_13894
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
@@ -2691,10 +2504,7 @@ told:_Person_1639
 	.
 
 told:_Person_1659
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_1719
@@ -2752,7 +2562,7 @@ told:_Person_1869
 	.
 
 told:_Person_1871
-	gist:isConnectedTo told:_Tradition_8 ;
+	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
 told:_Person_1898
@@ -2791,10 +2601,7 @@ told:_Person_1974
 	.
 
 told:_Person_1981
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_1985
@@ -2832,10 +2639,7 @@ told:_Person_2137
 	.
 
 told:_Person_2162
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2180
@@ -2905,8 +2709,7 @@ told:_Person_2338
 	gist:isConnectedTo
 		told:_Tradition_28 ,
 		told:_Tradition_40 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -3023,24 +2826,21 @@ told:_Person_2539
 		told:_Tradition_25 ,
 		told:_Tradition_37 ,
 		told:_Tradition_4 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_2541
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
 told:_Person_2561
 	gist:isConnectedTo
 		told:_Tradition_25 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
@@ -3053,18 +2853,14 @@ told:_Person_2578
 	.
 
 told:_Person_2584
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_2589
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_4 ,
-		told:_Tradition_8
+		told:_Tradition_4
 		;
 	.
 
@@ -3081,10 +2877,7 @@ told:_Person_2593
 	.
 
 told:_Person_2595
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_2598
@@ -3094,8 +2887,7 @@ told:_Person_2598
 told:_Person_2606
 	gist:isConnectedTo
 		told:_Tradition_42 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -3104,39 +2896,26 @@ told:_Person_2638
 	.
 
 told:_Person_2639
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2640
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2661
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2662
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
 told:_Person_2665
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2670
@@ -3150,8 +2929,7 @@ told:_Person_2670
 told:_Person_2683
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_4 ,
-		told:_Tradition_8
+		told:_Tradition_4
 		;
 	.
 
@@ -3166,31 +2944,25 @@ told:_Person_2720
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_2730
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2733
 	gist:isConnectedTo
 		told:_Tradition_38 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_2740
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -3205,16 +2977,14 @@ told:_Person_2758
 told:_Person_2774
 	gist:isConnectedTo
 		told:_Tradition_42 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_2776
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -3239,10 +3009,7 @@ told:_Person_2788
 	.
 
 told:_Person_2789
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_2790
@@ -3258,17 +3025,11 @@ told:_Person_2791
 	.
 
 told:_Person_2798
-	gist:isConnectedTo
-		told:_Tradition_43 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_43 ;
 	.
 
 told:_Person_2799
-	gist:isConnectedTo
-		told:_Tradition_43 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_43 ;
 	.
 
 told:_Person_2801
@@ -3280,10 +3041,7 @@ told:_Person_2801
 	.
 
 told:_Person_2803
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_2806
@@ -3292,8 +3050,7 @@ told:_Person_2806
 		told:_Tradition_26 ,
 		told:_Tradition_37 ,
 		told:_Tradition_40 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
@@ -3302,8 +3059,7 @@ told:_Person_2810
 		told:_Tradition_4 ,
 		told:_Tradition_42 ,
 		told:_Tradition_43 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -3375,8 +3131,7 @@ told:_Person_2891
 		told:_Tradition_27 ,
 		told:_Tradition_4 ,
 		told:_Tradition_42 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -3385,10 +3140,7 @@ told:_Person_2896
 	.
 
 told:_Person_2899
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_29
@@ -3405,6 +3157,14 @@ told:_Person_2915
 
 told:_Person_2916
 	gist:isConnectedTo told:_Tradition_7 ;
+	.
+
+told:_Person_2918
+	gist:isConnectedTo
+		told:_Tradition_27 ,
+		told:_Tradition_7 ,
+		told:_Tradition_8
+		;
 	.
 
 told:_Person_2919
@@ -3447,6 +3207,10 @@ told:_Person_2952
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
+told:_Person_2953
+	gist:isConnectedTo told:_Tradition_27 ;
+	.
+
 told:_Person_2973
 	gist:isConnectedTo told:_Tradition_72 ;
 	.
@@ -3482,10 +3246,21 @@ told:_Person_3000
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
+told:_Person_3004
+	gist:isConnectedTo
+		told:_Tradition_1 ,
+		told:_Tradition_28 ,
+		told:_Tradition_40 ,
+		told:_Tradition_7 ,
+		told:_Tradition_72
+		;
+	.
+
 told:_Person_3006
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_4 ,
+		told:_Tradition_49 ,
 		told:_Tradition_7
 		;
 	.
@@ -3503,10 +3278,7 @@ told:_Person_3020
 	.
 
 told:_Person_3028
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_303
@@ -3554,10 +3326,7 @@ told:_Person_3086
 	.
 
 told:_Person_3101
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_3107
@@ -3576,8 +3345,7 @@ told:_Person_3121
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_25 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
@@ -3590,10 +3358,7 @@ told:_Person_3134
 	.
 
 told:_Person_3139
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_3141
@@ -3640,8 +3405,7 @@ told:_Person_3173
 told:_Person_3175
 	gist:isConnectedTo
 		told:_Tradition_42 ,
-		told:_Tradition_72 ,
-		told:_Tradition_8
+		told:_Tradition_72
 		;
 	.
 
@@ -3650,17 +3414,11 @@ told:_Person_3178
 	.
 
 told:_Person_3181
-	gist:isConnectedTo
-		told:_Tradition_22 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_22 ;
 	.
 
 told:_Person_3182
-	gist:isConnectedTo
-		told:_Tradition_23 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_23 ;
 	.
 
 told:_Person_3188
@@ -3705,8 +3463,7 @@ told:_Person_3266
 		told:_Tradition_24 ,
 		told:_Tradition_48 ,
 		told:_Tradition_7 ,
-		told:_Tradition_77 ,
-		told:_Tradition_8
+		told:_Tradition_77
 		;
 	.
 
@@ -3739,8 +3496,8 @@ told:_Person_3436
 
 told:_Person_3469
 	gist:isConnectedTo
-		told:_Tradition_60 ,
-		told:_Tradition_8
+		told:_Tradition_49 ,
+		told:_Tradition_60
 		;
 	.
 
@@ -3750,6 +3507,10 @@ told:_Person_3485
 
 told:_Person_3627
 	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
+told:_Person_3671
+	gist:isConnectedTo told:_Tradition_7 ;
 	.
 
 told:_Person_3673
@@ -3787,8 +3548,7 @@ told:_Person_3736
 	gist:isConnectedTo
 		told:_Tradition_4 ,
 		told:_Tradition_40 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -3827,8 +3587,7 @@ told:_Person_3759
 	gist:isConnectedTo
 		told:_Tradition_37 ,
 		told:_Tradition_4 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -3926,10 +3685,7 @@ told:_Person_3877
 	.
 
 told:_Person_3881
-	gist:isConnectedTo
-		told:_Tradition_23 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_23 ;
 	.
 
 told:_Person_3883
@@ -3949,51 +3705,34 @@ told:_Person_3889
 told:_Person_3890
 	gist:isConnectedTo
 		told:_Tradition_4 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_3902
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_3903
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_3904
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_3906
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_3907
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_3936
 	gist:isConnectedTo
 		told:_Tradition_28 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
@@ -4062,8 +3801,7 @@ told:_Person_4028
 told:_Person_4043
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_25 ,
-		told:_Tradition_8
+		told:_Tradition_25
 		;
 	.
 
@@ -4083,8 +3821,7 @@ told:_Person_4085
 		told:_Tradition_24 ,
 		told:_Tradition_28 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -4112,8 +3849,7 @@ told:_Person_4114
 		told:_Tradition_28 ,
 		told:_Tradition_4 ,
 		told:_Tradition_45 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -4121,8 +3857,7 @@ told:_Person_4115
 	gist:isConnectedTo
 		told:_Tradition_28 ,
 		told:_Tradition_40 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -4140,8 +3875,7 @@ told:_Person_4125
 told:_Person_4140
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -4192,10 +3926,7 @@ told:_Person_4170
 	.
 
 told:_Person_4175
-	gist:isConnectedTo
-		told:_Tradition_23 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_23 ;
 	.
 
 told:_Person_4185
@@ -4239,8 +3970,7 @@ told:_Person_4228
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -4336,31 +4066,19 @@ told:_Person_4344
 	.
 
 told:_Person_4348
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_4349
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_4350
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_4352
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_4354
@@ -4374,8 +4092,7 @@ told:_Person_4358
 		told:_Tradition_28 ,
 		told:_Tradition_67 ,
 		told:_Tradition_7 ,
-		told:_Tradition_72 ,
-		told:_Tradition_8
+		told:_Tradition_72
 		;
 	.
 
@@ -4384,10 +4101,7 @@ told:_Person_4359
 	.
 
 told:_Person_4368
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_4372
@@ -4482,6 +4196,10 @@ told:_Person_4535
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
+told:_Person_4543
+	gist:isConnectedTo told:_Tradition_7 ;
+	.
+
 told:_Person_4607
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
@@ -4565,6 +4283,10 @@ told:_Person_4903
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
+told:_Person_4935
+	gist:isConnectedTo told:_Tradition_1 ;
+	.
+
 told:_Person_494
 	gist:isConnectedTo told:_Tradition_1 ;
 	.
@@ -4584,8 +4306,7 @@ told:_Person_4987
 told:_Person_5
 	gist:isConnectedTo
 		told:_Tradition_37 ,
-		told:_Tradition_48 ,
-		told:_Tradition_8
+		told:_Tradition_48
 		;
 	.
 
@@ -4670,10 +4391,7 @@ told:_Person_5317
 	.
 
 told:_Person_5326
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5328
@@ -4772,16 +4490,12 @@ told:_Person_5500
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
 told:_Person_5511
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5527
@@ -4811,10 +4525,7 @@ told:_Person_5626
 	.
 
 told:_Person_5641
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_5644
@@ -4832,8 +4543,7 @@ told:_Person_5652
 told:_Person_5693
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_27 ,
-		told:_Tradition_8
+		told:_Tradition_27
 		;
 	.
 
@@ -4880,8 +4590,7 @@ told:_Person_5791
 told:_Person_5795
 	gist:isConnectedTo
 		told:_Tradition_23 ,
-		told:_Tradition_27 ,
-		told:_Tradition_8
+		told:_Tradition_27
 		;
 	.
 
@@ -4982,31 +4691,19 @@ told:_Person_5910
 	.
 
 told:_Person_5924
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5926
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5927
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5928
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_5932
@@ -5017,15 +4714,16 @@ told:_Person_5953
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
+told:_Person_5977
+	gist:isConnectedTo told:_Tradition_27 ;
+	.
+
 told:_Person_5985
 	gist:isConnectedTo told:_Tradition_27 ;
 	.
 
 told:_Person_5997
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_5999
@@ -5060,8 +4758,7 @@ told:_Person_6065
 		told:_Tradition_27 ,
 		told:_Tradition_37 ,
 		told:_Tradition_40 ,
-		told:_Tradition_72 ,
-		told:_Tradition_8
+		told:_Tradition_72
 		;
 	.
 
@@ -5074,10 +4771,7 @@ told:_Person_6099
 	.
 
 told:_Person_61
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_6100
@@ -5098,31 +4792,25 @@ told:_Person_6122
 told:_Person_6134
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_6138
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_6147
 	gist:isConnectedTo
 		told:_Tradition_23 ,
-		told:_Tradition_42 ,
-		told:_Tradition_8
+		told:_Tradition_42
 		;
 	.
 
 told:_Person_6159
 	gist:isConnectedTo
 		told:_Tradition_4 ,
-		told:_Tradition_59 ,
-		told:_Tradition_8
+		told:_Tradition_59
 		;
 	.
 
@@ -5150,10 +4838,7 @@ told:_Person_6198
 	.
 
 told:_Person_620
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_6205
@@ -5209,8 +4894,7 @@ told:_Person_6285
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_4 ,
-		told:_Tradition_67 ,
-		told:_Tradition_8
+		told:_Tradition_67
 		;
 	.
 
@@ -5328,8 +5012,7 @@ told:_Person_6395
 told:_Person_6405
 	gist:isConnectedTo
 		told:_Tradition_43 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -5365,8 +5048,7 @@ told:_Person_6489
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
 		told:_Tradition_45 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -5386,8 +5068,7 @@ told:_Person_6499
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -5416,10 +5097,7 @@ told:_Person_6536
 	.
 
 told:_Person_6547
-	gist:isConnectedTo
-		told:_Tradition_23 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_23 ;
 	.
 
 told:_Person_6548
@@ -5438,10 +5116,7 @@ told:_Person_6568
 	.
 
 told:_Person_6578
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_6580
@@ -5500,8 +5175,7 @@ told:_Person_6667
 told:_Person_6668
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -5510,17 +5184,13 @@ told:_Person_6670
 	.
 
 told:_Person_6671
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_6672
 	gist:isConnectedTo
 		told:_Tradition_37 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -5536,10 +5206,7 @@ told:_Person_6690
 	.
 
 told:_Person_6721
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_6723
@@ -5584,8 +5251,7 @@ told:_Person_6738
 		told:_Tradition_24 ,
 		told:_Tradition_26 ,
 		told:_Tradition_28 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -5599,16 +5265,15 @@ told:_Person_6746
 told:_Person_6749
 	gist:isConnectedTo
 		told:_Tradition_37 ,
-		told:_Tradition_54 ,
-		told:_Tradition_8
+		told:_Tradition_49 ,
+		told:_Tradition_54
 		;
 	.
 
 told:_Person_6756
 	gist:isConnectedTo
 		told:_Tradition_37 ,
-		told:_Tradition_54 ,
-		told:_Tradition_8
+		told:_Tradition_54
 		;
 	.
 
@@ -5725,17 +5390,11 @@ told:_Person_7024
 	.
 
 told:_Person_7038
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_7040
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_7053
@@ -5791,8 +5450,7 @@ told:_Person_7114
 told:_Person_7130
 	gist:isConnectedTo
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -5864,8 +5522,7 @@ told:_Person_7272
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
-		told:_Tradition_28 ,
-		told:_Tradition_8
+		told:_Tradition_28
 		;
 	.
 
@@ -5897,8 +5554,7 @@ told:_Person_7373
 	gist:isConnectedTo
 		told:_Tradition_23 ,
 		told:_Tradition_4 ,
-		told:_Tradition_43 ,
-		told:_Tradition_8
+		told:_Tradition_43
 		;
 	.
 
@@ -5918,10 +5574,7 @@ told:_Person_7512
 	.
 
 told:_Person_7523
-	gist:isConnectedTo
-		told:_Tradition_42 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_42 ;
 	.
 
 told:_Person_7525
@@ -5954,30 +5607,20 @@ told:_Person_7581
 told:_Person_7582
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
 told:_Person_7601
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7622
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7636
-	gist:isConnectedTo
-		told:_Tradition_59 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_59 ;
 	.
 
 told:_Person_7637
@@ -5986,16 +5629,14 @@ told:_Person_7637
 		told:_Tradition_23 ,
 		told:_Tradition_45 ,
 		told:_Tradition_59 ,
-		told:_Tradition_67 ,
-		told:_Tradition_8
+		told:_Tradition_67
 		;
 	.
 
 told:_Person_7641
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_22 ,
-		told:_Tradition_8
+		told:_Tradition_22
 		;
 	.
 
@@ -6008,10 +5649,7 @@ told:_Person_7673
 	.
 
 told:_Person_7676
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7681
@@ -6023,10 +5661,7 @@ told:_Person_7718
 	.
 
 told:_Person_7719
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7732
@@ -6053,23 +5688,16 @@ told:_Person_7775
 		told:_Tradition_40 ,
 		told:_Tradition_42 ,
 		told:_Tradition_7 ,
-		told:_Tradition_73 ,
-		told:_Tradition_8
+		told:_Tradition_73
 		;
 	.
 
 told:_Person_7803
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7815
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7870
@@ -6077,10 +5705,7 @@ told:_Person_7870
 	.
 
 told:_Person_7874
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7876
@@ -6107,16 +5732,12 @@ told:_Person_7895
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_27 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_7918
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_7937
@@ -6134,8 +5755,7 @@ told:_Person_8
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6150,8 +5770,7 @@ told:_Person_8027
 told:_Person_8028
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -6226,8 +5845,7 @@ told:_Person_8126
 		told:_Tradition_40 ,
 		told:_Tradition_42 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6253,8 +5871,7 @@ told:_Person_8181
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
 		told:_Tradition_40 ,
-		told:_Tradition_45 ,
-		told:_Tradition_8
+		told:_Tradition_45
 		;
 	.
 
@@ -6267,10 +5884,7 @@ told:_Person_8342
 	.
 
 told:_Person_8343
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_8354
@@ -6280,24 +5894,19 @@ told:_Person_8354
 told:_Person_8355
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_8361
 	gist:isConnectedTo
 		told:_Tradition_28 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
 told:_Person_8397
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_84
@@ -6305,18 +5914,15 @@ told:_Person_84
 	.
 
 told:_Person_8454
-	gist:isConnectedTo
-		told:_Tradition_41 ,
-		told:_Tradition_7
-		;
+	gist:isConnectedTo told:_Tradition_7 ;
 	.
 
 told:_Person_8455
-	gist:isConnectedTo told:_Tradition_41 ;
+	gist:isConnectedTo told:_Tradition_8 ;
 	.
 
 told:_Person_8456
-	gist:isConnectedTo told:_Tradition_41 ;
+	gist:isConnectedTo told:_Tradition_8 ;
 	.
 
 told:_Person_8459
@@ -6326,8 +5932,7 @@ told:_Person_8459
 told:_Person_8460
 	gist:isConnectedTo
 		told:_Tradition_4 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -6502,10 +6107,7 @@ told:_Person_8633
 	.
 
 told:_Person_8637
-	gist:isConnectedTo
-		told:_Tradition_40 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_40 ;
 	.
 
 told:_Person_8650
@@ -6550,8 +6152,7 @@ told:_Person_8757
 told:_Person_8782
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -6589,8 +6190,7 @@ told:_Person_8891
 told:_Person_8892
 	gist:isConnectedTo
 		told:_Tradition_1 ,
-		told:_Tradition_24 ,
-		told:_Tradition_8
+		told:_Tradition_24
 		;
 	.
 
@@ -6602,8 +6202,7 @@ told:_Person_8912
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_23 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6616,8 +6215,7 @@ told:_Person_8964
 		told:_Tradition_1 ,
 		told:_Tradition_27 ,
 		told:_Tradition_42 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6635,8 +6233,7 @@ told:_Person_8986
 		told:_Tradition_24 ,
 		told:_Tradition_27 ,
 		told:_Tradition_4 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6648,8 +6245,7 @@ told:_Person_9030
 	gist:isConnectedTo
 		told:_Tradition_28 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
@@ -6744,16 +6340,12 @@ told:_Person_9169
 told:_Person_9171
 	gist:isConnectedTo
 		told:_Tradition_42 ,
-		told:_Tradition_45 ,
-		told:_Tradition_8
+		told:_Tradition_45
 		;
 	.
 
 told:_Person_9172
-	gist:isConnectedTo
-		told:_Tradition_45 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_45 ;
 	.
 
 told:_Person_9190
@@ -6767,8 +6359,7 @@ told:_Person_9201
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_37 ,
-		told:_Tradition_8
+		told:_Tradition_37
 		;
 	.
 
@@ -6789,9 +6380,12 @@ told:_Person_9254
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_27 ,
-		told:_Tradition_45 ,
-		told:_Tradition_8
+		told:_Tradition_45
 		;
+	.
+
+told:_Person_9278
+	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
 told:_Person_9287
@@ -6825,8 +6419,7 @@ told:_Person_9372
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_24 ,
-		told:_Tradition_28 ,
-		told:_Tradition_8
+		told:_Tradition_28
 		;
 	.
 
@@ -6840,6 +6433,10 @@ told:_Person_9394
 
 told:_Person_9442
 	gist:isConnectedTo told:_Tradition_27 ;
+	.
+
+told:_Person_9469
+	gist:isConnectedTo told:_Tradition_1 ;
 	.
 
 told:_Person_9482
@@ -6939,10 +6536,7 @@ told:_Person_9624
 	.
 
 told:_Person_9634
-	gist:isConnectedTo
-		told:_Tradition_24 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_24 ;
 	.
 
 told:_Person_9646
@@ -6980,16 +6574,12 @@ told:_Person_9753
 told:_Person_9761
 	gist:isConnectedTo
 		told:_Tradition_7 ,
-		told:_Tradition_77 ,
-		told:_Tradition_8
+		told:_Tradition_77
 		;
 	.
 
 told:_Person_9764
-	gist:isConnectedTo
-		told:_Tradition_77 ,
-		told:_Tradition_8
-		;
+	gist:isConnectedTo told:_Tradition_77 ;
 	.
 
 told:_Person_9788
@@ -7011,8 +6601,7 @@ told:_Person_9839
 	gist:isConnectedTo
 		told:_Tradition_27 ,
 		told:_Tradition_37 ,
-		told:_Tradition_40 ,
-		told:_Tradition_8
+		told:_Tradition_40
 		;
 	.
 
@@ -7056,8 +6645,7 @@ told:_Person_9990
 	gist:isConnectedTo
 		told:_Tradition_1 ,
 		told:_Tradition_67 ,
-		told:_Tradition_7 ,
-		told:_Tradition_8
+		told:_Tradition_7
 		;
 	.
 
