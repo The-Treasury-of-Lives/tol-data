@@ -28,8 +28,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?parent_iri gist:hasPart ?institution_iri ;
-    .
+    ?institution_iri gist:isPartOf ?parent_iri .
 
 }
 
