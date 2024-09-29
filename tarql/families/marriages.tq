@@ -83,7 +83,7 @@ WHERE {
         ) AS ?wife_status
     )
     # The purpose of the status assignment object is to be able to add dates to the status, though currently these don't exist in the data.
-    BIND(IF(BOUND(?wife_status), tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_WifeStatus_", ?wife_status, "_", ?husband_id, "_", ?wife_id )), ?unbound) AS ?wife_status_assignment_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_WifeStatus_", ?wife_status, "_", ?husband_id, "_", ?wife_id )) AS ?wife_status_assignment_iri)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_WifeStatus_", ?wife_status)) AS ?wife_status_iri)
 
     # Junior/senior husband
@@ -94,7 +94,7 @@ WHERE {
         ) AS ?husband_status
     )
     # The purpose of the status assignment object is to be able to add dates to the status, though currently these don't exist in the data.
-    BIND(IF(BOUND(?husband_status), tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_HusbandStatus_", ?husband_status, "_", ?husband_id, "_", ?wife_id )), ?unbound) AS ?husband_status_assignment_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_StatusAssignment_HusbandStatus_", ?husband_status, "_", ?husband_id, "_", ?wife_id )) AS ?husband_status_assignment_iri)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_HusbandStatus_", ?husband_status)) AS ?husband_status_iri)
 
     # Marriage dates

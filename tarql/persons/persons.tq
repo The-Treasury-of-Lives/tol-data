@@ -163,7 +163,7 @@ WHERE {
     # REFERENCES
     # Lotsawa House
     BIND(IF(BOUND(?Lotsawa_House_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_lotsawa_house_Person_", ?TOL_ID)), ?unbound) AS ?lotsawa_house_iri)
-    BIND(IF(BOUND(?lotsawa_house_iri), STRDT(?Lotsawa_House_URL, xsd:anyURI), ?unbound) AS ?lotsawa_house_url)
+    BIND(STRDT(?Lotsawa_House_URL, xsd:anyURI) AS ?lotsawa_house_url)
 
     # HAR
     BIND(IF(BOUND(?HAR_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_har_Person_", ?TOL_ID)), ?unbound) AS ?har_iri)
@@ -172,11 +172,11 @@ WHERE {
 
     # RMA
     # BIND(IF(BOUND(?RMA_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_rma_Person_", ?TOL_ID)), ?unbound) AS ?rma_iri)
-    # BIND(IF(BOUND(?rma_iri), STRDT(?RMA_URL, xsd:anyURI), ?unbound) AS ?rma_url)
+    # BIND(STRDT(?RMA_URL, xsd:anyURI) AS ?rma_url)
 
     # 84000
     # BIND(IF(BOUND(?84000_URL), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_84000_Person_", ?TOL_ID)), ?unbound) AS ?84000_iri)
-    # BIND(IF(BOUND(?84000_iri), STRDT(?84000_URL, xsd:anyURI), ?unbound) AS ?84000_url)
+    # BIND(STRDT(?84000_URL, xsd:anyURI) AS ?84000_url)
 
 
     # NAMES AND TITLES

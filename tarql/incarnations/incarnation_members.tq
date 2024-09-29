@@ -66,17 +66,5 @@ WHERE {
 
     BIND(STRDT(?Ordinal, xsd:integer) AS ?ordinal_int) 
     BIND(STRDT(?Incarnation_Sequence, xsd:integer) AS ?sequence) 
-
-    # Create incarnation except for preincarnations
-    # BIND(IF(?Ordinal > 0, tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?Incarnation_TOL_ID, "_", ?Person_TOL_ID)), ?unbound) AS ?incarnation_iri) ;
-    # BIND(IF(?Ordinal > 0, xsd:integer(?Ordinal), ?unbound) AS ?ordinal)
-
-    # Preceding incarnation
-    # BIND(IF(BOUND(Preceding_incarnation_member_TOL_ID), tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?Incarnation_TOL_ID, "_", ?Preceding_incarnation_member_TOL_ID)), ?unbound) AS ?preceding_incarnation_iri)
-
-    # Preincarnations
-    ### TODO - problem - what person is the preincarnation the preincarnation of?
-    # BIND(IF(?Ordinal = 0, ?person_iri, ?unbound) AS ?preincarnation_iri)
-    # BIND(IF(BOUND(?preincarnation)))
     
 }
