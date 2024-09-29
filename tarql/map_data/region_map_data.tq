@@ -92,10 +92,9 @@ WHERE {
 
     BIND(COALESCE(
         IF(?type = "city", "county_seat", ?unbound),
-        IF(?type = "region", "folk_region", ?unbound),
-        ?unbound
+        IF(?type = "region", "folk_region", ?unbound)
         ) AS ?region_type
     )
-    BIND(IF(BOUND(?region_type), tarql:expandPrefixedName(CONCAT("tolx:_RegionType_", ?region_type)), ?unbound) AS ?region_type_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_RegionType_", ?region_type)) AS ?region_type_iri)
 
 }

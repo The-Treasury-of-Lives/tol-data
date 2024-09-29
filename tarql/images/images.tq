@@ -142,8 +142,8 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_WorkType_", ?type)) AS ?work_type_iri)
 
     # Creator
-    BIND(IF(BOUND(?creator_tol_id), tarql:expandPrefixedName(CONCAT("told:_Person_", ?creator_tol_id)), ?unbound) AS ?existing_creator_iri)
-    BIND(IF(!BOUND(?existing_creator_iri) && BOUND(?creator_name), tarql:expandPrefixedName(CONCAT("told:_Person_", LCASE(REPLACE(REPLACE(?creator_name, "[,\\.]", ""), " ", "_")))), ?unbound) AS ?new_creator_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?creator_tol_id)) AS ?existing_creator_iri)
+    BIND(IF(!BOUND(?existing_creator_iri), tarql:expandPrefixedName(CONCAT("told:_Person_", LCASE(REPLACE(REPLACE(?creator_name, "[,\\.]", ""), " ", "_")))), ?unbound) AS ?new_creator_iri)
     BIND(IF(BOUND(?new_creator_iri), STRLANG(?creator_name, "en"), ?unbound) AS ?creator_name_en)
     BIND(IF(BOUND(?new_creator_iri), tarql:expandPrefixedName("gist:Person"), ?unbound) AS ?person_class)
     BIND(COALESCE(?existing_creator_iri, ?new_creator_iri) AS ?creator_iri)
@@ -164,7 +164,7 @@ WHERE {
 
     # If there's a source URL, create an address object.
     BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
-    BIND(IF(BOUND(?source_url), STRDT(?source_url, xsd:anyURI), ?unbound) AS ?source_address)
+    BIND(STRDT(?source_url, xsd:anyURI) AS ?source_address)
     BIND(STRLANG("Image Source", "en") AS ?source_en)
 
     # If there's a source and it's different from the location, make it the credit; otherwise ignore it.
