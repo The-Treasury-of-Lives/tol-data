@@ -22,7 +22,7 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
 
 # Run: 
-# tarql -e utf-8 --dedup 100000 bio_source_statements.tq bio-sources-html-5-29-24.csv > tolBioSourceStatements.ttl
+# tarql -e utf-8 --dedup 100000 bio_source_statements.tq bio-sources-html-9-16-24.csv > tolBioSourceStatements.ttl
 
 
 CONSTRUCT {
