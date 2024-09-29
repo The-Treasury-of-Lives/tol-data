@@ -17,14 +17,10 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
 
 ## COLUMNS 
-# biography_id (ignore)
 # person_id
 # summary (HTML text)
 # body_text
-# sources (TBD - use this or separate CSV?)
 # peer_reviewed (binary)
-# published_display_date (ignore)
-# updated_display_date (ignore)
 # relative_statement (binary)
 # student_statement (binary)
 
