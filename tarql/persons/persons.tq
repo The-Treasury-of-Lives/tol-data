@@ -45,7 +45,7 @@ PREFIX wiki: <https://www.wikidata.org/wiki/>
 
 
 # Run: 
-# tarql -e utf-8 --dedup 50000 persons.tq persons-8-5-24.csv > tolPersons.ttl
+# tarql -e utf-8 --dedup 50000 persons.tq persons-9-21-24.csv > tolPersons.ttl
 
 CONSTRUCT {
     ?person_iri 
@@ -71,7 +71,7 @@ CONSTRUCT {
 
         gist:isIdentifiedBy ?tol_id_iri ;
 
-        bdo:personGender ?gender_iri ;
+        gist:isCategorizedBy ?gender_iri ;
 
         # The relationship is not always as specific as aboutness, so use the more general rdfs:seeAlso.
         rdfs:seeAlso
@@ -218,11 +218,11 @@ WHERE {
     # GENDER
     BIND(
         COALESCE(
-            IF(?Gender = "M", "GenderMale", ?unbound),
-            IF(?Gender = "F", "GenderFemale", ?unbound)
+            IF(?Gender = "M", "male", ?unbound),
+            IF(?Gender = "F", "female", ?unbound)
         ) AS ?gender_local_name
     )
-    BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?gender_local_name)) AS ?gender_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Gender_", ?gender_local_name)) AS ?gender_iri)
 
 
     # DATES
