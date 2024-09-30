@@ -218,11 +218,11 @@ WHERE {
     # GENDER
     BIND(
         COALESCE(
-            IF(?Gender = "M", "male", ?unbound),
-            IF(?Gender = "F", "female", ?unbound)
+            IF(?Gender = "M", "Male", ?unbound),
+            IF(?Gender = "F", "Female", ?unbound)
         ) AS ?gender_local_name
     )
-    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Gender_", ?gender_local_name)) AS ?gender_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("bdr:Gender", ?gender_local_name)) AS ?gender_iri)
 
 
     # DATES
