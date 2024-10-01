@@ -34,11 +34,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?image_iri 
-        gist:hasDirectPart ?image_part_iri .
-
     ?image_part_iri
         a gist:FormattedContent ;       
+        gist:isDirectPartOf ?image_iri ;
         skos:prefLabel 
             ?label_en ,
             ?label_wylie ;
