@@ -25,10 +25,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # har_number
 # image_credit
 # is_primary 
-# create_user_id
-# create_date
-# last_modified_user_id
-# last_modified_date
+# create_user_id (ignore)
+# create_date (ignore)
+# last_modified_user_id (ignore)
+# last_modified_date (ignore)
 # caption
 
 # Run: 
@@ -40,30 +40,33 @@ CONSTRUCT {
         a tolo:Image ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
-        gist:isCategorizedBy ?rank_iri ;
         tolo:caption ?caption_en ;
         tolo:fileName ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
 
-        # Editing metadata
-        tolo:isCreatedBy ?created_by_iri ;
-        tolo:createDateTime ?create_datetime ;
-        tolo:isLastModifiedBy ?last_modified_by_iri ;
-        tolo:lastModifiedDateTime ?last_modified_datetime ;
+        # Editing metadata - ignored (see below)
+        # tolo:isCreatedBy ?created_by_iri ;
+        # tolo:createDateTime ?create_datetime ;
+        # tolo:isLastModifiedBy ?last_modified_by_iri ;
+        # tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
+
+    # This is display metadata and doesn't necessarily involve the work depicting the person. For example, a generic translator image is displayed on the page of Jinamitra and other translators, but it does not depict those individuals.
+    # work_iri tolo:depicts ?person_iri .
+    ?person_iri ?display_property_iri ?image_file_iri ;
+      .
 
     ?work_iri   
         a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
-        tolo:depicts ?person_iri ;
         gist:isIdentifiedBy ?har_number_iri ;
         tolo:credit ?credit ;
         .
 
     ?thumbnail_iri 
         a tolo:Image ;
-        skos:prefLabel ?image_label_en ;
+        skos:prefLabel ?thumb_label_en ;
         tolo:fileName ?thumb_file_name ;
         gist:isCategorizedBy ?media_type_iri ;
         .
@@ -82,7 +85,8 @@ WHERE {
     # FILTER(?ROWNUM = 1)
 
     # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
+    BIND(LCASE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\W", "_")) AS ?filename)
+    # BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
 
@@ -96,10 +100,11 @@ WHERE {
     )
 
     # Thumbnail
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?thumb_name)
+    BIND(LCASE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\W", "_")) AS ?thumb_name)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?thumb_name)) AS ?thumbnail_iri)
 
-    BIND(STRLANG(CONCAT("Person ", ?person_id), "en") AS ?image_label_en)
+    BIND(STRLANG(REPLACE(?image_file_name, "\\.[^.]+$", ""), "en") AS ?image_label_en)
+    BIND(STRLANG(REPLACE(?thumb_file_name, "\\.[^.]+$", ""), "en") AS ?thumb_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
 
@@ -109,26 +114,26 @@ WHERE {
 
     # This may be an institution, book reference, text string.
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
-
-    BIND(IF(?is_primary = "1", "primary", "secondary") AS ?rank_value)
-    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Rank_", ?rank_value)) AS ?rank_iri)
+    
+    BIND(IF(?is_primary = "1", "Primary", "Secondary") AS ?rank)
+    BIND(tarql:expandPrefixedName(CONCAT("tolo:has", ?rank, "DisplayImage")) AS ?display_property_iri)
 
     BIND(IF(?caption != "NULL", STRLANG(?caption, "en"), ?unbound) AS ?caption_en)
 
     # Editing metadata
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
+    # Note: editing metadata is ignored here because it is row-based rather than resource-based. Because some images are used with multiple persons, that results in multiple create and last mofidified metadata on the same image.
+    # BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
 
-    BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
-    BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
-    BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
-    BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
+    # BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
+    # BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
+    # BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
+    # BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
     
     # If no modification date/user, use creation date/user.
-    BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
+    # BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
 
-    BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
-    BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
-    BIND(IF(REGEX(?last_modified_time, "^\\d:"), CONCAT("0", ?last_modified_time), ?last_modified_time) AS ?normalized_last_modified_time)
-    BIND(IF(?last_modified_date != "NULL", STRDT(CONCAT(?last_modified_day, "T", ?normalized_last_modified_time), xsd:dateTime), ?create_datetime) AS ?last_modified_datetime)
-
+    # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
+    # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
+    # BIND(IF(REGEX(?last_modified_time, "^\\d:"), CONCAT("0", ?last_modified_time), ?last_modified_time) AS ?normalized_last_modified_time)
+    # BIND(IF(?last_modified_date != "NULL", STRDT(CONCAT(?last_modified_day, "T", ?normalized_last_modified_time), xsd:dateTime), ?create_datetime) AS ?last_modified_datetime)
 }

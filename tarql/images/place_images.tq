@@ -64,7 +64,7 @@ WHERE {
     # FILTER(?ROWNUM = 5)
 
     # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(REPLACE(?image_path, "^.+/", ""), "['()]", ""), "\\.[^\\.]+$", ""), "\\W", "_")) AS ?filename)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "^.+/", ""), "['()]", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_file_path_", ?filename)) AS ?file_path_iri)
@@ -78,7 +78,7 @@ WHERE {
         ) AS ?media_type_iri
     )
 
-    BIND(STRLANG(?community_name, "en") AS ?image_label_en)
+    BIND(STRLANG(REPLACE(?community_name, " +$", ""), "en") AS ?image_label_en)
     
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
@@ -87,7 +87,7 @@ WHERE {
     BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license)
 
     BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
-    BIND(IF(?image_source_url != "NULL", "Image Source", ?unbound) AS ?source_label)
+    BIND(IF(?image_source_url != "NULL", STRLANG("Image Source", "en"), ?unbound) AS ?source_label)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
 
