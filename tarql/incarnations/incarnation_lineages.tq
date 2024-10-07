@@ -33,7 +33,7 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 # description -- ?html_description_iri
 
 # Run: 
-# tarql -e utf-8 --dedup 5000 incarnation_lineages.tq incarnation-lineages-4-18-24.csv > tolIncarnationLineages.ttl
+# tarql -e utf-8 --dedup 5000 incarnation_lineages.tq incarnation-lineages-9-20-24.csv > tolIncarnationLineages.ttl
 
 CONSTRUCT {
 
@@ -91,7 +91,7 @@ WHERE {
     OPTIONAL {
         ?monastery apf:strSplit(?TOL_G_ID ", ")
     }
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Monastery_", REPLACE(?monastery, "^[A-Z]+", ""))) AS ?monastery_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", REPLACE(?monastery, "^[A-Z]+", ""))) AS ?monastery_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Description_IncarnationLineage_", ?TOL_R_ID)) AS ?html_description_iri)
 
