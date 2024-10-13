@@ -5,7 +5,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
 PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
-PREFIX media-image: <https://www.iana.org/assignments/media-types/image/> 
+PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -24,14 +24,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # thumb_file_name
 # har_number
 # image_credit
-# is_primary 
+# is_primary
 # create_user_id (ignore)
 # create_date (ignore)
 # last_modified_user_id (ignore)
 # last_modified_date (ignore)
 # caption
 
-# Run: 
+# Run:
 # tarql --dedup 10000 -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
 
 CONSTRUCT {
@@ -57,14 +57,14 @@ CONSTRUCT {
     ?person_iri ?display_property_iri ?image_file_iri ;
       .
 
-    ?work_iri   
+    ?work_iri
         a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
         gist:isIdentifiedBy ?har_number_iri ;
         tolo:credit ?credit ;
         .
 
-    ?thumbnail_iri 
+    ?thumbnail_iri
         a tolo:Image ;
         skos:prefLabel ?thumb_label_en ;
         tolo:fileName ?thumb_file_name ;
@@ -80,7 +80,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1)
 
@@ -105,7 +105,7 @@ WHERE {
 
     BIND(STRLANG(REPLACE(?image_file_name, "\\.[^.]+$", ""), "en") AS ?image_label_en)
     BIND(STRLANG(REPLACE(?thumb_file_name, "\\.[^.]+$", ""), "en") AS ?thumb_label_en)
-    
+
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
 
     # HAR number
@@ -114,7 +114,7 @@ WHERE {
 
     # This may be an institution, book reference, text string.
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
-    
+
     BIND(IF(?is_primary = "1", "Primary", "Secondary") AS ?rank)
     BIND(tarql:expandPrefixedName(CONCAT("tolo:has", ?rank, "DisplayImage")) AS ?display_property_iri)
 
@@ -122,15 +122,15 @@ WHERE {
 
     # Editing metadata
     # Note: editing metadata is ignored here because it is row-based rather than resource-based. Because some images are used with multiple persons, that results in multiple create and last mofidified metadata on the same image.
-    # BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
+    # BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
 
     # BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
     # BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
     # BIND(IF(REGEX(?create_time, "^\\d:"), CONCAT("0", ?create_time), ?create_time) AS ?normalized_create_time)
     # BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
-    
+
     # If no modification date/user, use creation date/user.
-    # BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
+    # BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
 
     # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
     # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
