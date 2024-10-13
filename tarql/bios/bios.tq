@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
@@ -13,10 +13,10 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # person_id
 # summary (HTML text)
 # body_text
@@ -24,8 +24,8 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # relative_statement (binary)
 # student_statement (binary)
 
-# Run: 
-# tarql -e utf-8 --dedup 100000 bios.tq bios-5-24-24.csv > tolBios.ttl
+# Run:
+# tarql -e utf-8 --dedup 100000 bios.tq bios-9-16-24.csv > tolBios.ttl
 
 
 CONSTRUCT {
@@ -61,7 +61,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1415)
 
@@ -81,7 +81,7 @@ WHERE {
     BIND(IF(?relative_statement = "1", told:_AuthorStatement_relative, ?unbound) AS ?relative_author_statement)
     BIND(IF(?student_statement = "1", told:_AuthorStatement_student, ?unbound) AS ?student_author_statement)
 
-    BIND(IF(?peer_reviewed = "1", "true", "false") AS ?peer_reviewed_value)
+    BIND(IF(?peer_reviewed = "1", "peer_reviewed", "not_peer_reviewed") AS ?peer_reviewed_value)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_PeerReviewStatus_", ?peer_reviewed_value)) AS ?peer_reviewed_category)
-   
+
 }
