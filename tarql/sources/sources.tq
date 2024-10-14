@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
@@ -13,14 +13,14 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <http://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <http://id.loc.gov/vocabulary/relators/>
 PREFIX viaf: <https://viaf.org/viaf/>
 PREFIX lccn: <https://id.loc.gov/resources/works/>
-PREFIX olid: <https://openlibrary.org/works/> 
+PREFIX olid: <https://openlibrary.org/works/>
 
 
-## COLUMNS 
+## COLUMNS
 # PERSON ID
 # PLACE ID
 # TOL Source ID
@@ -35,7 +35,7 @@ PREFIX olid: <https://openlibrary.org/works/>
 # Source Display Lang Tag
 # Source Display
 
-# Run: 
+# Run:
 # tarql -e utf-8 --dedup 50000 sources.tq Sources-6-14-24.csv > tolSources.ttl
 
 
@@ -48,19 +48,19 @@ CONSTRUCT {
     ?source_iri
         a gist:ContentExpression ;
         skos:prefLabel ?source_label ;
-        tolo:displayText ?display_text_iri ;
-        owl:sameAs 
+        owl:sameAs
             ?bdrc_iri ,
             ?viaf_iri ,
             ?lccn_iri ,
             ?olid_iri ;
-        
-        gist:isIdentifiedBy 
+
+        gist:isIdentifiedBy
             ?oclc_id_iri ;
         .
 
     ?display_text_iri
         a gist:FormattedContent ;
+        gist:isAbout ?source_iri ;
         gist:containedText ?display_text ;
         gist:isExpressedIn media-txt:html ;
         .
@@ -74,7 +74,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1)
 
@@ -85,7 +85,7 @@ WHERE {
             IF(BOUND(?PERSON_ID), tarql:expandPrefixedName(CONCAT("told:_Biography_", ?PERSON_ID)), ?unbound),
             IF(BOUND(?PLACE_ID), tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)), ?unbound)
         )
-        AS ?subject_iri 
+        AS ?subject_iri
     )
 
     BIND(
@@ -96,7 +96,7 @@ WHERE {
         AS ?predicate_iri
     )
 
-    BIND(STRLANG(?Source, ?Source_Lang_Tag) AS ?source_label) 
+    BIND(STRLANG(?Source, ?Source_Lang_Tag) AS ?source_label)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Source_DisplayText_", ?TOL_Source_ID)) AS ?display_text_iri)
     BIND(STRLANG(?Source_Display, ?Source_Display_Lang_Tag) AS ?display_text)
@@ -107,7 +107,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("lccn:", ?LCCN)) AS ?lccn_iri)
     BIND(tarql:expandPrefixedName(CONCAT("olid:", ?OLID_ID)) AS ?olid_iri)
 
-    # WorldCat 
+    # WorldCat
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_worldcat_", ?OCLC_ID)) AS ?worldcat_id_iri)
 
 }
