@@ -31,7 +31,6 @@ told:_ContentExpression_Source_1
 	a gist:ContentExpression ;
 	owl:sameAs olid:test_olid ;
 	skos:prefLabel "Ahmad, Zahiruddin. 1999. Sangs-rGyas rGya-mTSHo. Life of the Fifth Dalai Lama. New Delhi: International Academy of Indian Culture & Aditya Prakashan."@en ;
-	tolo:displayText told:_FormattedContent_Source_DisplayText_1 ;
 	.
 
 told:_ContentExpression_Source_2
@@ -41,7 +40,6 @@ told:_ContentExpression_Source_2
 		viaf:488147484315849360004
 		;
 	skos:prefLabel "Karmay, Samten G. 1988. Secret Visions of the Fifth Dalai Lama: The Gold Manuscript in the Fournier Collection. London: Serindia."@en ;
-	tolo:displayText told:_FormattedContent_Source_DisplayText_2 ;
 	.
 
 told:_ContentExpression_Source_3
@@ -51,37 +49,39 @@ told:_ContentExpression_Source_3
 		lccn:2010309061
 		;
 	skos:prefLabel "2009. krung go'i bod brgyud dgon pa'i dkar chag las kan su'u glegs bam. lan kru'u: kan su'u mi rigs dpe skrun khang."@bo-x-ewts ;
-	tolo:displayText told:_FormattedContent_Source_DisplayText_3 ;
 	.
 
 told:_FormattedContent_Source_DisplayText_1
 	a gist:FormattedContent ;
 	gist:containedText "Ahmad, Zahiruddin. 1999.&nbsp;<em>Sangs-rGyas rGya-mTSHo. Life of the Fifth Dalai Lama</em>. New Delhi: International Academy of Indian Culture &amp; Aditya Prakashan.</p>"@en ;
+	gist:isAbout told:_ContentExpression_Source_1 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
 told:_FormattedContent_Source_DisplayText_2
 	a gist:FormattedContent ;
 	gist:containedText "Karmay, Samten G. 1988.&nbsp;<em>Secret Visions of the Fifth Dalai Lama: The Gold Manuscript in the Fournier Collection</em>. London: Serindia.</p>"@en ;
+	gist:isAbout told:_ContentExpression_Source_2 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
 told:_FormattedContent_Source_DisplayText_3
 	a gist:FormattedContent ;
 	gist:containedText "2009. <em>krung go&#39;i bod brgyud dgon pa&#39;i dkar chag las kan su&#39;u glegs bam</em>.&nbsp;lan kru&#39;u:&nbsp;kan su&#39;u mi rigs dpe skrun khang, p. 756."@bo-x-ewts ;
+	gist:isAbout told:_ContentExpression_Source_3 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
 told:_ID_worldcat_1051317433
 	a gist:ID ;
 	gist:isCategorizedBy tolx:_IdType_worldcat ;
-	gist:uniqueText "1051317433"@en ;
+	gist:uniqueText "1051317433"^^xsd:string ;
 	.
 
 told:_ID_worldcat_42273440
 	a gist:ID ;
 	gist:isCategorizedBy tolx:_IdType_worldcat ;
-	gist:uniqueText "42273440"@en ;
+	gist:uniqueText "42273440"^^xsd:string ;
 	.
 
 told:_Place_983
