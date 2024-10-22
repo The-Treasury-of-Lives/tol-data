@@ -953,8 +953,8 @@ told:_Place_1228
 	.
 
 told:_Place_1229
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1230
@@ -963,8 +963,8 @@ told:_Place_1230
 	.
 
 told:_Place_1231
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1232
@@ -1044,8 +1044,8 @@ told:_Place_1245
 	.
 
 told:_Place_1246
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1247
@@ -1315,8 +1315,8 @@ told:_Place_130
 	.
 
 told:_Place_1300
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1301
@@ -1375,8 +1375,8 @@ told:_Place_1313
 	.
 
 told:_Place_1315
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1316
@@ -1638,8 +1638,8 @@ told:_Place_1368
 	.
 
 told:_Place_1369
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_137
@@ -2151,8 +2151,8 @@ told:_Place_1477
 	.
 
 told:_Place_1478
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1479
@@ -2161,8 +2161,8 @@ told:_Place_1479
 	.
 
 told:_Place_1480
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
 	.
 
 told:_Place_1481
@@ -3382,52 +3382,6 @@ told:_Place_1752
 told:_Place_1753
 	a gist:Place ;
 	gist:isCategorizedBy tolx:_PlaceType_cave ;
-	.
-
-told:_Place_1755
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
-	.
-
-told:_Place_1756
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
-	.
-
-told:_Place_1758
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
-	.
-
-told:_Place_1759
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_school ;
-	.
-
-told:_Place_1761
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
-	.
-
-told:_Place_1762
-	a tolo:Monastery ;
-	gist:isCategorizedBy tolx:_PlaceType_monastery ;
-	.
-
-told:_Place_1763
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_stupa ;
-	.
-
-told:_Place_1766
-	a
-		gist:Place ,
-		tolo:Monastery
-		;
-	gist:isCategorizedBy
-		tolx:_PlaceType_monastery ,
-		tolx:_PlaceType_temple
-		;
 	.
 
 told:_Place_178
