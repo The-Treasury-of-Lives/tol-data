@@ -350,9 +350,7 @@ The Dzogchen Kongtrul is a Nyingma incarnation line based at <a href="/geographi
 told:_FormattedContent_Description_IncarnationLineage_25
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-The Gangkar line is a Karma Kagyu incarnation line that has its seat at Bo Gangkar Monastery, also known as Khamsum Drakgon, in Minyak. The line dates from the thirteenth century. The <a href="/biographies/view/Ninth-Gangkar,-Karma-Shedrub-Chokyi-Sengge/TBRC_P1445">Ninth Gangkar, Karma Shedrub Chokyi Sengge</a> was an accomplished teacher from Minyak who studied at <a href="/geographies/view/Pelpung-Monastery/TBRC_G36">Pelpung Monastery</a> in Kham. He taught the <a href="/biographies/view/Sixteenth-Karmapa/TBRC_P865">Sixteenth Karmapa</a> for about a year in U-Tsang, and worked as a teacher at the Central Nationalities University in Beijing.</p>
-<p>
-&nbsp;</p>'''@en ;
+The Gangkar line is a Karma Kagyu incarnation line that has its seat at Bo Gangkar Monastery, also known as Khamsum Drakgon, in Minyak. The line dates from the thirteenth century. The <a href="/biographies/view/Ninth-Gangkar,-Karma-Shedrub-Chokyi-Sengge/TBRC_P1445">Ninth Gangkar, Karma Shedrub Chokyi Sengge</a> was an accomplished teacher from Minyak who studied at <a href="/geographies/view/Pelpung-Monastery/TBRC_G36">Pelpung Monastery</a> in Kham. He taught the <a href="/biographies/view/Sixteenth-Karmapa/TBRC_P865">Sixteenth Karmapa</a> for about a year in U-Tsang, and worked as a teacher at the Central Nationalities University in Beijing.</p>'''@en ;
 	gist:isAbout told:_IncarnationLineage_25 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -682,9 +680,7 @@ The Trijang incarnation line was established in the nineteenth century when&nbsp
 told:_FormattedContent_Description_IncarnationLineage_62
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-The Tsemonling incarnation line was established in the nineteenth century. The incarnation line is named Tsemonling after the palace in Lhasa where the Sixty-first Ganden Tripa Trichen <a href="http://beta.treasuryoflives.org/biographies/view/Ngawang-Tsultrim/TBRC_P332">Ngawang Tsultrim</a> lived and founded a college, earning the name Tsemonling Lama. <a href="/biographies/view/Ngawang-Jampel-Tsultrim-Gyatso/TBRC_P4533">Ngawang Jampel Tsultrim Gyatso</a>, recognized as the reincarnation of Ngawang Tsultrim became the Second Tsemonling. The First Tsemonling Ngawang Tsultrim served as the sixth Regent of Tibet from 1777 to 1786 and the <a href="/biographies/view/Third-Tsemonling/TBRC_P4532">Third Tsemonling</a> served as Regent in the Thirteenth Dalai Lama&#39;s absence during the 1911 Chinese invasion of Tibet.</p>
-<p>
-&nbsp;</p>'''@en ;
+The Tsemonling incarnation line was established in the nineteenth century. The incarnation line is named Tsemonling after the palace in Lhasa where the Sixty-first Ganden Tripa Trichen <a href="http://beta.treasuryoflives.org/biographies/view/Ngawang-Tsultrim/TBRC_P332">Ngawang Tsultrim</a> lived and founded a college, earning the name Tsemonling Lama. <a href="/biographies/view/Ngawang-Jampel-Tsultrim-Gyatso/TBRC_P4533">Ngawang Jampel Tsultrim Gyatso</a>, recognized as the reincarnation of Ngawang Tsultrim became the Second Tsemonling. The First Tsemonling Ngawang Tsultrim served as the sixth Regent of Tibet from 1777 to 1786 and the <a href="/biographies/view/Third-Tsemonling/TBRC_P4532">Third Tsemonling</a> served as Regent in the Thirteenth Dalai Lama&#39;s absence during the 1911 Chinese invasion of Tibet.</p>'''@en ;
 	gist:isAbout told:_IncarnationLineage_62 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -732,9 +728,7 @@ The Zamtsa Serti incarnation line was initiated when the Second Zamtsa Sertri,&n
 told:_FormattedContent_Description_IncarnationLineage_68
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-The Zhabdrung Karpo incarnation line, one of the most important incarnation lines in Amdo, was named for&nbsp;<a href="/biographies/view/Tsoknyi-Gyatso/TBRC_P4251">Tsoknyi Gyatso</a>, the <a href="/biographies/view/Third-Dalai-Lama’s-/TBRC_P999">Third Dalai Lama&rsquo;s </a>emissary to Mongol royal families. The line was established in the early seventeenth century when Lodro Gyatso was recognized by the&nbsp;<a href="/biographies/view/Fourth-Panchen-Lama,-Lobzang-Chokyi-Gyeltsen/TBRC_P719">Fourth Panchen Lama, Lobzang Chokyi Gyeltsen</a>, as the Second Zhabdrung Karpo. He founded&nbsp;<a href="/geographies/view/Magur-Namgyel-Ling/TBRC_G1KR2451">Magur Namgyel Ling</a>, a Geluk monastery, which became the seat of the incarnation line.</p>
-<div>
-&nbsp;</div>'''@en ;
+The Zhabdrung Karpo incarnation line, one of the most important incarnation lines in Amdo, was named for&nbsp;<a href="/biographies/view/Tsoknyi-Gyatso/TBRC_P4251">Tsoknyi Gyatso</a>, the <a href="/biographies/view/Third-Dalai-Lama’s-/TBRC_P999">Third Dalai Lama&rsquo;s </a>emissary to Mongol royal families. The line was established in the early seventeenth century when Lodro Gyatso was recognized by the&nbsp;<a href="/biographies/view/Fourth-Panchen-Lama,-Lobzang-Chokyi-Gyeltsen/TBRC_P719">Fourth Panchen Lama, Lobzang Chokyi Gyeltsen</a>, as the Second Zhabdrung Karpo. He founded&nbsp;<a href="/geographies/view/Magur-Namgyel-Ling/TBRC_G1KR2451">Magur Namgyel Ling</a>, a Geluk monastery, which became the seat of the incarnation line.</p>'''@en ;
 	gist:isAbout told:_IncarnationLineage_68 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -998,9 +992,7 @@ The Nyetang Mokchok tulku line begins with Khyungpo Neljor, the First Nyetang Mo
 told:_FormattedContent_Description_IncarnationLineage_99
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-A Nyingma incarnation line affiliated with <a href="/geographies/view/Katok-Monastery/TBRC_G17">Katok Monastery</a> in Kham. Although Katok Chamtruk Kunzik&nbsp;<a href="/biographies/view/Jigme-Dorje/TBRC_P6026">Jigme Dorje</a> was identified in his time as an incarnation in the Chamtrul line, it now appears that he&#39;s considered to be the First Chamtrul, followed by the Second Chamtrul Pema Nangsel Dorje and the present Third Chamtrul Lobsang Gyatso.&nbsp;</p>
-<p>
-&nbsp;</p>'''@en ;
+A Nyingma incarnation line affiliated with <a href="/geographies/view/Katok-Monastery/TBRC_G17">Katok Monastery</a> in Kham. Although Katok Chamtruk Kunzik&nbsp;<a href="/biographies/view/Jigme-Dorje/TBRC_P6026">Jigme Dorje</a> was identified in his time as an incarnation in the Chamtrul line, it now appears that he&#39;s considered to be the First Chamtrul, followed by the Second Chamtrul Pema Nangsel Dorje and the present Third Chamtrul Lobsang Gyatso.&nbsp;</p>'''@en ;
 	gist:isAbout told:_IncarnationLineage_99 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1473,10 +1465,7 @@ told:_IncarnationLineage_123
 		"bdud 'joms"@bo-x-ewts ,
 		"བདུད་འཇོམས།"@bo
 		;
-	gist:isConnectedTo
-		told:_Place_957 ,
-		told:_Tradition_1
-		;
+	gist:isConnectedTo told:_Tradition_1 ;
 	tolo:primaryName
 		"Dudjom"@en ,
 		"bdud 'joms"@bo-x-ewts ,
@@ -1548,8 +1537,7 @@ told:_IncarnationLineage_13
 		"སྡེ་ཁྲི།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_361 ,
-		told:_Place_450 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_361;%20%09TOL450> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -1682,8 +1670,7 @@ told:_IncarnationLineage_2
 		"ཨ་མཆོག།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_480 ,
-		told:_Place_718 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_480;%20TOL718> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -1702,8 +1689,7 @@ told:_IncarnationLineage_20
 		"བྲུག་ཆེན།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_1518 ,
-		told:_Place_277 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_277;%20TOL1518> ,
 		told:_Tradition_40
 		;
 	tolo:primaryName
@@ -1835,8 +1821,7 @@ told:_IncarnationLineage_27
 		"དགེ་མང་།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_12 ,
-		told:_Place_422 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_12;%20TOL422> ,
 		told:_Tradition_1
 		;
 	tolo:primaryName
@@ -1893,9 +1878,7 @@ told:_IncarnationLineage_3
 		"ཨ་མདོ་ཞྭ་དམར།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_375 ,
-		told:_Place_401 ,
-		told:_Place_450 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_401;%20TOL450;%20TOL375> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -1968,7 +1951,7 @@ told:_IncarnationLineage_33
 	skos:prefLabel
 		"Karmapa"@en ,
 		"karma pa"@bo-x-ewts ,
-		"ཀརྨ་པ་"@bo ,
+		"ཀརྨ་པ།"@bo ,
 		"噶瑪巴"@zh-HANI
 		;
 	gist:isConnectedTo
@@ -1978,7 +1961,7 @@ told:_IncarnationLineage_33
 	tolo:primaryName
 		"Karmapa"@en ,
 		"karma pa"@bo-x-ewts ,
-		"ཀརྨ་པ་"@bo ,
+		"ཀརྨ་པ།"@bo ,
 		"噶瑪巴"@zh-HANI
 		;
 	.
@@ -1992,9 +1975,7 @@ told:_IncarnationLineage_34
 		"ཀིརྟི།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_363 ,
-		told:_Place_413 ,
-		told:_Place_484 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_363;%20TOL484;%20TOL413> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -2107,8 +2088,7 @@ told:_IncarnationLineage_4
 		"དབལ་མང་།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_361 ,
-		told:_Place_450 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_450;%20TOL361> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -2127,9 +2107,7 @@ told:_IncarnationLineage_40
 		"རྔ་རྒོད།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_361 ,
-		told:_Place_40 ,
-		told:_Place_41 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_40;%20TOL361;%20TOL41> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -2167,8 +2145,7 @@ told:_IncarnationLineage_42
 		"ཉིན་དགོན་མཆོག་སྤྲུལ།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_2726 ,
-		told:_Place_9 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_2726;%20TOL9> ,
 		told:_Tradition_1
 		;
 	tolo:primaryName
@@ -2227,8 +2204,7 @@ told:_IncarnationLineage_45
 		"གནས་ནང་དཔའ་བོ།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_15 ,
-		told:_Place_331 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_331;%20TOL15> ,
 		told:_Tradition_24
 		;
 	tolo:primaryName
@@ -2576,7 +2552,7 @@ told:_IncarnationLineage_62
 		"ཚེ་སྨོན་གླིང་།"@bo
 		;
 	gist:isConnectedTo
-		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_724,TOL36> ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_724;TOL36> ,
 		told:_Tradition_27
 		;
 	tolo:primaryName
@@ -2818,8 +2794,7 @@ told:_IncarnationLineage_74
 		"ཏའི་སི་ཏུ།"@bo
 		;
 	gist:isConnectedTo
-		told:_Place_215 ,
-		told:_Place_472 ,
+		<https://w3id.org/treasuryoflives/ns/data/tol/_Place_472;%20TOL215> ,
 		told:_Tradition_24
 		;
 	tolo:primaryName
@@ -3024,10 +2999,7 @@ told:_IncarnationLineage_85
 		"kar lu rin po che"@bo-x-ewts ,
 		"ཀར་ལུ་རིན་པོ་ཆེ།"@bo
 		;
-	gist:isConnectedTo
-		told:_Place_472 ,
-		told:_Tradition_67
-		;
+	gist:isConnectedTo told:_Tradition_67 ;
 	tolo:primaryName
 		"Kalu Rinpoche"@en ,
 		"kar lu rin po che"@bo-x-ewts ,
@@ -3061,7 +3033,10 @@ told:_IncarnationLineage_87
 		"be ru mkhyen brtse"@bo-x-ewts ,
 		"བེ་རུ་མཁྱེན་བརྩེ།"@bo
 		;
-	gist:isConnectedTo told:_Tradition_24 ;
+	gist:isConnectedTo
+		told:_Place_472 ,
+		told:_Tradition_24
+		;
 	tolo:primaryName
 		"Beru Khyentse"@en ,
 		"be ru mkhyen brtse"@bo-x-ewts ,
