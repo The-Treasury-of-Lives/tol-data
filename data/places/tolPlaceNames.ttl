@@ -536,9 +536,9 @@ told:_Place_1049
 		;
 	tolo:nameVariant
 		"Ganden Dargyeling"@en ,
-		"Асагадай дасан"@mn-CYRL ,
-		"Ацагaтский дацaн"@mn-CYRL ,
-		"Гандан Даржалинг"@mn-CYRL
+		"Асагадай дасан"@mn-Cyrl ,
+		"Ацагaтский дацaн"@mn-Cyrl ,
+		"Гандан Даржалинг"@mn-Cyrl
 		;
 	tolo:primaryName
 		"Atsagat Datsan"@en ,
@@ -635,7 +635,7 @@ told:_Place_1054
 
 told:_Place_1055
 	skos:prefLabel "Datsan Gunzechoinei"@en ;
-	tolo:nameVariant "Дацан Гунзэчойнэй"@mn-CYRL ;
+	tolo:nameVariant "Дацан Гунзэчойнэй"@mn-Cyrl ;
 	tolo:primaryName "Datsan Gunzechoinei"@en ;
 	.
 
@@ -672,7 +672,7 @@ told:_Place_1065
 		"nA len+dra"@bo-x-ewts ,
 		"ནཱ་ལེནྡྲ།"@bo
 		;
-	tolo:nameVariant "नालंदा"@sa-DEVA ;
+	tolo:nameVariant "नालंदा"@sa-Deva ;
 	tolo:primaryName
 		"Nālandā"@en ,
 		"nA len+dra"@bo-x-ewts ,
@@ -899,7 +899,7 @@ told:_Place_1084
 		"Gang Rinboqe Feng"@en ,
 		"Gang Tise"@en ,
 		"Yungdrung Gutsek"@en ,
-		"कैलाश"@sa-DEVA ,
+		"कैलाश"@sa-Deva ,
 		"吉罗娑山"@zh-HANI
 		;
 	tolo:primaryName
@@ -1868,7 +1868,7 @@ told:_Place_1158
 	tolo:nameVariant
 		"Mahabodhi Stupa"@en ,
 		"Vajrāsana"@en ,
-		"बोधगया"@sa-DEVA
+		"बोधगया"@sa-Deva
 		;
 	tolo:primaryName
 		"Bodhgaya"@en ,
@@ -2677,7 +2677,7 @@ told:_Place_1222
 	tolo:nameVariant
 		"Anavatapta"@en ,
 		"Tso Madropa"@en ,
-		"मानसरोवर"@sa-DEVA
+		"मानसरोवर"@sa-Deva
 		;
 	tolo:primaryName
 		"Manasarovar"@en ,
@@ -5214,7 +5214,7 @@ told:_Place_1413
 		"dga' ldan bkra shis chos 'khor"@bo-x-ewts ,
 		"དགའ་ལྡན་བཀྲ་ཤིས་ཆོས་འཁོར།"@bo
 		;
-	tolo:nameVariant "Иволгинский дацан"@mn-CYRL ;
+	tolo:nameVariant "Иволгинский дацан"@mn-Cyrl ;
 	tolo:primaryName
 		"Ivolginsky Datsan"@en ,
 		"dga' ldan bkra shis chos 'khor"@bo-x-ewts ,
@@ -8105,7 +8105,7 @@ told:_Place_1679
 		;
 	tolo:nameVariant
 		"Züün Khüree Dashchoilin Monastery"@en ,
-		"Дашчойлин хийд"@mn-CYRL
+		"Дашчойлин хийд"@mn-Cyrl
 		;
 	tolo:primaryName
 		"Dashchoilin Khiid"@en ,
@@ -8274,7 +8274,7 @@ told:_Place_1695
 		"bka' brgyud tshe mchog gling"@bo-x-ewts ,
 		"བཀའ་བརྒྱུད་ཚེ་མཆོག་གླིང་།"@bo
 		;
-	tolo:nameVariant "काग्युक मोनास्टरी"@sa-DEVA ;
+	tolo:nameVariant "काग्युक मोनास्टरी"@sa-Deva ;
 	tolo:primaryName
 		"Kagyu Tsekchok Ling"@en ,
 		"bka' brgyud tshe mchog gling"@bo-x-ewts ,

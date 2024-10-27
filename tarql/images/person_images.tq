@@ -41,14 +41,15 @@ CONSTRUCT {
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
         tolo:caption ?caption_en ;
-        tolo:fileName ?image_file_name ;
+        # Treated as a "degenerate" path even though it's just the filename, since apparently the front end hard-codes the path.
+        tolo:filePath ?image_file_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
 
         # Editing metadata - ignored (see below)
-        # tolo:isCreatedBy ?created_by_iri ;
+        # tolo:isCreatedByUser ?created_by_iri ;
         # tolo:createDateTime ?create_datetime ;
-        # tolo:isLastModifiedBy ?last_modified_by_iri ;
+        # tolo:isLastModifiedByUser ?last_modified_by_iri ;
         # tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
@@ -68,7 +69,7 @@ CONSTRUCT {
         a tolo:Image ;
         skos:prefLabel ?thumb_label_en ;
         tolo:fileName ?thumb_file_name ;
-        gist:isCategorizedBy ?media_type_iri ;
+        gist:isExpressedIn ?media_type_iri ;
         .
 
     ?har_number_iri
@@ -89,6 +90,9 @@ WHERE {
     # BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
+
+    # NB TARQL will not add the explicit datatype xsd:string.
+    # BIND(STRDT(?image_file_name, xsd:string) AS ?image_file_name_str)
 
     # Media type (applies to both main image and thumbnail)
     BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
@@ -121,7 +125,7 @@ WHERE {
     BIND(IF(?caption != "NULL", STRLANG(?caption, "en"), ?unbound) AS ?caption_en)
 
     # Editing metadata
-    # Note: editing metadata is ignored here because it is row-based rather than resource-based. Because some images are used with multiple persons, that results in multiple create and last mofidified metadata on the same image.
+    # Note: editing metadata is ignored here because it is row-based rather than resource-based. Because some images are used with multiple persons, that results in multiple create and last modified metadata on the same image.
     # BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
 
     # BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)

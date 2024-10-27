@@ -5880,15 +5880,15 @@ told:_Person_11437
 		"'jam dpal rnam grol chos kyi   rgyal mtshan"@bo-x-ewts ,
 		"Bog to rje btsun dam pa hu thug tu 09 'jam dpal rnam grol chos kyi rgyal mtshan "@bo-x-ewts ,
 		"IX Богд Жавзандамба хутагт"@ru-CYRL ,
-		"IX Богд Жэвзундамба хутагт"@mn-CYRL ,
+		"IX Богд Жэвзундамба хутагт"@mn-Cyrl ,
 		"Khalkha Jebtsundampa Khutugtu"@en ,
 		"Khalkha Jetsun Dampa Rinpoche"@en ,
 		"Khalkha Rinpoche"@en ,
 		"Ninth Khalkha Jebtsundampa Jampel Namdrol Chokyi Gyeltsen"@en ,
 		"khal kha rje btsun dam pa 09 'jam dpal rnam grol chos kyi rgyal mtshan"@bo-x-ewts ,
 		"rje btsun dam pa 09 'jam dpal   rnam grol chos kyi rgyal mtshan"@bo-x-ewts ,
-		"Богд Жэвзундамба гэгээн "@mn-CYRL ,
-		"Богдо Гэгээн"@mn-CYRL ,
+		"Богд Жэвзундамба гэгээн "@mn-Cyrl ,
+		"Богдо Гэгээн"@mn-Cyrl ,
 		"哲布尊丹巴·蒋巴南卓"@zh-HANS ,
 		"第九世哲布尊丹巴呼图克图"@zh-HANS ,
 		"第九世哲布尊丹巴呼圖克圖"@zh-HANI
@@ -14968,8 +14968,8 @@ told:_Person_13588
 		"Fifth Noyon Hutuktu Danzan Ravjaa"@en ,
 		"Lubsandanzanravjaa"@en ,
 		"Noyon Hutagt Danzanravjaa"@en ,
-		"Дулдуйтын Данзанравжаа"@mn-CYRL ,
-		"Ноён хутагт данзанравжаа"@mn-CYRL
+		"Дулдуйтын Данзанравжаа"@mn-Cyrl ,
+		"Ноён хутагт данзанравжаа"@mn-Cyrl
 		;
 	.
 

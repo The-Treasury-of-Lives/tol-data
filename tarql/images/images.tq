@@ -5,7 +5,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
 PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
-PREFIX media-image: <https://www.iana.org/assignments/media-types/image/> 
+PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -35,10 +35,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # creator_tol_id
 # type
 # century
-# tradition_id 
+# tradition_id
 # tol_place_id
 
-# Run: 
+# Run:
 # tarql --dedup 10000 -e utf-8 images.tq painting-9-6-24.csv > tolImages.ttl
 
 CONSTRUCT {
@@ -47,19 +47,20 @@ CONSTRUCT {
         a tolo:Image ;
         skos:prefLabel ?title_en ;
         tolo:depicts ?work_iri ;
-        tolo:fileName ?image_name ;
+        # Treated as a "degenerate" path even though it's just the filename, since apparently the front end hard-codes the path.
+        tolo:filePath ?image_name ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
         gist:comesFromPlace ?source_iri ;
 
         # Editing metadata
-        tolo:isCreatedBy ?created_by_iri ;
+        tolo:isCreatedByUser ?created_by_iri ;
         tolo:createDateTime ?create_datetime ;
-        tolo:isLastModifiedBy ?last_modified_by_iri ;
+        tolo:isLastModifiedByUser ?last_modified_by_iri ;
         tolo:lastModifiedDateTime ?last_modified_datetime ;
         .
 
-    ?work_iri   
+    ?work_iri
         a gist:IntellectualProperty ;
         skos:prefLabel ?title_en ;
         gist:description ?description_en ;
@@ -68,24 +69,24 @@ CONSTRUCT {
             ?place_iri ;
         gist:isCategorizedBy ?work_type_iri ;
         gist:isIdentifiedBy ?har_number_iri ;
-        gist:hasPhysicalLocation ?work_location_iri ;
-        tolo:isCreatedBy ?creator_iri ;
-        tolo:credit ?credit_en ;
+        gist:hasPhysicalLocation ?collection_iri ;
+        tolo:hasCreator ?creator_iri ;
+        tolo:credit ?credit ;
         .
 
-    ?creator_iri    
+    ?creator_iri
         a ?person_class ;
         skos:prefLabel ?creator_name_en ;
         gist:name ?creator_name_en ;
-        . 
-
-    ?work_location_iri   
-        a gist:Place ;
-        skos:prefLabel ?location_label_en ;
-        gist:name ?location_label_en ;
         .
 
-    ?thumbnail_iri 
+    ?collection_iri
+        a tolo:Collection ;
+        skos:prefLabel ?collection_label_en ;
+        gist:name ?collection_label_en ;
+        .
+
+    ?thumbnail_iri
         a tolo:Image ;
         skos:prefLabel ?title_en ;
         tolo:fileName ?thumb_name ;
@@ -101,7 +102,7 @@ CONSTRUCT {
 
     ?source_iri
         a gist:ElectronicAddress ;
-        skos:prefLabel ?source_en ;
+        skos:prefLabel ?source_url ;
         gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         # Can't use gist:containedText since its range is xsd:string.
         tolo:url ?source_address ;
@@ -110,12 +111,15 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?painting_id)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?painting_id)) AS ?work_iri)
+
+    # NB TARQL will not add the explicit datatype xsd:string.
+    # BIND(STRDT(?image_name, xsd:string) AS ?image_file_name)
 
     BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
     BIND(
@@ -143,8 +147,10 @@ WHERE {
 
     # Creator
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?creator_tol_id)) AS ?existing_creator_iri)
+    # Create a new Person instance if there is no creator ID.
     BIND(IF(!BOUND(?existing_creator_iri), tarql:expandPrefixedName(CONCAT("told:_Person_", LCASE(REPLACE(REPLACE(?creator_name, "[,\\.]", ""), " ", "_")))), ?unbound) AS ?new_creator_iri)
     BIND(IF(BOUND(?new_creator_iri), STRLANG(?creator_name, "en"), ?unbound) AS ?creator_name_en)
+    # Don't need to assign type to persons already in the database.
     BIND(IF(BOUND(?new_creator_iri), tarql:expandPrefixedName("gist:Person"), ?unbound) AS ?person_class)
     BIND(COALESCE(?existing_creator_iri, ?new_creator_iri) AS ?creator_iri)
 
@@ -159,23 +165,22 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?tol_place_id)) AS ?place_iri)
 
     # Physical location of work (museum, collection, etc.)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", LCASE(REPLACE(?location, " ", "_")))) AS ?work_location_iri)
-    BIND(STRLANG(?location, "en") AS ?location_label_en)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Collection_", LCASE(REPLACE(?location, " ", "_")))) AS ?collection_iri)
+    BIND(STRLANG(?location, "en") AS ?collection_label_en)
 
     # If there's a source URL, create an address object.
     BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
     BIND(STRDT(?source_url, xsd:anyURI) AS ?source_address)
-    BIND(STRLANG("Image Source", "en") AS ?source_en)
 
     # If there's a source and it's different from the location, make it the credit; otherwise ignore it.
-    BIND(IF(!BOUND(?location) || ?source != ?location, ?source, ?unbound) AS ?credit_en)
+    BIND(IF(!BOUND(?location) || ?source != ?location, ?source, ?unbound) AS ?credit)
 
     # Editing metadata
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
     BIND(REPLACE(REPLACE(?create_date, " ", "T"), "T(\\d):", "T0$1:") AS ?create_date_clean)
     BIND(STRDT(?create_date_clean, xsd:dateTime) AS ?create_datetime)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?last_modified_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)) AS ?last_modified_by_iri)
     BIND(REPLACE(REPLACE(?last_modified_date, " ", "T"), "T(\\d):", "T0$1:") AS ?last_modified_date_clean)
     BIND(STRDT(?last_modified_date_clean, xsd:dateTime) AS ?last_modified_datetime)
 

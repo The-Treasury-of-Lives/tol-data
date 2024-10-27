@@ -1565,7 +1565,7 @@ person_image_id,person_id,image_file_name,thumb_file_name,har_number,image_credi
 1919,1370,90907.jpg,90907_thumb.jpg,90907,,1,2,2020-05-07 13:03:50,NULL,NULL,NULL
 1920,11231,Young Lamas Home School.jpg,Young Lamas Home School_thumb.jpg,,http://blazing-splendor.blogspot.com/2005/09/young,0,2,2020-05-12 15:42:19,2,2021-01-09 17:55:30,Trungpa at the Young Lamas Home School
 1922,13648,Yab Chewang 1.jpg,Yab Chewang 1_thumb.jpg,,Kunzang Choden Bhutia,1,2,2020-05-27 12:06:25,NULL,NULL,NULL
-1923,13648,Yab Chewang 2.jpg,Yab Chewang 2_thumb.jpg,0,0,0,2,2020-05-27 12:13:16,NULL,NULL,NULL
+1923,13648,Yab Chewang 2.jpg,Yab Chewang 2_thumb.jpg,0,,0,2,2020-05-27 12:13:16,NULL,NULL,NULL
 1924,13648,Yab Chewang 2.jpg,Yab Chewang 2_thumb.jpg,,Kalzang Dorjee Bhutia,0,2,2020-05-27 18:15:17,NULL,NULL,NULL
 1925,13648,Yab Chewang 3.jpg,Yab Chewang 3_thumb.jpg,,Kalzang Dorjee Bhutia,0,2,2020-05-28 12:36:59,NULL,NULL,NULL
 1926,5312,Yutok 8099.jpg,Yutok 8099_thumb.jpg,8099,,0,2,2020-06-12 18:27:08,NULL,NULL,NULL
@@ -1797,7 +1797,7 @@ person_image_id,person_id,image_file_name,thumb_file_name,har_number,image_credi
 2199,8456,1164 repa.jpg,1164 repa_thumb.jpg,1164,,1,2,2023-06-20 14:12:11,NULL,NULL,
 2200,8455,woman 1148.jpg,woman 1148_thumb.jpg,1148,,1,2,2023-06-20 14:22:33,NULL,NULL,
 2201,8454,layman 1166.jpg,layman 1166_thumb.jpg,1166,,1,2,2023-06-21 13:57:29,NULL,NULL,
-2202,13811,gyurda-footprint.jpg,gyurda-footprint_thumb.jpg,,Samphe Lhalungpa,0,342,2023-06-28 15:08:47,NULL,NULL,Lama Gyurdrak's Footprint left in stone 
+2202,13811,gyurda-footprint.jpg,gyurda-footprint_thumb.jpg,,Samphe Lhalungpa,0,342,2023-06-28 15:08:47,NULL,NULL,Lama Gyurdrak's Footprint left in stone
 2203,13811,gyurda-lhalungpa-delhi.jpg,gyurda-lhalungpa-delhi_thumb.jpg,,Samphe Lhalungpa,0,342,2023-06-28 15:09:23,342,2023-06-28 15:10:04,Lama Gyurdrak (left) in Delhi with Lobsang P. Lhalungpa (right)
 2204,13811,gyurda-delhi.jpg,gyurda-delhi_thumb.jpg,,Samphe Lhalungpa,0,342,2023-06-28 15:13:26,NULL,NULL,Lama Gyurdrak in Delhi
 2205,1721,woman 1148.jpg,woman 1148_thumb.jpg,1148,,1,2,2023-07-06 14:15:50,NULL,NULL,

@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
@@ -13,10 +13,10 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # person_id
 # initial_approval_date (ignore)
 # update_date
@@ -24,21 +24,21 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # last_modified_date
 # last_modified_user_id
 
-# Run: 
+# Run:
 # tarql -e utf-8 --dedup 100000 bio_editing_metadata.tq bio-dates-9-30-24.csv > tolBioMetadata.ttl
 
 
 CONSTRUCT {
 
-    ?bio_iri 
+    ?bio_iri
       tolo:createDateTime ?create_datetime ;
       tolo:lastModifiedDateTime ?last_modified_datetime ;
-      tolo:isLastModifiedBy ?modifier_iri ;
+      tolo:isLastModifiedByUser ?modifier_iri ;
       .
 }
 
 WHERE {
-    
+
     # Testing
     FILTER(?ROWNUM = 2)
 
