@@ -35,19 +35,19 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 CONSTRUCT {
 
     ?image_part_iri
-        a gist:FormattedContent ;       
+        a gist:FormattedContent ;
         gist:isDirectPartOf ?image_iri ;
-        skos:prefLabel 
+        skos:prefLabel
             ?label_en ,
             ?label_wylie ;
         tolo:coordinates ?coordinates ;
-        gist:isAbout 
+        gist:isAbout
             ?person_iri ,
             ?place_iri ;
 
         # Editing metadata
         tolo:createDateTime ?create_datetime ;
-        tolo:isLastModifiedBy ?last_modified_by_iri ;
+        tolo:isLastModifiedByUser ?last_modified_by_iri ;
         tolo:lastModifiedDateTime ?last_modified_datetime ;
     .
 }
@@ -61,7 +61,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Image_", ?painting_id)) AS ?image_iri)
 
     BIND(STRLANG(?default_name, "en") AS ?label_en)
-    BIND(STRLANG(?wylie_name, "bo-x-ewts") AS ?label_wylie)  
+    BIND(STRLANG(?wylie_name, "bo-x-ewts") AS ?label_wylie)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?place_id)) AS ?place_iri)
@@ -70,7 +70,7 @@ WHERE {
     BIND(REPLACE(REPLACE(?create_date, " ", "T"), "T(\\d):", "T0$1:") AS ?create_date_clean)
     BIND(STRDT(?create_date_clean, xsd:dateTime) AS ?create_datetime)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?last_modified_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)) AS ?last_modified_by_iri)
     BIND(REPLACE(REPLACE(?last_modified_date, " ", "T"), "T(\\d):", "T0$1:") AS ?last_modified_date_clean)
     BIND(STRDT(?last_modified_date_clean, xsd:dateTime) AS ?last_modified_datetime)
 }

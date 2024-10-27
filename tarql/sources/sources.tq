@@ -38,6 +38,8 @@ PREFIX olid: <https://openlibrary.org/works/>
 # Run:
 # tarql -e utf-8 --dedup 50000 sources.tq Sources-6-14-24.csv > tolSources.ttl
 
+# NB This is preliminary data and should not be ingested into the knowledge graph in its current form.
+
 
 CONSTRUCT {
 

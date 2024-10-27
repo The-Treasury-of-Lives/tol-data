@@ -5,7 +5,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
 PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
-PREFIX media-image: <https://www.iana.org/assignments/media-types/image/> 
+PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -26,22 +26,22 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # image_source_url
 # image_path
 
-# Run: 
+# Run:
 # tarql --dedup 10000 -e utf-8 place_images.tq place-image-3-18-24.csv > tolPlaceImages.ttl
 
 CONSTRUCT {
 
-    ?image_file_iri 
+    ?image_file_iri
         a tolo:Image ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
-        gist:license ?license ;      
-        tolo:filePath ?image_path_str ;
+        gist:license ?license ;
+        tolo:filePath ?image_path ;
         gist:comesFromPlace ?source_iri ;
         gist:isExpressedIn ?media_type_iri ;
         .
 
-    ?work_iri   
+    ?work_iri
         a gist:IntellectualProperty ;
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?place_iri ;
@@ -53,22 +53,23 @@ CONSTRUCT {
         a gist:ElectronicAddress ;
         skos:prefLabel ?source_label ;
         gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
-        gist:containedText ?source_url ;
+        tolo:url ?source_url ;
         .
-  
+
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 5)
 
     # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "^.+/", ""), "['()]", ""), "\\W", "_")) AS ?filename)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_path, "^/", ""), "['()]", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_file_path_", ?filename)) AS ?file_path_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_", ?filename)) AS ?source_iri)
+
+    # NB TARQL will not add the explicit datatype xsd:string.
+    # BIND(STRDT(?image_path, xsd:string) AS ?image_path_str)
 
     BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
@@ -79,15 +80,17 @@ WHERE {
     )
 
     BIND(STRLANG(REPLACE(?community_name, " +$", ""), "en") AS ?image_label_en)
-    
+
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
-    BIND(IF(?image_credit != "NULL", STRLANG(?image_credit, "en"), ?unbound) AS ?credit)
+    BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)
 
     BIND(IF(?image_license != "NULL", ?image_license, ?unbound) AS ?license)
 
-    BIND(IF(?image_source_url != "NULL", STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
-    BIND(IF(?image_source_url != "NULL", STRLANG("Image Source", "en"), ?unbound) AS ?source_label)
+
+    BIND(IF(BOUND(?image_source_url) && ?image_source_url != "NULL", tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_", ?filename)), ?unbound) AS ?source_iri)
+    BIND(IF(BOUND(?source_iri), STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
+    BIND(IF(BOUND(?source_iri), ?image_source_url, ?unbound) AS ?source_label)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
 

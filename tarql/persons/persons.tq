@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -44,28 +44,28 @@ PREFIX wiki: <https://www.wikidata.org/wiki/>
 # 84000 URL
 
 
-# Run: 
-# tarql -e utf-8 --dedup 50000 persons.tq persons-9-21-24.csv > tolPersons.ttl
+# Run:
+# tarql -e utf-8 --dedup 50000 persons.tq persons-10-1-24.csv > tolPersons.ttl
 
 CONSTRUCT {
-    ?person_iri 
+    ?person_iri
         a tolo:Person ;
-        owl:sameAs 
+        owl:sameAs
             ?bdrc_iri ,
             ?wikidata_iri ;
 
-        skos:prefLabel 
+        skos:prefLabel
             ?pref_label ,
             ?pref_label_en ,
             ?pref_label_wylie ,
-            ?pref_label_tibetan ; 
+            ?pref_label_tibetan ;
 
-        tolo:primaryName 
+        tolo:primaryName
             ?primary_name ,
-            ?primary_name_wylie ,   
-            ?primary_name_tibetan ; 
+            ?primary_name_wylie ,
+            ?primary_name_tibetan ;
 
-        tolo:title 
+        tolo:title
             ?title_en ,
             ?title_wylie ;
 
@@ -76,44 +76,40 @@ CONSTRUCT {
         # The relationship is not always as specific as aboutness, so use the more general rdfs:seeAlso.
         rdfs:seeAlso
             ?lotsawa_house_iri ,
-            ?har_iri 
+            ?har_iri
             # ?rma_iri ,
-            # ?84000_iri 
+            # ?84000_iri
             ;
         .
 
     ?lotsawa_house_iri
         a gist:ElectronicAddress ;
-        gist:isCategorizedBy 
-            tolx:_AddressUsageType_reference ,
-            tolx:_ElectronicAddressType_url ;
+        skos:prefLabel ?Lotsawa_House_URL ;
+        gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         gist:refersTo told:_Website_lotsawa_house ;
         tolo:url ?lotsawa_house_url ;
         .
 
     ?har_iri
         a gist:ElectronicAddress ;
-        gist:isCategorizedBy 
-            tolx:_AddressUsageType_reference ,
-            tolx:_ElectronicAddressType_url ;
+        skos:prefLabel ?HAR_URL ;
+        gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         gist:refersTo told:_Website_har ;
         tolo:url ?har_url ;
         .
 
     # ?rma_iri
     #     a gist:ElectronicAddress ;
-    #     gist:isCategorizedBy 
-    #         tolx:_AddressUsageType_reference ,
-    #         tolx:_ElectronicAddressType_url ;
+    #     skos:prefLabel ?RMA_URL ;
+    #     gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
     #     gist:refersTo told:_Website_rma ;
     #     tolo:url ?rma_url ;
     #     .
 
     # ?84000_iri
     #     a gist:ElectronicAddress ;
-    #     gist:isCategorizedBy 
-    #         tolx:_AddressUsageType_reference ,
-    #         tolx:_ElectronicAddressType_url ;
+    #     skos:prefLabel ?84000_URL ;
+    #     gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
     #     gist:refersTo told:_Website_84000 ;
     #     tolo:url ?84000_url ;
     #     .
@@ -155,7 +151,7 @@ WHERE {
 
     # owl:sameAs
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?TBRC_RID)) AS ?bdrc_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("wiki:", ?Wikidata_ID)) AS ?wikidata_iri) 
+    BIND(tarql:expandPrefixedName(CONCAT("wiki:", ?Wikidata_ID)) AS ?wikidata_iri)
 
     # TOL ID
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_tol_Person_", ?TOL_ID)) AS ?tol_id_iri)
@@ -184,34 +180,34 @@ WHERE {
     BIND(IF(?Primary_name_encoding != "bo-x-ewts", STRLANG(?Primary_name, ?Primary_name_encoding), ?unbound) AS ?primary_name)
 
     # English name and title
-    # All primary titles are English. 
+    # All primary titles are English.
     BIND(STRLANG(?Primary_title, "en") AS ?title_en)
     # Display name (skos:prefLabel)
     # If no English display name, front end should fall back to Wylie display name.
     BIND(STRLANG(?Display_name_English, "en") AS ?pref_label_en)
-    
+
 
     # Wylie name and title
     # Clean name
     BIND(REPLACE(
             REPLACE(
-                REPLACE(?Wylie_name, "  +", " "), 
-            " +\\)", ""), 
+                REPLACE(?Wylie_name, "  +", " "),
+            " +\\)", ""),
         "\\( +", "") AS ?wylie_name_clean)
     BIND(STRLANG(?wylie_name_clean, "bo-x-ewts") AS ?primary_name_wylie)
-    BIND(STRLANG(?Wylie_title, "bo-x-ewts") AS ?title_wylie)   
+    BIND(STRLANG(?Wylie_title, "bo-x-ewts") AS ?title_wylie)
     # Display name (skos:prefLabel): fall back to Wylie name if no display name provided. None of these have Wylie or primary titles.
     # Clean display name
     BIND(REPLACE(
             REPLACE(
-                REPLACE(?Display_name_Wylie, "  +", " "), 
-            " +\\)", ""), 
+                REPLACE(?Display_name_Wylie, "  +", " "),
+            " +\\)", ""),
         "\\( +", "") AS ?display_name_wylie_clean)
     BIND(IF(BOUND(?display_name_wylie_clean), STRLANG(?display_name_wylie_clean, "bo-x-ewts"), ?primary_name_wylie) AS ?pref_label_wylie)
 
-    # Tibetan name 
+    # Tibetan name
     BIND(STRLANG(?Tibetan, "bo") AS ?primary_name_tibetan)
-    # Fall back to primary name if no display name provided. 
+    # Fall back to primary name if no display name provided.
     BIND(IF(BOUND(?Display_name_Tibetan), STRLANG(?Display_name_Tibetan, "bo"), ?primary_name_tibetan) AS ?pref_label_tibetan)
 
 
@@ -230,17 +226,17 @@ WHERE {
     # To create an xsd:dateTime from a year string
     BIND("-01-01T00:00:00" AS ?date_time_completion)
 
-    # Birth 
-    
+    # Birth
+
     # Birth event
-    BIND(IF(BOUND(?Birth_year) || BOUND(?Birth_century), 
+    BIND(IF(BOUND(?Birth_year) || BOUND(?Birth_century),
         tarql:expandPrefixedName(CONCAT("told:_Birth_", ?TOL_ID)), ?unbound) AS ?birth_iri)
     BIND(IF(BOUND(?birth_iri), STRLANG(CONCAT("Birth of ", ?Primary_name), "en"), ?unbound) as ?birth_label_en)
 
     # Birth year(s)
     BIND(
         COALESCE(
-            IF(REGEX(?Birth_year, "^\\d{4}$"), ?Birth_year, ?unbound), 
+            IF(REGEX(?Birth_year, "^\\d{4}$"), ?Birth_year, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?Birth_year, "^\\d{3}$"), CONCAT("0", ?Birth_year), ?unbound)
         )
@@ -258,7 +254,7 @@ WHERE {
 
     BIND(
         COALESCE(
-            IF(REGEX(?alternate_birth_year, "^\\d{4}$"), ?alternate_birth_year, ?unbound), 
+            IF(REGEX(?alternate_birth_year, "^\\d{4}$"), ?alternate_birth_year, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?alternate_birth_year, "^\\d{3}$"), CONCAT("0", ?alternate_birth_year), ?unbound)
         )
@@ -272,21 +268,21 @@ WHERE {
     BIND(IF(BOUND(?alternate_birth_year), ?full_birth_year_datetime, ?unbound) AS ?actual_alternate_birth_year_datetime)
 
     # Birth century
-    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?Birth_century)) AS ?birth_time_period_iri) 
+    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?Birth_century)) AS ?birth_time_period_iri)
 
 
-    # Death 
+    # Death
 
     # Death event
-    BIND(IF(BOUND(?Death_year), 
-        # ignore century for now - data seems bad || BOUND(?Death_century),  
+    BIND(IF(BOUND(?Death_year),
+        # ignore century for now - data seems bad || BOUND(?Death_century),
         tarql:expandPrefixedName(CONCAT("told:_Death_", ?TOL_ID)), ?unbound) AS ?death_iri)
-    BIND(IF(BOUND(?death_iri), STRLANG(CONCAT("Death of ", ?Primary_name), "en"), ?unbound) as ?death_label_en) 
+    BIND(IF(BOUND(?death_iri), STRLANG(CONCAT("Death of ", ?Primary_name), "en"), ?unbound) as ?death_label_en)
 
     # Death years
     BIND(
         COALESCE(
-            IF(REGEX(?Death_year, "^\\d{4}$"), ?Death_year, ?unbound), 
+            IF(REGEX(?Death_year, "^\\d{4}$"), ?Death_year, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?Death_year, "^\\d{3}$"), CONCAT("0", ?Death_year), ?unbound)
         )
@@ -302,7 +298,7 @@ WHERE {
 
     BIND(
         COALESCE(
-            IF(REGEX(?alternate_death_year, "^\\d{4}$"), ?alternate_death_year, ?unbound), 
+            IF(REGEX(?alternate_death_year, "^\\d{4}$"), ?alternate_death_year, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?alternate_death_year, "^\\d{3}$"), CONCAT("0", ?alternate_death_year), ?unbound)
         )
@@ -316,6 +312,6 @@ WHERE {
     BIND(IF(BOUND(?alternate_death_year), ?full_death_year_datetime, ?unbound) AS ?actual_alternate_death_year_datetime)
 
     # Death century
-    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?Death_century)) AS ?death_time_period_iri) 
+    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?Death_century)) AS ?death_time_period_iri)
 
 }

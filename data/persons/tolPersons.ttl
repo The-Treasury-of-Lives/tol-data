@@ -42680,3110 +42680,2488 @@ told:_Death_9990
 
 told:_ElectronicAddress_har_Person_10497
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=2496"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=2496"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_10591
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm?icode=73736"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm?icode=73736"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_10687
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=582"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=582"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_11114
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=965"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=965"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_11866
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm?icode=57068"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm?icode=57068"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_12828
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=966"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=966"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_13026
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=310"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=310"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_13141
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm?icode=85903"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm?icode=85903"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2051
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=574"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=574"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2137
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=325"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=325"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2339
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=970"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=970"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2510
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=347"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=347"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2539
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=956"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=956"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2670
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=1595"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=1595"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2740
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=974"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=974"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2776
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=1003"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=1003"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2810
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm/85713.html"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm/85713.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2899
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm?icode=1034"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm?icode=1034"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2915
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=317"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=317"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2916
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=324"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=324"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_2919
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/search_results.cfm?is3D=0&figureMainID=1"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/search_results.cfm?is3D=0&figureMainID=1"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_3085
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=967"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=967"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_3096
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=3761"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=3761"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_3107
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=969"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=969"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_3139
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm?icode=73808"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm?icode=73808"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_3168
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=1119"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=1119"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_4259
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=970"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=970"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_4267
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=697"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=697"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_4291
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=504"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=504"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_4354
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=315"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=315"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_5457
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=705"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=705"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_5500
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=976"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=976"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_5871
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=968"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=968"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_6065
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=540"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=540"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_6856
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=703"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=703"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_7024
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=2139"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=2139"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_7442
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=100"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=100"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_8181
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=1156"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=1156"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_8986
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=197"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=197"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_9190
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm/89717.html"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm/89717.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_9201
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/image.cfm/57024.html"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/image.cfm/57024.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_9612
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=1914"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=1914"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_9634
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=314"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=314"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_har_Person_9839
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "http://www.himalayanart.org/search/set.cfm?setID=979"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_har ;
 	tolo:url "http://www.himalayanart.org/search/set.cfm?setID=979"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10019
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10029
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/thinley-norbu-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/thinley-norbu-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10052
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ringu-tulku-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ringu-tulku-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10073
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/adzom-gyalse-gyurme-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/adzom-gyalse-gyurme-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10083
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sera-khandro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sera-khandro/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10093
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/bopa-tulku-dongak-tenpe-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/bopa-tulku-dongak-tenpe-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10103
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shechen-kongtrul/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shechen-kongtrul/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10146
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-tsondru/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-tsondru/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10157
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dzogchen-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dzogchen-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10163
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsokhang-choktrul-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsokhang-choktrul-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10249
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/je-khenpo-gendun-rinchen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/je-khenpo-gendun-rinchen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10301
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-ledrel-tsal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-ledrel-tsal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10315
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jedrung-jampa-jungne/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jedrung-jampa-jungne/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10326
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jokyab-pema-trinle-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jokyab-pema-trinle-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10355
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dezhung-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dezhung-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10373
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/yeshe-tsogyal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/yeshe-tsogyal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10374
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pegyal-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pegyal-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10457
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-jigme-phuntsok/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-jigme-phuntsok/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10467
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tri-songdetsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tri-songdetsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10485
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/samten-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/samten-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10507
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngorchen-konchok-lhundrup/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngorchen-konchok-lhundrup/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10539
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsarchen-losal-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsarchen-losal-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10591
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamgon-amnye-zhab/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamgon-amnye-zhab/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10643
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dzong-ngon-pema-tukchok-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dzong-ngon-pema-tukchok-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10719
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jampal-dewe-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jampal-dewe-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10743
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsikey-chokling-konchok-gyurme/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsikey-chokling-konchok-gyurme/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10760
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/songtsen-gampo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/songtsen-gampo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10815
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gaton-ngawang-lekpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gaton-ngawang-lekpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10828
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/namkha-tsewang-chokdrup/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/namkha-tsewang-chokdrup/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10857
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/drukpa-kunley/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/drukpa-kunley/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_10952
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-karpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-karpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11003
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/palyul-choktrul/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/palyul-choktrul/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11012
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lachung-apo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lachung-apo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11095
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khangsar-tenpe-wangchuk/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khangsar-tenpe-wangchuk/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11231
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chogyam-trungpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chogyam-trungpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11247
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-drakpa-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-drakpa-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11274
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tai-situ-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tai-situ-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11385
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sixteenth-karmapa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sixteenth-karmapa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11418
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tenth-pawo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tenth-pawo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11516
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/paksam-wangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/paksam-wangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11572
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jatson-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jatson-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_11865
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsangpa-gyare-yeshe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsangpa-gyare-yeshe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12040
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/situ-pema-wangchok-gyalpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/situ-pema-wangchok-gyalpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12169
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/karse-kongtrul-khyentse-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/karse-kongtrul-khyentse-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12180
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/kalu-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/kalu-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12324
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-petse/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-petse/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12336
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-gangshar/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-gangshar/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12371
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/situ-panchen-chokyi-jungne/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/situ-panchen-chokyi-jungne/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12489
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dezhung-tulku-ajam/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dezhung-tulku-ajam/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12522
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamyang-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamyang-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12526
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dampa-rinpoche-ngawang-lodro-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dampa-rinpoche-ngawang-lodro-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12533
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngawang-samten-lodro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngawang-samten-lodro/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12606
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngawang-tutob-wangchuk/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngawang-tutob-wangchuk/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12613
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenchen-ngawang-lodro-rinchen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenchen-ngawang-lodro-rinchen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12653
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/minling-chung-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/minling-chung-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12839
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-urgyen-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-urgyen-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12957
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-chime-rigdzin/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-chime-rigdzin/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12980
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-arik/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-arik/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_12983
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/taklung-tsetrul-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/taklung-tsetrul-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13282
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/minling-khenchen-ngawang-khyentse-norbu/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/minling-khenchen-ngawang-khyentse-norbu/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13481
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dzongsar-khyentse-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dzongsar-khyentse-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13576
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13577
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/neten-chokling-ngedon-drubpe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/neten-chokling-ngedon-drubpe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13578
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/neten-chokling-pema-gyurme/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/neten-chokling-pema-gyurme/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13580
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsikey-chokling-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsikey-chokling-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13685
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fourth-dodrupchen-jalu-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fourth-dodrupchen-jalu-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13697
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khandro-tsering-chodron/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khandro-tsering-chodron/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13732
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pewar-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pewar-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13749
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chokling-terse-tulku/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chokling-terse-tulku/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13773
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/lakshmi/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/lakshmi/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13809
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/mayum-tsering-wangmo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/mayum-tsering-wangmo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13828
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gyarong-khandro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gyarong-khandro/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13848
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gyalton-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gyalton-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13849
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsultrim-wangmo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsultrim-wangmo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_13884
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/katok-getse-gyurme-tenpa-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/katok-getse-gyurme-tenpa-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_1674
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lama-rigdzin-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lama-rigdzin-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_1754
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/trulzhik-sengge-gyabpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/trulzhik-sengge-gyabpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_1831
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ga-rabjampa-kunga-yeshe/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ga-rabjampa-kunga-yeshe/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_1985
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gorampa-sonam-senge/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gorampa-sonam-senge/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2051
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chogyal-pakpa-lodro-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chogyal-pakpa-lodro-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2059
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/trinley-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/trinley-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2060
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sakya-dagchen-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sakya-dagchen-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2137
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sakya-pandita/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sakya-pandita/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_22
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dorje-dechen-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dorje-dechen-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2387
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngorchen-kunga-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngorchen-kunga-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2481
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chomden-rigpe-raldri/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chomden-rigpe-raldri/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_251
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/yukhok-chatralwa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/yukhok-chatralwa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2510
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/padampa-sangye/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/padampa-sangye/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2589
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/katok-dampa-deshek/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/katok-dampa-deshek/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2592
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lhodrak-namkha-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lhodrak-namkha-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2653
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenchen-tashi-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenchen-tashi-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2670
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dolpopa-sherab-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dolpopa-sherab-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2710
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fifth-shamarpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fifth-shamarpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2712
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/taranatha/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/taranatha/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2717
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shamar-chokyi-wangchuk/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shamar-chokyi-wangchuk/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2776
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/karma-pakshi/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/karma-pakshi/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2810
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/shakyashribhadra/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/shakyashribhadra/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2845
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/buton/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/buton/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2882
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/longchen-rabjam/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/longchen-rabjam/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2899
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/drikung-kyobpa-jikten-sumgon/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/drikung-kyobpa-jikten-sumgon/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2915
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jetsun-drakpa-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jetsun-drakpa-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2916
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sachen-kunga-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sachen-kunga-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2953
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tenth-panchen-lama/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tenth-panchen-lama/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2992
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/longsal-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/longsal-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2993
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsele-natsok-rangdrol/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsele-natsok-rangdrol/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_2998
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lhatsun-namkha-jigme/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lhatsun-namkha-jigme/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3000
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3005
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngakchang-shakya-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngakchang-shakya-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3018
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/choying-tobden-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/choying-tobden-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3107
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/seventh-dalai-lama/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/seventh-dalai-lama/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3152
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lochen-chonyi-zangmo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lochen-chonyi-zangmo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3153
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3168
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gampopa-sonam-rinchen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gampopa-sonam-rinchen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3169
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gompa-tsultrim-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gompa-tsultrim-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3178
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/milarepa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/milarepa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3182
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lama-zhang-tsondru-drakpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lama-zhang-tsondru-drakpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3307
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/thirteenth-dalai-lama/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/thirteenth-dalai-lama/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3422
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/trulshik-dongak-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/trulshik-dongak-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3485
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/do-dasel-wangmo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/do-dasel-wangmo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3623
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-sodargye/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-sodargye/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_3759
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gotsangpa-gonpo-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gotsangpa-gonpo-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4043
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/kumaradza/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/kumaradza/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4044
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shechen-gyaltsab/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shechen-gyaltsab/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4056
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/alak-zenkar-pema-ngodrup-rolwe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/alak-zenkar-pema-ngodrup-rolwe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4058
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/alak-zenkar/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/alak-zenkar/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4067
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-nuden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-nuden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4125
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nyala-pema-dundul/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nyala-pema-dundul/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4131
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/serkong-ngawang-tsultrim-donden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/serkong-ngawang-tsultrim-donden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4185
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-III/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-III/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4228
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/mipham/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/mipham/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4248
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pari-lobzang-rabsal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pari-lobzang-rabsal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4267
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dromton-gyalwe-jungne/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dromton-gyalwe-jungne/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4273
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fourth-dodrupchen-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fourth-dodrupchen-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4291
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-wangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-wangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4345
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/mipham-tenpai-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/mipham-tenpai-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4354
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/marpa-chokyi-lodro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/marpa-chokyi-lodro/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4358
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamgon-kongtrul/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamgon-kongtrul/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4402
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/yangchen-drubpe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/yangchen-drubpe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4413
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/drakkar-lobzang-palden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/drakkar-lobzang-palden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4425
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/patrul-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/patrul-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4437
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/karme-khenpo-rinchen-dargye/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/karme-khenpo-rinchen-dargye/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4511
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/thangtong-gyalpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/thangtong-gyalpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4611
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shabkar/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shabkar/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4626
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nubchen-sangye-yeshe/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nubchen-sangye-yeshe/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4631
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngulchu-dharmabhadra/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngulchu-dharmabhadra/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4676
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-I/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-I/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4691
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/getse-mahapandita/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/getse-mahapandita/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4730
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/konchok-tenpe-dronme/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/konchok-tenpe-dronme/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_4836
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/yudra-nyingpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/yudra-nyingpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5166
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/garwang-chokyi-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/garwang-chokyi-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5172
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pawo-lerab-tsal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pawo-lerab-tsal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5338
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngawang-tendar/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngawang-tendar/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5457
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5500
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/go-lotsawa-zhonnu-pal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/go-lotsawa-zhonnu-pal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5588
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/guru-chowang/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/guru-chowang/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5644
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/machik-labdron/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/machik-labdron/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5789
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5791
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5864
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jampa-kunga-Tenzin/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jampa-kunga-Tenzin/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5897
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/amdo-geshe/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/amdo-geshe/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_5999
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nyang-ral-nyima-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nyang-ral-nyima-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsewang-drakpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsewang-drakpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6021
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/menlungpa-mikyo-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/menlungpa-mikyo-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6065
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fifth-dalai-lama/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fifth-dalai-lama/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6194
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rongzom-chokyi-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rongzom-chokyi-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6230
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/eighth-karmapa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/eighth-karmapa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6470
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/minyak-kunzang-sonam/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/minyak-kunzang-sonam/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6668
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rigdzin-nyima-drakpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rigdzin-nyima-drakpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_6735
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rongton/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rongton/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7009
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-thondup/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-thondup/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7130
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/bengar-jampal-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/bengar-jampal-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7164
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ratna-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ratna-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7254
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/getse-gyurme-tenpa-namgyal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/getse-gyurme-tenpa-namgyal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7255
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/katok-situ-chokyi-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/katok-situ-chokyi-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7326
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/smritijnanakirti/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/smritijnanakirti/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7376
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nubpa-rigdzin-drak/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nubpa-rigdzin-drak/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7429
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/orgyen-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/orgyen-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7442
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/padmasambhava/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/padmasambhava/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7505
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/vairotsana/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/vairotsana/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7550
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lala-sonam-chodrup/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lala-sonam-chodrup/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7551
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/orgyen-Tenzin-norbu/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/orgyen-Tenzin-norbu/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7589
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/zhabdrung-ngawang-namgyal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/zhabdrung-ngawang-namgyal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7616
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/yeshe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/yeshe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7732
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dola-jigme-kalzang/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dola-jigme-kalzang/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7758
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/karma-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/karma-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7767
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rigdzin-godem/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rigdzin-godem/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7775
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gyalwa-yangonpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gyalwa-yangonpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_7945
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dongak-chokyi-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dongak-chokyi-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8126
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/situ-pema-nyinje-wangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/situ-pema-nyinje-wangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8128
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jigme-tenpai-wangchuk/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jigme-tenpai-wangchuk/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8138
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamyang-loter-wangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamyang-loter-wangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8159
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fourteenth-karmapa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fourteenth-karmapa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8170
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fifteenth-karmapa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fifteenth-karmapa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8177
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nyoshul-khenpo-jamyang-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nyoshul-khenpo-jamyang-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8181
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chokgyur-dechen-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chokgyur-dechen-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8342
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/thonmi-sambhota/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/thonmi-sambhota/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8495
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tra-gelong-tsultrim-dargye/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tra-gelong-tsultrim-dargye/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8507
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khyenrab-chokyi-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khyenrab-chokyi-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8538
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/terton-sogyal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/terton-sogyal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8540
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/drime-zhingkyong-gonpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/drime-zhingkyong-gonpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8568
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jigdral-tutop-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jigdral-tutop-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8569
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/nyoshul-lungtok/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/nyoshul-lungtok/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8571
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rendawa-shonnu-lodro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rendawa-shonnu-lodro/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8574
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/adzom-drukpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/adzom-drukpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8611
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/chatral-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/chatral-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8625
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/drime-osal-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/drime-osal-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8634
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rangrik-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rangrik-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8641
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sakya-trichen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sakya-trichen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8651
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khandro-tare-lhamo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khandro-tare-lhamo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8670
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsultrim-zangpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsultrim-zangpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8684
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tamdrin-gonpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tamdrin-gonpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8750
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dorje-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dorje-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8782
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shakya-shri/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shakya-shri/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8814
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shechen-rabjam-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shechen-rabjam-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8825
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dilgo-khyentse/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dilgo-khyentse/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8836
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/trulshik-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/trulshik-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8857
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/melong-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/melong-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8891
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/guru-jober/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/guru-jober/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8923
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/zhangton-tashi-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/zhangton-tashi-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8933
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-bakhal-mukpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-bakhal-mukpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8964
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/sherab-ozer/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/sherab-ozer/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8969
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tarthang-tulku/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tarthang-tulku/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8972
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/penor-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/penor-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8986
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_8987
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/shikpo-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/shikpo-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/mandarava/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/mandarava/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9047
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-kunzang-rangdrol/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-kunzang-rangdrol/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9052
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tashi-tobgyal/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tashi-tobgyal/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9083
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/apang-terton/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/apang-terton/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9084
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/karma-chakme/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/karma-chakme/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9126
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dzogchen-pema-rigdzin/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dzogchen-pema-rigdzin/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9190
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/terton-mingyur-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/terton-mingyur-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9201
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/third-karmapa-rangjung-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/third-karmapa-rangjung-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9203
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-yonten-gonpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-yonten-gonpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9214
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dzongter-kunzang-nyima/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dzongter-kunzang-nyima/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9275
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lochen-dharmashri/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lochen-dharmashri/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9278
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/namkhai-norbu-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/namkhai-norbu-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9319
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/choje-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/choje-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9355
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-pema-vajra/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-pema-vajra/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9361
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lelung-shepe-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lelung-shepe-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9369
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/adeu-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/adeu-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9372
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/katok-rigdzin-tsewang-norbu/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/katok-rigdzin-tsewang-norbu/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9394
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jetsun-mingyur-paldron/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jetsun-mingyur-paldron/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9555
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/metrul-Tenzin-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/metrul-Tenzin-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9572
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tulku-zangpo-drakpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tulku-zangpo-drakpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9585
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-tekchok-loden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-tekchok-loden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9587
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/tupten-chopel/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/tupten-chopel/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9592
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-yonten-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-yonten-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9593
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-kunzang-palden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-kunzang-palden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9594
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/kunga-palden/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/kunga-palden/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9601
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/gyalse-shenpen-taye/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/gyalse-shenpen-taye/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9612
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/do-khyentse/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/do-khyentse/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9622
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-shenga/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-shenga/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9633
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/minling-terchen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/minling-terchen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9646
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/fifth-dzogchen-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/fifth-dzogchen-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9677
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pema-dechen-gyalpo/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pema-dechen-gyalpo/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9688
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/dudjom-lingpa/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/dudjom-lingpa/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9699
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/katok-situ-chokyi-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/katok-situ-chokyi-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9720
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/ngawang-tenzin-norbu/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/ngawang-tenzin-norbu/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9839
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/lobzang-chokyi-gyaltsen/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/lobzang-chokyi-gyaltsen/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9895
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenchen-ngawang-palzang/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenchen-ngawang-palzang/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9924
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/pakchok-dorje/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/pakchok-dorje/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9929
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/khenpo-munsel/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/khenpo-munsel/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9968
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/golok-serta-rinpoche/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/golok-serta-rinpoche/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9979
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/rago-choktrul-tupten-shedrup-gyatso/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/rago-choktrul-tupten-shedrup-gyatso/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9985
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/indian-masters/vimalamitra/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/indian-masters/vimalamitra/"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_lotsawa_house_Person_9990
 	a gist:ElectronicAddress ;
-	gist:isCategorizedBy
-		tolx:_AddressUsageType_reference ,
-		tolx:_ElectronicAddressType_url
-		;
+	skos:prefLabel "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/"^^xsd:string ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	gist:refersTo told:_Website_lotsawa_house ;
 	tolo:url "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/"^^xsd:anyURI ;
 	.
