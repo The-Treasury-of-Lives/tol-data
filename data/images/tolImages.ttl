@@ -946,8 +946,8 @@ told:_Image_1
 	tolo:depicts told:_IntellectualProperty_1 ;
 	tolo:filePath "HAR595_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_1 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:48:44"^^xsd:dateTime ;
 	.
 
@@ -959,8 +959,8 @@ told:_Image_10
 	tolo:depicts told:_IntellectualProperty_10 ;
 	tolo:filePath "HAR946_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_10 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T12:25:07"^^xsd:dateTime ;
 	.
 
@@ -973,8 +973,8 @@ told:_Image_100
 	tolo:depicts told:_IntellectualProperty_100 ;
 	tolo:filePath "machig-57037.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_100 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-03-12T16:34:35"^^xsd:dateTime ;
 	.
 
@@ -987,8 +987,8 @@ told:_Image_101
 	tolo:depicts told:_IntellectualProperty_101 ;
 	tolo:filePath "machik-field.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_101 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-03-13T17:18:36"^^xsd:dateTime ;
 	.
 
@@ -1000,8 +1000,8 @@ told:_Image_102
 	tolo:depicts told:_IntellectualProperty_102 ;
 	tolo:filePath "padmasambhava-guru-drakpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_102 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-10-30T16:40:20"^^xsd:dateTime ;
 	.
 
@@ -1014,8 +1014,8 @@ told:_Image_103
 	tolo:depicts told:_IntellectualProperty_103 ;
 	tolo:filePath "namkhai-nyingpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_103 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-01-09T16:02:47"^^xsd:dateTime ;
 	.
 
@@ -1028,8 +1028,8 @@ told:_Image_104
 	tolo:depicts told:_IntellectualProperty_104 ;
 	tolo:filePath "Karmapa-10-Avalokiteshvara.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_104 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-01-24T21:21:30"^^xsd:dateTime ;
 	.
 
@@ -1041,8 +1041,8 @@ told:_Image_105
 	tolo:depicts told:_IntellectualProperty_105 ;
 	tolo:filePath "pehar.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_105 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-02-01T18:52:41"^^xsd:dateTime ;
 	.
 
@@ -1055,8 +1055,8 @@ told:_Image_107
 	tolo:depicts told:_IntellectualProperty_107 ;
 	tolo:filePath "1997.305_print.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_107 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-04-24T14:16:18"^^xsd:dateTime ;
 	.
 
@@ -1069,8 +1069,8 @@ told:_Image_108
 	tolo:depicts told:_IntellectualProperty_108 ;
 	tolo:filePath "atisa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_108 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-05-02T15:48:11"^^xsd:dateTime ;
 	.
 
@@ -1083,8 +1083,8 @@ told:_Image_109
 	tolo:depicts told:_IntellectualProperty_109 ;
 	tolo:filePath "2000.67_print.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_109 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-11-15T16:08:18"^^xsd:dateTime ;
 	.
 
@@ -1097,8 +1097,8 @@ told:_Image_11
 	tolo:depicts told:_IntellectualProperty_11 ;
 	tolo:filePath "HAR493_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_11 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T12:16:08"^^xsd:dateTime ;
 	.
 
@@ -1110,8 +1110,8 @@ told:_Image_110
 	tolo:depicts told:_IntellectualProperty_110 ;
 	tolo:filePath "Lhalungpas-Gene-Smith-Delhi.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_110 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2021-02-16T16:45:13"^^xsd:dateTime ;
 	.
 
@@ -1123,8 +1123,8 @@ told:_Image_114
 	tolo:depicts told:_IntellectualProperty_114 ;
 	tolo:filePath "HHDL Letter Lhalungpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_114 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-12-17T14:44:15"^^xsd:dateTime ;
 	.
 
@@ -1136,8 +1136,8 @@ told:_Image_115
 	tolo:depicts told:_IntellectualProperty_115 ;
 	tolo:filePath "St. Josephs Letter to Lhalungpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_115 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-12-10T18:42:09"^^xsd:dateTime ;
 	.
 
@@ -1149,8 +1149,8 @@ told:_Image_116
 	tolo:depicts told:_IntellectualProperty_116 ;
 	tolo:filePath "Sakya Settlement Receipt.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_116 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-12-17T14:42:34"^^xsd:dateTime ;
 	.
 
@@ -1162,8 +1162,8 @@ told:_Image_117
 	tolo:depicts told:_IntellectualProperty_117 ;
 	tolo:filePath "Bonpo Foundation Receipt.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_117 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-12-17T14:42:19"^^xsd:dateTime ;
 	.
 
@@ -1175,8 +1175,8 @@ told:_Image_118
 	tolo:depicts told:_IntellectualProperty_118 ;
 	tolo:filePath "vajrakila.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_118 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2020-05-15T16:28:36"^^xsd:dateTime ;
 	.
 
@@ -1189,8 +1189,8 @@ told:_Image_119
 	tolo:depicts told:_IntellectualProperty_119 ;
 	tolo:filePath "avalokitshvara-tsebumluk.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_119 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2020-12-08T14:50:52"^^xsd:dateTime ;
 	.
 
@@ -1202,8 +1202,8 @@ told:_Image_12
 	tolo:depicts told:_IntellectualProperty_12 ;
 	tolo:filePath "HAR457_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_12 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T12:12:55"^^xsd:dateTime ;
 	.
 
@@ -1215,8 +1215,8 @@ told:_Image_120
 	tolo:depicts told:_IntellectualProperty_120 ;
 	tolo:filePath "meu-gyalpo-tsetan-zhabdrung.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_120 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2020-08-25T13:35:43"^^xsd:dateTime ;
 	.
 
@@ -1228,8 +1228,8 @@ told:_Image_121
 	tolo:depicts told:_IntellectualProperty_121 ;
 	tolo:filePath "Mustang leaders (medium-res).jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_121 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
 	.
 
@@ -1242,8 +1242,8 @@ told:_Image_122
 	tolo:depicts told:_IntellectualProperty_122 ;
 	tolo:filePath "Hastings_House_Calcutta_1910.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_122 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2022-09-07T18:52:51"^^xsd:dateTime ;
 	.
 
@@ -1255,8 +1255,8 @@ told:_Image_123
 	tolo:depicts told:_IntellectualProperty_123 ;
 	tolo:filePath "bakula-panchen-ktm-1986.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_123 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2022-09-07T19:07:12"^^xsd:dateTime ;
 	.
 
@@ -1269,8 +1269,8 @@ told:_Image_124
 	tolo:depicts told:_IntellectualProperty_124 ;
 	tolo:filePath "tsarongs-losar-1937.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_124 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2022-09-07T19:18:23"^^xsd:dateTime ;
 	.
 
@@ -1283,8 +1283,8 @@ told:_Image_125
 	tolo:depicts told:_IntellectualProperty_125 ;
 	tolo:filePath "Sheltonpage299.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_125 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2022-09-07T19:48:10"^^xsd:dateTime ;
 	.
 
@@ -1296,8 +1296,8 @@ told:_Image_126
 	tolo:depicts told:_IntellectualProperty_126 ;
 	tolo:filePath "Sixteenth-Karmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_126 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2023-01-11T17:47:58"^^xsd:dateTime ;
 	.
 
@@ -1310,8 +1310,8 @@ told:_Image_127
 	tolo:depicts told:_IntellectualProperty_127 ;
 	tolo:filePath "PanchenLama.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_127 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2023-01-18T15:41:24"^^xsd:dateTime ;
 	.
 
@@ -1323,8 +1323,8 @@ told:_Image_128
 	tolo:depicts told:_IntellectualProperty_128 ;
 	tolo:filePath "tsetenzhabdrung-subgrabgyatso.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_128 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2023-05-25T15:47:43"^^xsd:dateTime ;
 	.
 
@@ -1336,8 +1336,8 @@ told:_Image_13
 	tolo:depicts told:_IntellectualProperty_13 ;
 	tolo:filePath "HAR96_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_13 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T11:43:47"^^xsd:dateTime ;
 	.
 
@@ -1349,8 +1349,8 @@ told:_Image_130
 	tolo:depicts told:_IntellectualProperty_130 ;
 	tolo:filePath "georges-lhalungpa-gyurdrak.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_130 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2024-01-09T22:53:11"^^xsd:dateTime ;
 	.
 
@@ -1362,8 +1362,8 @@ told:_Image_131
 	tolo:depicts told:_IntellectualProperty_131 ;
 	tolo:filePath "barawa-refuge-field.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_131 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2024-01-30T15:45:03"^^xsd:dateTime ;
 	.
 
@@ -1375,8 +1375,8 @@ told:_Image_132
 	tolo:depicts told:_IntellectualProperty_132 ;
 	tolo:filePath "AvalokitesvaraHAR40.jpeg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_132 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2024-02-07T17:07:33"^^xsd:dateTime ;
 	.
 
@@ -1388,8 +1388,8 @@ told:_Image_133
 	tolo:depicts told:_IntellectualProperty_133 ;
 	tolo:filePath "tibetan-primer.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_133 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2024-02-15T14:06:05"^^xsd:dateTime ;
 	.
 
@@ -1401,8 +1401,8 @@ told:_Image_134
 	tolo:depicts told:_IntellectualProperty_134 ;
 	tolo:filePath "DudjomRinpocheKalimpong.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_134 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2024-02-13T20:46:28"^^xsd:dateTime ;
 	.
 
@@ -1415,8 +1415,8 @@ told:_Image_136
 	tolo:depicts told:_IntellectualProperty_136 ;
 	tolo:filePath "rahula.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_136 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2024-04-08T16:49:12"^^xsd:dateTime ;
 	.
 
@@ -1429,8 +1429,8 @@ told:_Image_15
 	tolo:depicts told:_IntellectualProperty_15 ;
 	tolo:filePath "HAR580_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_15 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:51:58"^^xsd:dateTime ;
 	.
 
@@ -1442,8 +1442,8 @@ told:_Image_16
 	tolo:depicts told:_IntellectualProperty_16 ;
 	tolo:filePath "HAR63_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_16 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T11:19:02"^^xsd:dateTime ;
 	.
 
@@ -1455,8 +1455,8 @@ told:_Image_17
 	tolo:depicts told:_IntellectualProperty_17 ;
 	tolo:filePath "HAR935_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_17 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T11:18:03"^^xsd:dateTime ;
 	.
 
@@ -1468,8 +1468,8 @@ told:_Image_18
 	tolo:depicts told:_IntellectualProperty_18 ;
 	tolo:filePath "HAR76_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_18 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-10-07T12:05:40"^^xsd:dateTime ;
 	.
 
@@ -1482,8 +1482,8 @@ told:_Image_19
 	tolo:depicts told:_IntellectualProperty_19 ;
 	tolo:filePath "89141.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_19 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:02:00"^^xsd:dateTime ;
 	.
 
@@ -1496,8 +1496,8 @@ told:_Image_2
 	tolo:depicts told:_IntellectualProperty_2 ;
 	tolo:filePath "HAR82_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_2 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-03-22T09:30:26"^^xsd:dateTime ;
 	.
 
@@ -1509,8 +1509,8 @@ told:_Image_20
 	tolo:depicts told:_IntellectualProperty_20 ;
 	tolo:filePath "68871.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_20 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T10:14:49"^^xsd:dateTime ;
 	.
 
@@ -1522,8 +1522,8 @@ told:_Image_21
 	tolo:depicts told:_IntellectualProperty_21 ;
 	tolo:filePath "89957.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_21 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:28:06"^^xsd:dateTime ;
 	.
 
@@ -1536,8 +1536,8 @@ told:_Image_22
 	tolo:depicts told:_IntellectualProperty_22 ;
 	tolo:filePath "508.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_22 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:46:52"^^xsd:dateTime ;
 	.
 
@@ -1550,8 +1550,8 @@ told:_Image_24
 	tolo:depicts told:_IntellectualProperty_24 ;
 	tolo:filePath "65205.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_24 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:26:43"^^xsd:dateTime ;
 	.
 
@@ -1563,8 +1563,8 @@ told:_Image_25
 	tolo:depicts told:_IntellectualProperty_25 ;
 	tolo:filePath "65461.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_25 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T10:15:19"^^xsd:dateTime ;
 	.
 
@@ -1576,8 +1576,8 @@ told:_Image_26
 	tolo:depicts told:_IntellectualProperty_26 ;
 	tolo:filePath "68480.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_26 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_233 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_233 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:56:42"^^xsd:dateTime ;
 	.
 
@@ -1589,8 +1589,8 @@ told:_Image_28
 	tolo:depicts told:_IntellectualProperty_28 ;
 	tolo:filePath "rsz_1rsz_189141_smaller.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_28 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:27:23"^^xsd:dateTime ;
 	.
 
@@ -1603,8 +1603,8 @@ told:_Image_29
 	tolo:depicts told:_IntellectualProperty_29 ;
 	tolo:filePath "65861 refuge tree smaller.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_29 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:59:07"^^xsd:dateTime ;
 	.
 
@@ -1616,8 +1616,8 @@ told:_Image_3
 	tolo:depicts told:_IntellectualProperty_3 ;
 	tolo:filePath "HAR642_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_3 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:41:34"^^xsd:dateTime ;
 	.
 
@@ -1629,8 +1629,8 @@ told:_Image_30
 	tolo:depicts told:_IntellectualProperty_30 ;
 	tolo:filePath "410 Tsongkhapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_30 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:03:00"^^xsd:dateTime ;
 	.
 
@@ -1642,8 +1642,8 @@ told:_Image_31
 	tolo:depicts told:_IntellectualProperty_31 ;
 	tolo:filePath "HAR276.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_31 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:09:31"^^xsd:dateTime ;
 	.
 
@@ -1656,8 +1656,8 @@ told:_Image_32
 	tolo:depicts told:_IntellectualProperty_32 ;
 	tolo:filePath "380.Seventh DL.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_32 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:10:15"^^xsd:dateTime ;
 	.
 
@@ -1670,8 +1670,8 @@ told:_Image_33
 	tolo:depicts told:_IntellectualProperty_33 ;
 	tolo:filePath "65119.Pakmodrupa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_33 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_233 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_233 ;
 	tolo:lastModifiedDateTime "2016-03-21T13:31:35"^^xsd:dateTime ;
 	.
 
@@ -1684,8 +1684,8 @@ told:_Image_34
 	tolo:depicts told:_IntellectualProperty_34 ;
 	tolo:filePath "285 Padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_34 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:30:05"^^xsd:dateTime ;
 	.
 
@@ -1697,8 +1697,8 @@ told:_Image_35
 	tolo:depicts told:_IntellectualProperty_35 ;
 	tolo:filePath "160.Padma and Nyangrel.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_35 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:10:55"^^xsd:dateTime ;
 	.
 
@@ -1710,8 +1710,8 @@ told:_Image_36
 	tolo:depicts told:_IntellectualProperty_36 ;
 	tolo:filePath "65193.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_36 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:11:47"^^xsd:dateTime ;
 	.
 
@@ -1723,8 +1723,8 @@ told:_Image_37
 	tolo:depicts told:_IntellectualProperty_37 ;
 	tolo:filePath "gampopa-karmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_37 ;
-	tolo:isCreatedByUser told:_UserAccount_294 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_294 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2020-09-16T17:30:12"^^xsd:dateTime ;
 	.
 
@@ -1736,8 +1736,8 @@ told:_Image_39
 	tolo:depicts told:_IntellectualProperty_39 ;
 	tolo:filePath "412.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_39 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T14:12:44"^^xsd:dateTime ;
 	.
 
@@ -1749,8 +1749,8 @@ told:_Image_40
 	tolo:depicts told:_IntellectualProperty_40 ;
 	tolo:filePath "1034.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_40 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T10:52:58"^^xsd:dateTime ;
 	.
 
@@ -1763,8 +1763,8 @@ told:_Image_42
 	tolo:depicts told:_IntellectualProperty_42 ;
 	tolo:filePath "65401.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_42 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T11:50:46"^^xsd:dateTime ;
 	.
 
@@ -1776,8 +1776,8 @@ told:_Image_43
 	tolo:depicts told:_IntellectualProperty_43 ;
 	tolo:filePath "65249.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_43 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-10-28T11:39:04"^^xsd:dateTime ;
 	.
 
@@ -1789,8 +1789,8 @@ told:_Image_44
 	tolo:depicts told:_IntellectualProperty_44 ;
 	tolo:filePath "362.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_44 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-03T17:26:55"^^xsd:dateTime ;
 	.
 
@@ -1802,8 +1802,8 @@ told:_Image_46
 	tolo:depicts told:_IntellectualProperty_46 ;
 	tolo:filePath "milarepa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_46 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_233 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_233 ;
 	tolo:lastModifiedDateTime "2016-06-08T22:49:14"^^xsd:dateTime ;
 	.
 
@@ -1816,8 +1816,8 @@ told:_Image_48
 	tolo:depicts told:_IntellectualProperty_48 ;
 	tolo:filePath "tsuklak-gyatso.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_48 ;
-	tolo:isCreatedByUser told:_UserAccount_233 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_233 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-05-08T12:52:18"^^xsd:dateTime ;
 	.
 
@@ -1829,8 +1829,8 @@ told:_Image_49
 	tolo:depicts told:_IntellectualProperty_49 ;
 	tolo:filePath "sakyasribhadra.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_49 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-06-03T13:19:00"^^xsd:dateTime ;
 	.
 
@@ -1843,8 +1843,8 @@ told:_Image_5
 	tolo:depicts told:_IntellectualProperty_5 ;
 	tolo:filePath "HAR65789_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_5 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:35:57"^^xsd:dateTime ;
 	.
 
@@ -1857,8 +1857,8 @@ told:_Image_50
 	tolo:depicts told:_IntellectualProperty_50 ;
 	tolo:filePath "DelegationPicture.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_50 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-08-05T12:27:09"^^xsd:dateTime ;
 	.
 
@@ -1870,8 +1870,8 @@ told:_Image_51
 	tolo:depicts told:_IntellectualProperty_51 ;
 	tolo:filePath "padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_51 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-06-10T14:37:22"^^xsd:dateTime ;
 	.
 
@@ -1884,8 +1884,8 @@ told:_Image_52
 	tolo:depicts told:_IntellectualProperty_52 ;
 	tolo:filePath "demoness.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_52 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-01-23T15:35:15"^^xsd:dateTime ;
 	.
 
@@ -1897,8 +1897,8 @@ told:_Image_53
 	tolo:depicts told:_IntellectualProperty_53 ;
 	tolo:filePath "Terton Couple with Khenpo Jigme Phuntsok.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_53 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-06-13T13:11:20"^^xsd:dateTime ;
 	.
 
@@ -1910,8 +1910,8 @@ told:_Image_54
 	tolo:depicts told:_IntellectualProperty_54 ;
 	tolo:filePath "1066-godemchen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_54 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-06-13T16:21:29"^^xsd:dateTime ;
 	.
 
@@ -1923,8 +1923,8 @@ told:_Image_55
 	tolo:depicts told:_IntellectualProperty_55 ;
 	tolo:filePath "376-puchungwa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_55 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-06-13T16:41:41"^^xsd:dateTime ;
 	.
 
@@ -1936,8 +1936,8 @@ told:_Image_56
 	tolo:depicts told:_IntellectualProperty_56 ;
 	tolo:filePath "413-padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_56 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-07-14T11:57:23"^^xsd:dateTime ;
 	.
 
@@ -1949,8 +1949,8 @@ told:_Image_57
 	tolo:depicts told:_IntellectualProperty_57 ;
 	tolo:filePath "photo (9).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_57 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:36:32"^^xsd:dateTime ;
 	.
 
@@ -1962,8 +1962,8 @@ told:_Image_58
 	tolo:depicts told:_IntellectualProperty_58 ;
 	tolo:filePath "photo (11).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_58 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-16T14:04:47"^^xsd:dateTime ;
 	.
 
@@ -1975,8 +1975,8 @@ told:_Image_59
 	tolo:depicts told:_IntellectualProperty_59 ;
 	tolo:filePath "LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_59 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-16T14:25:35"^^xsd:dateTime ;
 	.
 
@@ -1988,8 +1988,8 @@ told:_Image_6
 	tolo:depicts told:_IntellectualProperty_6 ;
 	tolo:filePath "HAR134_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_6 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:33:39"^^xsd:dateTime ;
 	.
 
@@ -2001,8 +2001,8 @@ told:_Image_60
 	tolo:depicts told:_IntellectualProperty_60 ;
 	tolo:filePath "LhagyariWedding.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_60 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:36:16"^^xsd:dateTime ;
 	.
 
@@ -2014,8 +2014,8 @@ told:_Image_61
 	tolo:depicts told:_IntellectualProperty_61 ;
 	tolo:filePath "photo (7).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_61 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-22T14:58:29"^^xsd:dateTime ;
 	.
 
@@ -2028,8 +2028,8 @@ told:_Image_62
 	tolo:depicts told:_IntellectualProperty_62 ;
 	tolo:filePath "Courtsey of Shambhala Publications.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_62 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-17T15:14:20"^^xsd:dateTime ;
 	.
 
@@ -2041,8 +2041,8 @@ told:_Image_63
 	tolo:depicts told:_IntellectualProperty_63 ;
 	tolo:filePath "Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_63 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-17T15:40:41"^^xsd:dateTime ;
 	.
 
@@ -2055,8 +2055,8 @@ told:_Image_64
 	tolo:depicts told:_IntellectualProperty_64 ;
 	tolo:filePath "BabyAustin.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_64 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:45:24"^^xsd:dateTime ;
 	.
 
@@ -2068,8 +2068,8 @@ told:_Image_65
 	tolo:depicts told:_IntellectualProperty_65 ;
 	tolo:filePath "photo-20.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_65 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:01:33"^^xsd:dateTime ;
 	.
 
@@ -2082,8 +2082,8 @@ told:_Image_66
 	tolo:depicts told:_IntellectualProperty_66 ;
 	tolo:filePath "Lowo Khenchen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_66 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2016-06-22T16:41:13"^^xsd:dateTime ;
 	.
 
@@ -2096,8 +2096,8 @@ told:_Image_67
 	tolo:depicts told:_IntellectualProperty_67 ;
 	tolo:filePath "C2009.4HAR65848.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_67 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-03-22T13:09:34"^^xsd:dateTime ;
 	.
 
@@ -2110,8 +2110,8 @@ told:_Image_68
 	tolo:depicts told:_IntellectualProperty_68 ;
 	tolo:filePath "62 Rubin Dalai Lama C2003.9.2 image only.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_68 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-09-06T15:43:44"^^xsd:dateTime ;
 	.
 
@@ -2123,8 +2123,8 @@ told:_Image_69
 	tolo:depicts told:_IntellectualProperty_69 ;
 	tolo:filePath "Lhasa perspective.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_69 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-09-07T12:55:31"^^xsd:dateTime ;
 	.
 
@@ -2136,8 +2136,8 @@ told:_Image_7
 	tolo:depicts told:_IntellectualProperty_7 ;
 	tolo:filePath "HAR128_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_7 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T13:31:44"^^xsd:dateTime ;
 	.
 
@@ -2149,8 +2149,8 @@ told:_Image_70
 	tolo:depicts told:_IntellectualProperty_70 ;
 	tolo:filePath "R Sadutshang with Taklha.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_70 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-09-07T17:29:01"^^xsd:dateTime ;
 	.
 
@@ -2162,8 +2162,8 @@ told:_Image_71
 	tolo:depicts told:_IntellectualProperty_71 ;
 	tolo:filePath "Lo Gendun Sadutshang.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_71 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-09-09T13:48:35"^^xsd:dateTime ;
 	.
 
@@ -2175,8 +2175,8 @@ told:_Image_72
 	tolo:depicts told:_IntellectualProperty_72 ;
 	tolo:filePath "UN Delegation pic.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_72 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2019-06-05T17:58:57"^^xsd:dateTime ;
 	.
 
@@ -2188,8 +2188,8 @@ told:_Image_73
 	tolo:depicts told:_IntellectualProperty_73 ;
 	tolo:filePath "khedrupje.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_73 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-09-08T14:55:11"^^xsd:dateTime ;
 	.
 
@@ -2201,8 +2201,8 @@ told:_Image_74
 	tolo:depicts told:_IntellectualProperty_74 ;
 	tolo:filePath "thirdkarmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_74 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2020-06-19T15:58:07"^^xsd:dateTime ;
 	.
 
@@ -2215,8 +2215,8 @@ told:_Image_77
 	tolo:depicts told:_IntellectualProperty_77 ;
 	tolo:filePath "milarepa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_77 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2017-01-12T11:25:33"^^xsd:dateTime ;
 	.
 
@@ -2228,8 +2228,8 @@ told:_Image_78
 	tolo:depicts told:_IntellectualProperty_78 ;
 	tolo:filePath "kundeling.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_78 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-08-24T18:26:25"^^xsd:dateTime ;
 	.
 
@@ -2241,8 +2241,8 @@ told:_Image_79
 	tolo:depicts told:_IntellectualProperty_79 ;
 	tolo:filePath "photo (14).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_79 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2016-12-15T17:41:32"^^xsd:dateTime ;
 	.
 
@@ -2255,8 +2255,8 @@ told:_Image_8
 	tolo:depicts told:_IntellectualProperty_8 ;
 	tolo:filePath "HAR269_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_8 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2016-05-26T12:46:37"^^xsd:dateTime ;
 	.
 
@@ -2268,8 +2268,8 @@ told:_Image_80
 	tolo:depicts told:_IntellectualProperty_80 ;
 	tolo:filePath "rigdzinkunzangsherab.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_80 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-01-30T11:14:03"^^xsd:dateTime ;
 	.
 
@@ -2282,8 +2282,8 @@ told:_Image_81
 	tolo:depicts told:_IntellectualProperty_81 ;
 	tolo:filePath "tsongkhapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_81 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-02-01T12:55:30"^^xsd:dateTime ;
 	.
 
@@ -2295,8 +2295,8 @@ told:_Image_82
 	tolo:depicts told:_IntellectualProperty_82 ;
 	tolo:filePath "machik.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_82 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-02-03T11:42:58"^^xsd:dateTime ;
 	.
 
@@ -2308,8 +2308,8 @@ told:_Image_83
 	tolo:depicts told:_IntellectualProperty_83 ;
 	tolo:filePath "padmasambhava-disciples.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_83 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2020-04-30T19:22:51"^^xsd:dateTime ;
 	.
 
@@ -2321,8 +2321,8 @@ told:_Image_84
 	tolo:depicts told:_IntellectualProperty_84 ;
 	tolo:filePath "mahakala-drukpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_84 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-03-22T12:26:37"^^xsd:dateTime ;
 	.
 
@@ -2334,8 +2334,8 @@ told:_Image_85
 	tolo:depicts told:_IntellectualProperty_85 ;
 	tolo:filePath "01047.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_85 ;
-	tolo:isCreatedByUser told:_UserAccount_2 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_2 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-06-13T12:12:00"^^xsd:dateTime ;
 	.
 
@@ -2347,8 +2347,8 @@ told:_Image_87
 	tolo:depicts told:_IntellectualProperty_87 ;
 	tolo:filePath "photo (22).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_87 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2017-06-15T17:12:24"^^xsd:dateTime ;
 	.
 
@@ -2360,8 +2360,8 @@ told:_Image_88
 	tolo:depicts told:_IntellectualProperty_88 ;
 	tolo:filePath "photo (23).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_88 ;
-	tolo:isCreatedByUser told:_UserAccount_343 ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
+	tolo:isCreatedByUser told:_User_343 ;
+	tolo:isLastModifiedByUser told:_User_343 ;
 	tolo:lastModifiedDateTime "2017-06-16T15:10:15"^^xsd:dateTime ;
 	.
 
@@ -2373,8 +2373,8 @@ told:_Image_89
 	tolo:depicts told:_IntellectualProperty_89 ;
 	tolo:filePath "khukpa-lhetse.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_89 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-08-22T12:02:52"^^xsd:dateTime ;
 	.
 
@@ -2387,8 +2387,8 @@ told:_Image_9
 	tolo:depicts told:_IntellectualProperty_9 ;
 	tolo:filePath "HAR65232_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_9 ;
-	tolo:isCreatedByUser told:_UserAccount_1 ;
-	tolo:isLastModifiedByUser told:_UserAccount_233 ;
+	tolo:isCreatedByUser told:_User_1 ;
+	tolo:isLastModifiedByUser told:_User_233 ;
 	tolo:lastModifiedDateTime "2016-06-22T15:56:55"^^xsd:dateTime ;
 	.
 
@@ -2400,8 +2400,8 @@ told:_Image_90
 	tolo:depicts told:_IntellectualProperty_90 ;
 	tolo:filePath "do-khyentse.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_90 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-08-22T12:23:15"^^xsd:dateTime ;
 	.
 
@@ -2413,8 +2413,8 @@ told:_Image_91
 	tolo:depicts told:_IntellectualProperty_91 ;
 	tolo:filePath "shakyamuni.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_91 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_2 ;
 	tolo:lastModifiedDateTime "2024-01-25T21:20:27"^^xsd:dateTime ;
 	.
 
@@ -2426,8 +2426,8 @@ told:_Image_93
 	tolo:depicts told:_IntellectualProperty_93 ;
 	tolo:filePath "pemakarpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_93 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-11-01T16:53:15"^^xsd:dateTime ;
 	.
 
@@ -2439,8 +2439,8 @@ told:_Image_94
 	tolo:depicts told:_IntellectualProperty_94 ;
 	tolo:filePath "sachen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_94 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2017-11-02T15:13:19"^^xsd:dateTime ;
 	.
 
@@ -2452,8 +2452,8 @@ told:_Image_95
 	tolo:depicts told:_IntellectualProperty_95 ;
 	tolo:filePath "avalokiteshvara.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_95 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-01-18T15:59:00"^^xsd:dateTime ;
 	.
 
@@ -2466,8 +2466,8 @@ told:_Image_97
 	tolo:depicts told:_IntellectualProperty_97 ;
 	tolo:filePath "65094.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_97 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	.
 
 told:_Image_98
@@ -2479,8 +2479,8 @@ told:_Image_98
 	tolo:depicts told:_IntellectualProperty_98 ;
 	tolo:filePath "Padmasambhava-Sengge-Dradok.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_98 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-02-01T19:47:32"^^xsd:dateTime ;
 	.
 
@@ -2493,8 +2493,8 @@ told:_Image_99
 	tolo:depicts told:_IntellectualProperty_99 ;
 	tolo:filePath "jatson-nyingpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_99 ;
-	tolo:isCreatedByUser told:_UserAccount_342 ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
+	tolo:isCreatedByUser told:_User_342 ;
+	tolo:isLastModifiedByUser told:_User_342 ;
 	tolo:lastModifiedDateTime "2018-02-02T16:10:49"^^xsd:dateTime ;
 	.
 
