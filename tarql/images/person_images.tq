@@ -21,7 +21,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # person_image_id (ignore)
 # person_id
 # image_file_name
-# thumb_file_name
+# thumb_file_name (ignore)
+# concat (ignore)
+# concat_thumb (ignore)
+# complete_file_path
+# complete_file_path_thumb
 # har_number
 # image_credit
 # is_primary
@@ -32,7 +36,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # caption
 
 # Run:
-# tarql --dedup 10000 -e utf-8 person_images.tq person-image-3-18-24.csv > tolPersonImages.ttl
+# tarql --dedup 10000 -e utf-8 person_images.tq person-image-11-11-24.csv > tolPersonImages.ttl
 
 CONSTRUCT {
 
@@ -41,8 +45,7 @@ CONSTRUCT {
         skos:prefLabel ?image_label_en ;
         tolo:depicts ?work_iri ;
         tolo:caption ?caption_en ;
-        # Treated as a "degenerate" path even though it's just the filename, since apparently the front end hard-codes the path.
-        tolo:filePath ?image_file_name ;
+        tolo:filePath ?complete_file_path ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
 
@@ -67,8 +70,8 @@ CONSTRUCT {
 
     ?thumbnail_iri
         a tolo:Image ;
-        skos:prefLabel ?thumb_label_en ;
-        tolo:fileName ?thumb_file_name ;
+        skos:prefLabel ?image_label_en ;
+        tolo:filePath ?complete_file_path_thumb ;
         gist:isExpressedIn ?media_type_iri ;
         .
 
@@ -85,17 +88,18 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    # Use image filename for IRIs to ensure uniqueness
-    BIND(LCASE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\W", "_")) AS ?filename)
+    # Use image file path for IRIs to ensure uniqueness
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?complete_file_path, "^/", ""), "['()]", ""), "\\W", "_")) AS ?file_path)
+    #BIND(LCASE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\W", "_")) AS ?filenanme)
     # BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?filename)) AS ?image_file_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?filename)) AS ?work_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?file_path)) AS ?image_file_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?file_path)) AS ?work_iri)
 
     # NB TARQL will not add the explicit datatype xsd:string.
     # BIND(STRDT(?image_file_name, xsd:string) AS ?image_file_name_str)
 
     # Media type (applies to both main image and thumbnail)
-    BIND(LCASE(REPLACE(?image_file_name, "^.+\\.", "")) AS ?image_file_ext)
+    BIND(LCASE(REPLACE(?complete_file_path, "^.+\\.", "")) AS ?image_file_ext)
     BIND(
         COALESCE(
             IF(?image_file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
@@ -104,11 +108,10 @@ WHERE {
     )
 
     # Thumbnail
-    BIND(LCASE(REPLACE(REPLACE(?thumb_file_name, "['()]", ""), "\\W", "_")) AS ?thumb_name)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?thumb_name)) AS ?thumbnail_iri)
+    BIND(LCASE(REPLACE(REPLACE(REPLACE(?complete_file_path_thumb, "^/", ""), "['()]", ""), "\\W", "_")) AS ?file_path_thumb)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?file_path_thumb)) AS ?thumbnail_iri)
 
     BIND(STRLANG(REPLACE(?image_file_name, "\\.[^.]+$", ""), "en") AS ?image_label_en)
-    BIND(STRLANG(REPLACE(?thumb_file_name, "\\.[^.]+$", ""), "en") AS ?thumb_label_en)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
 
