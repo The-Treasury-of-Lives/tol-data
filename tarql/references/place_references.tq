@@ -21,57 +21,51 @@ PREFIX olid: <https://openlibrary.org/works/>
 
 
 ## COLUMNS
-# PERSON ID
-# PLACE ID
 # TOL Source ID
-# Source Lang Tag
 # Source
+# PLACE ID
+# Source Display
 # Pages
 # BDRC ID
 # VIAF ID
 # OCLC ID
-# LCCN
-# OLID ID
+# url other
+# Source Lang Tag
 # Source Display Lang Tag
-# Source Display
 
 # Run:
-# tarql -e utf-8 --dedup 50000 sources.tq Sources-6-14-24.csv > tolSources.ttl
+# tarql -e utf-8 --dedup 50000 place_references.tq place-sources-11-13-24.csv > tolPlaceReferences.ttl
 
 # NB This is preliminary data and should not be ingested into the knowledge graph in its current form.
 
-
 CONSTRUCT {
 
-    ?subject_iri
-        ?predicate_iri ?source_iri ;
-        .
+    ?place_iri rdfs:seeAlso ?reference_iri .
 
-    ?source_iri
+    ?reference_iri
         a gist:ContentExpression ;
-        skos:prefLabel ?source_label ;
-        owl:sameAs
+        skos:prefLabel ?reference_label ;
+        tolo:pageNumbers ?Pages ;
+        ?predicate_iri
             ?bdrc_iri ,
-            ?viaf_iri ,
-            ?lccn_iri ,
-            ?olid_iri ;
+            ?viaf_iri ;
 
-        gist:isIdentifiedBy
-            ?oclc_id_iri ;
+        # gist:isIdentifiedBy
+        #     ?oclc_id_iri ;
         .
 
     ?display_text_iri
         a gist:FormattedContent ;
-        gist:isAbout ?source_iri ;
+        gist:isAbout ?reference_iri ;
         gist:containedText ?display_text ;
         gist:isExpressedIn media-txt:html ;
         .
 
-    ?worldcat_id_iri
-        a gist:ID ;
-        gist:uniqueText ?OCLC_ID ;
-        gist:isCategorizedBy tolx:_IdType_worldcat ;
-        .
+    # ?worldcat_id_iri
+    #     a gist:ID ;
+    #     gist:uniqueText ?OCLC_ID ;
+    #     gist:isCategorizedBy tolx:_IdType_worldcat ;
+    #     .
 
 }
 
@@ -80,36 +74,25 @@ WHERE {
     # Testing
     # FILTER(?ROWNUM = 1)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_ContentExpression_Source_", ?TOL_Source_ID)) AS ?source_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)) AS ?reference_iri)
 
-    BIND(
-        COALESCE(
-            IF(BOUND(?PERSON_ID), tarql:expandPrefixedName(CONCAT("told:_Biography_", ?PERSON_ID)), ?unbound),
-            IF(BOUND(?PLACE_ID), tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)), ?unbound)
-        )
-        AS ?subject_iri
-    )
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)) AS ?place_iri)
 
-    BIND(
-        COALESCE(
-            IF(BOUND(?PERSON_ID), tarql:expandPrefixedName("tolo:hasBibliographicSource"), ?unbound),
-            IF(BOUND(?PLACE_ID), tarql:expandPrefixedName("rdfs:seeAlso"), ?unbound)
-        )
-        AS ?predicate_iri
-    )
+    #BIND(STRLANG(?Source, ?Source_Lang_Tag) AS ?reference_label)
 
-    BIND(STRLANG(?Source, ?Source_Lang_Tag) AS ?source_label)
-
-    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Source_DisplayText_", ?TOL_Source_ID)) AS ?display_text_iri)
-    BIND(STRLANG(?Source_Display, ?Source_Display_Lang_Tag) AS ?display_text)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_ContentExpression_DisplayText_", ?TOL_Source_ID)) AS ?display_text_iri)
+    #BIND(STRLANG(?Source_Display, ?Source_Display_Lang_Tag) AS ?display_text)
+    BIND(?Source_Display AS ?display_text)
 
     # owl:SameAs
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?BDRC_ID)) AS ?bdrc_iri)
     BIND(tarql:expandPrefixedName(CONCAT("viaf:", ?VIAF_ID)) AS ?viaf_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("lccn:", ?LCCN)) AS ?lccn_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("olid:", ?OLID_ID)) AS ?olid_iri)
 
     # WorldCat
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_worldcat_", ?OCLC_ID)) AS ?worldcat_id_iri)
+
+    # If there are page numbers, then the reference is part of the complete work referenced by the BDRC and VIAF IRIs.
+    BIND(IF(BOUND(?Pages), "gist:isPartOf", "owl:sameAs") AS ?predicate)
+    BIND(tarql:expandPrefixedName(?predicate) AS ?predicate_iri)
 
 }
