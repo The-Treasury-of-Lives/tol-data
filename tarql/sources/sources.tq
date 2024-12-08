@@ -1,0 +1,109 @@
+PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
+PREFIX bdr: <http://purl.bdrc.io/resource/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX told: <https://w3id.org/treasuryoflives/ns/data/tol/>
+PREFIX tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/>
+PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wiki: <https://www.wikidata.org/wiki/>
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX viaf: <https://viaf.org/viaf/>
+
+# To determine whether an IRI returns RDF or HTML (that is, it's a URL), set the HTTP "Accept" header to request RDF rather than HTML. A site that can return RDF for the requested IRI will will return RDF; otherwise, it returns HTML, meaning that the IRI is a URL. There are two ways to set the Accept header: using curl on the commandline, or installing ModHeader or a similar browser extension to achieve the same result with a browser request. (Remember to remove the header when you are done.) Example:
+# curl --header "Accept: application/rdf+xml" https://search.worldcat.org/title/1087869026 - page returned as HTML means it's a URL, not an IRI
+# curl --header "Accept: application/rdf+xml http://purl.bdrc.io/resource/MW00KG07610 - page returned as RDF means it's an IRI
+#
+
+## COLUMNS
+# TOL Source ID
+# Source
+# TOL Source Instance (ignore)
+# TOL Source location ID
+# PLACE ID
+# Source Display
+# Pages
+# BDRC ID
+# VIAF ID
+# OCLC ID
+# IRI (all blank)
+# url other
+
+# Run:
+# tarql -e utf-8 --dedup 50000 sources.tq place-sources-12-8-24.csv > tolSources.ttl
+
+
+CONSTRUCT {
+
+    ?place_iri
+        rdfs:seeAlso
+            ?reference_iri ,
+            ?other_reference ;
+        .
+
+    ?source_iri
+        # Not sure whether an excerpt should itself be considered a ContentExpression or whether that applies only to full works, but avoid defining another class until we're sure.
+        a gist:ContentExpression ;
+        skos:prefLabel ?Source ;
+        tolo:pageNumbers ?Pages ;
+        gist:isDirectPartOf ?full_work_iri ;
+        .
+
+    ?display_text_iri
+        a gist:FormattedContent ;
+        gist:isAbout ?source_iri ;
+        gist:containedText ?Source_Display ;
+        gist:isExpressedIn media-txt:html ;
+        .
+
+    ?work_iri
+        a gist:ContentExpression ;
+        rdfs:seeAlso ?other_reference ;
+        owl:sameAs
+            ?bdrc_iri ,
+            ?viaf_iri ;
+
+        gist:isIdentifiedBy
+            ?worldcat_id_iri ;
+        .
+
+    ?worldcat_id_iri
+        a gist:ID ;
+        gist:uniqueText ?OCLC_ID ;
+        gist:isCategorizedBy tolx:_IdType_worldcat ;
+        .
+
+}
+
+WHERE {
+
+    # Testing
+    # FILTER(?ROWNUM = 1)
+
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)) AS ?place_iri)
+
+    # If there are page numbers, the source is a content expression that is part of a larger content expression object.
+    BIND(IF(BOUND(?TOL_Source_location_ID), ?TOL_Source_location_ID, ?TOL_Source_ID) AS ?source_id)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?source_id)) AS ?source_iri)
+    BIND(IF(BOUND(?TOL_Source_location_ID), tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)), ?unbound) AS ?full_work_iri)
+    BIND(COALESCE(?full_work_iri, ?source_iri) AS ?work_iri)
+
+    BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Source_", ?source_id)) AS ?display_text_iri)
+
+    # owl:SameAs
+    BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?BDRC_ID)) AS ?bdrc_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("viaf:", ?VIAF_ID)) AS ?viaf_iri)
+
+    # WorldCat
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ID_worldcat_", ?OCLC_ID)) AS ?worldcat_id_iri)
+
+    # This seems to be a link to the cited work, not to something else. Not sure what to do with it.
+    BIND(STRDT(?url_other, xsd:anyURI) as ?other_reference)
+
+}
