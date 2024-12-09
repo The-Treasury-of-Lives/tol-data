@@ -41,18 +41,14 @@ PREFIX viaf: <https://viaf.org/viaf/>
 
 CONSTRUCT {
 
-    ?place_iri
-        rdfs:seeAlso
-            ?reference_iri ,
-            ?other_reference ;
-        .
+    ?place_iri rdfs:seeAlso ?source_iri .
 
     ?source_iri
         # Not sure whether an excerpt should itself be considered a ContentExpression or whether that applies only to full works, but avoid defining another class until we're sure.
         a gist:ContentExpression ;
         skos:prefLabel ?Source ;
         tolo:pageNumbers ?Pages ;
-        gist:isDirectPartOf ?full_work_iri ;
+        gist:isPartOf ?full_work_iri ;
         .
 
     ?display_text_iri
@@ -64,7 +60,7 @@ CONSTRUCT {
 
     ?work_iri
         a gist:ContentExpression ;
-        rdfs:seeAlso ?other_reference ;
+        rdfs:seeAlso ?url ;
         owl:sameAs
             ?bdrc_iri ,
             ?viaf_iri ;
@@ -96,14 +92,15 @@ WHERE {
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Source_", ?source_id)) AS ?display_text_iri)
 
-    # owl:SameAs
+    # owl:sameAs
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?BDRC_ID)) AS ?bdrc_iri)
     BIND(tarql:expandPrefixedName(CONCAT("viaf:", ?VIAF_ID)) AS ?viaf_iri)
 
     # WorldCat
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_worldcat_", ?OCLC_ID)) AS ?worldcat_id_iri)
 
-    # This seems to be a link to the cited work, not to something else. Not sure what to do with it.
-    BIND(STRDT(?url_other, xsd:anyURI) as ?other_reference)
+    # This seems to be a link to the cited work, not to another source. Not sure what to do with it.
+    # WorldCat URLs duplicate the OCLC IDs, but for now including both to easily generate a link.
+    BIND(STRDT(?url_other, xsd:anyURI) as ?url)
 
 }
