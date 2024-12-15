@@ -36,16 +36,16 @@ PREFIX viaf: <https://viaf.org/viaf/>
 # url other
 
 # Run:
-# tarql -e utf-8 --dedup 50000 sources.tq place-sources-12-8-24.csv > tolSources.ttl
+# tarql -e utf-8 --dedup 50000 sources.tq place-sources-12-15-24.csv > tolSources.ttl
 
+# Note: This TARQL may or may not be usable for bio sources as well. Need to see data.
 
 CONSTRUCT {
 
     ?place_iri rdfs:seeAlso ?source_iri .
 
     ?source_iri
-        # Not sure whether an excerpt should itself be considered a ContentExpression or whether that applies only to full works, but avoid defining another class until we're sure.
-        a gist:ContentExpression ;
+        a ?source_class_iri ;
         skos:prefLabel ?Source ;
         tolo:pageNumbers ?Pages ;
         gist:isPartOf ?full_work_iri ;
@@ -84,9 +84,11 @@ WHERE {
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)) AS ?place_iri)
 
-    # If there are page numbers, the source is a content expression that is part of a larger content expression object.
+    # If there are page numbers, the source is a text object that is part of a content expression object.
     BIND(IF(BOUND(?TOL_Source_location_ID), ?TOL_Source_location_ID, ?TOL_Source_ID) AS ?source_id)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?source_id)) AS ?source_iri)
+    BIND(IF(BOUND(?TOL_Source_location_ID), "Text", "ContentExpression") AS ?source_class)
+    BIND(tarql:expandPrefixedName(CONCAT("gist:", ?source_class)) AS ?source_class_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_", ?source_class, "_", ?source_id)) AS ?source_iri)
     BIND(IF(BOUND(?TOL_Source_location_ID), tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)), ?unbound) AS ?full_work_iri)
     BIND(COALESCE(?full_work_iri, ?source_iri) AS ?work_iri)
 
