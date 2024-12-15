@@ -183,8 +183,8 @@ WHERE {
     # All primary titles are English.
     BIND(STRLANG(?Primary_title, "en") AS ?title_en)
     # Display name (skos:prefLabel)
-    # If no English display name, front end should fall back to Wylie display name.
-    BIND(STRLANG(?Display_name_English, "en") AS ?pref_label_en)
+    # If English display name is in Wylie, don't add it as an English label. Front end should fall back to Wylie prefLabel if there's no English one.
+    BIND(IF(?Display_name_English != ?Display_name_Wylie, STRLANG(?Display_name_English, "en"), ?unbound) AS ?pref_label_en)
 
 
     # Wylie name and title
