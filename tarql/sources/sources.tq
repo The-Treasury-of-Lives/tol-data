@@ -54,7 +54,7 @@ CONSTRUCT {
     ?display_text_iri
         a gist:FormattedContent ;
         gist:isAbout ?source_iri ;
-        gist:containedText ?Source_Display ;
+        gist:containedText ?source_display_text ;
         gist:isExpressedIn media-txt:html ;
         .
 
@@ -93,6 +93,8 @@ WHERE {
     BIND(COALESCE(?full_work_iri, ?source_iri) AS ?work_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Source_", ?source_id)) AS ?display_text_iri)
+    # Remove original newlines from HTML (converted to the sequence '\n' by TARQL).
+    BIND(REPLACE(?Source_Display, "\n", "") AS ?source_display_text)
 
     # owl:sameAs
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?BDRC_ID)) AS ?bdrc_iri)
