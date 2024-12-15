@@ -22,8 +22,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # title
 # description
 # har_nbr
-# image_name (filename)
-# thumb_name (filename)
+# file_path (ignore)
+# image_file_name (ignore)
+# image_path
+# thumb_file_name (ignore)
+# thumb_path
 # create_user_id
 # create_date
 # last_modified_user_id
@@ -36,10 +39,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # type
 # century
 # tradition_id
-# tol_place_id
+# tol_place_id (ignore)
 
 # Run:
-# tarql --dedup 10000 -e utf-8 images.tq painting-9-6-24.csv > tolImages.ttl
+# tarql --dedup 10000 -e utf-8 images.tq painting-11-25-24.csv > tolImages.ttl
 
 CONSTRUCT {
 
@@ -47,8 +50,7 @@ CONSTRUCT {
         a tolo:Image ;
         skos:prefLabel ?title_en ;
         tolo:depicts ?work_iri ;
-        # Treated as a "degenerate" path even though it's just the filename, since apparently the front end hard-codes the path.
-        tolo:filePath ?image_name ;
+        tolo:filePath ?image_path ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
         gist:comesFromPlace ?source_iri ;
@@ -89,7 +91,7 @@ CONSTRUCT {
     ?thumbnail_iri
         a tolo:Image ;
         skos:prefLabel ?title_en ;
-        tolo:fileName ?thumb_name ;
+        tolo:filePath ?thumb_path ;
         gist:isExpressedIn ?media_type_iri ;
         .
 
@@ -121,7 +123,7 @@ WHERE {
     # NB TARQL will not add the explicit datatype xsd:string.
     # BIND(STRDT(?image_name, xsd:string) AS ?image_file_name)
 
-    BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
+    BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?file_ext)
     BIND(
         COALESCE(
             IF(?file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),

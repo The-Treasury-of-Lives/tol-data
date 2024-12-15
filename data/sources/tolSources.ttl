@@ -1312,14 +1312,8 @@ told:_ContentExpression_68
 
 told:_ContentExpression_69
 	a gist:ContentExpression ;
-	rdfs:seeAlso
-		"https://jonangfoundation.org/sites/dzamthang-tsangwa-monastery"^^xsd:anyURI ,
-		"https://search.worldcat.org/title/1087869026"^^xsd:anyURI
-		;
-	skos:prefLabel
-		"Akester, Matthew. 2016. Jamyang Khyentse Wangpo's Guide to Central Tibet. Chicago, IL: Serindia Publications."^^xsd:string ,
-		"Jonang Foundation Website"^^xsd:string
-		;
+	rdfs:seeAlso "https://search.worldcat.org/title/1087869026"^^xsd:anyURI ;
+	skos:prefLabel "Akester, Matthew. 2016. Jamyang Khyentse Wangpo's Guide to Central Tibet. Chicago, IL: Serindia Publications."^^xsd:string ;
 	gist:isIdentifiedBy told:_ID_worldcat_1087869026 ;
 	.
 
@@ -4460,10 +4454,7 @@ told:_FormattedContent_Source_68
 
 told:_FormattedContent_Source_69
 	a gist:FormattedContent ;
-	gist:containedText
-		"<p>Akester, Matthew. 2016. Jamyang Khyentse Wangpo&#39;s Guide to Central Tibet. Chicago, IL: Serindia Publications.</p>"^^xsd:string ,
-		"<p>Dzamthang Tsangwa Monastery. Jonang Foundation. Accessed December 8, 2020.</p>"^^xsd:string
-		;
+	gist:containedText "<p>Akester, Matthew. 2016. Jamyang Khyentse Wangpo&#39;s Guide to Central Tibet. Chicago, IL: Serindia Publications.</p>"^^xsd:string ;
 	gist:isAbout told:_ContentExpression_69 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -10198,10 +10189,7 @@ told:_Place_209
 	.
 
 told:_Place_210
-	rdfs:seeAlso
-		told:_ContentExpression_69 ,
-		told:_Text_94_74-78_150-153
-		;
+	rdfs:seeAlso told:_Text_94_74-78_150-153 ;
 	.
 
 told:_Place_212

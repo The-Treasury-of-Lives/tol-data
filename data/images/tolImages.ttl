@@ -944,7 +944,7 @@ told:_Image_1
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:22:01"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_1 ;
-	tolo:filePath "HAR595_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/1/HAR595_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_1 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -957,7 +957,7 @@ told:_Image_10
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:06:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_10 ;
-	tolo:filePath "HAR946_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/10/HAR946_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_10 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -971,7 +971,7 @@ told:_Image_100
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T15:33:16"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_100 ;
-	tolo:filePath "machig-57037.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/100/machig-57037.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_100 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -985,7 +985,7 @@ told:_Image_101
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T19:44:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_101 ;
-	tolo:filePath "machik-field.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/101/machik-field.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_101 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -998,7 +998,7 @@ told:_Image_102
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-10-30T16:15:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_102 ;
-	tolo:filePath "padmasambhava-guru-drakpo.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/102/padmasambhava-guru-drakpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_102 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1012,7 +1012,7 @@ told:_Image_103
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-09T15:26:57"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_103 ;
-	tolo:filePath "namkhai-nyingpo.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/103/namkhai-nyingpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_103 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1026,7 +1026,7 @@ told:_Image_104
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-24T20:50:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_104 ;
-	tolo:filePath "Karmapa-10-Avalokiteshvara.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/104/Karmapa-10-Avalokiteshvara.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_104 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1039,7 +1039,7 @@ told:_Image_105
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-02-01T18:43:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_105 ;
-	tolo:filePath "pehar.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/105/pehar.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_105 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1053,7 +1053,7 @@ told:_Image_107
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-04-23T18:26:17"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_107 ;
-	tolo:filePath "1997.305_print.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/107/1997.305_print.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_107 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1067,7 +1067,7 @@ told:_Image_108
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-05-02T14:58:50"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_108 ;
-	tolo:filePath "atisa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/108/atisa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_108 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1081,7 +1081,7 @@ told:_Image_109
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-11-15T16:01:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_109 ;
-	tolo:filePath "2000.67_print.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/109/2000.67_print.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_109 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1095,7 +1095,7 @@ told:_Image_11
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:07:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_11 ;
-	tolo:filePath "HAR493_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/11/HAR493_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_11 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1108,7 +1108,7 @@ told:_Image_110
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-09T13:35:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_110 ;
-	tolo:filePath "Lhalungpas-Gene-Smith-Delhi.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/110/Lhalungpas-Gene-Smith-Delhi.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_110 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1121,7 +1121,7 @@ told:_Image_114
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-10T17:56:47"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_114 ;
-	tolo:filePath "HHDL Letter Lhalungpa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/114/HHDL Letter Lhalungpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_114 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1134,7 +1134,7 @@ told:_Image_115
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-10T18:35:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_115 ;
-	tolo:filePath "St. Josephs Letter to Lhalungpa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/115/St. Josephs Letter to Lhalungpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_115 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1147,7 +1147,7 @@ told:_Image_116
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-17T14:32:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_116 ;
-	tolo:filePath "Sakya Settlement Receipt.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/116/Sakya Settlement Receipt.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_116 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1160,7 +1160,7 @@ told:_Image_117
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-17T14:41:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_117 ;
-	tolo:filePath "Bonpo Foundation Receipt.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/117/Bonpo Foundation Receipt.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_117 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1173,7 +1173,7 @@ told:_Image_118
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-05-15T16:26:57"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_118 ;
-	tolo:filePath "vajrakila.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/118/vajrakila.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_118 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1187,7 +1187,7 @@ told:_Image_119
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-07-21T16:49:38"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_119 ;
-	tolo:filePath "avalokitshvara-tsebumluk.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/119/avalokitshvara-tsebumluk.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_119 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1200,7 +1200,7 @@ told:_Image_12
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:08:00"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_12 ;
-	tolo:filePath "HAR457_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/12/HAR457_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_12 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1213,7 +1213,7 @@ told:_Image_120
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-08-24T16:41:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_120 ;
-	tolo:filePath "meu-gyalpo-tsetan-zhabdrung.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/120/meu-gyalpo-tsetan-zhabdrung.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_120 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1226,7 +1226,7 @@ told:_Image_121
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_121 ;
-	tolo:filePath "Mustang leaders (medium-res).jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/121/Mustang leaders (medium-res).jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_121 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1240,7 +1240,7 @@ told:_Image_122
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T18:44:29"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_122 ;
-	tolo:filePath "Hastings_House_Calcutta_1910.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/122/Hastings_House_Calcutta_1910.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_122 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1253,7 +1253,7 @@ told:_Image_123
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:02:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_123 ;
-	tolo:filePath "bakula-panchen-ktm-1986.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/123/bakula-panchen-ktm-1986.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_123 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1267,7 +1267,7 @@ told:_Image_124
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:16:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_124 ;
-	tolo:filePath "tsarongs-losar-1937.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/124/tsarongs-losar-1937.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_124 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1281,7 +1281,7 @@ told:_Image_125
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:43:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_125 ;
-	tolo:filePath "Sheltonpage299.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/125/Sheltonpage299.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_125 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1294,7 +1294,7 @@ told:_Image_126
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-01-10T15:28:27"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_126 ;
-	tolo:filePath "Sixteenth-Karmapa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/126/Sixteenth-Karmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_126 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1308,7 +1308,7 @@ told:_Image_127
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-01-18T15:28:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_127 ;
-	tolo:filePath "PanchenLama.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/127/PanchenLama.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_127 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1321,7 +1321,7 @@ told:_Image_128
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-05-25T15:43:21"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_128 ;
-	tolo:filePath "tsetenzhabdrung-subgrabgyatso.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/128/tsetenzhabdrung-subgrabgyatso.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_128 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1334,7 +1334,7 @@ told:_Image_13
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:08:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_13 ;
-	tolo:filePath "HAR96_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/13/HAR96_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_13 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1347,7 +1347,7 @@ told:_Image_130
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-01-09T22:51:19"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_130 ;
-	tolo:filePath "georges-lhalungpa-gyurdrak.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/130/georges-lhalungpa-gyurdrak.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_130 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1360,7 +1360,7 @@ told:_Image_131
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-01-25T23:06:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_131 ;
-	tolo:filePath "barawa-refuge-field.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/131/barawa-refuge-field.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_131 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1373,7 +1373,7 @@ told:_Image_132
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-06T21:34:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_132 ;
-	tolo:filePath "AvalokitesvaraHAR40.jpeg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/132/AvalokitesvaraHAR40.jpeg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_132 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1386,7 +1386,7 @@ told:_Image_133
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-09T18:19:29"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_133 ;
-	tolo:filePath "tibetan-primer.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/133/tibetan-primer.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_133 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1399,7 +1399,7 @@ told:_Image_134
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-13T20:25:13"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_134 ;
-	tolo:filePath "DudjomRinpocheKalimpong.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/134/DudjomRinpocheKalimpong.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_134 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -1413,7 +1413,7 @@ told:_Image_136
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-04-08T13:32:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_136 ;
-	tolo:filePath "rahula.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/136/rahula.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_136 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1427,7 +1427,7 @@ told:_Image_15
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_15 ;
-	tolo:filePath "HAR580_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/15/HAR580_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_15 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1440,7 +1440,7 @@ told:_Image_16
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:10:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_16 ;
-	tolo:filePath "HAR63_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/16/HAR63_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_16 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1453,7 +1453,7 @@ told:_Image_17
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:11:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_17 ;
-	tolo:filePath "HAR935_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/17/HAR935_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_17 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1466,7 +1466,7 @@ told:_Image_18
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:12:28"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_18 ;
-	tolo:filePath "HAR76_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/18/HAR76_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_18 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1480,7 +1480,7 @@ told:_Image_19
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-25T21:37:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_19 ;
-	tolo:filePath "89141.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/19/89141.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_19 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1494,7 +1494,7 @@ told:_Image_2
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:27:27"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_2 ;
-	tolo:filePath "HAR82_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/2/HAR82_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_2 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1507,7 +1507,7 @@ told:_Image_20
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T17:25:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_20 ;
-	tolo:filePath "68871.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/20/68871.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_20 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1520,7 +1520,7 @@ told:_Image_21
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T19:37:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_21 ;
-	tolo:filePath "89957.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/21/89957.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_21 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1534,7 +1534,7 @@ told:_Image_22
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:45:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_22 ;
-	tolo:filePath "508.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/22/508.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_22 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1548,7 +1548,7 @@ told:_Image_24
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:55:55"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_24 ;
-	tolo:filePath "65205.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/24/65205.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_24 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1561,7 +1561,7 @@ told:_Image_25
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-29T16:49:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_25 ;
-	tolo:filePath "65461.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/25/65461.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_25 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1574,7 +1574,7 @@ told:_Image_26
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-29T17:28:09"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_26 ;
-	tolo:filePath "68480.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/26/68480.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_26 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_233 ;
@@ -1587,7 +1587,7 @@ told:_Image_28
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-08-03T16:08:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_28 ;
-	tolo:filePath "rsz_1rsz_189141_smaller.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/28/rsz_1rsz_189141_smaller.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_28 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1601,7 +1601,7 @@ told:_Image_29
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-09-06T23:11:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_29 ;
-	tolo:filePath "65861 refuge tree smaller.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/29/65861 refuge tree smaller.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_29 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1614,7 +1614,7 @@ told:_Image_3
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:29:47"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_3 ;
-	tolo:filePath "HAR642_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/3/HAR642_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_3 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1627,7 +1627,7 @@ told:_Image_30
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-09-24T01:30:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_30 ;
-	tolo:filePath "410 Tsongkhapa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/30/410 Tsongkhapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_30 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1640,7 +1640,7 @@ told:_Image_31
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-11-11T17:09:20"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_31 ;
-	tolo:filePath "HAR276.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/31/HAR276.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_31 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1654,7 +1654,7 @@ told:_Image_32
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-12-14T17:16:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_32 ;
-	tolo:filePath "380.Seventh DL.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/32/380.Seventh DL.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_32 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1668,7 +1668,7 @@ told:_Image_33
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T18:50:03"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_33 ;
-	tolo:filePath "65119.Pakmodrupa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/33/65119.Pakmodrupa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_33 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_233 ;
@@ -1682,7 +1682,7 @@ told:_Image_34
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T20:05:53"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_34 ;
-	tolo:filePath "285 Padmasambhava.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/34/285 Padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_34 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1695,7 +1695,7 @@ told:_Image_35
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-02T18:13:49"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_35 ;
-	tolo:filePath "160.Padma and Nyangrel.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/35/160.Padma and Nyangrel.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_35 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1708,7 +1708,7 @@ told:_Image_36
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-16T14:44:23"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_36 ;
-	tolo:filePath "65193.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/36/65193.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_36 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1721,7 +1721,7 @@ told:_Image_37
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-23T18:37:19"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_37 ;
-	tolo:filePath "gampopa-karmapa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/37/gampopa-karmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_37 ;
 	tolo:isCreatedByUser told:_User_294 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1734,7 +1734,7 @@ told:_Image_39
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2014-02-12T09:01:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_39 ;
-	tolo:filePath "412.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/39/412.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_39 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1747,7 +1747,7 @@ told:_Image_40
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2014-02-14T07:48:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_40 ;
-	tolo:filePath "1034.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/40/1034.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_40 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1761,7 +1761,7 @@ told:_Image_42
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T11:05:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_42 ;
-	tolo:filePath "65401.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/42/65401.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_42 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1774,7 +1774,7 @@ told:_Image_43
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T12:46:17"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_43 ;
-	tolo:filePath "65249.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/43/65249.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_43 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1787,7 +1787,7 @@ told:_Image_44
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T16:38:30"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_44 ;
-	tolo:filePath "362.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/44/362.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_44 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -1800,7 +1800,7 @@ told:_Image_46
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-25T16:15:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_46 ;
-	tolo:filePath "milarepa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/46/milarepa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_46 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_233 ;
@@ -1814,7 +1814,7 @@ told:_Image_48
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-03T11:54:49"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_48 ;
-	tolo:filePath "tsuklak-gyatso.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/48/tsuklak-gyatso.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_48 ;
 	tolo:isCreatedByUser told:_User_233 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1827,7 +1827,7 @@ told:_Image_49
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-03T13:08:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_49 ;
-	tolo:filePath "sakyasribhadra.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/49/sakyasribhadra.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_49 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1841,7 +1841,7 @@ told:_Image_5
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:01:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_5 ;
-	tolo:filePath "HAR65789_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/5/HAR65789_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_5 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1855,7 +1855,7 @@ told:_Image_50
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T13:50:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_50 ;
-	tolo:filePath "DelegationPicture.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/50/DelegationPicture.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_50 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -1868,7 +1868,7 @@ told:_Image_51
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T14:31:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_51 ;
-	tolo:filePath "padmasambhava.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/51/padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_51 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1882,7 +1882,7 @@ told:_Image_52
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T15:10:40"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_52 ;
-	tolo:filePath "demoness.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/52/demoness.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_52 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1895,7 +1895,7 @@ told:_Image_53
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T13:09:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_53 ;
-	tolo:filePath "Terton Couple with Khenpo Jigme Phuntsok.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/53/Terton Couple with Khenpo Jigme Phuntsok.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_53 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1908,7 +1908,7 @@ told:_Image_54
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T16:00:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_54 ;
-	tolo:filePath "1066-godemchen.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/54/1066-godemchen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_54 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1921,7 +1921,7 @@ told:_Image_55
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T16:30:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_55 ;
-	tolo:filePath "376-puchungwa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/55/376-puchungwa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_55 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1934,7 +1934,7 @@ told:_Image_56
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T17:00:09"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_56 ;
-	tolo:filePath "413-padmasambhava.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/56/413-padmasambhava.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_56 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1947,7 +1947,7 @@ told:_Image_57
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:29:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_57 ;
-	tolo:filePath "photo (9).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/57/photo (9).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_57 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -1960,7 +1960,7 @@ told:_Image_58
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:53:59"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_58 ;
-	tolo:filePath "photo (11).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/58/photo (11).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_58 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -1973,7 +1973,7 @@ told:_Image_59
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:23:23"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_59 ;
-	tolo:filePath "LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/59/LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_59 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -1986,7 +1986,7 @@ told:_Image_6
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:02:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_6 ;
-	tolo:filePath "HAR134_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/6/HAR134_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_6 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -1999,7 +1999,7 @@ told:_Image_60
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:57:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_60 ;
-	tolo:filePath "LhagyariWedding.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/60/LhagyariWedding.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_60 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2012,7 +2012,7 @@ told:_Image_61
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T14:36:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_61 ;
-	tolo:filePath "photo (7).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/61/photo (7).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_61 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2026,7 +2026,7 @@ told:_Image_62
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:03:15"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_62 ;
-	tolo:filePath "Courtsey of Shambhala Publications.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/62/Courtsey of Shambhala Publications.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_62 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2039,7 +2039,7 @@ told:_Image_63
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:38:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_63 ;
-	tolo:filePath "Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/63/Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_63 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2053,7 +2053,7 @@ told:_Image_64
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:55:59"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_64 ;
-	tolo:filePath "BabyAustin.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/64/BabyAustin.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_64 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2066,7 +2066,7 @@ told:_Image_65
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T17:03:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_65 ;
-	tolo:filePath "photo-20.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/65/photo-20.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_65 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2080,7 +2080,7 @@ told:_Image_66
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-22T16:35:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_66 ;
-	tolo:filePath "Lowo Khenchen.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/66/Lowo Khenchen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_66 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -2094,7 +2094,7 @@ told:_Image_67
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-07-14T17:23:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_67 ;
-	tolo:filePath "C2009.4HAR65848.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/67/C2009.4HAR65848.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_67 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2108,7 +2108,7 @@ told:_Image_68
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-08-29T17:02:24"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_68 ;
-	tolo:filePath "62 Rubin Dalai Lama C2003.9.2 image only.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/68/62 Rubin Dalai Lama C2003.9.2 image only.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_68 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2121,7 +2121,7 @@ told:_Image_69
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T12:46:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_69 ;
-	tolo:filePath "Lhasa perspective.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/69/Lhasa perspective.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_69 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2134,7 +2134,7 @@ told:_Image_7
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:02:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_7 ;
-	tolo:filePath "HAR128_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/7/HAR128_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_7 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2147,7 +2147,7 @@ told:_Image_70
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:34:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_70 ;
-	tolo:filePath "R Sadutshang with Taklha.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/70/R Sadutshang with Taklha.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_70 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2160,7 +2160,7 @@ told:_Image_71
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:36:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_71 ;
-	tolo:filePath "Lo Gendun Sadutshang.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/71/Lo Gendun Sadutshang.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_71 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2173,7 +2173,7 @@ told:_Image_72
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T16:30:26"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_72 ;
-	tolo:filePath "UN Delegation pic.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/72/UN Delegation pic.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_72 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2186,7 +2186,7 @@ told:_Image_73
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-08T14:51:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_73 ;
-	tolo:filePath "khedrupje.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/73/khedrupje.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_73 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2199,7 +2199,7 @@ told:_Image_74
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-29T13:36:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_74 ;
-	tolo:filePath "thirdkarmapa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/74/thirdkarmapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_74 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2213,7 +2213,7 @@ told:_Image_77
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T11:51:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_77 ;
-	tolo:filePath "milarepa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/77/milarepa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_77 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -2226,7 +2226,7 @@ told:_Image_78
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T12:07:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_78 ;
-	tolo:filePath "kundeling.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/78/kundeling.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_78 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2239,7 +2239,7 @@ told:_Image_79
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T17:39:51"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_79 ;
-	tolo:filePath "photo (14).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/79/photo (14).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_79 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2253,7 +2253,7 @@ told:_Image_8
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:03:32"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_8 ;
-	tolo:filePath "HAR269_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/8/HAR269_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_8 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2266,7 +2266,7 @@ told:_Image_80
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-01-30T10:22:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_80 ;
-	tolo:filePath "rigdzinkunzangsherab.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/80/rigdzinkunzangsherab.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_80 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2280,7 +2280,7 @@ told:_Image_81
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-01T12:48:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_81 ;
-	tolo:filePath "tsongkhapa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/81/tsongkhapa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_81 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2293,7 +2293,7 @@ told:_Image_82
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-03T11:23:20"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_82 ;
-	tolo:filePath "machik.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/82/machik.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_82 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2306,7 +2306,7 @@ told:_Image_83
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-10T10:41:21"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_83 ;
-	tolo:filePath "padmasambhava-disciples.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/83/padmasambhava-disciples.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_83 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2319,7 +2319,7 @@ told:_Image_84
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-03-22T11:54:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_84 ;
-	tolo:filePath "mahakala-drukpa.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/84/mahakala-drukpa.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_84 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2332,7 +2332,7 @@ told:_Image_85
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-13T10:10:32"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_85 ;
-	tolo:filePath "01047.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/85/01047.JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_85 ;
 	tolo:isCreatedByUser told:_User_2 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2345,7 +2345,7 @@ told:_Image_87
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-15T17:08:36"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_87 ;
-	tolo:filePath "photo (22).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/87/photo (22).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_87 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2358,7 +2358,7 @@ told:_Image_88
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-16T15:06:40"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_88 ;
-	tolo:filePath "photo (23).JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/88/photo (23).JPG"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_88 ;
 	tolo:isCreatedByUser told:_User_343 ;
 	tolo:isLastModifiedByUser told:_User_343 ;
@@ -2371,7 +2371,7 @@ told:_Image_89
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:00:11"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_89 ;
-	tolo:filePath "khukpa-lhetse.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/89/khukpa-lhetse.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_89 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2385,7 +2385,7 @@ told:_Image_9
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:05:31"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_9 ;
-	tolo:filePath "HAR65232_nav.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/9/HAR65232_nav.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_9 ;
 	tolo:isCreatedByUser told:_User_1 ;
 	tolo:isLastModifiedByUser told:_User_233 ;
@@ -2398,7 +2398,7 @@ told:_Image_90
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:19:51"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_90 ;
-	tolo:filePath "do-khyentse.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/90/do-khyentse.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_90 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2411,7 +2411,7 @@ told:_Image_91
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:35:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_91 ;
-	tolo:filePath "shakyamuni.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/91/shakyamuni.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_91 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_2 ;
@@ -2424,7 +2424,7 @@ told:_Image_93
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-11-01T16:48:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_93 ;
-	tolo:filePath "pemakarpo.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/93/pemakarpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_93 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2437,7 +2437,7 @@ told:_Image_94
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-11-02T15:12:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_94 ;
-	tolo:filePath "sachen.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/94/sachen.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_94 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2450,7 +2450,7 @@ told:_Image_95
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-01-16T15:39:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_95 ;
-	tolo:filePath "avalokiteshvara.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/95/avalokiteshvara.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_95 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2464,7 +2464,7 @@ told:_Image_97
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-01-24T19:17:30"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_97 ;
-	tolo:filePath "65094.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/97/65094.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_97 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2477,7 +2477,7 @@ told:_Image_98
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-01T19:44:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_98 ;
-	tolo:filePath "Padmasambhava-Sengge-Dradok.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/98/Padmasambhava-Sengge-Dradok.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_98 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2491,7 +2491,7 @@ told:_Image_99
 	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-02T16:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_99 ;
-	tolo:filePath "jatson-nyingpo.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/99/jatson-nyingpo.jpg"^^xsd:string ;
 	tolo:hasThumbnail told:_Image_Thumbnail_99 ;
 	tolo:isCreatedByUser told:_User_342 ;
 	tolo:isLastModifiedByUser told:_User_342 ;
@@ -2502,819 +2502,819 @@ told:_Image_Thumbnail_1
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR595_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/1/HAR595_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_10
 	a tolo:Image ;
 	skos:prefLabel "Damarupa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR946_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/10/HAR946_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_100
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "machig-57037_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/100/machig-57037_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_101
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "machik-field_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/101/machik-field_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_102
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "padmasambhava-guru-drakpo_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/102/padmasambhava-guru-drakpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_103
 	a tolo:Image ;
 	skos:prefLabel "Namkhai Nyingpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "namkhai-nyingpo_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/103/namkhai-nyingpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_104
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Karmapa-10-Avalokiteshvara_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/104/Karmapa-10-Avalokiteshvara_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_105
 	a tolo:Image ;
 	skos:prefLabel "Pehar Gyelpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "pehar_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/105/pehar_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_107
 	a tolo:Image ;
 	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "1997.305_print_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/107/1997.305_print_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_108
 	a tolo:Image ;
 	skos:prefLabel "Atiśa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "atisa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/108/atisa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_109
 	a tolo:Image ;
 	skos:prefLabel "Preaching Śākyamuni"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "2000.67_print_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/109/2000.67_print_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_11
 	a tolo:Image ;
 	skos:prefLabel "Sanggye Sengge"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR493_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/11/HAR493_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_110
 	a tolo:Image ;
 	skos:prefLabel "Lhalungpas in Delhi"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Lhalungpas-Gene-Smith-Delhi_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/110/Lhalungpas-Gene-Smith-Delhi_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_114
 	a tolo:Image ;
 	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HHDL Letter Lhalungpa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/114/HHDL Letter Lhalungpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_115
 	a tolo:Image ;
 	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "St. Josephs Letter to Lhalungpa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/115/St. Josephs Letter to Lhalungpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_116
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Sakya Settlement Receipt_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/116/Sakya Settlement Receipt_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_117
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Bonpo Foundation Receipt_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/117/Bonpo Foundation Receipt_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_118
 	a tolo:Image ;
 	skos:prefLabel "Vajrakila"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "vajrakila_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/118/vajrakila_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_119
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "avalokitshvara-tsebumluk_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/119/avalokitshvara-tsebumluk_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_12
 	a tolo:Image ;
 	skos:prefLabel "Two Lineal Lamas"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR457_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/12/HAR457_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_120
 	a tolo:Image ;
 	skos:prefLabel "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "meu-gyalpo-tsetan-zhabdrung_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/120/meu-gyalpo-tsetan-zhabdrung_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_121
 	a tolo:Image ;
 	skos:prefLabel "Resistance fighters at Kalsang Phug"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Mustang leaders (medium-res)_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/121/Mustang leaders (medium-res)_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_122
 	a tolo:Image ;
 	skos:prefLabel "Officials at Hastings House"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Hastings_House_Calcutta_1910_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/122/Hastings_House_Calcutta_1910_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_123
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "bakula-panchen-ktm-1986_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/123/bakula-panchen-ktm-1986_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_124
 	a tolo:Image ;
 	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "tsarongs-losar-1937_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/124/tsarongs-losar-1937_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_125
 	a tolo:Image ;
 	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Sheltonpage299_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/125/Sheltonpage299_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_126
 	a tolo:Image ;
 	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Sixteenth-Karmapa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/126/Sixteenth-Karmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_127
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "PanchenLama_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/127/PanchenLama_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_128
 	a tolo:Image ;
 	skos:prefLabel "Tseten Zhabdrung and Sungrab Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "tsetenzhabdrung-subgrabgyatso_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/128/tsetenzhabdrung-subgrabgyatso_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_13
 	a tolo:Image ;
 	skos:prefLabel "Sangye Sengge"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR96_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/13/HAR96_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_130
 	a tolo:Image ;
 	skos:prefLabel "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "georges-lhalungpa-gyurdrak_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/130/georges-lhalungpa-gyurdrak_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_131
 	a tolo:Image ;
 	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "barawa-refuge-field_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/131/barawa-refuge-field_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_132
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "AvalokitesvaraHAR40_thumb.jpeg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/132/AvalokitesvaraHAR40_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_133
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Primer"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "tibetan-primer_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/133/tibetan-primer_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_134
 	a tolo:Image ;
 	skos:prefLabel "Dudjom Rinpoche with lamas in Kalimpong"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "DudjomRinpocheKalimpong_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/134/DudjomRinpocheKalimpong_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_136
 	a tolo:Image ;
 	skos:prefLabel "Rahula and Retinue"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "rahula_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/136/rahula_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_15
 	a tolo:Image ;
 	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR580_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/15/HAR580_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_16
 	a tolo:Image ;
 	skos:prefLabel "Shangton Chobar"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR63_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/16/HAR63_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_17
 	a tolo:Image ;
 	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR935_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/17/HAR935_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_18
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR76_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/18/HAR76_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_19
 	a tolo:Image ;
 	skos:prefLabel "Six Kagyu Teachers With Lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "89141_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/19/89141_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_2
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR82_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/2/HAR82_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_20
 	a tolo:Image ;
 	skos:prefLabel "Karma Pakshi with lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "68871_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/20/68871_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_21
 	a tolo:Image ;
 	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "89957_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/21/89957_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_22
 	a tolo:Image ;
 	skos:prefLabel "Early Karmapa with footprints"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "508_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/22/508_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_24
 	a tolo:Image ;
 	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65205_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/24/65205_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_25
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65461_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/25/65461_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_26
 	a tolo:Image ;
 	skos:prefLabel "Padampa Sanggye"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "68480_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/26/68480_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_28
 	a tolo:Image ;
 	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "rsz_1rsz_189141_smaller_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/28/rsz_1rsz_189141_smaller_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_29
 	a tolo:Image ;
 	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65861 refuge tree smaller_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/29/65861 refuge tree smaller_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_3
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR642_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/3/HAR642_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_30
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "410 Tsongkhapa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/30/410 Tsongkhapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_31
 	a tolo:Image ;
 	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR276_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/31/HAR276_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_32
 	a tolo:Image ;
 	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "380.Seventh DL_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/32/380.Seventh DL_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_33
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65119.Pakmodrupa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/33/65119.Pakmodrupa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_34
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "285 Padmasambhava_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/34/285 Padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_35
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "160.Padma and Nyangrel_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/35/160.Padma and Nyangrel_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_36
 	a tolo:Image ;
 	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65193_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/36/65193_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_37
 	a tolo:Image ;
 	skos:prefLabel "Gampopa and Karmapa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "gampopa-karmapa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/37/gampopa-karmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_39
 	a tolo:Image ;
 	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "412_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/39/412_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_40
 	a tolo:Image ;
 	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "1034_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/40/1034_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_42
 	a tolo:Image ;
 	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65401_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/42/65401_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_43
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65249_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/43/65249_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_44
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "362_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/44/362_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_46
 	a tolo:Image ;
 	skos:prefLabel "Episodes from the Life of Milarepa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "milarepa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/46/milarepa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_48
 	a tolo:Image ;
 	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "tsuklak-gyatso_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/48/tsuklak-gyatso_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_49
 	a tolo:Image ;
 	skos:prefLabel "Śākyaśrībhadra"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "sakyasribhadra_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/49/sakyasribhadra_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_5
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR65789_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/5/HAR65789_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_50
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Trade Delegation to the US and UK, 1948"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "DelegationPicture_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/50/DelegationPicture_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_51
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "padmasambhava_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/51/padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_52
 	a tolo:Image ;
 	skos:prefLabel "The Demoness of Tibet"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "demoness_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/52/demoness_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_53
 	a tolo:Image ;
 	skos:prefLabel "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Terton Couple with Khenpo Jigme Phuntsok_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/53/Terton Couple with Khenpo Jigme Phuntsok_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_54
 	a tolo:Image ;
 	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "1066-godemchen_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/54/1066-godemchen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_55
 	a tolo:Image ;
 	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "376-puchungwa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/55/376-puchungwa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_56
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "413-padmasambhava_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/56/413-padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_57
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (9)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/57/photo (9)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_58
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (11)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/58/photo (11)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_59
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "LhagyariNamgyelGyatso1_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/59/LhagyariNamgyelGyatso1_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_6
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR134_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/6/HAR134_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_60
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "LhagyariWedding_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/60/LhagyariWedding_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_61
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (7)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/61/photo (7)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_62
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Courtsey of Shambhala Publications_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/62/Courtsey of Shambhala Publications_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_63
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Courtesy of TransHimalayan Heritage1_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/63/Courtesy of TransHimalayan Heritage1_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_64
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "BabyAustin_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/64/BabyAustin_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_65
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo-20_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/65/photo-20_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_66
 	a tolo:Image ;
 	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Lowo Khenchen_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/66/Lowo Khenchen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_67
 	a tolo:Image ;
 	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "C2009.4HAR65848_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/67/C2009.4HAR65848_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_68
 	a tolo:Image ;
 	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "62 Rubin Dalai Lama C2003.9.2 image only_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/68/62 Rubin Dalai Lama C2003.9.2 image only_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_69
 	a tolo:Image ;
 	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Lhasa perspective_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/69/Lhasa perspective_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_7
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR128_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/7/HAR128_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_70
 	a tolo:Image ;
 	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "R Sadutshang with Taklha_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/70/R Sadutshang with Taklha_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_71
 	a tolo:Image ;
 	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Lo Gendun Sadutshang_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/71/Lo Gendun Sadutshang_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_72
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "UN Delegation pic_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/72/UN Delegation pic_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_73
 	a tolo:Image ;
 	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "khedrupje_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/73/khedrupje_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_74
 	a tolo:Image ;
 	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "thirdkarmapa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/74/thirdkarmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_77
 	a tolo:Image ;
 	skos:prefLabel "Milarepa"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "milarepa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/77/milarepa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_78
 	a tolo:Image ;
 	skos:prefLabel "The Eighth Tatsak"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "kundeling_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/78/kundeling_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_79
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (14)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/79/photo (14)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_8
 	a tolo:Image ;
 	skos:prefLabel "Buddhashri"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR269_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/8/HAR269_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_80
 	a tolo:Image ;
 	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "rigdzinkunzangsherab_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/80/rigdzinkunzangsherab_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_81
 	a tolo:Image ;
 	skos:prefLabel "Shakyamuni Buddha"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "tsongkhapa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/81/tsongkhapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_82
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "machik_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/82/machik_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_83
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "padmasambhava-disciples_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/83/padmasambhava-disciples_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_84
 	a tolo:Image ;
 	skos:prefLabel "Mahakala with Four Hands"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "mahakala-drukpa_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/84/mahakala-drukpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_85
 	a tolo:Image ;
 	skos:prefLabel "Three Sisters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "01047_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/85//01047_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_87
 	a tolo:Image ;
 	skos:prefLabel "Group of Tibetan Army Officers"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (22)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/87/photo (22)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_88
 	a tolo:Image ;
 	skos:prefLabel "Taring Women"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "photo (23)_thumb.JPG"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/88/photo (23)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_89
 	a tolo:Image ;
 	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "khukpa-lhetse_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/89/khukpa-lhetse_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_9
 	a tolo:Image ;
 	skos:prefLabel "Lhachok Sengge"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "HAR65232_nav_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/9/HAR65232_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_90
 	a tolo:Image ;
 	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "do-khyentse_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/90/do-khyentse_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_91
 	a tolo:Image ;
 	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "shakyamuni_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/91/shakyamuni_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_93
 	a tolo:Image ;
 	skos:prefLabel "Pema Karpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "pemakarpo_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/93/pemakarpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_94
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "sachen_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/94/sachen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_95
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "avalokiteshvara_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/95/avalokiteshvara_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_97
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "65094_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/97/65094_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_98
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "Padmasambhava-Sengge-Dradok_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/98/Padmasambhava-Sengge-Dradok_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_99
 	a tolo:Image ;
 	skos:prefLabel "Jatson Nyingpo"@en ;
 	gist:isExpressedIn media-image:jpg ;
-	tolo:fileName "jatson-nyingpo_thumb.jpg"^^xsd:string ;
+	tolo:filePath "/uploads/paintings/99/jatson-nyingpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_1
