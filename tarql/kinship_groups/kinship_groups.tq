@@ -38,19 +38,19 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # BDRC ID
 # Members
 
-# Run: 
-# tarql -e utf-8 --dedup 50000 kinship_groups.tq kinship_groups-5-29-24.csv > tolKinshipGroups.ttl
+# Run:
+# tarql -e utf-8 --dedup 50000 kinship_groups.tq kinship_groups-12-16-24.csv > tolKinshipGroups.ttl
 
 CONSTRUCT {
 
-    ?kinship_group_iri 
-        a tolo:KinshipGroup ; 
+    ?kinship_group_iri
+        a tolo:KinshipGroup ;
         owl:sameAs ?bdrc_id ;
-        skos:prefLabel ?primary_name_en , 
+        skos:prefLabel ?primary_name_en ,
             ?primary_name_wylie ,
             ?primary_name_tibetan ,
             ?primary_name_chinese ;
-        tolo:primaryName ?primary_name_en , 
+        tolo:primaryName ?primary_name_en ,
             ?primary_name_wylie ,
             ?primary_name_tibetan ,
             ?primary_name_chinese ;
@@ -60,11 +60,11 @@ CONSTRUCT {
         gist:isCategorizedBy ?kinship_group_type_iri ;
     .
 
-    ?person_iri 
+    ?person_iri
         gist:isMemberOf ?kinship_group_iri ;
     .
 
-    ?description_iri 
+    ?description_iri
         a gist:FormattedContent ;
         skos:prefLabel ?label_en ;
         gist:containedText ?description_en ;
@@ -75,7 +75,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM IN (150, 151))
 
