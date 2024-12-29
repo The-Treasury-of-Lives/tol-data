@@ -59,7 +59,6 @@ CONSTRUCT {
 
     ?description_iri
         a gist:FormattedContent ;
-        skos:prefLabel ?description_label ;
         gist:isExpressedIn media-txt:html ;
         gist:containedText ?description_en ;
         gist:isAbout ?incarnation_lineage_iri ;
@@ -96,7 +95,5 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Description_IncarnationLineage_", ?TOL_R_ID)) AS ?description_iri)
 
     BIND(STRLANG(?description, "en") AS ?description_en)
-
-    BIND(STRLANG(CONCAT("The ", ?Incarnation_name, " Incarnation Lineage"), "en") AS ?description_label)
 
 }

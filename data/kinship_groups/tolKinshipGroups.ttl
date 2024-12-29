@@ -201,9 +201,7 @@ told:_FormattedContent_Description_KinshipGroup_1495
 	a gist:FormattedContent ;
 	skos:prefLabel "The Shatra Family"@en ;
 	gist:containedText """<p>
-	The Shatra Wokpa (bshad sgra 'og pa) family traces its history back at least to the time of the <a href=\"/biographies/view/Fifth-Dalai-Lama/TBRC_P37\">Fifth Dalai Lama</a>. The name, which was originally Shara Worpa (sha ra 'or pa), taken from a a reliquary of the eleventh-century Kadampa master <a href=\"/biographies/view/Shara-Yonten-Drak/TBRC_P1405\">Shara Yonten Drak</a>, was the name of an estate at the foot of the hill on which Ganden Monastery sits. It appears that the influence, if not the family line, died out duing the seventeenth and eighteenth centuries, and was founded anew in 1751 during a land redistribution. The first prominent member was <a href=\"/biographies/view/Shatra-Wokpa-Kinga-Peljor/TBRC_P8LS3949\">Shatra Wokpa Kinga Peljor</a>, who served in the military during the Gorkha War and rose to the rank of kalon. The family's <a href=\"/geographies/view/manor/TBRC_TOL902\">manor</a> in Lhasa was converted to a hotel in 2010.</p>
-<p>
-	 </p>"""@en ;
+        The Shatra Wokpa (bshad sgra 'og pa) family traces its history back at least to the time of the <a href=\"/biographies/view/Fifth-Dalai-Lama/TBRC_P37\">Fifth Dalai Lama</a>. The name, which was originally Shara Worpa (sha ra 'or pa), taken from a a reliquary of the eleventh-century Kadampa master <a href=\"/biographies/view/Shara-Yonten-Drak/TBRC_P1405\">Shara Yonten Drak</a>, was the name of an estate at the foot of the hill on which Ganden Monastery sits. It appears that the influence, if not the family line, died out duing the seventeenth and eighteenth centuries, and was founded anew in 1751 during a land redistribution. The first prominent member was <a href=\"/biographies/view/Shatra-Wokpa-Kinga-Peljor/TBRC_P8LS3949\">Shatra Wokpa Kinga Peljor</a>, who served in the military during the Gorkha War and rose to the rank of kalon. The family's <a href=\"/geographies/view/manor/TBRC_TOL902\">manor</a> in Lhasa was converted to a hotel in 2010.</p>"""@en ;
 	gist:isAbout told:_KinshipGroup_1495 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1559,10 +1557,7 @@ told:_KinshipGroup_1047
 		"zur khang"@bo-x-ewts ,
 		"ཟུར་ཁང་།"@bo
 		;
-	gist:isCategorizedBy
-		tolx:_KinshipGroupType_gerpa ,
-		tolx:_KinshipGroupType_midrak
-		;
+	gist:isCategorizedBy tolx:_KinshipGroupType_midrak ;
 	tolo:nameVariant "Zurkhang"@en ;
 	tolo:primaryName
 		"Surkhang"@en ,
@@ -1691,7 +1686,7 @@ told:_KinshipGroup_1132
 		"tsha rong"@bo-x-ewts ,
 		"ཚ་རོང་།"@bo
 		;
-	gist:isCategorizedBy tolx:_KinshipGroupType_yabzhi ;
+	gist:isCategorizedBy tolx:_KinshipGroupType_midrak ;
 	tolo:primaryName
 		"Tsarong"@en ,
 		"tsha rong"@bo-x-ewts ,
@@ -1951,10 +1946,7 @@ told:_KinshipGroup_1571
 		"bde legs rab brtan"@bo-x-ewts ,
 		"བདེ་ལེགས་རབ་བརྟན།"@bo
 		;
-	gist:isCategorizedBy
-		tolx:_KinshipGroupType_gerpa ,
-		tolx:_KinshipGroupType_midrak
-		;
+	gist:isCategorizedBy tolx:_KinshipGroupType_gerpa ;
 	tolo:primaryName
 		"Delek Rabten"@en ,
 		"bde legs rab brtan"@bo-x-ewts ,
@@ -1990,10 +1982,7 @@ told:_KinshipGroup_1584
 		"rmar lam pa"@bo-x-ewts ,
 		"རྨར་ལམ་པ།"@bo
 		;
-	gist:isCategorizedBy
-		tolx:_KinshipGroupType_gerpa ,
-		tolx:_KinshipGroupType_midrak
-		;
+	gist:isCategorizedBy tolx:_KinshipGroupType_gerpa ;
 	tolo:nameVariant
 		"smar lam pa"@bo-x-ewts ,
 		"སྨར་ལམ་པ།"@bo-x-ewts
@@ -2109,7 +2098,7 @@ told:_KinshipGroup_1643
 		"hor khang"@bo-x-ewts ,
 		"ཧོར་ཁང་།"@bo
 		;
-	gist:isCategorizedBy tolx:_KinshipGroupType_lhasa_aristocracy ;
+	gist:isCategorizedBy tolx:_KinshipGroupType_midrak ;
 	tolo:primaryName
 		"Horkhang"@en ,
 		"hor khang"@bo-x-ewts ,

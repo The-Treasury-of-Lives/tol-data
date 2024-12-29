@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -14,9 +14,9 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 
-## COLUMNS 
+## COLUMNS
 
 # TOL Tradition ID
 # BDRC T ID
@@ -29,25 +29,25 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 # Parent TOL ID
 # Description
 
-# Run: 
+# Run:
 # tarql -e utf-8 --dedup 1000 traditions.tq traditions-9-15-24.csv > tolTraditions.ttl
 
 
 CONSTRUCT {
 
-    ?tradition_iri 
+    ?tradition_iri
         a tolo:Tradition ;
-        owl:sameAs 
-            ?bdrc_iri , 
+        owl:sameAs
+            ?bdrc_iri ,
             ?wikidata_iri ;
-        skos:prefLabel 
-            ?name_en , 
-            ?name_wylie , 
+        skos:prefLabel
+            ?name_en ,
+            ?name_wylie ,
             ?name_tibetan ,
             ?name_chinese ;
-        tolo:primaryName 
-            ?name_en , 
-            ?name_wylie , 
+        tolo:primaryName
+            ?name_en ,
+            ?name_wylie ,
             ?name_tibetan ,
             ?name_chinese ;
         tolo:hasFounder ?founder_iri ;
@@ -55,18 +55,17 @@ CONSTRUCT {
         # gist:isConnectedTo ?monastery_iri ;
         .
 
-    ?description_iri 
+    ?description_iri
         a gist:FormattedContent ;
-        skos:prefLabel ?description_label_en ;
         gist:containedText ?description_en ;
         gist:isAbout ?tradition_iri ;
         gist:isExpressedIn media-txt:html ;
         .
-        
+
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM IN (5, 12))
 
@@ -75,7 +74,7 @@ WHERE {
 
     # owl:sameAs
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?BDRC_T_ID)) AS ?bdrc_iri)
-    BIND(tarql:expandPrefixedName(CONCAT("wiki:", ?Wikidata_ID)) AS ?wikidata_iri) 
+    BIND(tarql:expandPrefixedName(CONCAT("wiki:", ?Wikidata_ID)) AS ?wikidata_iri)
 
     # Names
     BIND(STRLANG(?Name, "en") AS ?name_en)
@@ -84,7 +83,7 @@ WHERE {
     BIND(STRLANG(?Chinese, "zh-Hani") AS ?name_chinese)
 
     # Founder(s)
-    OPTIONAL { ?founder apf:strSplit(?Founder_TOL_ID ",") }
+    OPTIONAL { ?founder apf:strSplit(?Founder_TOL_ID "; ") }
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", REPLACE(?founder, "TOLP", ""))) AS ?founder_iri)
 
     # Parent tradition
@@ -93,10 +92,9 @@ WHERE {
     # Monastery affiliation
     # TODO - Should this come from here or from the person-tradition spreadsheet?
     # BIND(tarql:expandPrefixedName(CONCAT("told:_Institution_", REPLACE(?Tradition_ID__Comunity_, "TOL", ""))) AS ?monastery_iri)
-   
+
     # Description
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Description_Tradition_", ?Tradition_ID)) AS ?description_iri)
-    BIND(STRLANG((CONCAT(?Name, " Tradition")), "en") as ?description_label_en)
     BIND(STRLANG(?Description, "en") AS ?description_en)
 
 

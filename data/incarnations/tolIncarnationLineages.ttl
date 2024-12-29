@@ -1390,7 +1390,7 @@ told:_IncarnationLineage_12
 		"Dalai Lama"@en ,
 		"tA la'i bla ma"@bo-x-ewts ,
 		"ཏཱ་ལའི་བླ་མ།"@bo ,
-		"达赖喇嘛"@zh-HANI
+		"达赖喇嘛"@zh-Hani
 		;
 	gist:isConnectedTo
 		told:_Place_38 ,
@@ -1400,7 +1400,7 @@ told:_IncarnationLineage_12
 		"Dalai Lama"@en ,
 		"tA la'i bla ma"@bo-x-ewts ,
 		"ཏཱ་ལའི་བླ་མ།"@bo ,
-		"达赖喇嘛"@zh-HANI
+		"达赖喇嘛"@zh-Hani
 		;
 	.
 
@@ -1958,7 +1958,7 @@ told:_IncarnationLineage_33
 		"Karmapa"@en ,
 		"karma pa"@bo-x-ewts ,
 		"ཀརྨ་པ།"@bo ,
-		"噶瑪巴"@zh-HANI
+		"噶瑪巴"@zh-Hani
 		;
 	gist:isConnectedTo
 		told:_Place_95 ,
@@ -1968,7 +1968,7 @@ told:_IncarnationLineage_33
 		"Karmapa"@en ,
 		"karma pa"@bo-x-ewts ,
 		"ཀརྨ་པ།"@bo ,
-		"噶瑪巴"@zh-HANI
+		"噶瑪巴"@zh-Hani
 		;
 	.
 
@@ -2193,7 +2193,7 @@ told:_IncarnationLineage_44
 		"Paṇchen Lama"@en ,
 		"paN chen bla ma"@bo-x-ewts ,
 		"པཎ་ཆེན་བླ་མ།"@bo ,
-		"班禅额尔德尼"@zh-HANI
+		"班禅额尔德尼"@zh-Hani
 		;
 	gist:isConnectedTo
 		told:_Place_39 ,
@@ -2203,7 +2203,7 @@ told:_IncarnationLineage_44
 		"Paṇchen Lama"@en ,
 		"paN chen bla ma"@bo-x-ewts ,
 		"པཎ་ཆེན་བླ་མ།"@bo ,
-		"班禅额尔德尼"@zh-HANI
+		"班禅额尔德尼"@zh-Hani
 		;
 	.
 
