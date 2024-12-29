@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -14,10 +14,10 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # TOL ID
 # Lineage Name
 # Wylie
@@ -38,9 +38,9 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
 CONSTRUCT {
 
-    ?ruler_lineage_iri 
+    ?ruler_lineage_iri
         a tolo:RulerLineage ;
-        skos:prefLabel 
+        skos:prefLabel
             ?pref_label_en ,
             ?pref_label_wylie ,
             ?pref_label_tibetan ;
@@ -57,9 +57,8 @@ CONSTRUCT {
         gist:isGovernedBy ?ruler_lineage_iri ;
         .
 
-    ?description_iri 
+    ?description_iri
         a gist:FormattedContent ;
-        skos:prefLabel ?label_en ;
         gist:containedText ?description_en ;
         gist:isAbout ?ruler_lineage_iri ;
 	    gist:isExpressedIn media-txt:html ;
@@ -71,7 +70,7 @@ WHERE {
 
     # Testing
     # FILTER($ROWNUM = 1)
-    
+
     BIND(tarql:expandPrefixedName(CONCAT("told:_RulerLineage_", ?TOL_ID)) AS ?ruler_lineage_iri)
 
     # Preferred label

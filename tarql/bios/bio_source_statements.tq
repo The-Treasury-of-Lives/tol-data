@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
@@ -13,15 +13,15 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # person_id
 # sources
 
 
-# Run: 
+# Run:
 # tarql -e utf-8 --dedup 100000 bio_source_statements.tq bio-sources-html-9-16-24.csv > tolBioSourceStatements.ttl
 
 
@@ -33,7 +33,6 @@ CONSTRUCT {
 
     ?statement_iri
         a gist:FormattedContent ;
-        skos:prefLabel ?statement_label_en ;
         gist:isExpressedIn media-txt:html ;
         gist:containedText ?statement_text_en ;
         .
@@ -41,7 +40,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1415)
 
@@ -49,6 +48,5 @@ WHERE {
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Biography_SourceStatement_", ?person_id)) AS ?statement_iri)
     BIND(STRLANG(?sources, "en") AS ?statement_text_en)
-    BIND(STRLANG(CONCAT("Biography of Person ", ?person_id, " Sources"), "en") AS ?statement_label_en)
-   
+
 }

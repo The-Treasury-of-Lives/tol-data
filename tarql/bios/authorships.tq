@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
@@ -13,16 +13,16 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # author_id
 # person_id
 # biography_id
 # display_order
 
-# Run: 
+# Run:
 # tarql -e utf-8 authorships.tq tol-authorships-7-19-24.csv  > tolAuthorships.ttl
 
 
@@ -30,7 +30,6 @@ CONSTRUCT {
 
     ?authorship_iri
         a tolo:Authorship ;
-        skos:prefLabel ?label_en ;
         gist:hasParticipant ?author_iri ;
         gist:hasParticipant ?bio_iri ;
         tolo:displayOrder ?display_order_int ;
@@ -39,7 +38,7 @@ CONSTRUCT {
 }
 
 WHERE {
-    
+
     # Testing
     # FILTER(?ROWNUM = 1)
 
