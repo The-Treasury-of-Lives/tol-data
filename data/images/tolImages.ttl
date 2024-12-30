@@ -79,861 +79,738 @@ told:_Collection_world_museum_liverpool
 
 told:_ElectronicAddress_source_image_100
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/2213/machik-labdron-10551153"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/2213/machik-labdron-10551153"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_101
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1398/refuge-field-with-machik-labdron-10551153"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1398/refuge-field-with-machik-labdron-10551153"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_103
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1418/namkhai-nyingpo-8th9th-century-performing-a-longlife-rit"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1418/namkhai-nyingpo-8th9th-century-performing-a-longlife-rit"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_104
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://clevelandart.org/art/1968.280"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://clevelandart.org/art/1968.280"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_107
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.clevelandart.org/art/1997.305"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.clevelandart.org/art/1997.305"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_108
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.metmuseum.org/art/collection/search/38006"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.metmuseum.org/art/collection/search/38006"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_109
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.clevelandart.org/art/2000.67"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.clevelandart.org/art/2000.67"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_11
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1404/sanggye-sengge-15041569"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1404/sanggye-sengge-15041569"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_119
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.metmuseum.org/art/collection/search/37800"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.metmuseum.org/art/collection/search/37800"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_122
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.liverpoolmuseums.org.uk/artifact/tibetan-delegation-hastings-house-calcutta"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.liverpoolmuseums.org.uk/artifact/tibetan-delegation-hastings-house-calcutta"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_124
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://tibet.prm.ox.ac.uk/photo_1998.131.473.2.html"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://tibet.prm.ox.ac.uk/photo_1998.131.473.2.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_125
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/tibet-king-china-history"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/tibet-king-china-history"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_127
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1360/first-panchen-lama-lobzang-chokyi-gyaltsen-15701662af"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1360/first-panchen-lama-lobzang-chokyi-gyaltsen-15701662af"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_136
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1471/rahula-and-his-assembly"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1471/rahula-and-his-assembly"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_15
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/947/drakpa-gyeltsen-11471216-and-sakya-pandita-11821251"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/947/drakpa-gyeltsen-11471216-and-sakya-pandita-11821251"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_19
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/3679/two-indian-and-four-tibetan-masters"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/3679/two-indian-and-four-tibetan-masters"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_2
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/104/panjarnatha-mahakala"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/104/panjarnatha-mahakala"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_22
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/560/karmapa-with-his-footprints"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/560/karmapa-with-his-footprints"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_24
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1452/chakrasamvara-and-the-footprints-of-drigungpa-jikten-sumgon"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1452/chakrasamvara-and-the-footprints-of-drigungpa-jikten-sumgon"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_29
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/3791/the-field-of-accumulation-of-merit"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/3791/the-field-of-accumulation-of-merit"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_32
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/159/seventh-dalai-lama-17081757-and-his-preincarnations"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/159/seventh-dalai-lama-17081757-and-his-preincarnations"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_33
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1555/phakmodrupa-11101170-with-his-previous-incarnations-and-e"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1555/phakmodrupa-11101170-with-his-previous-incarnations-and-e"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_34
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/2839/padmasambhava"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/2839/padmasambhava"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_42
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1365/drenpa-namkha-ca-8th-century"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1365/drenpa-namkha-ca-8th-century"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_48
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/459/third-pawo-rinpoche-tsuklak-gyatso-15681630-with-his-han"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/459/third-pawo-rinpoche-tsuklak-gyatso-15681630-with-his-han"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_5
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1490/sachen-kunga-nyingpo-10921158-with-his-two-sons-sonam-ts"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1490/sachen-kunga-nyingpo-10921158-with-his-two-sons-sonam-ts"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_50
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://brill.com/display/title/17829"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://brill.com/display/title/17829"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_52
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_62
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://tibet.prm.ox.ac.uk/photo_2001.59.7.5.1.html"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://tibet.prm.ox.ac.uk/photo_2001.59.7.5.1.html"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_64
 	a gist:ElectronicAddress ;
-	skos:prefLabel "Kunphela_and_Tashi_Dhondup_with_Baby_Austin_at_Dekyi-lingka_19.9.33.jpg"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "Kunphela_and_Tashi_Dhondup_with_Baby_Austin_at_Dekyi-lingka_19.9.33.jpg"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_66
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://philamuseum.org/collection/object/258403"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://philamuseum.org/collection/object/258403"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_67
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/1821/the-potala-palace-and-the-main-monuments-of-lhasa"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/1821/the-potala-palace-and-the-main-monuments-of-lhasa"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_68
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_77
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_8
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/511/buddhashri-sanggye-pel-13391419-surrounded-by-the-yogacha"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/511/buddhashri-sanggye-pel-13391419-surrounded-by-the-yogacha"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_81
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_9
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/220/abbot-lhachok-sengge-14681535"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/220/abbot-lhachok-sengge-14681535"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_97
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/291/the-demoness-of-tibet"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_98
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/187"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/187"^^xsd:anyURI ;
 	.
 
 told:_ElectronicAddress_source_image_99
 	a gist:ElectronicAddress ;
-	skos:prefLabel "https://collection.rubinmuseum.org/objects/862/jatson-nyingpo-15851656"^^xsd:string ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://collection.rubinmuseum.org/objects/862/jatson-nyingpo-15851656"^^xsd:anyURI ;
 	.
 
 told:_ID_har_1034
 	a gist:ID ;
-	skos:prefLabel "HAR 1034"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1034"^^xsd:string ;
 	.
 
 told:_ID_har_1035
 	a gist:ID ;
-	skos:prefLabel "HAR 1035"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1035"^^xsd:string ;
 	.
 
 told:_ID_har_1047
 	a gist:ID ;
-	skos:prefLabel "HAR 1047"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1047"^^xsd:string ;
 	.
 
 told:_ID_har_1066
 	a gist:ID ;
-	skos:prefLabel "HAR 1066"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1066"^^xsd:string ;
 	.
 
 told:_ID_har_12
 	a gist:ID ;
-	skos:prefLabel "HAR 12"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "12"^^xsd:string ;
 	.
 
 told:_ID_har_128
 	a gist:ID ;
-	skos:prefLabel "HAR 128"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "128"^^xsd:string ;
 	.
 
 told:_ID_har_134
 	a gist:ID ;
-	skos:prefLabel "HAR 134"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "134"^^xsd:string ;
 	.
 
 told:_ID_har_142
 	a gist:ID ;
-	skos:prefLabel "HAR 142"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "142"^^xsd:string ;
 	.
 
 told:_ID_har_160
 	a gist:ID ;
-	skos:prefLabel "HAR 160"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "160"^^xsd:string ;
 	.
 
 told:_ID_har_188
 	a gist:ID ;
-	skos:prefLabel "HAR 188"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "188"^^xsd:string ;
 	.
 
 told:_ID_har_213
 	a gist:ID ;
-	skos:prefLabel "HAR 213"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "213"^^xsd:string ;
 	.
 
 told:_ID_har_223
 	a gist:ID ;
-	skos:prefLabel "HAR 223"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "223"^^xsd:string ;
 	.
 
 told:_ID_har_269
 	a gist:ID ;
-	skos:prefLabel "HAR 269"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "269"^^xsd:string ;
 	.
 
 told:_ID_har_276
 	a gist:ID ;
-	skos:prefLabel "HAR 276"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "276"^^xsd:string ;
 	.
 
 told:_ID_har_285
 	a gist:ID ;
-	skos:prefLabel "HAR 285"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "285"^^xsd:string ;
 	.
 
 told:_ID_har_300
 	a gist:ID ;
-	skos:prefLabel "HAR 300"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "300"^^xsd:string ;
 	.
 
 told:_ID_har_309
 	a gist:ID ;
-	skos:prefLabel "HAR 309"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "309"^^xsd:string ;
 	.
 
 told:_ID_har_31668
 	a gist:ID ;
-	skos:prefLabel "HAR 31668"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "31668"^^xsd:string ;
 	.
 
 told:_ID_har_362
 	a gist:ID ;
-	skos:prefLabel "HAR 362"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "362"^^xsd:string ;
 	.
 
 told:_ID_har_376
 	a gist:ID ;
-	skos:prefLabel "HAR 376"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "376"^^xsd:string ;
 	.
 
 told:_ID_har_380
 	a gist:ID ;
-	skos:prefLabel "HAR 380"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "380"^^xsd:string ;
 	.
 
 told:_ID_har_39
 	a gist:ID ;
-	skos:prefLabel "HAR 39"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "39"^^xsd:string ;
 	.
 
 told:_ID_har_40
 	a gist:ID ;
-	skos:prefLabel "HAR 40"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "40"^^xsd:string ;
 	.
 
 told:_ID_har_410
 	a gist:ID ;
-	skos:prefLabel "HAR 410"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "410"^^xsd:string ;
 	.
 
 told:_ID_har_412
 	a gist:ID ;
-	skos:prefLabel "HAR 412"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "412"^^xsd:string ;
 	.
 
 told:_ID_har_413
 	a gist:ID ;
-	skos:prefLabel "HAR 413"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "413"^^xsd:string ;
 	.
 
 told:_ID_har_453
 	a gist:ID ;
-	skos:prefLabel "HAR 453"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "453"^^xsd:string ;
 	.
 
 told:_ID_har_457
 	a gist:ID ;
-	skos:prefLabel "HAR 457"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "457"^^xsd:string ;
 	.
 
 told:_ID_har_477
 	a gist:ID ;
-	skos:prefLabel "HAR 477"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "477"^^xsd:string ;
 	.
 
 told:_ID_har_493
 	a gist:ID ;
-	skos:prefLabel "HAR 493"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "493"^^xsd:string ;
 	.
 
 told:_ID_har_508
 	a gist:ID ;
-	skos:prefLabel "HAR 508"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "508"^^xsd:string ;
 	.
 
 told:_ID_har_536
 	a gist:ID ;
-	skos:prefLabel "HAR 536"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "536"^^xsd:string ;
 	.
 
 told:_ID_har_56
 	a gist:ID ;
-	skos:prefLabel "HAR 56"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "56"^^xsd:string ;
 	.
 
 told:_ID_har_57037
 	a gist:ID ;
-	skos:prefLabel "HAR 57037"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "57037"^^xsd:string ;
 	.
 
 told:_ID_har_580
 	a gist:ID ;
-	skos:prefLabel "HAR 580"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "580"^^xsd:string ;
 	.
 
 told:_ID_har_59217
 	a gist:ID ;
-	skos:prefLabel "HAR 59217"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "59217"^^xsd:string ;
 	.
 
 told:_ID_har_59247
 	a gist:ID ;
-	skos:prefLabel "HAR 59247"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "59247"^^xsd:string ;
 	.
 
 told:_ID_har_595
 	a gist:ID ;
-	skos:prefLabel "HAR 595"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "595"^^xsd:string ;
 	.
 
 told:_ID_har_615
 	a gist:ID ;
-	skos:prefLabel "HAR 615"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "615"^^xsd:string ;
 	.
 
 told:_ID_har_619
 	a gist:ID ;
-	skos:prefLabel "HAR 619"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "619"^^xsd:string ;
 	.
 
 told:_ID_har_63
 	a gist:ID ;
-	skos:prefLabel "HAR 63"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "63"^^xsd:string ;
 	.
 
 told:_ID_har_633
 	a gist:ID ;
-	skos:prefLabel "HAR 633"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "633"^^xsd:string ;
 	.
 
 told:_ID_har_642
 	a gist:ID ;
-	skos:prefLabel "HAR 642"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "642"^^xsd:string ;
 	.
 
 told:_ID_har_65094
 	a gist:ID ;
-	skos:prefLabel "HAR 65094"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65094"^^xsd:string ;
 	.
 
 told:_ID_har_65119
 	a gist:ID ;
-	skos:prefLabel "HAR 65119"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65119"^^xsd:string ;
 	.
 
 told:_ID_har_65193
 	a gist:ID ;
-	skos:prefLabel "HAR 65193"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65193"^^xsd:string ;
 	.
 
 told:_ID_har_65205
 	a gist:ID ;
-	skos:prefLabel "HAR 65205"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65205"^^xsd:string ;
 	.
 
 told:_ID_har_65232
 	a gist:ID ;
-	skos:prefLabel "HAR 65232"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65232"^^xsd:string ;
 	.
 
 told:_ID_har_65249
 	a gist:ID ;
-	skos:prefLabel "HAR 65249"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65249"^^xsd:string ;
 	.
 
 told:_ID_har_65275
 	a gist:ID ;
-	skos:prefLabel "HAR 65275"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65275"^^xsd:string ;
 	.
 
 told:_ID_har_65401
 	a gist:ID ;
-	skos:prefLabel "HAR 65401"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65401"^^xsd:string ;
 	.
 
 told:_ID_har_65461
 	a gist:ID ;
-	skos:prefLabel "HAR 65461"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65461"^^xsd:string ;
 	.
 
 told:_ID_har_65562
 	a gist:ID ;
-	skos:prefLabel "HAR 65562"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65562"^^xsd:string ;
 	.
 
 told:_ID_har_65719
 	a gist:ID ;
-	skos:prefLabel "HAR 65719"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65719"^^xsd:string ;
 	.
 
 told:_ID_har_65789
 	a gist:ID ;
-	skos:prefLabel "HAR 65789"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65789"^^xsd:string ;
 	.
 
 told:_ID_har_65848
 	a gist:ID ;
-	skos:prefLabel "HAR 65848"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65848"^^xsd:string ;
 	.
 
 told:_ID_har_65861
 	a gist:ID ;
-	skos:prefLabel "HAR 65861"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65861"^^xsd:string ;
 	.
 
 told:_ID_har_65864
 	a gist:ID ;
-	skos:prefLabel "HAR 65864"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65864"^^xsd:string ;
 	.
 
 told:_ID_har_65916
 	a gist:ID ;
-	skos:prefLabel "HAR 65916"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65916"^^xsd:string ;
 	.
 
 told:_ID_har_678
 	a gist:ID ;
-	skos:prefLabel "HAR 678"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "678"^^xsd:string ;
 	.
 
 told:_ID_har_68480
 	a gist:ID ;
-	skos:prefLabel "HAR 68480"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68480"^^xsd:string ;
 	.
 
 told:_ID_har_68871
 	a gist:ID ;
-	skos:prefLabel "HAR 68871"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68871"^^xsd:string ;
 	.
 
 told:_ID_har_696
 	a gist:ID ;
-	skos:prefLabel "HAR 696"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "696"^^xsd:string ;
 	.
 
 told:_ID_har_700037
 	a gist:ID ;
-	skos:prefLabel "HAR 700037"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "700037"^^xsd:string ;
 	.
 
 told:_ID_har_71925
 	a gist:ID ;
-	skos:prefLabel "HAR 71925"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "71925"^^xsd:string ;
 	.
 
 told:_ID_har_76
 	a gist:ID ;
-	skos:prefLabel "HAR 76"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "76"^^xsd:string ;
 	.
 
 told:_ID_har_777
 	a gist:ID ;
-	skos:prefLabel "HAR 777"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "777"^^xsd:string ;
 	.
 
 told:_ID_har_82
 	a gist:ID ;
-	skos:prefLabel "HAR 82"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "82"^^xsd:string ;
 	.
 
 told:_ID_har_825
 	a gist:ID ;
-	skos:prefLabel "HAR 825"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "825"^^xsd:string ;
 	.
 
 told:_ID_har_858
 	a gist:ID ;
-	skos:prefLabel "HAR 858"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "858"^^xsd:string ;
 	.
 
 told:_ID_har_86433
 	a gist:ID ;
-	skos:prefLabel "HAR 86433"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "86433"^^xsd:string ;
 	.
 
 told:_ID_har_87137
 	a gist:ID ;
-	skos:prefLabel "HAR 87137"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87137"^^xsd:string ;
 	.
 
 told:_ID_har_89141
 	a gist:ID ;
-	skos:prefLabel "HAR 89141"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89141"^^xsd:string ;
 	.
 
 told:_ID_har_89148
 	a gist:ID ;
-	skos:prefLabel "HAR 89148"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89148"^^xsd:string ;
 	.
 
 told:_ID_har_89957
 	a gist:ID ;
-	skos:prefLabel "HAR 89957"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89957"^^xsd:string ;
 	.
 
 told:_ID_har_9
 	a gist:ID ;
-	skos:prefLabel "HAR 9"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "9"^^xsd:string ;
 	.
 
 told:_ID_har_90907
 	a gist:ID ;
-	skos:prefLabel "HAR 90907"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90907"^^xsd:string ;
 	.
 
 told:_ID_har_921
 	a gist:ID ;
-	skos:prefLabel "HAR 921"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "921"^^xsd:string ;
 	.
 
 told:_ID_har_935
 	a gist:ID ;
-	skos:prefLabel "HAR 935"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "935"^^xsd:string ;
 	.
 
 told:_ID_har_944
 	a gist:ID ;
-	skos:prefLabel "HAR 944"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "944"^^xsd:string ;
 	.
 
 told:_ID_har_946
 	a gist:ID ;
-	skos:prefLabel "HAR 946"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "946"^^xsd:string ;
 	.
 
 told:_ID_har_96
 	a gist:ID ;
-	skos:prefLabel "HAR 96"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "96"^^xsd:string ;
 	.
 
 told:_ID_har_98406
 	a gist:ID ;
-	skos:prefLabel "HAR 98406"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "98406"^^xsd:string ;
 	.
@@ -941,7 +818,6 @@ told:_ID_har_98406
 told:_Image_1
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:22:01"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_1 ;
 	tolo:filePath "/uploads/paintings/1/HAR595_nav.jpg"^^xsd:string ;
@@ -954,7 +830,6 @@ told:_Image_1
 told:_Image_10
 	a tolo:Image ;
 	skos:prefLabel "Damarupa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:06:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_10 ;
 	tolo:filePath "/uploads/paintings/10/HAR946_nav.jpg"^^xsd:string ;
@@ -968,7 +843,6 @@ told:_Image_100
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_100 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T15:33:16"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_100 ;
 	tolo:filePath "/uploads/paintings/100/machig-57037.jpg"^^xsd:string ;
@@ -982,7 +856,6 @@ told:_Image_101
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_101 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-03-12T19:44:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_101 ;
 	tolo:filePath "/uploads/paintings/101/machik-field.jpg"^^xsd:string ;
@@ -995,7 +868,6 @@ told:_Image_101
 told:_Image_102
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-10-30T16:15:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_102 ;
 	tolo:filePath "/uploads/paintings/102/padmasambhava-guru-drakpo.jpg"^^xsd:string ;
@@ -1009,7 +881,6 @@ told:_Image_103
 	a tolo:Image ;
 	skos:prefLabel "Namkhai Nyingpo"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_103 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-09T15:26:57"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_103 ;
 	tolo:filePath "/uploads/paintings/103/namkhai-nyingpo.jpg"^^xsd:string ;
@@ -1023,7 +894,6 @@ told:_Image_104
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_104 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-01-24T20:50:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_104 ;
 	tolo:filePath "/uploads/paintings/104/Karmapa-10-Avalokiteshvara.jpg"^^xsd:string ;
@@ -1036,7 +906,6 @@ told:_Image_104
 told:_Image_105
 	a tolo:Image ;
 	skos:prefLabel "Pehar Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-02-01T18:43:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_105 ;
 	tolo:filePath "/uploads/paintings/105/pehar.jpg"^^xsd:string ;
@@ -1050,7 +919,6 @@ told:_Image_107
 	a tolo:Image ;
 	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_107 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-04-23T18:26:17"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_107 ;
 	tolo:filePath "/uploads/paintings/107/1997.305_print.jpg"^^xsd:string ;
@@ -1064,7 +932,6 @@ told:_Image_108
 	a tolo:Image ;
 	skos:prefLabel "Atiśa"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_108 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-05-02T14:58:50"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_108 ;
 	tolo:filePath "/uploads/paintings/108/atisa.jpg"^^xsd:string ;
@@ -1078,7 +945,6 @@ told:_Image_109
 	a tolo:Image ;
 	skos:prefLabel "Preaching Śākyamuni"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_109 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-11-15T16:01:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_109 ;
 	tolo:filePath "/uploads/paintings/109/2000.67_print.jpg"^^xsd:string ;
@@ -1092,7 +958,6 @@ told:_Image_11
 	a tolo:Image ;
 	skos:prefLabel "Sanggye Sengge"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_11 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:07:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_11 ;
 	tolo:filePath "/uploads/paintings/11/HAR493_nav.jpg"^^xsd:string ;
@@ -1105,7 +970,6 @@ told:_Image_11
 told:_Image_110
 	a tolo:Image ;
 	skos:prefLabel "Lhalungpas in Delhi"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-09T13:35:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_110 ;
 	tolo:filePath "/uploads/paintings/110/Lhalungpas-Gene-Smith-Delhi.jpg"^^xsd:string ;
@@ -1118,7 +982,6 @@ told:_Image_110
 told:_Image_114
 	a tolo:Image ;
 	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-10T17:56:47"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_114 ;
 	tolo:filePath "/uploads/paintings/114/HHDL Letter Lhalungpa.jpg"^^xsd:string ;
@@ -1131,7 +994,6 @@ told:_Image_114
 told:_Image_115
 	a tolo:Image ;
 	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-10T18:35:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_115 ;
 	tolo:filePath "/uploads/paintings/115/St. Josephs Letter to Lhalungpa.jpg"^^xsd:string ;
@@ -1144,7 +1006,6 @@ told:_Image_115
 told:_Image_116
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-17T14:32:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_116 ;
 	tolo:filePath "/uploads/paintings/116/Sakya Settlement Receipt.jpg"^^xsd:string ;
@@ -1157,7 +1018,6 @@ told:_Image_116
 told:_Image_117
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2019-12-17T14:41:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_117 ;
 	tolo:filePath "/uploads/paintings/117/Bonpo Foundation Receipt.jpg"^^xsd:string ;
@@ -1170,7 +1030,6 @@ told:_Image_117
 told:_Image_118
 	a tolo:Image ;
 	skos:prefLabel "Vajrakila"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-05-15T16:26:57"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_118 ;
 	tolo:filePath "/uploads/paintings/118/vajrakila.jpg"^^xsd:string ;
@@ -1184,7 +1043,6 @@ told:_Image_119
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_119 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-07-21T16:49:38"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_119 ;
 	tolo:filePath "/uploads/paintings/119/avalokitshvara-tsebumluk.jpg"^^xsd:string ;
@@ -1197,7 +1055,6 @@ told:_Image_119
 told:_Image_12
 	a tolo:Image ;
 	skos:prefLabel "Two Lineal Lamas"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:08:00"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_12 ;
 	tolo:filePath "/uploads/paintings/12/HAR457_nav.jpg"^^xsd:string ;
@@ -1210,7 +1067,6 @@ told:_Image_12
 told:_Image_120
 	a tolo:Image ;
 	skos:prefLabel "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2020-08-24T16:41:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_120 ;
 	tolo:filePath "/uploads/paintings/120/meu-gyalpo-tsetan-zhabdrung.jpg"^^xsd:string ;
@@ -1223,7 +1079,6 @@ told:_Image_120
 told:_Image_121
 	a tolo:Image ;
 	skos:prefLabel "Resistance fighters at Kalsang Phug"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2021-07-01T18:54:13"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_121 ;
 	tolo:filePath "/uploads/paintings/121/Mustang leaders (medium-res).jpg"^^xsd:string ;
@@ -1237,7 +1092,6 @@ told:_Image_122
 	a tolo:Image ;
 	skos:prefLabel "Officials at Hastings House"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_122 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T18:44:29"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_122 ;
 	tolo:filePath "/uploads/paintings/122/Hastings_House_Calcutta_1910.jpg"^^xsd:string ;
@@ -1250,7 +1104,6 @@ told:_Image_122
 told:_Image_123
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:02:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_123 ;
 	tolo:filePath "/uploads/paintings/123/bakula-panchen-ktm-1986.jpg"^^xsd:string ;
@@ -1264,7 +1117,6 @@ told:_Image_124
 	a tolo:Image ;
 	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_124 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:16:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_124 ;
 	tolo:filePath "/uploads/paintings/124/tsarongs-losar-1937.jpg"^^xsd:string ;
@@ -1278,7 +1130,6 @@ told:_Image_125
 	a tolo:Image ;
 	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_125 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2022-09-07T19:43:18"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_125 ;
 	tolo:filePath "/uploads/paintings/125/Sheltonpage299.jpg"^^xsd:string ;
@@ -1291,7 +1142,6 @@ told:_Image_125
 told:_Image_126
 	a tolo:Image ;
 	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-01-10T15:28:27"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_126 ;
 	tolo:filePath "/uploads/paintings/126/Sixteenth-Karmapa.jpg"^^xsd:string ;
@@ -1305,7 +1155,6 @@ told:_Image_127
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_127 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-01-18T15:28:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_127 ;
 	tolo:filePath "/uploads/paintings/127/PanchenLama.jpg"^^xsd:string ;
@@ -1318,7 +1167,6 @@ told:_Image_127
 told:_Image_128
 	a tolo:Image ;
 	skos:prefLabel "Tseten Zhabdrung and Sungrab Gyatso"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2023-05-25T15:43:21"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_128 ;
 	tolo:filePath "/uploads/paintings/128/tsetenzhabdrung-subgrabgyatso.jpg"^^xsd:string ;
@@ -1331,7 +1179,6 @@ told:_Image_128
 told:_Image_13
 	a tolo:Image ;
 	skos:prefLabel "Sangye Sengge"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:08:44"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_13 ;
 	tolo:filePath "/uploads/paintings/13/HAR96_nav.jpg"^^xsd:string ;
@@ -1344,7 +1191,6 @@ told:_Image_13
 told:_Image_130
 	a tolo:Image ;
 	skos:prefLabel "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-01-09T22:51:19"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_130 ;
 	tolo:filePath "/uploads/paintings/130/georges-lhalungpa-gyurdrak.jpg"^^xsd:string ;
@@ -1357,7 +1203,6 @@ told:_Image_130
 told:_Image_131
 	a tolo:Image ;
 	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-01-25T23:06:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_131 ;
 	tolo:filePath "/uploads/paintings/131/barawa-refuge-field.jpg"^^xsd:string ;
@@ -1370,7 +1215,6 @@ told:_Image_131
 told:_Image_132
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-06T21:34:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_132 ;
 	tolo:filePath "/uploads/paintings/132/AvalokitesvaraHAR40.jpeg"^^xsd:string ;
@@ -1383,7 +1227,6 @@ told:_Image_132
 told:_Image_133
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Primer"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-09T18:19:29"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_133 ;
 	tolo:filePath "/uploads/paintings/133/tibetan-primer.jpg"^^xsd:string ;
@@ -1396,7 +1239,6 @@ told:_Image_133
 told:_Image_134
 	a tolo:Image ;
 	skos:prefLabel "Dudjom Rinpoche with lamas in Kalimpong"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-02-13T20:25:13"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_134 ;
 	tolo:filePath "/uploads/paintings/134/DudjomRinpocheKalimpong.jpg"^^xsd:string ;
@@ -1410,7 +1252,6 @@ told:_Image_136
 	a tolo:Image ;
 	skos:prefLabel "Rahula and Retinue"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_136 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2024-04-08T13:32:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_136 ;
 	tolo:filePath "/uploads/paintings/136/rahula.jpg"^^xsd:string ;
@@ -1424,7 +1265,6 @@ told:_Image_15
 	a tolo:Image ;
 	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_15 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_15 ;
 	tolo:filePath "/uploads/paintings/15/HAR580_nav.jpg"^^xsd:string ;
@@ -1437,7 +1277,6 @@ told:_Image_15
 told:_Image_16
 	a tolo:Image ;
 	skos:prefLabel "Shangton Chobar"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:10:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_16 ;
 	tolo:filePath "/uploads/paintings/16/HAR63_nav.jpg"^^xsd:string ;
@@ -1450,7 +1289,6 @@ told:_Image_16
 told:_Image_17
 	a tolo:Image ;
 	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:11:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_17 ;
 	tolo:filePath "/uploads/paintings/17/HAR935_nav.jpg"^^xsd:string ;
@@ -1463,7 +1301,6 @@ told:_Image_17
 told:_Image_18
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:12:28"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_18 ;
 	tolo:filePath "/uploads/paintings/18/HAR76_nav.jpg"^^xsd:string ;
@@ -1477,7 +1314,6 @@ told:_Image_19
 	a tolo:Image ;
 	skos:prefLabel "Six Kagyu Teachers With Lineage"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_19 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-25T21:37:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_19 ;
 	tolo:filePath "/uploads/paintings/19/89141.jpg"^^xsd:string ;
@@ -1491,7 +1327,6 @@ told:_Image_2
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_2 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:27:27"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_2 ;
 	tolo:filePath "/uploads/paintings/2/HAR82_nav.jpg"^^xsd:string ;
@@ -1504,7 +1339,6 @@ told:_Image_2
 told:_Image_20
 	a tolo:Image ;
 	skos:prefLabel "Karma Pakshi with lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T17:25:52"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_20 ;
 	tolo:filePath "/uploads/paintings/20/68871.jpg"^^xsd:string ;
@@ -1517,7 +1351,6 @@ told:_Image_20
 told:_Image_21
 	a tolo:Image ;
 	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-27T19:37:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_21 ;
 	tolo:filePath "/uploads/paintings/21/89957.jpg"^^xsd:string ;
@@ -1531,7 +1364,6 @@ told:_Image_22
 	a tolo:Image ;
 	skos:prefLabel "Early Karmapa with footprints"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_22 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:45:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_22 ;
 	tolo:filePath "/uploads/paintings/22/508.jpg"^^xsd:string ;
@@ -1545,7 +1377,6 @@ told:_Image_24
 	a tolo:Image ;
 	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_24 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-28T15:55:55"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_24 ;
 	tolo:filePath "/uploads/paintings/24/65205.jpg"^^xsd:string ;
@@ -1558,7 +1389,6 @@ told:_Image_24
 told:_Image_25
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-29T16:49:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_25 ;
 	tolo:filePath "/uploads/paintings/25/65461.jpg"^^xsd:string ;
@@ -1571,7 +1401,6 @@ told:_Image_25
 told:_Image_26
 	a tolo:Image ;
 	skos:prefLabel "Padampa Sanggye"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-29T17:28:09"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_26 ;
 	tolo:filePath "/uploads/paintings/26/68480.jpg"^^xsd:string ;
@@ -1584,7 +1413,6 @@ told:_Image_26
 told:_Image_28
 	a tolo:Image ;
 	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-08-03T16:08:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_28 ;
 	tolo:filePath "/uploads/paintings/28/rsz_1rsz_189141_smaller.jpg"^^xsd:string ;
@@ -1598,7 +1426,6 @@ told:_Image_29
 	a tolo:Image ;
 	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_29 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-09-06T23:11:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_29 ;
 	tolo:filePath "/uploads/paintings/29/65861 refuge tree smaller.jpg"^^xsd:string ;
@@ -1611,7 +1438,6 @@ told:_Image_29
 told:_Image_3
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-08T21:29:47"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_3 ;
 	tolo:filePath "/uploads/paintings/3/HAR642_nav.jpg"^^xsd:string ;
@@ -1624,7 +1450,6 @@ told:_Image_3
 told:_Image_30
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-09-24T01:30:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_30 ;
 	tolo:filePath "/uploads/paintings/30/410 Tsongkhapa.jpg"^^xsd:string ;
@@ -1637,7 +1462,6 @@ told:_Image_30
 told:_Image_31
 	a tolo:Image ;
 	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-11-11T17:09:20"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_31 ;
 	tolo:filePath "/uploads/paintings/31/HAR276.jpg"^^xsd:string ;
@@ -1651,7 +1475,6 @@ told:_Image_32
 	a tolo:Image ;
 	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_32 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-12-14T17:16:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_32 ;
 	tolo:filePath "/uploads/paintings/32/380.Seventh DL.jpg"^^xsd:string ;
@@ -1665,7 +1488,6 @@ told:_Image_33
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_33 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T18:50:03"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_33 ;
 	tolo:filePath "/uploads/paintings/33/65119.Pakmodrupa.jpg"^^xsd:string ;
@@ -1679,7 +1501,6 @@ told:_Image_34
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_34 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2012-04-04T20:05:53"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_34 ;
 	tolo:filePath "/uploads/paintings/34/285 Padmasambhava.jpg"^^xsd:string ;
@@ -1692,7 +1513,6 @@ told:_Image_34
 told:_Image_35
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-02T18:13:49"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_35 ;
 	tolo:filePath "/uploads/paintings/35/160.Padma and Nyangrel.jpg"^^xsd:string ;
@@ -1705,7 +1525,6 @@ told:_Image_35
 told:_Image_36
 	a tolo:Image ;
 	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-16T14:44:23"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_36 ;
 	tolo:filePath "/uploads/paintings/36/65193.jpg"^^xsd:string ;
@@ -1718,7 +1537,6 @@ told:_Image_36
 told:_Image_37
 	a tolo:Image ;
 	skos:prefLabel "Gampopa and Karmapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2013-05-23T18:37:19"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_37 ;
 	tolo:filePath "/uploads/paintings/37/gampopa-karmapa.jpg"^^xsd:string ;
@@ -1731,7 +1549,6 @@ told:_Image_37
 told:_Image_39
 	a tolo:Image ;
 	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2014-02-12T09:01:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_39 ;
 	tolo:filePath "/uploads/paintings/39/412.jpg"^^xsd:string ;
@@ -1744,7 +1561,6 @@ told:_Image_39
 told:_Image_40
 	a tolo:Image ;
 	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2014-02-14T07:48:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_40 ;
 	tolo:filePath "/uploads/paintings/40/1034.jpg"^^xsd:string ;
@@ -1758,7 +1574,6 @@ told:_Image_42
 	a tolo:Image ;
 	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_42 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T11:05:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_42 ;
 	tolo:filePath "/uploads/paintings/42/65401.jpg"^^xsd:string ;
@@ -1771,7 +1586,6 @@ told:_Image_42
 told:_Image_43
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T12:46:17"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_43 ;
 	tolo:filePath "/uploads/paintings/43/65249.jpg"^^xsd:string ;
@@ -1784,7 +1598,6 @@ told:_Image_43
 told:_Image_44
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-20T16:38:30"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_44 ;
 	tolo:filePath "/uploads/paintings/44/362.jpg"^^xsd:string ;
@@ -1797,7 +1610,6 @@ told:_Image_44
 told:_Image_46
 	a tolo:Image ;
 	skos:prefLabel "Episodes from the Life of Milarepa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-05-25T16:15:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_46 ;
 	tolo:filePath "/uploads/paintings/46/milarepa.jpg"^^xsd:string ;
@@ -1811,7 +1623,6 @@ told:_Image_48
 	a tolo:Image ;
 	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_48 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-03T11:54:49"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_48 ;
 	tolo:filePath "/uploads/paintings/48/tsuklak-gyatso.jpg"^^xsd:string ;
@@ -1824,7 +1635,6 @@ told:_Image_48
 told:_Image_49
 	a tolo:Image ;
 	skos:prefLabel "Śākyaśrībhadra"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-03T13:08:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_49 ;
 	tolo:filePath "/uploads/paintings/49/sakyasribhadra.jpg"^^xsd:string ;
@@ -1838,7 +1648,6 @@ told:_Image_5
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_5 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:01:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_5 ;
 	tolo:filePath "/uploads/paintings/5/HAR65789_nav.jpg"^^xsd:string ;
@@ -1852,7 +1661,6 @@ told:_Image_50
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Trade Delegation to the US and UK, 1948"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_50 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T13:50:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_50 ;
 	tolo:filePath "/uploads/paintings/50/DelegationPicture.jpg"^^xsd:string ;
@@ -1865,7 +1673,6 @@ told:_Image_50
 told:_Image_51
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T14:31:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_51 ;
 	tolo:filePath "/uploads/paintings/51/padmasambhava.jpg"^^xsd:string ;
@@ -1879,7 +1686,6 @@ told:_Image_52
 	a tolo:Image ;
 	skos:prefLabel "The Demoness of Tibet"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_52 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-10T15:10:40"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_52 ;
 	tolo:filePath "/uploads/paintings/52/demoness.jpg"^^xsd:string ;
@@ -1892,7 +1698,6 @@ told:_Image_52
 told:_Image_53
 	a tolo:Image ;
 	skos:prefLabel "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T13:09:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_53 ;
 	tolo:filePath "/uploads/paintings/53/Terton Couple with Khenpo Jigme Phuntsok.jpg"^^xsd:string ;
@@ -1905,7 +1710,6 @@ told:_Image_53
 told:_Image_54
 	a tolo:Image ;
 	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T16:00:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_54 ;
 	tolo:filePath "/uploads/paintings/54/1066-godemchen.jpg"^^xsd:string ;
@@ -1918,7 +1722,6 @@ told:_Image_54
 told:_Image_55
 	a tolo:Image ;
 	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T16:30:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_55 ;
 	tolo:filePath "/uploads/paintings/55/376-puchungwa.jpg"^^xsd:string ;
@@ -1931,7 +1734,6 @@ told:_Image_55
 told:_Image_56
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-13T17:00:09"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_56 ;
 	tolo:filePath "/uploads/paintings/56/413-padmasambhava.jpg"^^xsd:string ;
@@ -1944,7 +1746,6 @@ told:_Image_56
 told:_Image_57
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:29:08"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_57 ;
 	tolo:filePath "/uploads/paintings/57/photo (9).JPG"^^xsd:string ;
@@ -1957,7 +1758,6 @@ told:_Image_57
 told:_Image_58
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T13:53:59"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_58 ;
 	tolo:filePath "/uploads/paintings/58/photo (11).JPG"^^xsd:string ;
@@ -1970,7 +1770,6 @@ told:_Image_58
 told:_Image_59
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:23:23"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_59 ;
 	tolo:filePath "/uploads/paintings/59/LhagyariNamgyelGyatso1.jpg"^^xsd:string ;
@@ -1983,7 +1782,6 @@ told:_Image_59
 told:_Image_6
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:02:02"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_6 ;
 	tolo:filePath "/uploads/paintings/6/HAR134_nav.jpg"^^xsd:string ;
@@ -1996,7 +1794,6 @@ told:_Image_6
 told:_Image_60
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-16T14:57:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_60 ;
 	tolo:filePath "/uploads/paintings/60/LhagyariWedding.jpg"^^xsd:string ;
@@ -2009,7 +1806,6 @@ told:_Image_60
 told:_Image_61
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T14:36:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_61 ;
 	tolo:filePath "/uploads/paintings/61/photo (7).JPG"^^xsd:string ;
@@ -2023,7 +1819,6 @@ told:_Image_62
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_62 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:03:15"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_62 ;
 	tolo:filePath "/uploads/paintings/62/Courtsey of Shambhala Publications.jpg"^^xsd:string ;
@@ -2036,7 +1831,6 @@ told:_Image_62
 told:_Image_63
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:38:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_63 ;
 	tolo:filePath "/uploads/paintings/63/Courtesy of TransHimalayan Heritage1.jpg"^^xsd:string ;
@@ -2050,7 +1844,6 @@ told:_Image_64
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_64 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T15:55:59"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_64 ;
 	tolo:filePath "/uploads/paintings/64/BabyAustin.jpg"^^xsd:string ;
@@ -2063,7 +1856,6 @@ told:_Image_64
 told:_Image_65
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-17T17:03:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_65 ;
 	tolo:filePath "/uploads/paintings/65/photo-20.JPG"^^xsd:string ;
@@ -2077,7 +1869,6 @@ told:_Image_66
 	a tolo:Image ;
 	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_66 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-06-22T16:35:58"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_66 ;
 	tolo:filePath "/uploads/paintings/66/Lowo Khenchen.jpg"^^xsd:string ;
@@ -2091,7 +1882,6 @@ told:_Image_67
 	a tolo:Image ;
 	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_67 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-07-14T17:23:04"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_67 ;
 	tolo:filePath "/uploads/paintings/67/C2009.4HAR65848.jpg"^^xsd:string ;
@@ -2105,7 +1895,6 @@ told:_Image_68
 	a tolo:Image ;
 	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_68 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-08-29T17:02:24"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_68 ;
 	tolo:filePath "/uploads/paintings/68/62 Rubin Dalai Lama C2003.9.2 image only.jpg"^^xsd:string ;
@@ -2118,7 +1907,6 @@ told:_Image_68
 told:_Image_69
 	a tolo:Image ;
 	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T12:46:07"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_69 ;
 	tolo:filePath "/uploads/paintings/69/Lhasa perspective.jpg"^^xsd:string ;
@@ -2131,7 +1919,6 @@ told:_Image_69
 told:_Image_7
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:02:42"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_7 ;
 	tolo:filePath "/uploads/paintings/7/HAR128_nav.jpg"^^xsd:string ;
@@ -2144,7 +1931,6 @@ told:_Image_7
 told:_Image_70
 	a tolo:Image ;
 	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:34:34"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_70 ;
 	tolo:filePath "/uploads/paintings/70/R Sadutshang with Taklha.JPG"^^xsd:string ;
@@ -2157,7 +1943,6 @@ told:_Image_70
 told:_Image_71
 	a tolo:Image ;
 	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T15:36:41"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_71 ;
 	tolo:filePath "/uploads/paintings/71/Lo Gendun Sadutshang.JPG"^^xsd:string ;
@@ -2170,7 +1955,6 @@ told:_Image_71
 told:_Image_72
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-07T16:30:26"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_72 ;
 	tolo:filePath "/uploads/paintings/72/UN Delegation pic.jpg"^^xsd:string ;
@@ -2183,7 +1967,6 @@ told:_Image_72
 told:_Image_73
 	a tolo:Image ;
 	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-08T14:51:37"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_73 ;
 	tolo:filePath "/uploads/paintings/73/khedrupje.jpg"^^xsd:string ;
@@ -2196,7 +1979,6 @@ told:_Image_73
 told:_Image_74
 	a tolo:Image ;
 	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-09-29T13:36:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_74 ;
 	tolo:filePath "/uploads/paintings/74/thirdkarmapa.jpg"^^xsd:string ;
@@ -2210,7 +1992,6 @@ told:_Image_77
 	a tolo:Image ;
 	skos:prefLabel "Milarepa"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_77 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T11:51:39"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_77 ;
 	tolo:filePath "/uploads/paintings/77/milarepa.jpg"^^xsd:string ;
@@ -2223,7 +2004,6 @@ told:_Image_77
 told:_Image_78
 	a tolo:Image ;
 	skos:prefLabel "The Eighth Tatsak"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T12:07:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_78 ;
 	tolo:filePath "/uploads/paintings/78/kundeling.jpg"^^xsd:string ;
@@ -2236,7 +2016,6 @@ told:_Image_78
 told:_Image_79
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2016-12-15T17:39:51"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_79 ;
 	tolo:filePath "/uploads/paintings/79/photo (14).JPG"^^xsd:string ;
@@ -2250,7 +2029,6 @@ told:_Image_8
 	a tolo:Image ;
 	skos:prefLabel "Buddhashri"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_8 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:03:32"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_8 ;
 	tolo:filePath "/uploads/paintings/8/HAR269_nav.jpg"^^xsd:string ;
@@ -2263,7 +2041,6 @@ told:_Image_8
 told:_Image_80
 	a tolo:Image ;
 	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-01-30T10:22:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_80 ;
 	tolo:filePath "/uploads/paintings/80/rigdzinkunzangsherab.jpg"^^xsd:string ;
@@ -2277,7 +2054,6 @@ told:_Image_81
 	a tolo:Image ;
 	skos:prefLabel "Shakyamuni Buddha"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_81 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-01T12:48:45"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_81 ;
 	tolo:filePath "/uploads/paintings/81/tsongkhapa.jpg"^^xsd:string ;
@@ -2290,7 +2066,6 @@ told:_Image_81
 told:_Image_82
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-03T11:23:20"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_82 ;
 	tolo:filePath "/uploads/paintings/82/machik.jpg"^^xsd:string ;
@@ -2303,7 +2078,6 @@ told:_Image_82
 told:_Image_83
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-02-10T10:41:21"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_83 ;
 	tolo:filePath "/uploads/paintings/83/padmasambhava-disciples.jpg"^^xsd:string ;
@@ -2316,7 +2090,6 @@ told:_Image_83
 told:_Image_84
 	a tolo:Image ;
 	skos:prefLabel "Mahakala with Four Hands"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-03-22T11:54:14"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_84 ;
 	tolo:filePath "/uploads/paintings/84/mahakala-drukpa.jpg"^^xsd:string ;
@@ -2329,7 +2102,6 @@ told:_Image_84
 told:_Image_85
 	a tolo:Image ;
 	skos:prefLabel "Three Sisters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-13T10:10:32"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_85 ;
 	tolo:filePath "/uploads/paintings/85/01047.JPG"^^xsd:string ;
@@ -2342,7 +2114,6 @@ told:_Image_85
 told:_Image_87
 	a tolo:Image ;
 	skos:prefLabel "Group of Tibetan Army Officers"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-15T17:08:36"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_87 ;
 	tolo:filePath "/uploads/paintings/87/photo (22).JPG"^^xsd:string ;
@@ -2355,7 +2126,6 @@ told:_Image_87
 told:_Image_88
 	a tolo:Image ;
 	skos:prefLabel "Taring Women"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-06-16T15:06:40"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_88 ;
 	tolo:filePath "/uploads/paintings/88/photo (23).JPG"^^xsd:string ;
@@ -2368,7 +2138,6 @@ told:_Image_88
 told:_Image_89
 	a tolo:Image ;
 	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:00:11"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_89 ;
 	tolo:filePath "/uploads/paintings/89/khukpa-lhetse.jpg"^^xsd:string ;
@@ -2382,7 +2151,6 @@ told:_Image_9
 	a tolo:Image ;
 	skos:prefLabel "Lhachok Sengge"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_9 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2011-07-24T20:05:31"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_9 ;
 	tolo:filePath "/uploads/paintings/9/HAR65232_nav.jpg"^^xsd:string ;
@@ -2395,7 +2163,6 @@ told:_Image_9
 told:_Image_90
 	a tolo:Image ;
 	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:19:51"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_90 ;
 	tolo:filePath "/uploads/paintings/90/do-khyentse.jpg"^^xsd:string ;
@@ -2408,7 +2175,6 @@ told:_Image_90
 told:_Image_91
 	a tolo:Image ;
 	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-08-22T12:35:48"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_91 ;
 	tolo:filePath "/uploads/paintings/91/shakyamuni.jpg"^^xsd:string ;
@@ -2421,7 +2187,6 @@ told:_Image_91
 told:_Image_93
 	a tolo:Image ;
 	skos:prefLabel "Pema Karpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-11-01T16:48:54"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_93 ;
 	tolo:filePath "/uploads/paintings/93/pemakarpo.jpg"^^xsd:string ;
@@ -2434,7 +2199,6 @@ told:_Image_93
 told:_Image_94
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2017-11-02T15:12:22"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_94 ;
 	tolo:filePath "/uploads/paintings/94/sachen.jpg"^^xsd:string ;
@@ -2447,7 +2211,6 @@ told:_Image_94
 told:_Image_95
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-01-16T15:39:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_95 ;
 	tolo:filePath "/uploads/paintings/95/avalokiteshvara.jpg"^^xsd:string ;
@@ -2461,7 +2224,6 @@ told:_Image_97
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_97 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-01-24T19:17:30"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_97 ;
 	tolo:filePath "/uploads/paintings/97/65094.jpg"^^xsd:string ;
@@ -2474,7 +2236,6 @@ told:_Image_98
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_98 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-01T19:44:56"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_98 ;
 	tolo:filePath "/uploads/paintings/98/Padmasambhava-Sengge-Dradok.jpg"^^xsd:string ;
@@ -2488,7 +2249,6 @@ told:_Image_99
 	a tolo:Image ;
 	skos:prefLabel "Jatson Nyingpo"@en ;
 	gist:comesFromPlace told:_ElectronicAddress_source_image_99 ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:createDateTime "2018-02-02T16:10:05"^^xsd:dateTime ;
 	tolo:depicts told:_IntellectualProperty_99 ;
 	tolo:filePath "/uploads/paintings/99/jatson-nyingpo.jpg"^^xsd:string ;
@@ -2501,819 +2261,702 @@ told:_Image_99
 told:_Image_Thumbnail_1
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/1/HAR595_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_10
 	a tolo:Image ;
 	skos:prefLabel "Damarupa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/10/HAR946_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_100
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/100/machig-57037_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_101
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/101/machik-field_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_102
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/102/padmasambhava-guru-drakpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_103
 	a tolo:Image ;
 	skos:prefLabel "Namkhai Nyingpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/103/namkhai-nyingpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_104
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/104/Karmapa-10-Avalokiteshvara_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_105
 	a tolo:Image ;
 	skos:prefLabel "Pehar Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/105/pehar_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_107
 	a tolo:Image ;
 	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/107/1997.305_print_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_108
 	a tolo:Image ;
 	skos:prefLabel "Atiśa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/108/atisa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_109
 	a tolo:Image ;
 	skos:prefLabel "Preaching Śākyamuni"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/109/2000.67_print_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_11
 	a tolo:Image ;
 	skos:prefLabel "Sanggye Sengge"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/11/HAR493_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_110
 	a tolo:Image ;
 	skos:prefLabel "Lhalungpas in Delhi"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/110/Lhalungpas-Gene-Smith-Delhi_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_114
 	a tolo:Image ;
 	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/114/HHDL Letter Lhalungpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_115
 	a tolo:Image ;
 	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/115/St. Josephs Letter to Lhalungpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_116
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/116/Sakya Settlement Receipt_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_117
 	a tolo:Image ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/117/Bonpo Foundation Receipt_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_118
 	a tolo:Image ;
 	skos:prefLabel "Vajrakila"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/118/vajrakila_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_119
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/119/avalokitshvara-tsebumluk_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_12
 	a tolo:Image ;
 	skos:prefLabel "Two Lineal Lamas"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/12/HAR457_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_120
 	a tolo:Image ;
 	skos:prefLabel "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/120/meu-gyalpo-tsetan-zhabdrung_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_121
 	a tolo:Image ;
 	skos:prefLabel "Resistance fighters at Kalsang Phug"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/121/Mustang leaders (medium-res)_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_122
 	a tolo:Image ;
 	skos:prefLabel "Officials at Hastings House"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/122/Hastings_House_Calcutta_1910_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_123
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama and Bakula Rinpoche"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/123/bakula-panchen-ktm-1986_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_124
 	a tolo:Image ;
 	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/124/tsarongs-losar-1937_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_125
 	a tolo:Image ;
 	skos:prefLabel "Derge King Dorje Sengge with family"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/125/Sheltonpage299_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_126
 	a tolo:Image ;
 	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/126/Sixteenth-Karmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_127
 	a tolo:Image ;
 	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/127/PanchenLama_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_128
 	a tolo:Image ;
 	skos:prefLabel "Tseten Zhabdrung and Sungrab Gyatso"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/128/tsetenzhabdrung-subgrabgyatso_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_13
 	a tolo:Image ;
 	skos:prefLabel "Sangye Sengge"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/13/HAR96_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_130
 	a tolo:Image ;
 	skos:prefLabel "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/130/georges-lhalungpa-gyurdrak_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_131
 	a tolo:Image ;
 	skos:prefLabel "Barawa Kagyu Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/131/barawa-refuge-field_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_132
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/132/AvalokitesvaraHAR40_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_133
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Primer"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/133/tibetan-primer_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_134
 	a tolo:Image ;
 	skos:prefLabel "Dudjom Rinpoche with lamas in Kalimpong"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/134/DudjomRinpocheKalimpong_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_136
 	a tolo:Image ;
 	skos:prefLabel "Rahula and Retinue"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/136/rahula_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_15
 	a tolo:Image ;
 	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/15/HAR580_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_16
 	a tolo:Image ;
 	skos:prefLabel "Shangton Chobar"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/16/HAR63_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_17
 	a tolo:Image ;
 	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/17/HAR935_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_18
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/18/HAR76_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_19
 	a tolo:Image ;
 	skos:prefLabel "Six Kagyu Teachers With Lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/19/89141_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_2
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/2/HAR82_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_20
 	a tolo:Image ;
 	skos:prefLabel "Karma Pakshi with lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/20/68871_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_21
 	a tolo:Image ;
 	skos:prefLabel "Taklung Tangpa Tashi Pel with lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/21/89957_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_22
 	a tolo:Image ;
 	skos:prefLabel "Early Karmapa with footprints"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/22/508_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_24
 	a tolo:Image ;
 	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/24/65205_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_25
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/25/65461_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_26
 	a tolo:Image ;
 	skos:prefLabel "Padampa Sanggye"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/26/68480_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_28
 	a tolo:Image ;
 	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/28/rsz_1rsz_189141_smaller_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_29
 	a tolo:Image ;
 	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/29/65861 refuge tree smaller_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_3
 	a tolo:Image ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/3/HAR642_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_30
 	a tolo:Image ;
 	skos:prefLabel "Tsongkhapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/30/410 Tsongkhapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_31
 	a tolo:Image ;
 	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/31/HAR276_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_32
 	a tolo:Image ;
 	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/32/380.Seventh DL_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_33
 	a tolo:Image ;
 	skos:prefLabel "Pakmodrupa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/33/65119.Pakmodrupa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_34
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/34/285 Padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_35
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/35/160.Padma and Nyangrel_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_36
 	a tolo:Image ;
 	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/36/65193_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_37
 	a tolo:Image ;
 	skos:prefLabel "Gampopa and Karmapa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/37/gampopa-karmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_39
 	a tolo:Image ;
 	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/39/412_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_40
 	a tolo:Image ;
 	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/40/1034_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_42
 	a tolo:Image ;
 	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/42/65401_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_43
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/43/65249_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_44
 	a tolo:Image ;
 	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/44/362_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_46
 	a tolo:Image ;
 	skos:prefLabel "Episodes from the Life of Milarepa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/46/milarepa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_48
 	a tolo:Image ;
 	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/48/tsuklak-gyatso_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_49
 	a tolo:Image ;
 	skos:prefLabel "Śākyaśrībhadra"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/49/sakyasribhadra_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_5
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/5/HAR65789_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_50
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Trade Delegation to the US and UK, 1948"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/50/DelegationPicture_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_51
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/51/padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_52
 	a tolo:Image ;
 	skos:prefLabel "The Demoness of Tibet"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/52/demoness_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_53
 	a tolo:Image ;
 	skos:prefLabel "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/53/Terton Couple with Khenpo Jigme Phuntsok_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_54
 	a tolo:Image ;
 	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/54/1066-godemchen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_55
 	a tolo:Image ;
 	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/55/376-puchungwa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_56
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/56/413-padmasambhava_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_57
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/57/photo (9)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_58
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/58/photo (11)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_59
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/59/LhagyariNamgyelGyatso1_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_6
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/6/HAR134_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_60
 	a tolo:Image ;
 	skos:prefLabel "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/60/LhagyariWedding_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_61
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Dorje Yudon"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/61/photo (7)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_62
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/62/Courtsey of Shambhala Publications_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_63
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/63/Courtesy of TransHimalayan Heritage1_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_64
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Kunpel"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/64/BabyAustin_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_65
 	a tolo:Image ;
 	skos:prefLabel "Yuthok Tashi Dhondup and Taring Jigme"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/65/photo-20_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_66
 	a tolo:Image ;
 	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/66/Lowo Khenchen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_67
 	a tolo:Image ;
 	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/67/C2009.4HAR65848_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_68
 	a tolo:Image ;
 	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/68/62 Rubin Dalai Lama C2003.9.2 image only_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_69
 	a tolo:Image ;
 	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/69/Lhasa perspective_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_7
 	a tolo:Image ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/7/HAR128_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_70
 	a tolo:Image ;
 	skos:prefLabel "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/70/R Sadutshang with Taklha_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_71
 	a tolo:Image ;
 	skos:prefLabel "Lo Gendun Sadutshang with Khampas, 1951"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/71/Lo Gendun Sadutshang_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_72
 	a tolo:Image ;
 	skos:prefLabel "Tibetan Delegation to the United Nations"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/72/UN Delegation pic_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_73
 	a tolo:Image ;
 	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/73/khedrupje_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_74
 	a tolo:Image ;
 	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/74/thirdkarmapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_77
 	a tolo:Image ;
 	skos:prefLabel "Milarepa"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/77/milarepa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_78
 	a tolo:Image ;
 	skos:prefLabel "The Eighth Tatsak"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/78/kundeling_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_79
 	a tolo:Image ;
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/79/photo (14)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_8
 	a tolo:Image ;
 	skos:prefLabel "Buddhashri"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/8/HAR269_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_80
 	a tolo:Image ;
 	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/80/rigdzinkunzangsherab_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_81
 	a tolo:Image ;
 	skos:prefLabel "Shakyamuni Buddha"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/81/tsongkhapa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_82
 	a tolo:Image ;
 	skos:prefLabel "Machik Labdron"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/82/machik_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_83
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/83/padmasambhava-disciples_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_84
 	a tolo:Image ;
 	skos:prefLabel "Mahakala with Four Hands"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/84/mahakala-drukpa_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_85
 	a tolo:Image ;
 	skos:prefLabel "Three Sisters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/85//01047_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_87
 	a tolo:Image ;
 	skos:prefLabel "Group of Tibetan Army Officers"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/87/photo (22)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_88
 	a tolo:Image ;
 	skos:prefLabel "Taring Women"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/88/photo (23)_thumb.JPG"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_89
 	a tolo:Image ;
 	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/89/khukpa-lhetse_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_9
 	a tolo:Image ;
 	skos:prefLabel "Lhachok Sengge"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/9/HAR65232_nav_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_90
 	a tolo:Image ;
 	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/90/do-khyentse_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_91
 	a tolo:Image ;
 	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/91/shakyamuni_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_93
 	a tolo:Image ;
 	skos:prefLabel "Pema Karpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/93/pemakarpo_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_94
 	a tolo:Image ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/94/sachen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_95
 	a tolo:Image ;
 	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/95/avalokiteshvara_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_97
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/97/65094_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_98
 	a tolo:Image ;
 	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/98/Padmasambhava-Sengge-Dradok_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_Thumbnail_99
 	a tolo:Image ;
 	skos:prefLabel "Jatson Nyingpo"@en ;
-	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/paintings/99/jatson-nyingpo_thumb.jpg"^^xsd:string ;
 	.
 
@@ -3328,6 +2971,7 @@ told:_IntellectualProperty_1
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_595 ;
+	gist:name "Tsongkhapa"@en ;
 	.
 
 told:_IntellectualProperty_10
@@ -3341,6 +2985,7 @@ told:_IntellectualProperty_10
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_946 ;
+	gist:name "Damarupa"@en ;
 	.
 
 told:_IntellectualProperty_100
@@ -3354,6 +2999,7 @@ told:_IntellectualProperty_100
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_57037 ;
+	gist:name "Machik Labdron"@en ;
 	.
 
 told:_IntellectualProperty_101
@@ -3367,6 +3013,7 @@ told:_IntellectualProperty_101
 		told:_Tradition_37
 		;
 	gist:isIdentifiedBy told:_ID_har_223 ;
+	gist:name "Machik Labdron and Chod Refuge Field"@en ;
 	.
 
 told:_IntellectualProperty_102
@@ -3377,6 +3024,7 @@ told:_IntellectualProperty_102
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_Tradition_1 ;
 	gist:isIdentifiedBy told:_ID_har_9 ;
+	gist:name "Padmasambhava - Guru Drakpo"@en ;
 	.
 
 told:_IntellectualProperty_103
@@ -3390,6 +3038,7 @@ told:_IntellectualProperty_103
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_678 ;
+	gist:name "Namkhai Nyingpo"@en ;
 	.
 
 told:_IntellectualProperty_104
@@ -3403,6 +3052,7 @@ told:_IntellectualProperty_104
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_31668 ;
+	gist:name "Avalokiteśvara"@en ;
 	tolo:hasCreator told:_Person_2662 ;
 	.
 
@@ -3417,6 +3067,7 @@ told:_IntellectualProperty_105
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_213 ;
+	gist:name "Pehar Gyelpo"@en ;
 	.
 
 told:_IntellectualProperty_107
@@ -3430,6 +3081,7 @@ told:_IntellectualProperty_107
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59247 ;
+	gist:name "Bodhisattva with Atisa and Dromton"@en ;
 	.
 
 told:_IntellectualProperty_108
@@ -3442,6 +3094,7 @@ told:_IntellectualProperty_108
 		told:_HistoricalPeriod_45 ,
 		told:_Tradition_4
 		;
+	gist:name "Atiśa"@en ;
 	.
 
 told:_IntellectualProperty_109
@@ -3456,6 +3109,7 @@ told:_IntellectualProperty_109
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59217 ;
+	gist:name "Preaching Śākyamuni"@en ;
 	.
 
 told:_IntellectualProperty_11
@@ -3469,6 +3123,7 @@ told:_IntellectualProperty_11
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_493 ;
+	gist:name "Sanggye Sengge"@en ;
 	.
 
 told:_IntellectualProperty_110
@@ -3477,6 +3132,7 @@ told:_IntellectualProperty_110
 	gist:description "This undated photograph (collection of Samphe Lhalungpa) shows Jigme Rigden Lhalungpa, Lobsang Phuntsok Lhalungpa, Sogyal Rinpoche, Diki Lhalungpa, E. Gene Smith and Harold Talbott."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Lhalungpas in Delhi"@en ;
 	.
 
 told:_IntellectualProperty_114
@@ -3486,6 +3142,7 @@ told:_IntellectualProperty_114
 	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
 told:_IntellectualProperty_115
@@ -3495,6 +3152,7 @@ told:_IntellectualProperty_115
 	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
 told:_IntellectualProperty_116
@@ -3504,6 +3162,7 @@ told:_IntellectualProperty_116
 	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_75 ;
+	gist:name "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
 	.
 
 told:_IntellectualProperty_117
@@ -3512,6 +3171,7 @@ told:_IntellectualProperty_117
 	gist:description "A receipt dated from 1965 documenting the dispersal of funds to the Tibet Bonpo Foundation by Lobsang P. Lhalungpa on behalf of the Tibet Society of United Kingdom. The Tibet Bonpo Foundation was registered at the Lhalungpa residence in Delhi."@en ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_75 ;
+	gist:name "Receipt from Lobsang P. Lhalungpa to Tibetan Bonpo Foundation"@en ;
 	.
 
 told:_IntellectualProperty_118
@@ -3525,6 +3185,7 @@ told:_IntellectualProperty_118
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_90907 ;
+	gist:name "Vajrakila"@en ;
 	tolo:credit "Tucci, Giuseppe. 1980. Tibetan Painted Scrolls. Japan: Rinsen Book."^^xsd:string ;
 	.
 
@@ -3539,6 +3200,7 @@ told:_IntellectualProperty_119
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_86433 ;
+	gist:name "Avalokiteśvara"@en ;
 	tolo:credit "Trungpa, Chögyam. 1975. Visual Dharma: The Buddhist Art of Tibet. United Kingdom: Shambhala Publications."^^xsd:string ;
 	.
 
@@ -3553,6 +3215,7 @@ told:_IntellectualProperty_12
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_457 ;
+	gist:name "Two Lineal Lamas"@en ;
 	.
 
 told:_IntellectualProperty_120
@@ -3561,6 +3224,7 @@ told:_IntellectualProperty_120
 	gist:description "Gyelrong Choktse Gyelpo, Tseten Zhabdrung and Meu Gyalpo photographed at the White Stupa in Beijing."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Gyelrong Gyelpo, Tseten Zhabdrung, Meu Gyelpo"@en ;
 	.
 
 told:_IntellectualProperty_121
@@ -3569,6 +3233,7 @@ told:_IntellectualProperty_121
 	gist:description "Tibetan resistance fighters at Kalsang Phug HQ in 1966."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Resistance fighters at Kalsang Phug"@en ;
 	tolo:credit "Tenzing Sonam"^^xsd:string ;
 	.
 
@@ -3579,6 +3244,7 @@ told:_IntellectualProperty_122
 	gist:hasPhysicalLocation told:_Collection_world_museum_liverpool ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Officials at Hastings House"@en ;
 	tolo:hasCreator told:_Person_charles_bell ;
 	.
 
@@ -3591,6 +3257,7 @@ told:_IntellectualProperty_123
 		told:_HistoricalPeriod_80 ,
 		told:_Tradition_27
 		;
+	gist:name "Panchen Lama and Bakula Rinpoche"@en ;
 	tolo:credit "Sonam Wangchuk Shakspo"^^xsd:string ;
 	.
 
@@ -3601,6 +3268,7 @@ told:_IntellectualProperty_124
 	gist:hasPhysicalLocation told:_Collection_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	tolo:credit 'The Tibet Album. "Tsarong and Pema Dolkar at home at New Year" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_frederick_spencer_chapman ;
 	.
@@ -3611,6 +3279,7 @@ told:_IntellectualProperty_125
 	gist:description "Members of the Royal Family of Derge led by Dorje Sengge"@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Derge King Dorje Sengge with family"@en ;
 	tolo:credit 'Shelton, AL. 1921. "Life Among the People of Eastern Tibet. National Geographic, vol. 40, no. 3, pp. 294-326.'^^xsd:string ;
 	tolo:hasCreator told:_Person_al_shelton ;
 	.
@@ -3626,6 +3295,7 @@ told:_IntellectualProperty_126
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_858 ;
+	gist:name "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
 	.
 
 told:_IntellectualProperty_127
@@ -3639,6 +3309,7 @@ told:_IntellectualProperty_127
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_477 ;
+	gist:name "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	.
 
 told:_IntellectualProperty_128
@@ -3647,6 +3318,7 @@ told:_IntellectualProperty_128
 	gist:description "An unidentified person, Tseten Zhabdrung, Sungrab Gyatso (left to right)"@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_80 ;
+	gist:name "Tseten Zhabdrung and Sungrab Gyatso"@en ;
 	.
 
 told:_IntellectualProperty_13
@@ -3660,6 +3332,7 @@ told:_IntellectualProperty_13
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_96 ;
+	gist:name "Sangye Sengge"@en ;
 	.
 
 told:_IntellectualProperty_130
@@ -3668,6 +3341,7 @@ told:_IntellectualProperty_130
 	gist:description "Lobsang Phuntsok Lhalungpa photographed with Canadian High Commisioner James George and family, Delhi, late 1960's."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Lama Gyurdrak, LP Lhalungpa, Canadian Commissioner and Family"@en ;
 	.
 
 told:_IntellectualProperty_131
@@ -3681,6 +3355,7 @@ told:_IntellectualProperty_131
 		told:_Tradition_77
 		;
 	gist:isIdentifiedBy told:_ID_har_98406 ;
+	gist:name "Barawa Kagyu Refuge Field"@en ;
 	tolo:credit "Visual Dharma: The Buddhist Art of Tibet by Chogyam Trungpa. United Kingdom: Shambhala, 1975."^^xsd:string ;
 	.
 
@@ -3692,6 +3367,7 @@ told:_IntellectualProperty_132
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_40 ;
+	gist:name "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
 	.
 
 told:_IntellectualProperty_133
@@ -3701,6 +3377,7 @@ told:_IntellectualProperty_133
 	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Tibetan Primer"@en ;
 	.
 
 told:_IntellectualProperty_134
@@ -3709,6 +3386,7 @@ told:_IntellectualProperty_134
 	gist:description "Dudjom Rinpoche with lamas in Kalimpong"@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Dudjom Rinpoche with lamas in Kalimpong"@en ;
 	.
 
 told:_IntellectualProperty_136
@@ -3722,6 +3400,7 @@ told:_IntellectualProperty_136
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65864 ;
+	gist:name "Rahula and Retinue"@en ;
 	.
 
 told:_IntellectualProperty_15
@@ -3735,6 +3414,7 @@ told:_IntellectualProperty_15
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_580 ;
+	gist:name "Jetsun Drakpa Gyaltsen"@en ;
 	.
 
 told:_IntellectualProperty_16
@@ -3748,6 +3428,7 @@ told:_IntellectualProperty_16
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_63 ;
+	gist:name "Shangton Chobar"@en ;
 	.
 
 told:_IntellectualProperty_17
@@ -3761,6 +3442,7 @@ told:_IntellectualProperty_17
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_935 ;
+	gist:name "Sakya Pandita Kunga Gyaltsen"@en ;
 	.
 
 told:_IntellectualProperty_18
@@ -3774,6 +3456,7 @@ told:_IntellectualProperty_18
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_76 ;
+	gist:name "Tsongkhapa"@en ;
 	.
 
 told:_IntellectualProperty_19
@@ -3787,6 +3470,7 @@ told:_IntellectualProperty_19
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_89141 ;
+	gist:name "Six Kagyu Teachers With Lineage"@en ;
 	.
 
 told:_IntellectualProperty_2
@@ -3800,6 +3484,7 @@ told:_IntellectualProperty_2
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_82 ;
+	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
 told:_IntellectualProperty_20
@@ -3812,6 +3497,7 @@ told:_IntellectualProperty_20
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_68871 ;
+	gist:name "Karma Pakshi with lineage"@en ;
 	tolo:credit "Private"^^xsd:string ;
 	.
 
@@ -3825,6 +3511,7 @@ told:_IntellectualProperty_21
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_89957 ;
+	gist:name "Taklung Tangpa Tashi Pel with lineage"@en ;
 	tolo:credit "Private"^^xsd:string ;
 	.
 
@@ -3839,6 +3526,7 @@ told:_IntellectualProperty_22
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_508 ;
+	gist:name "Early Karmapa with footprints"@en ;
 	.
 
 told:_IntellectualProperty_24
@@ -3852,6 +3540,7 @@ told:_IntellectualProperty_24
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_65205 ;
+	gist:name "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	.
 
 told:_IntellectualProperty_25
@@ -3865,6 +3554,7 @@ told:_IntellectualProperty_25
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65461 ;
+	gist:name "Pakmodrupa Dorje Gyelpo"@en ;
 	.
 
 told:_IntellectualProperty_26
@@ -3877,6 +3567,7 @@ told:_IntellectualProperty_26
 		told:_Tradition_37
 		;
 	gist:isIdentifiedBy told:_ID_har_68480 ;
+	gist:name "Padampa Sanggye"@en ;
 	tolo:credit "Nyingjei Lam"^^xsd:string ;
 	.
 
@@ -3891,6 +3582,7 @@ told:_IntellectualProperty_28
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_89148 ;
+	gist:name "Sakya Lotsawa with his teachers"@en ;
 	.
 
 told:_IntellectualProperty_29
@@ -3904,6 +3596,7 @@ told:_IntellectualProperty_29
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65861 ;
+	gist:name "Karma Kagyu Refuge Field"@en ;
 	.
 
 told:_IntellectualProperty_3
@@ -3917,6 +3610,7 @@ told:_IntellectualProperty_3
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_642 ;
+	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
 told:_IntellectualProperty_30
@@ -3930,6 +3624,7 @@ told:_IntellectualProperty_30
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_410 ;
+	gist:name "Tsongkhapa"@en ;
 	.
 
 told:_IntellectualProperty_31
@@ -3943,6 +3638,7 @@ told:_IntellectualProperty_31
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_276 ;
+	gist:name "Gampopa together with early Drukpa Kagyu masters"@en ;
 	.
 
 told:_IntellectualProperty_32
@@ -3956,6 +3652,7 @@ told:_IntellectualProperty_32
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_380 ;
+	gist:name "The Seventh Dalai Lama with previous incarnations"@en ;
 	.
 
 told:_IntellectualProperty_33
@@ -3970,6 +3667,7 @@ told:_IntellectualProperty_33
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65119 ;
+	gist:name "Pakmodrupa"@en ;
 	.
 
 told:_IntellectualProperty_34
@@ -3983,6 +3681,7 @@ told:_IntellectualProperty_34
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_285 ;
+	gist:name "Padmasambhava"@en ;
 	.
 
 told:_IntellectualProperty_35
@@ -3996,6 +3695,7 @@ told:_IntellectualProperty_35
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_160 ;
+	gist:name "Padmasambhava"@en ;
 	.
 
 told:_IntellectualProperty_36
@@ -4009,6 +3709,7 @@ told:_IntellectualProperty_36
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65193 ;
+	gist:name "Namkha Pelzang and a Naro Chodruk lineage"@en ;
 	.
 
 told:_IntellectualProperty_37
@@ -4022,6 +3723,7 @@ told:_IntellectualProperty_37
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_536 ;
+	gist:name "Gampopa and Karmapa"@en ;
 	.
 
 told:_IntellectualProperty_39
@@ -4035,6 +3737,7 @@ told:_IntellectualProperty_39
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_412 ;
+	gist:name "Wangdu Nyingpo and other masters"@en ;
 	.
 
 told:_IntellectualProperty_40
@@ -4048,6 +3751,7 @@ told:_IntellectualProperty_40
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_1034 ;
+	gist:name "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
 	.
 
 told:_IntellectualProperty_42
@@ -4061,6 +3765,7 @@ told:_IntellectualProperty_42
 		told:_Tradition_72
 		;
 	gist:isIdentifiedBy told:_ID_har_65401 ;
+	gist:name "Portrait of Drenpa Namkha"@en ;
 	.
 
 told:_IntellectualProperty_43
@@ -4074,6 +3779,7 @@ told:_IntellectualProperty_43
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65249 ;
+	gist:name "Drukpa Kagyu Lineage of Bhutan"@en ;
 	.
 
 told:_IntellectualProperty_44
@@ -4087,6 +3793,7 @@ told:_IntellectualProperty_44
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_362 ;
+	gist:name "Drukpa Kagyu and Kagyu Lineages"@en ;
 	.
 
 told:_IntellectualProperty_46
@@ -4101,6 +3808,7 @@ told:_IntellectualProperty_46
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_921 ;
+	gist:name "Episodes from the Life of Milarepa"@en ;
 	.
 
 told:_IntellectualProperty_48
@@ -4114,6 +3822,7 @@ told:_IntellectualProperty_48
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_825 ;
+	gist:name "Third Pawo Tsuklak Gyatso"@en ;
 	.
 
 told:_IntellectualProperty_49
@@ -4124,6 +3833,7 @@ told:_IntellectualProperty_49
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_69 ;
 	gist:isIdentifiedBy told:_ID_har_142 ;
+	gist:name "Śākyaśrībhadra"@en ;
 	.
 
 told:_IntellectualProperty_5
@@ -4137,6 +3847,7 @@ told:_IntellectualProperty_5
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65789 ;
+	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
 told:_IntellectualProperty_50
@@ -4145,6 +3856,7 @@ told:_IntellectualProperty_50
 	gist:description "The Tibetan Trade Delegation to the US and the UK stand outside 10 Downing Street with Prime Minister Clement Atlee. The photo shows, from left to right, Khenchung Tubten Tsepel Taikhang (younger brother of Shakabpa), Finance Minister Wangchuk Deden Shakabpa, Yampel Pangdatsang, Prime Minister Clement Atlee, Surkhang Lhawang Topgyal and Kaludharma Ratna (interpreter). An Advanced Political History of Tibet misidentifies Surkhang Lhawang Topgyal as his father Dzasa Surkhang Surpa Wangchen Tseten, but in fact it was Surkhang Lhawang Topgyal who was part of the trade delegation as its interpreter."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Tibetan Trade Delegation to the US and UK, 1948"@en ;
 	tolo:credit "Shakabpa, Wangchuk Deden. 2010. One Hundred Thousand Moons: An Advanced Political History of Tibet. Translated by Derek Maher. Netherlands: Brill."^^xsd:string ;
 	.
 
@@ -4159,6 +3871,7 @@ told:_IntellectualProperty_51
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_188 ;
+	gist:name "Padmasambhava"@en ;
 	.
 
 told:_IntellectualProperty_52
@@ -4169,6 +3882,7 @@ told:_IntellectualProperty_52
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_65719 ;
+	gist:name "The Demoness of Tibet"@en ;
 	.
 
 told:_IntellectualProperty_53
@@ -4180,6 +3894,7 @@ told:_IntellectualProperty_53
 		told:_HistoricalPeriod_80 ,
 		told:_Tradition_1
 		;
+	gist:name "Khenpo Jigme Puntsok with Khandro Tāre Lama and Namtrul Jigme Puntsok"@en ;
 	.
 
 told:_IntellectualProperty_54
@@ -4193,6 +3908,7 @@ told:_IntellectualProperty_54
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1066 ;
+	gist:name "The First Dorje Drak Rigdzin"@en ;
 	.
 
 told:_IntellectualProperty_55
@@ -4207,6 +3923,7 @@ told:_IntellectualProperty_55
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_376 ;
+	gist:name "Puchungwa Zhonnu Gyelsten"@en ;
 	.
 
 told:_IntellectualProperty_56
@@ -4221,6 +3938,7 @@ told:_IntellectualProperty_56
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_413 ;
+	gist:name "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
 	.
 
 told:_IntellectualProperty_57
@@ -4229,6 +3947,7 @@ told:_IntellectualProperty_57
 	gist:description "Surkhang Wangchen Tseten and his first wife Lhagyari Tseten Chodzom, circa 1926."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Surkhang Wangchen Tseten and Lhagyari Tseten Chodzom"@en ;
 	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
@@ -4238,6 +3957,7 @@ told:_IntellectualProperty_58
 	gist:description "Yuthok Dorje Yudon, second from right, with her relatives, ca. 1937, was a member of two prominent Lhasa families, the Surkhangs and the Yuthoks."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Yuthok Dorje Yudon"@en ;
 	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
@@ -4247,6 +3967,7 @@ told:_IntellectualProperty_59
 	gist:description "Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul and the head of the aristocratic Lhagyari family, in his later years in exile in India."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Lhagyari Namgyel Gyatso"@en ;
 	tolo:credit "Lhagyari Family"^^xsd:string ;
 	.
 
@@ -4261,6 +3982,7 @@ told:_IntellectualProperty_6
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_134 ;
+	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
 told:_IntellectualProperty_60
@@ -4269,6 +3991,7 @@ told:_IntellectualProperty_60
 	gist:description "A wedding picture of Lhagyari Namgyel Gyatso, the Seventeenth Ruler of Eyul, with his second wife Puntsok Drolkar, in India. In 1985."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Lhagyari Namgyel Gyatso and Lhagyari Puntsok Drolkar"@en ;
 	tolo:credit "The Lhagyari Chronicles"^^xsd:string ;
 	.
 
@@ -4278,6 +4001,7 @@ told:_IntellectualProperty_61
 	gist:description "A photograph of Yuthok Dorje Yudon, a member of the Surkhang family who married into the Yuthoks, in 1988, taken by Christine Cox."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_80 ;
+	gist:name "Yuthok Dorje Yudon"@en ;
 	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
@@ -4288,6 +4012,7 @@ told:_IntellectualProperty_62
 	gist:hasPhysicalLocation told:_Collection_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Surkhang Wangchen Gelek"@en ;
 	tolo:credit 'The Tibet Album. "Wangchen Geleg Surkhang, Phuntsog Rabgye Ragashar" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_hugh_e_richardson ;
 	.
@@ -4298,6 +4023,7 @@ told:_IntellectualProperty_63
 	gist:description "Surkhang Wangchen Gelek is pictured with the Fourteenth Dalai Lama to the right."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Surkhang Wangchen Gelek"@en ;
 	tolo:credit "TransHimalayan Heritage"^^xsd:string ;
 	.
 
@@ -4307,6 +4033,7 @@ told:_IntellectualProperty_64
 	gist:description "Yuthok Tashi Dhondup with Kunpel, a favorite of the Thirteenth Dalai Lama, with the Dalai Lama's Baby Austin with the license plate \"Tibet 2.\" The photo was taken in 1933 in front of the British mission at Dekyilingka in Lhasa."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
+	gist:name "Yuthok Tashi Dhondup and Kunpel"@en ;
 	tolo:credit "Wikipedia"^^xsd:string ;
 	tolo:hasCreator told:_Person_margaret_williamson ;
 	.
@@ -4317,6 +4044,7 @@ told:_IntellectualProperty_65
 	gist:description "Yuthok Tashi Dhondup and Taring Jigme, generals in the Tibetan army, circa 1931. Yuthok was Depon or general of the Drongdrak garrison at the time."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Yuthok Tashi Dhondup and Taring Jigme"@en ;
 	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
@@ -4328,6 +4056,7 @@ told:_IntellectualProperty_66
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo told:_Tradition_7 ;
 	gist:isIdentifiedBy told:_ID_har_87137 ;
+	gist:name "A sculpture of Lowo Khenchen"@en ;
 	.
 
 told:_IntellectualProperty_67
@@ -4341,6 +4070,7 @@ told:_IntellectualProperty_67
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65848 ;
+	gist:name "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	.
 
 told:_IntellectualProperty_68
@@ -4354,6 +4084,7 @@ told:_IntellectualProperty_68
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65275 ;
+	gist:name "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	.
 
 told:_IntellectualProperty_69
@@ -4363,6 +4094,7 @@ told:_IntellectualProperty_69
 	gist:hasPhysicalLocation told:_Collection_collection_of_knud_larsen ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Perspective Drawing of Lhasa"@en ;
 	tolo:credit "Larsen, Knud and Sinding-Larsen, Amund. 2001. The Lhasa Atlas: Traditional Tibetan Architecture and Townscape. Kiribati: Serindia."^^xsd:string ;
 	.
 
@@ -4377,6 +4109,7 @@ told:_IntellectualProperty_7
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_128 ;
+	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
 told:_IntellectualProperty_70
@@ -4385,6 +4118,7 @@ told:_IntellectualProperty_70
 	gist:description "Rinchen Sadutshang, a fifth rank official at the Tibetan foreign ministry, with his colleague Takla Phuntsok Tashi, a brother in law of the Fourteenth Dalai Lama, in front of the Potala in 1952. Sadutshang would later become a Kalon in India in 1978 and would become the Representative at the Bureau of the Dalai Lama in Delhi, his last post before retirement."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Rinchen Sadutshang with Taklha Phuntsok Tashi"@en ;
 	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
@@ -4394,6 +4128,7 @@ told:_IntellectualProperty_71
 	gist:description "Lo Gendun Sadutshang with Khampas he had gathered as armed guards to escort the young Fourteenth Dalai Lama, who had just assumed full political power, from the capital Lhasa to Yatung by the border for safety, in December 1951. "@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Lo Gendun Sadutshang with Khampas, 1951"@en ;
 	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
@@ -4403,6 +4138,7 @@ told:_IntellectualProperty_72
 	gist:description "Tibetan government officials Rinchen Sadutshang, Tsipon Wangchuk Deden Shakabpa and Gyalo Thondup, the Dalai Lama's older brother, in front of the United Nations in September 1959. The delegation made three such trips to the UN, in the falls of 1959, 1960 and 1961, to seek support for Tibet."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:name "Tibetan Delegation to the United Nations"@en ;
 	tolo:credit "A Life Unforeseen: A Memoir of Service to Tibet by Rinchen Sadutshang"^^xsd:string ;
 	.
 
@@ -4417,6 +4153,7 @@ told:_IntellectualProperty_73
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_56 ;
+	gist:name "Khedrubje Gelek Pelzang"@en ;
 	.
 
 told:_IntellectualProperty_74
@@ -4432,6 +4169,7 @@ told:_IntellectualProperty_74
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65562 ;
+	gist:name "Third Karmapa and Lineage Masters"@en ;
 	.
 
 told:_IntellectualProperty_77
@@ -4445,6 +4183,7 @@ told:_IntellectualProperty_77
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_700037 ;
+	gist:name "Milarepa"@en ;
 	.
 
 told:_IntellectualProperty_78
@@ -4458,6 +4197,7 @@ told:_IntellectualProperty_78
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65916 ;
+	gist:name "The Eighth Tatsak"@en ;
 	.
 
 told:_IntellectualProperty_79
@@ -4465,6 +4205,7 @@ told:_IntellectualProperty_79
 	skos:prefLabel "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
 	gist:description "Surkhang Wangchen Gelek with wife Dekyi Lhaze and daughter in Lhasa city with the Potala Palace in the background. The photo was taken by Heinrich Harrer."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
+	gist:name "Surkhang Wangchen Gelek with Dekyi Lhaze"@en ;
 	tolo:credit "Yuthok, Dorje Yudon. 1995. House of the Turquoise Roof. United Kingdom: Shambhala."^^xsd:string ;
 	.
 
@@ -4479,6 +4220,7 @@ told:_IntellectualProperty_8
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_269 ;
+	gist:name "Buddhashri"@en ;
 	.
 
 told:_IntellectualProperty_80
@@ -4492,6 +4234,7 @@ told:_IntellectualProperty_80
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_777 ;
+	gist:name "Rigdzin Kunzang Sherab"@en ;
 	.
 
 told:_IntellectualProperty_81
@@ -4505,6 +4248,7 @@ told:_IntellectualProperty_81
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_39 ;
+	gist:name "Shakyamuni Buddha"@en ;
 	.
 
 told:_IntellectualProperty_82
@@ -4518,6 +4262,7 @@ told:_IntellectualProperty_82
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_619 ;
+	gist:name "Machik Labdron"@en ;
 	.
 
 told:_IntellectualProperty_83
@@ -4531,6 +4276,7 @@ told:_IntellectualProperty_83
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_12 ;
+	gist:name "Padmasambhava with Jigme Lingpa and Disciples"@en ;
 	.
 
 told:_IntellectualProperty_84
@@ -4544,6 +4290,7 @@ told:_IntellectualProperty_84
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_453 ;
+	gist:name "Mahakala with Four Hands"@en ;
 	.
 
 told:_IntellectualProperty_85
@@ -4557,6 +4304,7 @@ told:_IntellectualProperty_85
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1047 ;
+	gist:name "Three Sisters"@en ;
 	.
 
 told:_IntellectualProperty_87
@@ -4565,6 +4313,7 @@ told:_IntellectualProperty_87
 	gist:description "A group of Tibetan army officers with Tsarong Dasang Damdul seated in the center. The photo was likely taken in Lhasa. Tsarong, a commoner who rose to become commander-in-chief, created the first modern Tibetan army."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Group of Tibetan Army Officers"@en ;
 	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."^^xsd:string ;
 	.
 
@@ -4574,6 +4323,7 @@ told:_IntellectualProperty_88
 	gist:description "Taring Rinchen Dolma with her mother-in-law Rani Taring and her sister-in-law Kalden Wangmo. Raja Taring, Tsodrak Namgyal, of Sikkim, fled to Tibet in 1892 when the British Army entered Gangtok. He remained in Tibet, living at Taring estate near Gyantse, and later abdicating the Sikkim throne. His sons entered Tibetan government service."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:name "Taring Women"@en ;
 	tolo:credit "Taring, Rinchen Dolma. 1986. Daughter of Tibet. United Kingdom: Wisdom Publications."^^xsd:string ;
 	.
 
@@ -4588,6 +4338,7 @@ told:_IntellectualProperty_89
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_71925 ;
+	gist:name "Go Lotsawa Khukpa Lhetse"@en ;
 	.
 
 told:_IntellectualProperty_9
@@ -4601,6 +4352,7 @@ told:_IntellectualProperty_9
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65232 ;
+	gist:name "Lhachok Sengge"@en ;
 	.
 
 told:_IntellectualProperty_90
@@ -4614,6 +4366,7 @@ told:_IntellectualProperty_90
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_300 ;
+	gist:name "Do Khyentse Yeshe Dorje"@en ;
 	.
 
 told:_IntellectualProperty_91
@@ -4627,6 +4380,7 @@ told:_IntellectualProperty_91
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_309 ;
+	gist:name "Śākyamuni Buddha with Geluk Masters"@en ;
 	.
 
 told:_IntellectualProperty_93
@@ -4640,6 +4394,7 @@ told:_IntellectualProperty_93
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_615 ;
+	gist:name "Pema Karpo"@en ;
 	.
 
 told:_IntellectualProperty_94
@@ -4653,6 +4408,7 @@ told:_IntellectualProperty_94
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_944 ;
+	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
 told:_IntellectualProperty_95
@@ -4666,6 +4422,7 @@ told:_IntellectualProperty_95
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_696 ;
+	gist:name "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
 	.
 
 told:_IntellectualProperty_97
@@ -4679,6 +4436,7 @@ told:_IntellectualProperty_97
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65094 ;
+	gist:name "Padmasambhava as Pema Jungne"@en ;
 	.
 
 told:_IntellectualProperty_98
@@ -4692,6 +4450,7 @@ told:_IntellectualProperty_98
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_633 ;
+	gist:name "Padmasambhava as Sengge Dradok"@en ;
 	.
 
 told:_IntellectualProperty_99
@@ -4705,6 +4464,7 @@ told:_IntellectualProperty_99
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1035 ;
+	gist:name "Jatson Nyingpo"@en ;
 	.
 
 told:_Person_al_shelton

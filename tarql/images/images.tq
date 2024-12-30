@@ -48,8 +48,8 @@ CONSTRUCT {
 
     ?image_file_iri
         a tolo:Image ;
-        skos:prefLabel ?title_en ;
         tolo:depicts ?work_iri ;
+        skos:prefLabel ?title_en ;
         tolo:filePath ?image_path ;
         tolo:hasThumbnail ?thumbnail_iri ;
         gist:isExpressedIn ?media_type_iri ;
@@ -65,6 +65,7 @@ CONSTRUCT {
     ?work_iri
         a gist:IntellectualProperty ;
         skos:prefLabel ?title_en ;
+        gist:name ?title_en ;
         gist:description ?description_en ;
         gist:isConnectedTo ?tradition_iri ,
             ?historical_period_iri ,
@@ -84,8 +85,8 @@ CONSTRUCT {
 
     ?collection_iri
         a tolo:Collection ;
-        skos:prefLabel ?collection_label_en ;
-        gist:name ?collection_label_en ;
+        skos:prefLabel ?collection_name_en ;
+        gist:name ?collection_name_en ;
         .
 
     ?thumbnail_iri
@@ -97,14 +98,12 @@ CONSTRUCT {
 
     ?har_number_iri
         a gist:ID ;
-        skos:prefLabel ?har_label ;
         gist:isCategorizedBy tolx:_IdType_har ;
         gist:uniqueText ?har_nbr ;
         .
 
     ?source_iri
         a gist:ElectronicAddress ;
-        skos:prefLabel ?source_url ;
         gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         # Can't use gist:containedText since its range is xsd:string.
         tolo:url ?source_address ;
@@ -123,7 +122,7 @@ WHERE {
     # NB TARQL will not add the explicit datatype xsd:string.
     # BIND(STRDT(?image_name, xsd:string) AS ?image_file_name)
 
-    BIND(LCASE(REPLACE(?image_path, "^.+\\.", "")) AS ?file_ext)
+    BIND(LCASE(REPLACE(?image_name, "^.+\\.", "")) AS ?file_ext)
     BIND(
         COALESCE(
             IF(?file_ext IN ("jpg", "jpeg"), media-image:jpg, ?unbound),
@@ -168,7 +167,7 @@ WHERE {
 
     # Physical location of work (museum, collection, etc.)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Collection_", LCASE(REPLACE(?location, " ", "_")))) AS ?collection_iri)
-    BIND(STRLANG(?location, "en") AS ?collection_label_en)
+    BIND(STRLANG(?location, "en") AS ?collection_name_en)
 
     # If there's a source URL, create an address object.
     BIND(IF(BOUND(?source_url), tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_image_", ?painting_id)), ?unbound) AS ?source_iri)
