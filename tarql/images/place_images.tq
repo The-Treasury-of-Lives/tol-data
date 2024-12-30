@@ -51,7 +51,6 @@ CONSTRUCT {
 
     ?source_iri
         a gist:ElectronicAddress ;
-        skos:prefLabel ?source_label ;
         gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
         tolo:url ?source_url ;
         .
@@ -90,7 +89,6 @@ WHERE {
 
     BIND(IF(BOUND(?image_source_url) && ?image_source_url != "NULL", tarql:expandPrefixedName(CONCAT("told:_ElectronicAddress_source_", ?filename)), ?unbound) AS ?source_iri)
     BIND(IF(BOUND(?source_iri), STRDT(?image_source_url, xsd:anyURI), ?unbound) AS ?source_url)
-    BIND(IF(BOUND(?source_iri), ?image_source_url, ?unbound) AS ?source_label)
 
     BIND(IF(?image_date_taken != "NULL", STRDT(CONCAT(?image_date_taken, "T00:00:00"), xsd:dateTime), ?unbound) as ?creation_date)
 

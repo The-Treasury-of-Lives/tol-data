@@ -77,7 +77,6 @@ CONSTRUCT {
 
     ?har_number_iri
         a gist:ID ;
-        skos:prefLabel ?har_label ;
         gist:isCategorizedBy tolx:_IdType_har ;
         gist:uniqueText ?har_number ;
         .
@@ -111,13 +110,12 @@ WHERE {
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?complete_file_path_thumb, "^/", ""), "['()]", ""), "\\W", "_")) AS ?file_path_thumb)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?file_path_thumb)) AS ?thumbnail_iri)
 
-    BIND(STRLANG(REPLACE(?image_file_name, "\\.[^.]+$", ""), "en") AS ?image_label_en)
+    BIND(STRLANG(REPLACE(REPLACE(?image_file_name, "\\.[^.]+$", ""), "_", " "), "en") AS ?image_label_en)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person_id)) AS ?person_iri)
 
     # HAR number
     BIND(tarql:expandPrefixedName(CONCAT("told:_ID_har_", ?har_number)) AS ?har_number_iri)
-    BIND(CONCAT("HAR ", ?har_number) AS ?har_label)
 
     # This may be an institution, book reference, text string.
     BIND(IF(?image_credit != "NULL", ?image_credit, ?unbound) AS ?credit)

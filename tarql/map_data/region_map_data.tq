@@ -36,31 +36,35 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?region_iri 
+    ?region_iri
         a gist:GeoRegion ;
         tolo:isRenderedAt ?geo_point_iri ;
-        skos:prefLabel 
+        skos:prefLabel
             ?label_en ,
             ?label_wylie ,
             ?label_tibetan ,
-            ?label_chinese             
+            ?label_chinese
             ;
-        tolo:displayLabel 
+        tolo:primaryName
             ?label_en ,
             ?label_wylie ,
             ?label_tibetan ,
-            ?label_chinese             
+            ?label_chinese
+            ;
+        tolo:displayLabel
+            ?label_en ,
+            ?label_tibetan
             ;
         owl:sameAs ?bdrc_iri ;
-        tolo:hasMappingPriority ?map_priority_iri ;  
+        tolo:hasMappingPriority ?map_priority_iri ;
         tolo:minZoomLevel ?min_zoom_level ;
-        tolo:maxZoomLevel ?max_zoom_level ; 
-        tolo:zoomLevelOnClick ?on_click_zoom_level ; 
-        gist:isCategorizedBy    
+        tolo:maxZoomLevel ?max_zoom_level ;
+        tolo:zoomLevelOnClick ?on_click_zoom_level ;
+        gist:isCategorizedBy
             ?region_type_iri ;
     .
 
-    ?geo_point_iri 
+    ?geo_point_iri
         a gist:GeoPoint ;
         gist:latitude ?latitude ;
         gist:longitude ?longitude ;
@@ -77,9 +81,9 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("bdr:", ?bdrc_id)) AS ?bdrc_iri)
 
     BIND(STRLANG(?label, "en") AS ?label_en)
-    BIND(STRLANG(?tibetan, "bo") AS ?label_tibetan)  
+    BIND(STRLANG(?tibetan, "bo") AS ?label_tibetan)
     BIND(STRLANG(?wylie, "bo-x-ewts") AS ?label_wylie)
-    BIND(STRLANG(?chinese, "zh-Hani") AS ?label_chinese) 
+    BIND(STRLANG(?chinese, "zh-Hani") AS ?label_chinese)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_GeoPoint_", ?lat, "_", ?long)) AS ?geo_point_iri)
     BIND(STRDT(?lat, xsd:decimal) AS ?latitude)

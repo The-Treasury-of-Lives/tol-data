@@ -19,3080 +19,2641 @@
 
 told:_ID_har_0
 	a gist:ID ;
-	skos:prefLabel "HAR 0"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "0"^^xsd:string ;
 	.
 
 told:_ID_har_1005
 	a gist:ID ;
-	skos:prefLabel "HAR 1005"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1005"^^xsd:string ;
 	.
 
 told:_ID_har_101352
 	a gist:ID ;
-	skos:prefLabel "HAR 101352"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "101352"^^xsd:string ;
 	.
 
 told:_ID_har_1014
 	a gist:ID ;
-	skos:prefLabel "HAR 1014"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1014"^^xsd:string ;
 	.
 
 told:_ID_har_101513
 	a gist:ID ;
-	skos:prefLabel "HAR 101513"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "101513"^^xsd:string ;
 	.
 
 told:_ID_har_1019
 	a gist:ID ;
-	skos:prefLabel "HAR 1019"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1019"^^xsd:string ;
 	.
 
 told:_ID_har_102236
 	a gist:ID ;
-	skos:prefLabel "HAR 102236"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "102236"^^xsd:string ;
 	.
 
 told:_ID_har_1034
 	a gist:ID ;
-	skos:prefLabel "HAR 1034"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1034"^^xsd:string ;
 	.
 
 told:_ID_har_1035
 	a gist:ID ;
-	skos:prefLabel "HAR 1035"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1035"^^xsd:string ;
 	.
 
 told:_ID_har_105
 	a gist:ID ;
-	skos:prefLabel "HAR 105"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "105"^^xsd:string ;
 	.
 
 told:_ID_har_1057
 	a gist:ID ;
-	skos:prefLabel "HAR 1057"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1057"^^xsd:string ;
 	.
 
 told:_ID_har_107
 	a gist:ID ;
-	skos:prefLabel "HAR 107"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "107"^^xsd:string ;
 	.
 
 told:_ID_har_1099
 	a gist:ID ;
-	skos:prefLabel "HAR 1099"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1099"^^xsd:string ;
 	.
 
 told:_ID_har_110
 	a gist:ID ;
-	skos:prefLabel "HAR 110"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "110"^^xsd:string ;
 	.
 
 told:_ID_har_1120
 	a gist:ID ;
-	skos:prefLabel "HAR 1120"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1120"^^xsd:string ;
 	.
 
 told:_ID_har_1147
 	a gist:ID ;
-	skos:prefLabel "HAR 1147"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1147"^^xsd:string ;
 	.
 
 told:_ID_har_1148
 	a gist:ID ;
-	skos:prefLabel "HAR 1148"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1148"^^xsd:string ;
 	.
 
 told:_ID_har_1164
 	a gist:ID ;
-	skos:prefLabel "HAR 1164"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1164"^^xsd:string ;
 	.
 
 told:_ID_har_1165
 	a gist:ID ;
-	skos:prefLabel "HAR 1165"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1165"^^xsd:string ;
 	.
 
 told:_ID_har_1166
 	a gist:ID ;
-	skos:prefLabel "HAR 1166"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1166"^^xsd:string ;
 	.
 
 told:_ID_har_12
 	a gist:ID ;
-	skos:prefLabel "HAR 12"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "12"^^xsd:string ;
 	.
 
 told:_ID_har_120
 	a gist:ID ;
-	skos:prefLabel "HAR 120"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "120"^^xsd:string ;
 	.
 
 told:_ID_har_1206
 	a gist:ID ;
-	skos:prefLabel "HAR 1206"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "1206"^^xsd:string ;
 	.
 
 told:_ID_har_123456
 	a gist:ID ;
-	skos:prefLabel "HAR 123456"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "123456"^^xsd:string ;
 	.
 
 told:_ID_har_128
 	a gist:ID ;
-	skos:prefLabel "HAR 128"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "128"^^xsd:string ;
 	.
 
 told:_ID_har_134
 	a gist:ID ;
-	skos:prefLabel "HAR 134"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "134"^^xsd:string ;
 	.
 
 told:_ID_har_15275
 	a gist:ID ;
-	skos:prefLabel "HAR 15275"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15275"^^xsd:string ;
 	.
 
 told:_ID_har_15476
 	a gist:ID ;
-	skos:prefLabel "HAR 15476"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15476"^^xsd:string ;
 	.
 
 told:_ID_har_15528
 	a gist:ID ;
-	skos:prefLabel "HAR 15528"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15528"^^xsd:string ;
 	.
 
 told:_ID_har_15532
 	a gist:ID ;
-	skos:prefLabel "HAR 15532"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15532"^^xsd:string ;
 	.
 
 told:_ID_har_15543
 	a gist:ID ;
-	skos:prefLabel "HAR 15543"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15543"^^xsd:string ;
 	.
 
 told:_ID_har_15557
 	a gist:ID ;
-	skos:prefLabel "HAR 15557"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "15557"^^xsd:string ;
 	.
 
 told:_ID_har_156
 	a gist:ID ;
-	skos:prefLabel "HAR 156"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "156"^^xsd:string ;
 	.
 
 told:_ID_har_160
 	a gist:ID ;
-	skos:prefLabel "HAR 160"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "160"^^xsd:string ;
 	.
 
 told:_ID_har_162
 	a gist:ID ;
-	skos:prefLabel "HAR 162"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "162"^^xsd:string ;
 	.
 
 told:_ID_har_171
 	a gist:ID ;
-	skos:prefLabel "HAR 171"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "171"^^xsd:string ;
 	.
 
 told:_ID_har_18
 	a gist:ID ;
-	skos:prefLabel "HAR 18"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "18"^^xsd:string ;
 	.
 
 told:_ID_har_185
 	a gist:ID ;
-	skos:prefLabel "HAR 185"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "185"^^xsd:string ;
 	.
 
 told:_ID_har_186
 	a gist:ID ;
-	skos:prefLabel "HAR 186"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "186"^^xsd:string ;
 	.
 
 told:_ID_har_188
 	a gist:ID ;
-	skos:prefLabel "HAR 188"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "188"^^xsd:string ;
 	.
 
 told:_ID_har_20
 	a gist:ID ;
-	skos:prefLabel "HAR 20"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "20"^^xsd:string ;
 	.
 
 told:_ID_har_200005
 	a gist:ID ;
-	skos:prefLabel "HAR 200005"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "200005"^^xsd:string ;
 	.
 
 told:_ID_har_200010
 	a gist:ID ;
-	skos:prefLabel "HAR 200010"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "200010"^^xsd:string ;
 	.
 
 told:_ID_har_200015
 	a gist:ID ;
-	skos:prefLabel "HAR 200015"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "200015"^^xsd:string ;
 	.
 
 told:_ID_har_203
 	a gist:ID ;
-	skos:prefLabel "HAR 203"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "203"^^xsd:string ;
 	.
 
 told:_ID_har_20505
 	a gist:ID ;
-	skos:prefLabel "HAR 20505"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "20505"^^xsd:string ;
 	.
 
 told:_ID_har_212
 	a gist:ID ;
-	skos:prefLabel "HAR 212"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "212"^^xsd:string ;
 	.
 
 told:_ID_har_219
 	a gist:ID ;
-	skos:prefLabel "HAR 219"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "219"^^xsd:string ;
 	.
 
 told:_ID_har_22267
 	a gist:ID ;
-	skos:prefLabel "HAR 22267"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "22267"^^xsd:string ;
 	.
 
 told:_ID_har_2293
 	a gist:ID ;
-	skos:prefLabel "HAR 2293"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "2293"^^xsd:string ;
 	.
 
 told:_ID_har_23
 	a gist:ID ;
-	skos:prefLabel "HAR 23"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "23"^^xsd:string ;
 	.
 
 told:_ID_har_244
 	a gist:ID ;
-	skos:prefLabel "HAR 244"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "244"^^xsd:string ;
 	.
 
 told:_ID_har_254
 	a gist:ID ;
-	skos:prefLabel "HAR 254"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "254"^^xsd:string ;
 	.
 
 told:_ID_har_267
 	a gist:ID ;
-	skos:prefLabel "HAR 267"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "267"^^xsd:string ;
 	.
 
 told:_ID_har_269
 	a gist:ID ;
-	skos:prefLabel "HAR 269"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "269"^^xsd:string ;
 	.
 
 told:_ID_har_276
 	a gist:ID ;
-	skos:prefLabel "HAR 276"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "276"^^xsd:string ;
 	.
 
 told:_ID_har_285
 	a gist:ID ;
-	skos:prefLabel "HAR 285"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "285"^^xsd:string ;
 	.
 
 told:_ID_har_286
 	a gist:ID ;
-	skos:prefLabel "HAR 286"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "286"^^xsd:string ;
 	.
 
 told:_ID_har_289
 	a gist:ID ;
-	skos:prefLabel "HAR 289"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "289"^^xsd:string ;
 	.
 
 told:_ID_har_300
 	a gist:ID ;
-	skos:prefLabel "HAR 300"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "300"^^xsd:string ;
 	.
 
 told:_ID_har_307
 	a gist:ID ;
-	skos:prefLabel "HAR 307"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "307"^^xsd:string ;
 	.
 
 told:_ID_har_309
 	a gist:ID ;
-	skos:prefLabel "HAR 309"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "309"^^xsd:string ;
 	.
 
 told:_ID_har_30922
 	a gist:ID ;
-	skos:prefLabel "HAR 30922"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "30922"^^xsd:string ;
 	.
 
 told:_ID_har_30987
 	a gist:ID ;
-	skos:prefLabel "HAR 30987"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "30987"^^xsd:string ;
 	.
 
 told:_ID_har_31034
 	a gist:ID ;
-	skos:prefLabel "HAR 31034"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "31034"^^xsd:string ;
 	.
 
 told:_ID_har_31346
 	a gist:ID ;
-	skos:prefLabel "HAR 31346"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "31346"^^xsd:string ;
 	.
 
 told:_ID_har_31757
 	a gist:ID ;
-	skos:prefLabel "HAR 31757"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "31757"^^xsd:string ;
 	.
 
 told:_ID_har_319
 	a gist:ID ;
-	skos:prefLabel "HAR 319"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "319"^^xsd:string ;
 	.
 
 told:_ID_har_327
 	a gist:ID ;
-	skos:prefLabel "HAR 327"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "327"^^xsd:string ;
 	.
 
 told:_ID_har_34042
 	a gist:ID ;
-	skos:prefLabel "HAR 34042"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "34042"^^xsd:string ;
 	.
 
 told:_ID_har_344
 	a gist:ID ;
-	skos:prefLabel "HAR 344"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "344"^^xsd:string ;
 	.
 
 told:_ID_har_349
 	a gist:ID ;
-	skos:prefLabel "HAR 349"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "349"^^xsd:string ;
 	.
 
 told:_ID_har_354
 	a gist:ID ;
-	skos:prefLabel "HAR 354"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "354"^^xsd:string ;
 	.
 
 told:_ID_har_362
 	a gist:ID ;
-	skos:prefLabel "HAR 362"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "362"^^xsd:string ;
 	.
 
 told:_ID_har_368
 	a gist:ID ;
-	skos:prefLabel "HAR 368"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "368"^^xsd:string ;
 	.
 
 told:_ID_har_376
 	a gist:ID ;
-	skos:prefLabel "HAR 376"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "376"^^xsd:string ;
 	.
 
 told:_ID_har_38
 	a gist:ID ;
-	skos:prefLabel "HAR 38"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "38"^^xsd:string ;
 	.
 
 told:_ID_har_380
 	a gist:ID ;
-	skos:prefLabel "HAR 380"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "380"^^xsd:string ;
 	.
 
 told:_ID_har_385
 	a gist:ID ;
-	skos:prefLabel "HAR 385"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "385"^^xsd:string ;
 	.
 
 told:_ID_har_393
 	a gist:ID ;
-	skos:prefLabel "HAR 393"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "393"^^xsd:string ;
 	.
 
 told:_ID_har_40
 	a gist:ID ;
-	skos:prefLabel "HAR 40"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "40"^^xsd:string ;
 	.
 
 told:_ID_har_401
 	a gist:ID ;
-	skos:prefLabel "HAR 401"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "401"^^xsd:string ;
 	.
 
 told:_ID_har_407
 	a gist:ID ;
-	skos:prefLabel "HAR 407"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "407"^^xsd:string ;
 	.
 
 told:_ID_har_410
 	a gist:ID ;
-	skos:prefLabel "HAR 410"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "410"^^xsd:string ;
 	.
 
 told:_ID_har_412
 	a gist:ID ;
-	skos:prefLabel "HAR 412"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "412"^^xsd:string ;
 	.
 
 told:_ID_har_416
 	a gist:ID ;
-	skos:prefLabel "HAR 416"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "416"^^xsd:string ;
 	.
 
 told:_ID_har_418
 	a gist:ID ;
-	skos:prefLabel "HAR 418"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "418"^^xsd:string ;
 	.
 
 told:_ID_har_423
 	a gist:ID ;
-	skos:prefLabel "HAR 423"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "423"^^xsd:string ;
 	.
 
 told:_ID_har_453
 	a gist:ID ;
-	skos:prefLabel "HAR 453"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "453"^^xsd:string ;
 	.
 
 told:_ID_har_457
 	a gist:ID ;
-	skos:prefLabel "HAR 457"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "457"^^xsd:string ;
 	.
 
 told:_ID_har_459
 	a gist:ID ;
-	skos:prefLabel "HAR 459"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "459"^^xsd:string ;
 	.
 
 told:_ID_har_4706
 	a gist:ID ;
-	skos:prefLabel "HAR 4706"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "4706"^^xsd:string ;
 	.
 
 told:_ID_har_477
 	a gist:ID ;
-	skos:prefLabel "HAR 477"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "477"^^xsd:string ;
 	.
 
 told:_ID_har_48222
 	a gist:ID ;
-	skos:prefLabel "HAR 48222"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "48222"^^xsd:string ;
 	.
 
 told:_ID_har_493
 	a gist:ID ;
-	skos:prefLabel "HAR 493"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "493"^^xsd:string ;
 	.
 
 told:_ID_har_49332
 	a gist:ID ;
-	skos:prefLabel "HAR 49332"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "49332"^^xsd:string ;
 	.
 
 told:_ID_har_50083
 	a gist:ID ;
-	skos:prefLabel "HAR 50083"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "50083"^^xsd:string ;
 	.
 
 told:_ID_har_50226
 	a gist:ID ;
-	skos:prefLabel "HAR 50226"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "50226"^^xsd:string ;
 	.
 
 told:_ID_har_506
 	a gist:ID ;
-	skos:prefLabel "HAR 506"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "506"^^xsd:string ;
 	.
 
 told:_ID_har_508
 	a gist:ID ;
-	skos:prefLabel "HAR 508"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "508"^^xsd:string ;
 	.
 
 told:_ID_har_518
 	a gist:ID ;
-	skos:prefLabel "HAR 518"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "518"^^xsd:string ;
 	.
 
 told:_ID_har_52448233
 	a gist:ID ;
-	skos:prefLabel "HAR 52448233"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52448233"^^xsd:string ;
 	.
 
 told:_ID_har_52848957
 	a gist:ID ;
-	skos:prefLabel "HAR 52848957"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848957"^^xsd:string ;
 	.
 
 told:_ID_har_52848958
 	a gist:ID ;
-	skos:prefLabel "HAR 52848958"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848958"^^xsd:string ;
 	.
 
 told:_ID_har_52848959
 	a gist:ID ;
-	skos:prefLabel "HAR 52848959"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848959"^^xsd:string ;
 	.
 
 told:_ID_har_52848961
 	a gist:ID ;
-	skos:prefLabel "HAR 52848961"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848961"^^xsd:string ;
 	.
 
 told:_ID_har_52848962
 	a gist:ID ;
-	skos:prefLabel "HAR 52848962"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848962"^^xsd:string ;
 	.
 
 told:_ID_har_52848963
 	a gist:ID ;
-	skos:prefLabel "HAR 52848963"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848963"^^xsd:string ;
 	.
 
 told:_ID_har_52848967
 	a gist:ID ;
-	skos:prefLabel "HAR 52848967"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848967"^^xsd:string ;
 	.
 
 told:_ID_har_52848968
 	a gist:ID ;
-	skos:prefLabel "HAR 52848968"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848968"^^xsd:string ;
 	.
 
 told:_ID_har_52848969
 	a gist:ID ;
-	skos:prefLabel "HAR 52848969"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848969"^^xsd:string ;
 	.
 
 told:_ID_har_52848970
 	a gist:ID ;
-	skos:prefLabel "HAR 52848970"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848970"^^xsd:string ;
 	.
 
 told:_ID_har_52848971
 	a gist:ID ;
-	skos:prefLabel "HAR 52848971"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848971"^^xsd:string ;
 	.
 
 told:_ID_har_52848972
 	a gist:ID ;
-	skos:prefLabel "HAR 52848972"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848972"^^xsd:string ;
 	.
 
 told:_ID_har_52848973
 	a gist:ID ;
-	skos:prefLabel "HAR 52848973"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848973"^^xsd:string ;
 	.
 
 told:_ID_har_52848975
 	a gist:ID ;
-	skos:prefLabel "HAR 52848975"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848975"^^xsd:string ;
 	.
 
 told:_ID_har_52848976
 	a gist:ID ;
-	skos:prefLabel "HAR 52848976"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848976"^^xsd:string ;
 	.
 
 told:_ID_har_52848977
 	a gist:ID ;
-	skos:prefLabel "HAR 52848977"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848977"^^xsd:string ;
 	.
 
 told:_ID_har_52848978
 	a gist:ID ;
-	skos:prefLabel "HAR 52848978"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848978"^^xsd:string ;
 	.
 
 told:_ID_har_52848979
 	a gist:ID ;
-	skos:prefLabel "HAR 52848979"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848979"^^xsd:string ;
 	.
 
 told:_ID_har_52848980
 	a gist:ID ;
-	skos:prefLabel "HAR 52848980"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848980"^^xsd:string ;
 	.
 
 told:_ID_har_52848981
 	a gist:ID ;
-	skos:prefLabel "HAR 52848981"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848981"^^xsd:string ;
 	.
 
 told:_ID_har_52848982
 	a gist:ID ;
-	skos:prefLabel "HAR 52848982"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848982"^^xsd:string ;
 	.
 
 told:_ID_har_52848983
 	a gist:ID ;
-	skos:prefLabel "HAR 52848983"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "52848983"^^xsd:string ;
 	.
 
 told:_ID_har_53050551
 	a gist:ID ;
-	skos:prefLabel "HAR 53050551"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "53050551"^^xsd:string ;
 	.
 
 told:_ID_har_53050552
 	a gist:ID ;
-	skos:prefLabel "HAR 53050552"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "53050552"^^xsd:string ;
 	.
 
 told:_ID_har_536
 	a gist:ID ;
-	skos:prefLabel "HAR 536"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "536"^^xsd:string ;
 	.
 
 told:_ID_har_53773
 	a gist:ID ;
-	skos:prefLabel "HAR 53773"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "53773"^^xsd:string ;
 	.
 
 told:_ID_har_53774
 	a gist:ID ;
-	skos:prefLabel "HAR 53774"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "53774"^^xsd:string ;
 	.
 
 told:_ID_har_545
 	a gist:ID ;
-	skos:prefLabel "HAR 545"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "545"^^xsd:string ;
 	.
 
 told:_ID_har_546
 	a gist:ID ;
-	skos:prefLabel "HAR 546"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "546"^^xsd:string ;
 	.
 
 told:_ID_har_558
 	a gist:ID ;
-	skos:prefLabel "HAR 558"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "558"^^xsd:string ;
 	.
 
 told:_ID_har_559
 	a gist:ID ;
-	skos:prefLabel "HAR 559"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "559"^^xsd:string ;
 	.
 
 told:_ID_har_56
 	a gist:ID ;
-	skos:prefLabel "HAR 56"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "56"^^xsd:string ;
 	.
 
 told:_ID_har_560
 	a gist:ID ;
-	skos:prefLabel "HAR 560"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "560"^^xsd:string ;
 	.
 
 told:_ID_har_561
 	a gist:ID ;
-	skos:prefLabel "HAR 561"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "561"^^xsd:string ;
 	.
 
 told:_ID_har_562
 	a gist:ID ;
-	skos:prefLabel "HAR 562"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "562"^^xsd:string ;
 	.
 
 told:_ID_har_57037
 	a gist:ID ;
-	skos:prefLabel "HAR 57037"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "57037"^^xsd:string ;
 	.
 
 told:_ID_har_57082
 	a gist:ID ;
-	skos:prefLabel "HAR 57082"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "57082"^^xsd:string ;
 	.
 
 told:_ID_har_578
 	a gist:ID ;
-	skos:prefLabel "HAR 578"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "578"^^xsd:string ;
 	.
 
 told:_ID_har_580
 	a gist:ID ;
-	skos:prefLabel "HAR 580"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "580"^^xsd:string ;
 	.
 
 told:_ID_har_58303
 	a gist:ID ;
-	skos:prefLabel "HAR 58303"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "58303"^^xsd:string ;
 	.
 
 told:_ID_har_58970
 	a gist:ID ;
-	skos:prefLabel "HAR 58970"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "58970"^^xsd:string ;
 	.
 
 told:_ID_har_58989
 	a gist:ID ;
-	skos:prefLabel "HAR 58989"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "58989"^^xsd:string ;
 	.
 
 told:_ID_har_59367
 	a gist:ID ;
-	skos:prefLabel "HAR 59367"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "59367"^^xsd:string ;
 	.
 
 told:_ID_har_595
 	a gist:ID ;
-	skos:prefLabel "HAR 595"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "595"^^xsd:string ;
 	.
 
 told:_ID_har_60687
 	a gist:ID ;
-	skos:prefLabel "HAR 60687"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "60687"^^xsd:string ;
 	.
 
 told:_ID_har_61
 	a gist:ID ;
-	skos:prefLabel "HAR 61"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "61"^^xsd:string ;
 	.
 
 told:_ID_har_61059
 	a gist:ID ;
-	skos:prefLabel "HAR 61059"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "61059"^^xsd:string ;
 	.
 
 told:_ID_har_61137
 	a gist:ID ;
-	skos:prefLabel "HAR 61137"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "61137"^^xsd:string ;
 	.
 
 told:_ID_har_61234
 	a gist:ID ;
-	skos:prefLabel "HAR 61234"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "61234"^^xsd:string ;
 	.
 
 told:_ID_har_63
 	a gist:ID ;
-	skos:prefLabel "HAR 63"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "63"^^xsd:string ;
 	.
 
 told:_ID_har_631
 	a gist:ID ;
-	skos:prefLabel "HAR 631"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "631"^^xsd:string ;
 	.
 
 told:_ID_har_632
 	a gist:ID ;
-	skos:prefLabel "HAR 632"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "632"^^xsd:string ;
 	.
 
 told:_ID_har_633
 	a gist:ID ;
-	skos:prefLabel "HAR 633"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "633"^^xsd:string ;
 	.
 
 told:_ID_har_64042
 	a gist:ID ;
-	skos:prefLabel "HAR 64042"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "64042"^^xsd:string ;
 	.
 
 told:_ID_har_65008
 	a gist:ID ;
-	skos:prefLabel "HAR 65008"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65008"^^xsd:string ;
 	.
 
 told:_ID_har_65017
 	a gist:ID ;
-	skos:prefLabel "HAR 65017"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65017"^^xsd:string ;
 	.
 
 told:_ID_har_65046
 	a gist:ID ;
-	skos:prefLabel "HAR 65046"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65046"^^xsd:string ;
 	.
 
 told:_ID_har_65120
 	a gist:ID ;
-	skos:prefLabel "HAR 65120"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65120"^^xsd:string ;
 	.
 
 told:_ID_har_65121
 	a gist:ID ;
-	skos:prefLabel "HAR 65121"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65121"^^xsd:string ;
 	.
 
 told:_ID_har_65159
 	a gist:ID ;
-	skos:prefLabel "HAR 65159"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65159"^^xsd:string ;
 	.
 
 told:_ID_har_65167
 	a gist:ID ;
-	skos:prefLabel "HAR 65167"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65167"^^xsd:string ;
 	.
 
 told:_ID_har_65168
 	a gist:ID ;
-	skos:prefLabel "HAR 65168"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65168"^^xsd:string ;
 	.
 
 told:_ID_har_65183
 	a gist:ID ;
-	skos:prefLabel "HAR 65183"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65183"^^xsd:string ;
 	.
 
 told:_ID_har_65193
 	a gist:ID ;
-	skos:prefLabel "HAR 65193"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65193"^^xsd:string ;
 	.
 
 told:_ID_har_65205
 	a gist:ID ;
-	skos:prefLabel "HAR 65205"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65205"^^xsd:string ;
 	.
 
 told:_ID_har_65232
 	a gist:ID ;
-	skos:prefLabel "HAR 65232"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65232"^^xsd:string ;
 	.
 
 told:_ID_har_65249
 	a gist:ID ;
-	skos:prefLabel "HAR 65249"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65249"^^xsd:string ;
 	.
 
 told:_ID_har_65265
 	a gist:ID ;
-	skos:prefLabel "HAR 65265"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65265"^^xsd:string ;
 	.
 
 told:_ID_har_65275
 	a gist:ID ;
-	skos:prefLabel "HAR 65275"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65275"^^xsd:string ;
 	.
 
 told:_ID_har_65279
 	a gist:ID ;
-	skos:prefLabel "HAR 65279"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65279"^^xsd:string ;
 	.
 
 told:_ID_har_65340
 	a gist:ID ;
-	skos:prefLabel "HAR 65340"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65340"^^xsd:string ;
 	.
 
 told:_ID_har_65358
 	a gist:ID ;
-	skos:prefLabel "HAR 65358"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65358"^^xsd:string ;
 	.
 
 told:_ID_har_65375
 	a gist:ID ;
-	skos:prefLabel "HAR 65375"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65375"^^xsd:string ;
 	.
 
 told:_ID_har_65384
 	a gist:ID ;
-	skos:prefLabel "HAR 65384"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65384"^^xsd:string ;
 	.
 
 told:_ID_har_65401
 	a gist:ID ;
-	skos:prefLabel "HAR 65401"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65401"^^xsd:string ;
 	.
 
 told:_ID_har_65461
 	a gist:ID ;
-	skos:prefLabel "HAR 65461"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65461"^^xsd:string ;
 	.
 
 told:_ID_har_65478
 	a gist:ID ;
-	skos:prefLabel "HAR 65478"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65478"^^xsd:string ;
 	.
 
 told:_ID_har_65562
 	a gist:ID ;
-	skos:prefLabel "HAR 65562"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65562"^^xsd:string ;
 	.
 
 told:_ID_har_65617
 	a gist:ID ;
-	skos:prefLabel "HAR 65617"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65617"^^xsd:string ;
 	.
 
 told:_ID_har_65622
 	a gist:ID ;
-	skos:prefLabel "HAR 65622"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65622"^^xsd:string ;
 	.
 
 told:_ID_har_65647
 	a gist:ID ;
-	skos:prefLabel "HAR 65647"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65647"^^xsd:string ;
 	.
 
 told:_ID_har_65670
 	a gist:ID ;
-	skos:prefLabel "HAR 65670"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65670"^^xsd:string ;
 	.
 
 told:_ID_har_657
 	a gist:ID ;
-	skos:prefLabel "HAR 657"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "657"^^xsd:string ;
 	.
 
 told:_ID_har_65719
 	a gist:ID ;
-	skos:prefLabel "HAR 65719"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65719"^^xsd:string ;
 	.
 
 told:_ID_har_65776
 	a gist:ID ;
-	skos:prefLabel "HAR 65776"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65776"^^xsd:string ;
 	.
 
 told:_ID_har_65802
 	a gist:ID ;
-	skos:prefLabel "HAR 65802"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65802"^^xsd:string ;
 	.
 
 told:_ID_har_65804
 	a gist:ID ;
-	skos:prefLabel "HAR 65804"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65804"^^xsd:string ;
 	.
 
 told:_ID_har_65826
 	a gist:ID ;
-	skos:prefLabel "HAR 65826"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65826"^^xsd:string ;
 	.
 
 told:_ID_har_65848
 	a gist:ID ;
-	skos:prefLabel "HAR 65848"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65848"^^xsd:string ;
 	.
 
 told:_ID_har_65861
 	a gist:ID ;
-	skos:prefLabel "HAR 65861"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65861"^^xsd:string ;
 	.
 
 told:_ID_har_65864
 	a gist:ID ;
-	skos:prefLabel "HAR 65864"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65864"^^xsd:string ;
 	.
 
 told:_ID_har_65916
 	a gist:ID ;
-	skos:prefLabel "HAR 65916"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65916"^^xsd:string ;
 	.
 
 told:_ID_har_65918
 	a gist:ID ;
-	skos:prefLabel "HAR 65918"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65918"^^xsd:string ;
 	.
 
 told:_ID_har_65919
 	a gist:ID ;
-	skos:prefLabel "HAR 65919"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65919"^^xsd:string ;
 	.
 
 told:_ID_har_65920
 	a gist:ID ;
-	skos:prefLabel "HAR 65920"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65920"^^xsd:string ;
 	.
 
 told:_ID_har_65921
 	a gist:ID ;
-	skos:prefLabel "HAR 65921"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65921"^^xsd:string ;
 	.
 
 told:_ID_har_65922
 	a gist:ID ;
-	skos:prefLabel "HAR 65922"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65922"^^xsd:string ;
 	.
 
 told:_ID_har_65923
 	a gist:ID ;
-	skos:prefLabel "HAR 65923"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "65923"^^xsd:string ;
 	.
 
 told:_ID_har_661
 	a gist:ID ;
-	skos:prefLabel "HAR 661"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "661"^^xsd:string ;
 	.
 
 told:_ID_har_66246
 	a gist:ID ;
-	skos:prefLabel "HAR 66246"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "66246"^^xsd:string ;
 	.
 
 told:_ID_har_66247
 	a gist:ID ;
-	skos:prefLabel "HAR 66247"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "66247"^^xsd:string ;
 	.
 
 told:_ID_har_66250
 	a gist:ID ;
-	skos:prefLabel "HAR 66250"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "66250"^^xsd:string ;
 	.
 
 told:_ID_har_66253
 	a gist:ID ;
-	skos:prefLabel "HAR 66253"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "66253"^^xsd:string ;
 	.
 
 told:_ID_har_66295
 	a gist:ID ;
-	skos:prefLabel "HAR 66295"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "66295"^^xsd:string ;
 	.
 
 told:_ID_har_666
 	a gist:ID ;
-	skos:prefLabel "HAR 666"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "666"^^xsd:string ;
 	.
 
 told:_ID_har_67
 	a gist:ID ;
-	skos:prefLabel "HAR 67"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "67"^^xsd:string ;
 	.
 
 told:_ID_har_674
 	a gist:ID ;
-	skos:prefLabel "HAR 674"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "674"^^xsd:string ;
 	.
 
 told:_ID_har_68493
 	a gist:ID ;
-	skos:prefLabel "HAR 68493"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68493"^^xsd:string ;
 	.
 
 told:_ID_har_68495
 	a gist:ID ;
-	skos:prefLabel "HAR 68495"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68495"^^xsd:string ;
 	.
 
 told:_ID_har_688
 	a gist:ID ;
-	skos:prefLabel "HAR 688"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "688"^^xsd:string ;
 	.
 
 told:_ID_har_68871
 	a gist:ID ;
-	skos:prefLabel "HAR 68871"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68871"^^xsd:string ;
 	.
 
 told:_ID_har_68886
 	a gist:ID ;
-	skos:prefLabel "HAR 68886"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68886"^^xsd:string ;
 	.
 
 told:_ID_har_68890
 	a gist:ID ;
-	skos:prefLabel "HAR 68890"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "68890"^^xsd:string ;
 	.
 
 told:_ID_har_695
 	a gist:ID ;
-	skos:prefLabel "HAR 695"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "695"^^xsd:string ;
 	.
 
 told:_ID_har_700067
 	a gist:ID ;
-	skos:prefLabel "HAR 700067"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "700067"^^xsd:string ;
 	.
 
 told:_ID_har_705
 	a gist:ID ;
-	skos:prefLabel "HAR 705"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "705"^^xsd:string ;
 	.
 
 told:_ID_har_712
 	a gist:ID ;
-	skos:prefLabel "HAR 712"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "712"^^xsd:string ;
 	.
 
 told:_ID_har_717
 	a gist:ID ;
-	skos:prefLabel "HAR 717"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "717"^^xsd:string ;
 	.
 
 told:_ID_har_71925
 	a gist:ID ;
-	skos:prefLabel "HAR 71925"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "71925"^^xsd:string ;
 	.
 
 told:_ID_har_72097
 	a gist:ID ;
-	skos:prefLabel "HAR 72097"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "72097"^^xsd:string ;
 	.
 
 told:_ID_har_723
 	a gist:ID ;
-	skos:prefLabel "HAR 723"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "723"^^xsd:string ;
 	.
 
 told:_ID_har_73405
 	a gist:ID ;
-	skos:prefLabel "HAR 73405"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "73405"^^xsd:string ;
 	.
 
 told:_ID_har_73406
 	a gist:ID ;
-	skos:prefLabel "HAR 73406"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "73406"^^xsd:string ;
 	.
 
 told:_ID_har_73434
 	a gist:ID ;
-	skos:prefLabel "HAR 73434"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "73434"^^xsd:string ;
 	.
 
 told:_ID_har_73736
 	a gist:ID ;
-	skos:prefLabel "HAR 73736"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "73736"^^xsd:string ;
 	.
 
 told:_ID_har_74069
 	a gist:ID ;
-	skos:prefLabel "HAR 74069"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "74069"^^xsd:string ;
 	.
 
 told:_ID_har_74280
 	a gist:ID ;
-	skos:prefLabel "HAR 74280"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "74280"^^xsd:string ;
 	.
 
 told:_ID_har_76
 	a gist:ID ;
-	skos:prefLabel "HAR 76"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "76"^^xsd:string ;
 	.
 
 told:_ID_har_777
 	a gist:ID ;
-	skos:prefLabel "HAR 777"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "777"^^xsd:string ;
 	.
 
 told:_ID_har_780
 	a gist:ID ;
-	skos:prefLabel "HAR 780"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "780"^^xsd:string ;
 	.
 
 told:_ID_har_790
 	a gist:ID ;
-	skos:prefLabel "HAR 790"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "790"^^xsd:string ;
 	.
 
 told:_ID_har_791
 	a gist:ID ;
-	skos:prefLabel "HAR 791"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "791"^^xsd:string ;
 	.
 
 told:_ID_har_79182
 	a gist:ID ;
-	skos:prefLabel "HAR 79182"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79182"^^xsd:string ;
 	.
 
 told:_ID_har_795
 	a gist:ID ;
-	skos:prefLabel "HAR 795"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "795"^^xsd:string ;
 	.
 
 told:_ID_har_79610
 	a gist:ID ;
-	skos:prefLabel "HAR 79610"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79610"^^xsd:string ;
 	.
 
 told:_ID_har_79631
 	a gist:ID ;
-	skos:prefLabel "HAR 79631"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79631"^^xsd:string ;
 	.
 
 told:_ID_har_79655
 	a gist:ID ;
-	skos:prefLabel "HAR 79655"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79655"^^xsd:string ;
 	.
 
 told:_ID_har_79663
 	a gist:ID ;
-	skos:prefLabel "HAR 79663"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79663"^^xsd:string ;
 	.
 
 told:_ID_har_79685
 	a gist:ID ;
-	skos:prefLabel "HAR 79685"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79685"^^xsd:string ;
 	.
 
 told:_ID_har_79694
 	a gist:ID ;
-	skos:prefLabel "HAR 79694"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79694"^^xsd:string ;
 	.
 
 told:_ID_har_79792
 	a gist:ID ;
-	skos:prefLabel "HAR 79792"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79792"^^xsd:string ;
 	.
 
 told:_ID_har_79794
 	a gist:ID ;
-	skos:prefLabel "HAR 79794"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79794"^^xsd:string ;
 	.
 
 told:_ID_har_79799
 	a gist:ID ;
-	skos:prefLabel "HAR 79799"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79799"^^xsd:string ;
 	.
 
 told:_ID_har_79875
 	a gist:ID ;
-	skos:prefLabel "HAR 79875"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79875"^^xsd:string ;
 	.
 
 told:_ID_har_79898
 	a gist:ID ;
-	skos:prefLabel "HAR 79898"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79898"^^xsd:string ;
 	.
 
 told:_ID_har_799
 	a gist:ID ;
-	skos:prefLabel "HAR 799"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "799"^^xsd:string ;
 	.
 
 told:_ID_har_79912
 	a gist:ID ;
-	skos:prefLabel "HAR 79912"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79912"^^xsd:string ;
 	.
 
 told:_ID_har_79975
 	a gist:ID ;
-	skos:prefLabel "HAR 79975"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79975"^^xsd:string ;
 	.
 
 told:_ID_har_79979
 	a gist:ID ;
-	skos:prefLabel "HAR 79979"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "79979"^^xsd:string ;
 	.
 
 told:_ID_har_80085
 	a gist:ID ;
-	skos:prefLabel "HAR 80085"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80085"^^xsd:string ;
 	.
 
 told:_ID_har_80093
 	a gist:ID ;
-	skos:prefLabel "HAR 80093"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80093"^^xsd:string ;
 	.
 
 told:_ID_har_80133
 	a gist:ID ;
-	skos:prefLabel "HAR 80133"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80133"^^xsd:string ;
 	.
 
 told:_ID_har_80185
 	a gist:ID ;
-	skos:prefLabel "HAR 80185"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80185"^^xsd:string ;
 	.
 
 told:_ID_har_80186
 	a gist:ID ;
-	skos:prefLabel "HAR 80186"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80186"^^xsd:string ;
 	.
 
 told:_ID_har_80187
 	a gist:ID ;
-	skos:prefLabel "HAR 80187"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80187"^^xsd:string ;
 	.
 
 told:_ID_har_80188
 	a gist:ID ;
-	skos:prefLabel "HAR 80188"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80188"^^xsd:string ;
 	.
 
 told:_ID_har_80189
 	a gist:ID ;
-	skos:prefLabel "HAR 80189"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80189"^^xsd:string ;
 	.
 
 told:_ID_har_80190
 	a gist:ID ;
-	skos:prefLabel "HAR 80190"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80190"^^xsd:string ;
 	.
 
 told:_ID_har_80191
 	a gist:ID ;
-	skos:prefLabel "HAR 80191"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80191"^^xsd:string ;
 	.
 
 told:_ID_har_803
 	a gist:ID ;
-	skos:prefLabel "HAR 803"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "803"^^xsd:string ;
 	.
 
 told:_ID_har_80354
 	a gist:ID ;
-	skos:prefLabel "HAR 80354"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80354"^^xsd:string ;
 	.
 
 told:_ID_har_80355
 	a gist:ID ;
-	skos:prefLabel "HAR 80355"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80355"^^xsd:string ;
 	.
 
 told:_ID_har_80356
 	a gist:ID ;
-	skos:prefLabel "HAR 80356"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80356"^^xsd:string ;
 	.
 
 told:_ID_har_80357
 	a gist:ID ;
-	skos:prefLabel "HAR 80357"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80357"^^xsd:string ;
 	.
 
 told:_ID_har_80358
 	a gist:ID ;
-	skos:prefLabel "HAR 80358"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80358"^^xsd:string ;
 	.
 
 told:_ID_har_80359
 	a gist:ID ;
-	skos:prefLabel "HAR 80359"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80359"^^xsd:string ;
 	.
 
 told:_ID_har_80360
 	a gist:ID ;
-	skos:prefLabel "HAR 80360"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80360"^^xsd:string ;
 	.
 
 told:_ID_har_80361
 	a gist:ID ;
-	skos:prefLabel "HAR 80361"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80361"^^xsd:string ;
 	.
 
 told:_ID_har_80362
 	a gist:ID ;
-	skos:prefLabel "HAR 80362"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80362"^^xsd:string ;
 	.
 
 told:_ID_har_80363
 	a gist:ID ;
-	skos:prefLabel "HAR 80363"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80363"^^xsd:string ;
 	.
 
 told:_ID_har_80364
 	a gist:ID ;
-	skos:prefLabel "HAR 80364"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80364"^^xsd:string ;
 	.
 
 told:_ID_har_80365
 	a gist:ID ;
-	skos:prefLabel "HAR 80365"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80365"^^xsd:string ;
 	.
 
 told:_ID_har_80377
 	a gist:ID ;
-	skos:prefLabel "HAR 80377"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80377"^^xsd:string ;
 	.
 
 told:_ID_har_80383
 	a gist:ID ;
-	skos:prefLabel "HAR 80383"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80383"^^xsd:string ;
 	.
 
 told:_ID_har_80384
 	a gist:ID ;
-	skos:prefLabel "HAR 80384"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80384"^^xsd:string ;
 	.
 
 told:_ID_har_80392
 	a gist:ID ;
-	skos:prefLabel "HAR 80392"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80392"^^xsd:string ;
 	.
 
 told:_ID_har_80393
 	a gist:ID ;
-	skos:prefLabel "HAR 80393"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80393"^^xsd:string ;
 	.
 
 told:_ID_har_80394
 	a gist:ID ;
-	skos:prefLabel "HAR 80394"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80394"^^xsd:string ;
 	.
 
 told:_ID_har_80395
 	a gist:ID ;
-	skos:prefLabel "HAR 80395"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80395"^^xsd:string ;
 	.
 
 told:_ID_har_80396
 	a gist:ID ;
-	skos:prefLabel "HAR 80396"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80396"^^xsd:string ;
 	.
 
 told:_ID_har_80397
 	a gist:ID ;
-	skos:prefLabel "HAR 80397"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80397"^^xsd:string ;
 	.
 
 told:_ID_har_80398
 	a gist:ID ;
-	skos:prefLabel "HAR 80398"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80398"^^xsd:string ;
 	.
 
 told:_ID_har_80399
 	a gist:ID ;
-	skos:prefLabel "HAR 80399"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80399"^^xsd:string ;
 	.
 
 told:_ID_har_80400
 	a gist:ID ;
-	skos:prefLabel "HAR 80400"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80400"^^xsd:string ;
 	.
 
 told:_ID_har_80401
 	a gist:ID ;
-	skos:prefLabel "HAR 80401"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80401"^^xsd:string ;
 	.
 
 told:_ID_har_80402
 	a gist:ID ;
-	skos:prefLabel "HAR 80402"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80402"^^xsd:string ;
 	.
 
 told:_ID_har_80403
 	a gist:ID ;
-	skos:prefLabel "HAR 80403"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80403"^^xsd:string ;
 	.
 
 told:_ID_har_80404
 	a gist:ID ;
-	skos:prefLabel "HAR 80404"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80404"^^xsd:string ;
 	.
 
 told:_ID_har_80405
 	a gist:ID ;
-	skos:prefLabel "HAR 80405"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80405"^^xsd:string ;
 	.
 
 told:_ID_har_80406
 	a gist:ID ;
-	skos:prefLabel "HAR 80406"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80406"^^xsd:string ;
 	.
 
 told:_ID_har_80407
 	a gist:ID ;
-	skos:prefLabel "HAR 80407"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80407"^^xsd:string ;
 	.
 
 told:_ID_har_80408
 	a gist:ID ;
-	skos:prefLabel "HAR 80408"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80408"^^xsd:string ;
 	.
 
 told:_ID_har_80409
 	a gist:ID ;
-	skos:prefLabel "HAR 80409"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80409"^^xsd:string ;
 	.
 
 told:_ID_har_80410
 	a gist:ID ;
-	skos:prefLabel "HAR 80410"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80410"^^xsd:string ;
 	.
 
 told:_ID_har_80411
 	a gist:ID ;
-	skos:prefLabel "HAR 80411"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80411"^^xsd:string ;
 	.
 
 told:_ID_har_80412
 	a gist:ID ;
-	skos:prefLabel "HAR 80412"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80412"^^xsd:string ;
 	.
 
 told:_ID_har_80413
 	a gist:ID ;
-	skos:prefLabel "HAR 80413"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80413"^^xsd:string ;
 	.
 
 told:_ID_har_80414
 	a gist:ID ;
-	skos:prefLabel "HAR 80414"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80414"^^xsd:string ;
 	.
 
 told:_ID_har_80415
 	a gist:ID ;
-	skos:prefLabel "HAR 80415"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80415"^^xsd:string ;
 	.
 
 told:_ID_har_80416
 	a gist:ID ;
-	skos:prefLabel "HAR 80416"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80416"^^xsd:string ;
 	.
 
 told:_ID_har_80417
 	a gist:ID ;
-	skos:prefLabel "HAR 80417"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80417"^^xsd:string ;
 	.
 
 told:_ID_har_80418
 	a gist:ID ;
-	skos:prefLabel "HAR 80418"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80418"^^xsd:string ;
 	.
 
 told:_ID_har_80419
 	a gist:ID ;
-	skos:prefLabel "HAR 80419"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80419"^^xsd:string ;
 	.
 
 told:_ID_har_80420
 	a gist:ID ;
-	skos:prefLabel "HAR 80420"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80420"^^xsd:string ;
 	.
 
 told:_ID_har_80421
 	a gist:ID ;
-	skos:prefLabel "HAR 80421"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80421"^^xsd:string ;
 	.
 
 told:_ID_har_80422
 	a gist:ID ;
-	skos:prefLabel "HAR 80422"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80422"^^xsd:string ;
 	.
 
 told:_ID_har_80423
 	a gist:ID ;
-	skos:prefLabel "HAR 80423"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80423"^^xsd:string ;
 	.
 
 told:_ID_har_80424
 	a gist:ID ;
-	skos:prefLabel "HAR 80424"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80424"^^xsd:string ;
 	.
 
 told:_ID_har_80425
 	a gist:ID ;
-	skos:prefLabel "HAR 80425"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80425"^^xsd:string ;
 	.
 
 told:_ID_har_80426
 	a gist:ID ;
-	skos:prefLabel "HAR 80426"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80426"^^xsd:string ;
 	.
 
 told:_ID_har_80427
 	a gist:ID ;
-	skos:prefLabel "HAR 80427"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80427"^^xsd:string ;
 	.
 
 told:_ID_har_80428
 	a gist:ID ;
-	skos:prefLabel "HAR 80428"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80428"^^xsd:string ;
 	.
 
 told:_ID_har_80429
 	a gist:ID ;
-	skos:prefLabel "HAR 80429"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80429"^^xsd:string ;
 	.
 
 told:_ID_har_80430
 	a gist:ID ;
-	skos:prefLabel "HAR 80430"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80430"^^xsd:string ;
 	.
 
 told:_ID_har_80431
 	a gist:ID ;
-	skos:prefLabel "HAR 80431"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80431"^^xsd:string ;
 	.
 
 told:_ID_har_80432
 	a gist:ID ;
-	skos:prefLabel "HAR 80432"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80432"^^xsd:string ;
 	.
 
 told:_ID_har_80433
 	a gist:ID ;
-	skos:prefLabel "HAR 80433"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80433"^^xsd:string ;
 	.
 
 told:_ID_har_80434
 	a gist:ID ;
-	skos:prefLabel "HAR 80434"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80434"^^xsd:string ;
 	.
 
 told:_ID_har_80435
 	a gist:ID ;
-	skos:prefLabel "HAR 80435"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80435"^^xsd:string ;
 	.
 
 told:_ID_har_80436
 	a gist:ID ;
-	skos:prefLabel "HAR 80436"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80436"^^xsd:string ;
 	.
 
 told:_ID_har_80437
 	a gist:ID ;
-	skos:prefLabel "HAR 80437"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80437"^^xsd:string ;
 	.
 
 told:_ID_har_80440
 	a gist:ID ;
-	skos:prefLabel "HAR 80440"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80440"^^xsd:string ;
 	.
 
 told:_ID_har_80441
 	a gist:ID ;
-	skos:prefLabel "HAR 80441"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80441"^^xsd:string ;
 	.
 
 told:_ID_har_80442
 	a gist:ID ;
-	skos:prefLabel "HAR 80442"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80442"^^xsd:string ;
 	.
 
 told:_ID_har_80443
 	a gist:ID ;
-	skos:prefLabel "HAR 80443"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80443"^^xsd:string ;
 	.
 
 told:_ID_har_80444
 	a gist:ID ;
-	skos:prefLabel "HAR 80444"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80444"^^xsd:string ;
 	.
 
 told:_ID_har_80445
 	a gist:ID ;
-	skos:prefLabel "HAR 80445"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80445"^^xsd:string ;
 	.
 
 told:_ID_har_80446
 	a gist:ID ;
-	skos:prefLabel "HAR 80446"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80446"^^xsd:string ;
 	.
 
 told:_ID_har_80447
 	a gist:ID ;
-	skos:prefLabel "HAR 80447"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80447"^^xsd:string ;
 	.
 
 told:_ID_har_80448
 	a gist:ID ;
-	skos:prefLabel "HAR 80448"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80448"^^xsd:string ;
 	.
 
 told:_ID_har_80449
 	a gist:ID ;
-	skos:prefLabel "HAR 80449"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80449"^^xsd:string ;
 	.
 
 told:_ID_har_80450
 	a gist:ID ;
-	skos:prefLabel "HAR 80450"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80450"^^xsd:string ;
 	.
 
 told:_ID_har_80451
 	a gist:ID ;
-	skos:prefLabel "HAR 80451"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80451"^^xsd:string ;
 	.
 
 told:_ID_har_80452
 	a gist:ID ;
-	skos:prefLabel "HAR 80452"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80452"^^xsd:string ;
 	.
 
 told:_ID_har_80453
 	a gist:ID ;
-	skos:prefLabel "HAR 80453"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80453"^^xsd:string ;
 	.
 
 told:_ID_har_80454
 	a gist:ID ;
-	skos:prefLabel "HAR 80454"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80454"^^xsd:string ;
 	.
 
 told:_ID_har_80455
 	a gist:ID ;
-	skos:prefLabel "HAR 80455"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80455"^^xsd:string ;
 	.
 
 told:_ID_har_80456
 	a gist:ID ;
-	skos:prefLabel "HAR 80456"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80456"^^xsd:string ;
 	.
 
 told:_ID_har_80457
 	a gist:ID ;
-	skos:prefLabel "HAR 80457"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80457"^^xsd:string ;
 	.
 
 told:_ID_har_80458
 	a gist:ID ;
-	skos:prefLabel "HAR 80458"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80458"^^xsd:string ;
 	.
 
 told:_ID_har_80459
 	a gist:ID ;
-	skos:prefLabel "HAR 80459"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80459"^^xsd:string ;
 	.
 
 told:_ID_har_80460
 	a gist:ID ;
-	skos:prefLabel "HAR 80460"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80460"^^xsd:string ;
 	.
 
 told:_ID_har_80461
 	a gist:ID ;
-	skos:prefLabel "HAR 80461"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80461"^^xsd:string ;
 	.
 
 told:_ID_har_80462
 	a gist:ID ;
-	skos:prefLabel "HAR 80462"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80462"^^xsd:string ;
 	.
 
 told:_ID_har_80463
 	a gist:ID ;
-	skos:prefLabel "HAR 80463"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80463"^^xsd:string ;
 	.
 
 told:_ID_har_80464
 	a gist:ID ;
-	skos:prefLabel "HAR 80464"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80464"^^xsd:string ;
 	.
 
 told:_ID_har_80465
 	a gist:ID ;
-	skos:prefLabel "HAR 80465"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80465"^^xsd:string ;
 	.
 
 told:_ID_har_80466
 	a gist:ID ;
-	skos:prefLabel "HAR 80466"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80466"^^xsd:string ;
 	.
 
 told:_ID_har_80467
 	a gist:ID ;
-	skos:prefLabel "HAR 80467"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80467"^^xsd:string ;
 	.
 
 told:_ID_har_80468
 	a gist:ID ;
-	skos:prefLabel "HAR 80468"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80468"^^xsd:string ;
 	.
 
 told:_ID_har_80469
 	a gist:ID ;
-	skos:prefLabel "HAR 80469"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80469"^^xsd:string ;
 	.
 
 told:_ID_har_80470
 	a gist:ID ;
-	skos:prefLabel "HAR 80470"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80470"^^xsd:string ;
 	.
 
 told:_ID_har_80471
 	a gist:ID ;
-	skos:prefLabel "HAR 80471"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80471"^^xsd:string ;
 	.
 
 told:_ID_har_80472
 	a gist:ID ;
-	skos:prefLabel "HAR 80472"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80472"^^xsd:string ;
 	.
 
 told:_ID_har_80473
 	a gist:ID ;
-	skos:prefLabel "HAR 80473"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80473"^^xsd:string ;
 	.
 
 told:_ID_har_80474
 	a gist:ID ;
-	skos:prefLabel "HAR 80474"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80474"^^xsd:string ;
 	.
 
 told:_ID_har_80475
 	a gist:ID ;
-	skos:prefLabel "HAR 80475"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80475"^^xsd:string ;
 	.
 
 told:_ID_har_80476
 	a gist:ID ;
-	skos:prefLabel "HAR 80476"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80476"^^xsd:string ;
 	.
 
 told:_ID_har_80477
 	a gist:ID ;
-	skos:prefLabel "HAR 80477"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80477"^^xsd:string ;
 	.
 
 told:_ID_har_80478
 	a gist:ID ;
-	skos:prefLabel "HAR 80478"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80478"^^xsd:string ;
 	.
 
 told:_ID_har_80479
 	a gist:ID ;
-	skos:prefLabel "HAR 80479"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80479"^^xsd:string ;
 	.
 
 told:_ID_har_80480
 	a gist:ID ;
-	skos:prefLabel "HAR 80480"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80480"^^xsd:string ;
 	.
 
 told:_ID_har_80481
 	a gist:ID ;
-	skos:prefLabel "HAR 80481"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80481"^^xsd:string ;
 	.
 
 told:_ID_har_80482
 	a gist:ID ;
-	skos:prefLabel "HAR 80482"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80482"^^xsd:string ;
 	.
 
 told:_ID_har_80483
 	a gist:ID ;
-	skos:prefLabel "HAR 80483"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80483"^^xsd:string ;
 	.
 
 told:_ID_har_80484
 	a gist:ID ;
-	skos:prefLabel "HAR 80484"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80484"^^xsd:string ;
 	.
 
 told:_ID_har_80485
 	a gist:ID ;
-	skos:prefLabel "HAR 80485"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80485"^^xsd:string ;
 	.
 
 told:_ID_har_80486
 	a gist:ID ;
-	skos:prefLabel "HAR 80486"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80486"^^xsd:string ;
 	.
 
 told:_ID_har_80487
 	a gist:ID ;
-	skos:prefLabel "HAR 80487"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80487"^^xsd:string ;
 	.
 
 told:_ID_har_80488
 	a gist:ID ;
-	skos:prefLabel "HAR 80488"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80488"^^xsd:string ;
 	.
 
 told:_ID_har_80531
 	a gist:ID ;
-	skos:prefLabel "HAR 80531"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80531"^^xsd:string ;
 	.
 
 told:_ID_har_80534
 	a gist:ID ;
-	skos:prefLabel "HAR 80534"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80534"^^xsd:string ;
 	.
 
 told:_ID_har_80535
 	a gist:ID ;
-	skos:prefLabel "HAR 80535"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80535"^^xsd:string ;
 	.
 
 told:_ID_har_80536
 	a gist:ID ;
-	skos:prefLabel "HAR 80536"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80536"^^xsd:string ;
 	.
 
 told:_ID_har_80537
 	a gist:ID ;
-	skos:prefLabel "HAR 80537"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80537"^^xsd:string ;
 	.
 
 told:_ID_har_80569
 	a gist:ID ;
-	skos:prefLabel "HAR 80569"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80569"^^xsd:string ;
 	.
 
 told:_ID_har_80570
 	a gist:ID ;
-	skos:prefLabel "HAR 80570"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80570"^^xsd:string ;
 	.
 
 told:_ID_har_80571
 	a gist:ID ;
-	skos:prefLabel "HAR 80571"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80571"^^xsd:string ;
 	.
 
 told:_ID_har_80572
 	a gist:ID ;
-	skos:prefLabel "HAR 80572"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80572"^^xsd:string ;
 	.
 
 told:_ID_har_80573
 	a gist:ID ;
-	skos:prefLabel "HAR 80573"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "80573"^^xsd:string ;
 	.
 
 told:_ID_har_8079
 	a gist:ID ;
-	skos:prefLabel "HAR 8079"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "8079"^^xsd:string ;
 	.
 
 told:_ID_har_8099
 	a gist:ID ;
-	skos:prefLabel "HAR 8099"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "8099"^^xsd:string ;
 	.
 
 told:_ID_har_81056
 	a gist:ID ;
-	skos:prefLabel "HAR 81056"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "81056"^^xsd:string ;
 	.
 
 told:_ID_har_81872
 	a gist:ID ;
-	skos:prefLabel "HAR 81872"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "81872"^^xsd:string ;
 	.
 
 told:_ID_har_82
 	a gist:ID ;
-	skos:prefLabel "HAR 82"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "82"^^xsd:string ;
 	.
 
 told:_ID_har_8202
 	a gist:ID ;
-	skos:prefLabel "HAR 8202"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "8202"^^xsd:string ;
 	.
 
 told:_ID_har_82091
 	a gist:ID ;
-	skos:prefLabel "HAR 82091"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "82091"^^xsd:string ;
 	.
 
 told:_ID_har_825
 	a gist:ID ;
-	skos:prefLabel "HAR 825"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "825"^^xsd:string ;
 	.
 
 told:_ID_har_8310
 	a gist:ID ;
-	skos:prefLabel "HAR 8310"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "8310"^^xsd:string ;
 	.
 
 told:_ID_har_85735
 	a gist:ID ;
-	skos:prefLabel "HAR 85735"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "85735"^^xsd:string ;
 	.
 
 told:_ID_har_860
 	a gist:ID ;
-	skos:prefLabel "HAR 860"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "860"^^xsd:string ;
 	.
 
 told:_ID_har_86433
 	a gist:ID ;
-	skos:prefLabel "HAR 86433"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "86433"^^xsd:string ;
 	.
 
 told:_ID_har_86902
 	a gist:ID ;
-	skos:prefLabel "HAR 86902"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "86902"^^xsd:string ;
 	.
 
 told:_ID_har_87083
 	a gist:ID ;
-	skos:prefLabel "HAR 87083"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87083"^^xsd:string ;
 	.
 
 told:_ID_har_873
 	a gist:ID ;
-	skos:prefLabel "HAR 873"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "873"^^xsd:string ;
 	.
 
 told:_ID_har_874
 	a gist:ID ;
-	skos:prefLabel "HAR 874"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "874"^^xsd:string ;
 	.
 
 told:_ID_har_87603
 	a gist:ID ;
-	skos:prefLabel "HAR 87603"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87603"^^xsd:string ;
 	.
 
 told:_ID_har_87607
 	a gist:ID ;
-	skos:prefLabel "HAR 87607"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87607"^^xsd:string ;
 	.
 
 told:_ID_har_87620
 	a gist:ID ;
-	skos:prefLabel "HAR 87620"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87620"^^xsd:string ;
 	.
 
 told:_ID_har_87649
 	a gist:ID ;
-	skos:prefLabel "HAR 87649"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "87649"^^xsd:string ;
 	.
 
 told:_ID_har_89141
 	a gist:ID ;
-	skos:prefLabel "HAR 89141"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89141"^^xsd:string ;
 	.
 
 told:_ID_har_89145
 	a gist:ID ;
-	skos:prefLabel "HAR 89145"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89145"^^xsd:string ;
 	.
 
 told:_ID_har_89148
 	a gist:ID ;
-	skos:prefLabel "HAR 89148"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89148"^^xsd:string ;
 	.
 
 told:_ID_har_89472
 	a gist:ID ;
-	skos:prefLabel "HAR 89472"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89472"^^xsd:string ;
 	.
 
 told:_ID_har_89711
 	a gist:ID ;
-	skos:prefLabel "HAR 89711"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89711"^^xsd:string ;
 	.
 
 told:_ID_har_89957
 	a gist:ID ;
-	skos:prefLabel "HAR 89957"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89957"^^xsd:string ;
 	.
 
 told:_ID_har_89977
 	a gist:ID ;
-	skos:prefLabel "HAR 89977"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "89977"^^xsd:string ;
 	.
 
 told:_ID_har_9
 	a gist:ID ;
-	skos:prefLabel "HAR 9"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "9"^^xsd:string ;
 	.
 
 told:_ID_har_90005
 	a gist:ID ;
-	skos:prefLabel "HAR 90005"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90005"^^xsd:string ;
 	.
 
 told:_ID_har_90030
 	a gist:ID ;
-	skos:prefLabel "HAR 90030"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90030"^^xsd:string ;
 	.
 
 told:_ID_har_90187
 	a gist:ID ;
-	skos:prefLabel "HAR 90187"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90187"^^xsd:string ;
 	.
 
 told:_ID_har_905
 	a gist:ID ;
-	skos:prefLabel "HAR 905"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "905"^^xsd:string ;
 	.
 
 told:_ID_har_90721
 	a gist:ID ;
-	skos:prefLabel "HAR 90721"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90721"^^xsd:string ;
 	.
 
 told:_ID_har_90907
 	a gist:ID ;
-	skos:prefLabel "HAR 90907"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "90907"^^xsd:string ;
 	.
 
 told:_ID_har_91444
 	a gist:ID ;
-	skos:prefLabel "HAR 91444"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "91444"^^xsd:string ;
 	.
 
 told:_ID_har_915
 	a gist:ID ;
-	skos:prefLabel "HAR 915"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "915"^^xsd:string ;
 	.
 
 told:_ID_har_918
 	a gist:ID ;
-	skos:prefLabel "HAR 918"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "918"^^xsd:string ;
 	.
 
 told:_ID_har_921
 	a gist:ID ;
-	skos:prefLabel "HAR 921"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "921"^^xsd:string ;
 	.
 
 told:_ID_har_924
 	a gist:ID ;
-	skos:prefLabel "HAR 924"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "924"^^xsd:string ;
 	.
 
 told:_ID_har_935
 	a gist:ID ;
-	skos:prefLabel "HAR 935"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "935"^^xsd:string ;
 	.
 
 told:_ID_har_937
 	a gist:ID ;
-	skos:prefLabel "HAR 937"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "937"^^xsd:string ;
 	.
 
 told:_ID_har_94286
 	a gist:ID ;
-	skos:prefLabel "HAR 94286"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "94286"^^xsd:string ;
 	.
 
 told:_ID_har_944
 	a gist:ID ;
-	skos:prefLabel "HAR 944"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "944"^^xsd:string ;
 	.
 
 told:_ID_har_94518
 	a gist:ID ;
-	skos:prefLabel "HAR 94518"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "94518"^^xsd:string ;
 	.
 
 told:_ID_har_946
 	a gist:ID ;
-	skos:prefLabel "HAR 946"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "946"^^xsd:string ;
 	.
 
 told:_ID_har_953
 	a gist:ID ;
-	skos:prefLabel "HAR 953"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "953"^^xsd:string ;
 	.
 
 told:_ID_har_96
 	a gist:ID ;
-	skos:prefLabel "HAR 96"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "96"^^xsd:string ;
 	.
 
 told:_ID_har_961
 	a gist:ID ;
-	skos:prefLabel "HAR 961"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "961"^^xsd:string ;
 	.
 
 told:_ID_har_973
 	a gist:ID ;
-	skos:prefLabel "HAR 973"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "973"^^xsd:string ;
 	.
 
 told:_ID_har_98406
 	a gist:ID ;
-	skos:prefLabel "HAR 98406"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "98406"^^xsd:string ;
 	.
 
 told:_ID_har_98939
 	a gist:ID ;
-	skos:prefLabel "HAR 98939"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "98939"^^xsd:string ;
 	.
 
 told:_ID_har_99
 	a gist:ID ;
-	skos:prefLabel "HAR 99"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "99"^^xsd:string ;
 	.
 
 told:_ID_har_99063
 	a gist:ID ;
-	skos:prefLabel "HAR 99063"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "99063"^^xsd:string ;
 	.
 
 told:_ID_har_996
 	a gist:ID ;
-	skos:prefLabel "HAR 996"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "996"^^xsd:string ;
 	.
 
 told:_ID_har_p1166
 	a gist:ID ;
-	skos:prefLabel "HAR p1166"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "p1166"^^xsd:string ;
 	.
 
 told:_ID_har_p1206
 	a gist:ID ;
-	skos:prefLabel "HAR p1206"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "p1206"^^xsd:string ;
 	.
 
 told:_ID_har_p795
 	a gist:ID ;
-	skos:prefLabel "HAR p795"^^xsd:string ;
 	gist:isCategorizedBy tolx:_IdType_har ;
 	gist:uniqueText "p795"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_0_baggi__hr___dsc_0641_jpg
 	a tolo:Image ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_0_baggi__hr___dsc_0641_jpg ;
 	tolo:filePath "/uploads/person/0/Baggi_ HR_ ©DSC_0641.jpg"^^xsd:string ;
@@ -3101,7 +2662,7 @@ told:_Image_uploads_person_0_baggi__hr___dsc_0641_jpg
 
 told:_Image_uploads_person_0_baggi__hr___dsc_0641_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/0/Baggi_ HR_ ©DSC_0641_thumb.jpg"^^xsd:string ;
 	.
@@ -3156,7 +2717,7 @@ told:_Image_uploads_person_10019_dudjom1_thumb_jpg
 
 told:_Image_uploads_person_10019_dudjom_and_chatral_sangye_dorje_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_and_Chatral_Sangye_Dorje"@en ;
+	skos:prefLabel "Dudjom and Chatral Sangye Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10019_dudjom_and_chatral_sangye_dorje_jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_and_Chatral_Sangye_Dorje.jpg"^^xsd:string ;
@@ -3165,7 +2726,7 @@ told:_Image_uploads_person_10019_dudjom_and_chatral_sangye_dorje_jpg
 
 told:_Image_uploads_person_10019_dudjom_and_chatral_sangye_dorje_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_and_Chatral_Sangye_Dorje"@en ;
+	skos:prefLabel "Dudjom and Chatral Sangye Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_and_Chatral_Sangye_Dorje_thumb.jpg"^^xsd:string ;
 	.
@@ -3182,7 +2743,7 @@ told:_Image_uploads_person_10019_dudjom_jpg
 
 told:_Image_uploads_person_10019_dudjom_rinpoche_young_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Rinpoche_(young)"@en ;
+	skos:prefLabel "Dudjom Rinpoche (young)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10019_dudjom_rinpoche_young_jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_Rinpoche_(young).jpg"^^xsd:string ;
@@ -3191,7 +2752,7 @@ told:_Image_uploads_person_10019_dudjom_rinpoche_young_jpg
 
 told:_Image_uploads_person_10019_dudjom_rinpoche_young_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Rinpoche_(young)"@en ;
+	skos:prefLabel "Dudjom Rinpoche (young)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_Rinpoche_(young)_thumb.jpg"^^xsd:string ;
 	.
@@ -3205,7 +2766,7 @@ told:_Image_uploads_person_10019_dudjom_thumb_jpg
 
 told:_Image_uploads_person_10019_dudjom_with_crown_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_with_crown"@en ;
+	skos:prefLabel "Dudjom with crown"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10019_dudjom_with_crown_jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_with_crown.jpg"^^xsd:string ;
@@ -3214,7 +2775,7 @@ told:_Image_uploads_person_10019_dudjom_with_crown_jpg
 
 told:_Image_uploads_person_10019_dudjom_with_crown_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_with_crown"@en ;
+	skos:prefLabel "Dudjom with crown"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10019/Dudjom_with_crown_thumb.jpg"^^xsd:string ;
 	.
@@ -3317,7 +2878,7 @@ told:_Image_uploads_person_10093_bodpatulkucolor_2_thumb_jpg
 
 told:_Image_uploads_person_10103_shechen_kongtrul_jpg
 	a tolo:Image ;
-	skos:prefLabel "Shechen_Kongtrul"@en ;
+	skos:prefLabel "Shechen Kongtrul"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10103_shechen_kongtrul_jpg ;
 	tolo:filePath "/uploads/person/10103/Shechen_Kongtrul.jpg"^^xsd:string ;
@@ -3326,7 +2887,7 @@ told:_Image_uploads_person_10103_shechen_kongtrul_jpg
 
 told:_Image_uploads_person_10103_shechen_kongtrul_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Shechen_Kongtrul"@en ;
+	skos:prefLabel "Shechen Kongtrul"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10103/Shechen_Kongtrul_thumb.jpg"^^xsd:string ;
 	.
@@ -3349,7 +2910,7 @@ told:_Image_uploads_person_10146_khenpo_tsondru_2_thumb_jpeg
 
 told:_Image_uploads_person_10146_khenpo_tsondru_copy_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Tsondru copy"@en ;
+	skos:prefLabel "Khenpo Tsondru copy"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10146_khenpo_tsondru_copy_jpg ;
 	tolo:filePath "/uploads/person/10146/Khenpo_Tsondru copy.jpg"^^xsd:string ;
@@ -3358,7 +2919,7 @@ told:_Image_uploads_person_10146_khenpo_tsondru_copy_jpg
 
 told:_Image_uploads_person_10146_khenpo_tsondru_copy_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Tsondru copy"@en ;
+	skos:prefLabel "Khenpo Tsondru copy"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10146/Khenpo_Tsondru copy_thumb.jpg"^^xsd:string ;
 	.
@@ -3381,7 +2942,7 @@ told:_Image_uploads_person_10168_khedrup_norsang_gyatso_thumb_jpg
 
 told:_Image_uploads_person_10169_six_dzogchen_jpg
 	a tolo:Image ;
-	skos:prefLabel "six_dzogchen"@en ;
+	skos:prefLabel "six dzogchen"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10169_six_dzogchen_jpg ;
 	tolo:filePath "/uploads/person/10169/six_dzogchen.jpg"^^xsd:string ;
@@ -3390,14 +2951,14 @@ told:_Image_uploads_person_10169_six_dzogchen_jpg
 
 told:_Image_uploads_person_10169_six_dzogchen_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "six_dzogchen"@en ;
+	skos:prefLabel "six dzogchen"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10169/six_dzogchen_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_10169_sixth_dzogchen_rinpoche_jpg
 	a tolo:Image ;
-	skos:prefLabel "Sixth_Dzogchen_Rinpoche"@en ;
+	skos:prefLabel "Sixth Dzogchen Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10169_sixth_dzogchen_rinpoche_jpg ;
 	tolo:filePath "/uploads/person/10169/Sixth_Dzogchen_Rinpoche.jpg"^^xsd:string ;
@@ -3406,7 +2967,7 @@ told:_Image_uploads_person_10169_sixth_dzogchen_rinpoche_jpg
 
 told:_Image_uploads_person_10169_sixth_dzogchen_rinpoche_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Sixth_Dzogchen_Rinpoche"@en ;
+	skos:prefLabel "Sixth Dzogchen Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10169/Sixth_Dzogchen_Rinpoche_thumb.jpg"^^xsd:string ;
 	.
@@ -3766,7 +3327,7 @@ told:_Image_uploads_person_1035_457_tashi_tsultrim_thumb_jpg
 
 told:_Image_uploads_person_10372_lama_monlam_jpg
 	a tolo:Image ;
-	skos:prefLabel "Lama_Monlam"@en ;
+	skos:prefLabel "Lama Monlam"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10372_lama_monlam_jpg ;
 	tolo:filePath "/uploads/person/10372/Lama_Monlam.jpg"^^xsd:string ;
@@ -3775,7 +3336,7 @@ told:_Image_uploads_person_10372_lama_monlam_jpg
 
 told:_Image_uploads_person_10372_lama_monlam_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Lama_Monlam"@en ;
+	skos:prefLabel "Lama Monlam"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10372/Lama_Monlam_thumb.jpg"^^xsd:string ;
 	.
@@ -4134,7 +3695,7 @@ told:_Image_uploads_person_10531_795_stupa_thumb_jpg
 
 told:_Image_uploads_person_10536_stagtshang_raspa_jpg
 	a tolo:Image ;
-	skos:prefLabel "Stagtshang_Raspa"@en ;
+	skos:prefLabel "Stagtshang Raspa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10536_stagtshang_raspa_jpg ;
 	tolo:filePath "/uploads/person/10536/Stagtshang_Raspa.jpg"^^xsd:string ;
@@ -4143,7 +3704,7 @@ told:_Image_uploads_person_10536_stagtshang_raspa_jpg
 
 told:_Image_uploads_person_10536_stagtshang_raspa_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Stagtshang_Raspa"@en ;
+	skos:prefLabel "Stagtshang Raspa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10536/Stagtshang_Raspa_thumb.jpg"^^xsd:string ;
 	.
@@ -4822,7 +4383,7 @@ told:_Image_uploads_person_10857_drukpa_kunle82091_thumb_jpg
 
 told:_Image_uploads_person_10857_img_0401_jpg
 	a tolo:Image ;
-	skos:prefLabel "IMG_0401"@en ;
+	skos:prefLabel "IMG 0401"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_10857_img_0401_jpg ;
 	tolo:filePath "/uploads/person/10857/IMG_0401.jpg"^^xsd:string ;
@@ -4831,7 +4392,7 @@ told:_Image_uploads_person_10857_img_0401_jpg
 
 told:_Image_uploads_person_10857_img_0401_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "IMG_0401"@en ;
+	skos:prefLabel "IMG 0401"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/10857/IMG_0401_thumb.jpg"^^xsd:string ;
 	.
@@ -5629,7 +5190,7 @@ told:_Image_uploads_person_11299_65167_thumb_jpeg
 
 told:_Image_uploads_person_11307_jf_kunpangpa_1_jpeg
 	a tolo:Image ;
-	skos:prefLabel "jf_kunpangpa_1"@en ;
+	skos:prefLabel "jf kunpangpa 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_11307_jf_kunpangpa_1_jpeg ;
 	tolo:filePath "/uploads/person/11307/jf_kunpangpa_1.jpeg"^^xsd:string ;
@@ -5638,7 +5199,7 @@ told:_Image_uploads_person_11307_jf_kunpangpa_1_jpeg
 
 told:_Image_uploads_person_11307_jf_kunpangpa_1_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "jf_kunpangpa_1"@en ;
+	skos:prefLabel "jf kunpangpa 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/11307/jf_kunpangpa_1_thumb.jpeg"^^xsd:string ;
 	.
@@ -5726,7 +5287,7 @@ told:_Image_uploads_person_11385_k16_and_freda_bedi_thumb_jpeg
 
 told:_Image_uploads_person_11385_karmapa16_3_gross_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Karmapa16_3_gross"@en ;
+	skos:prefLabel "Karmapa16 3 gross"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_11385_karmapa16_3_gross_jpeg ;
 	tolo:filePath "/uploads/person/11385/Karmapa16_3_gross.jpeg"^^xsd:string ;
@@ -5735,7 +5296,7 @@ told:_Image_uploads_person_11385_karmapa16_3_gross_jpeg
 
 told:_Image_uploads_person_11385_karmapa16_3_gross_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Karmapa16_3_gross"@en ;
+	skos:prefLabel "Karmapa16 3 gross"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/11385/Karmapa16_3_gross_thumb.jpeg"^^xsd:string ;
 	.
@@ -6727,7 +6288,7 @@ told:_Image_uploads_person_11986_276_gyalwang_je_thumb_jpg
 
 told:_Image_uploads_person_12096_lopon_sangye_tenzin_large_jpg_for_web_small_jpg
 	a tolo:Image ;
-	skos:prefLabel "lopon_sangye_tenzin_large.jpg-for-web-small"@en ;
+	skos:prefLabel "lopon sangye tenzin large.jpg-for-web-small"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12096_lopon_sangye_tenzin_large_jpg_for_web_small_jpg ;
 	tolo:filePath "/uploads/person/12096/lopon_sangye_tenzin_large.jpg-for-web-small.jpg"^^xsd:string ;
@@ -6736,7 +6297,7 @@ told:_Image_uploads_person_12096_lopon_sangye_tenzin_large_jpg_for_web_small_jpg
 
 told:_Image_uploads_person_12096_lopon_sangye_tenzin_large_jpg_for_web_small_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "lopon_sangye_tenzin_large.jpg-for-web-small"@en ;
+	skos:prefLabel "lopon sangye tenzin large.jpg-for-web-small"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12096/lopon_sangye_tenzin_large.jpg-for-web-small_thumb.jpg"^^xsd:string ;
 	.
@@ -6807,7 +6368,7 @@ told:_Image_uploads_person_12171_lobzang_dorje_thumb_jpg
 
 told:_Image_uploads_person_12180__20r6877_jpeg
 	a tolo:Image ;
-	skos:prefLabel "_20R6877"@en ;
+	skos:prefLabel " 20R6877"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "This image now hangs in the Temple des Milles Bouddhas"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12180__20r6877_jpeg ;
@@ -6817,14 +6378,14 @@ told:_Image_uploads_person_12180__20r6877_jpeg
 
 told:_Image_uploads_person_12180__20r6877_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "_20R6877"@en ;
+	skos:prefLabel " 20R6877"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12180/_20R6877_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_12180_fullsizeoutput_9d_jpeg
 	a tolo:Image ;
-	skos:prefLabel "fullsizeoutput_9d"@en ;
+	skos:prefLabel "fullsizeoutput 9d"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Taken at Kagyu Dzong, Paris ~1985"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12180_fullsizeoutput_9d_jpeg ;
@@ -6834,7 +6395,7 @@ told:_Image_uploads_person_12180_fullsizeoutput_9d_jpeg
 
 told:_Image_uploads_person_12180_fullsizeoutput_9d_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "fullsizeoutput_9d"@en ;
+	skos:prefLabel "fullsizeoutput 9d"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12180/fullsizeoutput_9d_thumb.jpeg"^^xsd:string ;
 	.
@@ -7212,7 +6773,7 @@ told:_Image_uploads_person_12745_monk_1166_thumb_jpg
 
 told:_Image_uploads_person_12765_gyatrul_rinpoche2_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gyatrul_Rinpoche2"@en ;
+	skos:prefLabel "Gyatrul Rinpoche2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12765_gyatrul_rinpoche2_jpeg ;
 	tolo:filePath "/uploads/person/12765/Gyatrul_Rinpoche2.jpeg"^^xsd:string ;
@@ -7221,7 +6782,7 @@ told:_Image_uploads_person_12765_gyatrul_rinpoche2_jpeg
 
 told:_Image_uploads_person_12765_gyatrul_rinpoche2_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gyatrul_Rinpoche2"@en ;
+	skos:prefLabel "Gyatrul Rinpoche2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12765/Gyatrul_Rinpoche2_thumb.jpeg"^^xsd:string ;
 	.
@@ -7333,7 +6894,7 @@ told:_Image_uploads_person_12839_tulku_urgyen_rinpoche_early_photo_thumb_jpeg
 
 told:_Image_uploads_person_12839_tulku_urgyen_rinpoche_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Tulku_Urgyen_Rinpoche"@en ;
+	skos:prefLabel "Tulku Urgyen Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12839_tulku_urgyen_rinpoche_jpeg ;
 	tolo:filePath "/uploads/person/12839/Tulku_Urgyen_Rinpoche.jpeg"^^xsd:string ;
@@ -7342,7 +6903,7 @@ told:_Image_uploads_person_12839_tulku_urgyen_rinpoche_jpeg
 
 told:_Image_uploads_person_12839_tulku_urgyen_rinpoche_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Tulku_Urgyen_Rinpoche"@en ;
+	skos:prefLabel "Tulku Urgyen Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12839/Tulku_Urgyen_Rinpoche_thumb.jpeg"^^xsd:string ;
 	.
@@ -7404,7 +6965,7 @@ told:_Image_uploads_person_12906_795stupa_thumb_jpg
 
 told:_Image_uploads_person_12980_arik_rinpoche_jpg
 	a tolo:Image ;
-	skos:prefLabel "Arik_Rinpoche"@en ;
+	skos:prefLabel "Arik Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_12980_arik_rinpoche_jpg ;
 	tolo:filePath "/uploads/person/12980/Arik_Rinpoche.jpg"^^xsd:string ;
@@ -7413,7 +6974,7 @@ told:_Image_uploads_person_12980_arik_rinpoche_jpg
 
 told:_Image_uploads_person_12980_arik_rinpoche_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Arik_Rinpoche"@en ;
+	skos:prefLabel "Arik Rinpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/12980/Arik_Rinpoche_thumb.jpg"^^xsd:string ;
 	.
@@ -7533,7 +7094,7 @@ told:_Image_uploads_person_13026_wensapa_286_thumb_jpg
 
 told:_Image_uploads_person_13054_godzilla_vs_kingkong_jpg
 	a tolo:Image ;
-	skos:prefLabel "Godzilla_vs_KingKong"@en ;
+	skos:prefLabel "Godzilla vs KingKong"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13054_godzilla_vs_kingkong_jpg ;
 	tolo:filePath "/uploads/person/13054/Godzilla_vs_KingKong.jpg"^^xsd:string ;
@@ -7542,14 +7103,14 @@ told:_Image_uploads_person_13054_godzilla_vs_kingkong_jpg
 
 told:_Image_uploads_person_13054_godzilla_vs_kingkong_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Godzilla_vs_KingKong"@en ;
+	skos:prefLabel "Godzilla vs KingKong"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13054/Godzilla_vs_KingKong_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13054_mahakala_detail_jpg
 	a tolo:Image ;
-	skos:prefLabel "mahakala_detail"@en ;
+	skos:prefLabel "mahakala detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13054_mahakala_detail_jpg ;
 	tolo:filePath "/uploads/person/13054/mahakala_detail.jpg"^^xsd:string ;
@@ -7558,7 +7119,7 @@ told:_Image_uploads_person_13054_mahakala_detail_jpg
 
 told:_Image_uploads_person_13054_mahakala_detail_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "mahakala_detail"@en ;
+	skos:prefLabel "mahakala detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13054/mahakala_detail_thumb.jpg"^^xsd:string ;
 	.
@@ -8525,7 +8086,7 @@ told:_Image_uploads_person_13120_drodul_dorje_tendzin_thumb_jpg
 
 told:_Image_uploads_person_13121_1st_padtul_jpeg
 	a tolo:Image ;
-	skos:prefLabel "1st_padtul"@en ;
+	skos:prefLabel "1st padtul"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13121_1st_padtul_jpeg ;
 	tolo:filePath "/uploads/person/13121/1st_padtul.jpeg"^^xsd:string ;
@@ -8534,14 +8095,14 @@ told:_Image_uploads_person_13121_1st_padtul_jpeg
 
 told:_Image_uploads_person_13121_1st_padtul_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "1st_padtul"@en ;
+	skos:prefLabel "1st padtul"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13121/1st_padtul_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13122_3rd_pedtsheling_jpg
 	a tolo:Image ;
-	skos:prefLabel "3rd_Pedtsheling"@en ;
+	skos:prefLabel "3rd Pedtsheling"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13122_3rd_pedtsheling_jpg ;
 	tolo:filePath "/uploads/person/13122/3rd_Pedtsheling.jpg"^^xsd:string ;
@@ -8550,7 +8111,7 @@ told:_Image_uploads_person_13122_3rd_pedtsheling_jpg
 
 told:_Image_uploads_person_13122_3rd_pedtsheling_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "3rd_Pedtsheling"@en ;
+	skos:prefLabel "3rd Pedtsheling"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13122/3rd_Pedtsheling_thumb.jpg"^^xsd:string ;
 	.
@@ -8637,7 +8198,7 @@ told:_Image_uploads_person_13127_953_stupa_thumb_jpg
 
 told:_Image_uploads_person_13128_thugsey_rinpoche_tenpai_gyaltsen_jpg
 	a tolo:Image ;
-	skos:prefLabel "Thugsey_Rinpoche_Tenpai_Gyaltsen"@en ;
+	skos:prefLabel "Thugsey Rinpoche Tenpai Gyaltsen"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13128_thugsey_rinpoche_tenpai_gyaltsen_jpg ;
 	tolo:filePath "/uploads/person/13128/Thugsey_Rinpoche_Tenpai_Gyaltsen.jpg"^^xsd:string ;
@@ -8646,7 +8207,7 @@ told:_Image_uploads_person_13128_thugsey_rinpoche_tenpai_gyaltsen_jpg
 
 told:_Image_uploads_person_13128_thugsey_rinpoche_tenpai_gyaltsen_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Thugsey_Rinpoche_Tenpai_Gyaltsen"@en ;
+	skos:prefLabel "Thugsey Rinpoche Tenpai Gyaltsen"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13128/Thugsey_Rinpoche_Tenpai_Gyaltsen_thumb.jpg"^^xsd:string ;
 	.
@@ -8781,7 +8342,7 @@ told:_Image_uploads_person_13140_200005_bon_stupa_thumb_jpg
 
 told:_Image_uploads_person_13141_79685_sanggye_on_jpg
 	a tolo:Image ;
-	skos:prefLabel "79685_sanggye_on"@en ;
+	skos:prefLabel "79685 sanggye on"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13141_79685_sanggye_on_jpg ;
 	tolo:filePath "/uploads/person/13141/79685_sanggye_on.jpg"^^xsd:string ;
@@ -8790,7 +8351,7 @@ told:_Image_uploads_person_13141_79685_sanggye_on_jpg
 
 told:_Image_uploads_person_13141_79685_sanggye_on_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "79685_sanggye_on"@en ;
+	skos:prefLabel "79685 sanggye on"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13141/79685_sanggye_on_thumb.jpg"^^xsd:string ;
 	.
@@ -10893,7 +10454,7 @@ told:_Image_uploads_person_13520_layman_1166_thumb_jpg
 
 told:_Image_uploads_person_13521_10478256_1579142939077638_627026012_n_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13521_10478256_1579142939077638_627026012_n_jpg ;
 	tolo:filePath "/uploads/person/13521/10478256_1579142939077638_627026012_n.jpg"^^xsd:string ;
@@ -10902,7 +10463,7 @@ told:_Image_uploads_person_13521_10478256_1579142939077638_627026012_n_jpg
 
 told:_Image_uploads_person_13521_10478256_1579142939077638_627026012_n_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13521/10478256_1579142939077638_627026012_n_thumb.jpg"^^xsd:string ;
 	.
@@ -10941,7 +10502,7 @@ told:_Image_uploads_person_13521_rapga_thumb_jpg
 
 told:_Image_uploads_person_13522_10478256_1579142939077638_627026012_n_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13522_10478256_1579142939077638_627026012_n_jpg ;
 	tolo:filePath "/uploads/person/13522/10478256_1579142939077638_627026012_n.jpg"^^xsd:string ;
@@ -10950,7 +10511,7 @@ told:_Image_uploads_person_13522_10478256_1579142939077638_627026012_n_jpg
 
 told:_Image_uploads_person_13522_10478256_1579142939077638_627026012_n_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13522/10478256_1579142939077638_627026012_n_thumb.jpg"^^xsd:string ;
 	.
@@ -10973,7 +10534,7 @@ told:_Image_uploads_person_13522_yampel_thumb_jpg
 
 told:_Image_uploads_person_13523_10478256_1579142939077638_627026012_n_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13523_10478256_1579142939077638_627026012_n_jpg ;
 	tolo:filePath "/uploads/person/13523/10478256_1579142939077638_627026012_n.jpg"^^xsd:string ;
@@ -10982,7 +10543,7 @@ told:_Image_uploads_person_13523_10478256_1579142939077638_627026012_n_jpg
 
 told:_Image_uploads_person_13523_10478256_1579142939077638_627026012_n_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13523/10478256_1579142939077638_627026012_n_thumb.jpg"^^xsd:string ;
 	.
@@ -11325,7 +10886,7 @@ told:_Image_uploads_person_13545_r_sadutshang_thumb_jpg
 
 told:_Image_uploads_person_13545_rinchen2_5_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "RInchen2_5-1"@en ;
+	skos:prefLabel "RInchen2 5-1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13545_rinchen2_5_1_jpg ;
 	tolo:filePath "/uploads/person/13545/RInchen2_5-1.jpg"^^xsd:string ;
@@ -11334,7 +10895,7 @@ told:_Image_uploads_person_13545_rinchen2_5_1_jpg
 
 told:_Image_uploads_person_13545_rinchen2_5_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "RInchen2_5-1"@en ;
+	skos:prefLabel "RInchen2 5-1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13545/RInchen2_5-1_thumb.jpg"^^xsd:string ;
 	.
@@ -11597,7 +11158,7 @@ told:_Image_uploads_person_13566_woman_1148_thumb_jpg
 
 told:_Image_uploads_person_13572_dsc_1090_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13572_dsc_1090_1_jpg ;
 	tolo:filePath "/uploads/person/13572/DSC_1090 (1).jpg"^^xsd:string ;
@@ -11606,7 +11167,7 @@ told:_Image_uploads_person_13572_dsc_1090_1_jpg
 
 told:_Image_uploads_person_13572_dsc_1090_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13572/DSC_1090 (1)_thumb.jpg"^^xsd:string ;
 	.
@@ -11661,7 +11222,7 @@ told:_Image_uploads_person_13588_hutagt2_thumb_jpg
 
 told:_Image_uploads_person_13596_menri_potraits_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "Menri_Potraits-1"@en ;
+	skos:prefLabel "Menri Potraits-1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13596_menri_potraits_1_jpg ;
 	tolo:filePath "/uploads/person/13596/Menri_Potraits-1.jpg"^^xsd:string ;
@@ -11670,7 +11231,7 @@ told:_Image_uploads_person_13596_menri_potraits_1_jpg
 
 told:_Image_uploads_person_13596_menri_potraits_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Menri_Potraits-1"@en ;
+	skos:prefLabel "Menri Potraits-1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13596/Menri_Potraits-1_thumb.jpg"^^xsd:string ;
 	.
@@ -11725,7 +11286,7 @@ told:_Image_uploads_person_13597_woman_1148_thumb_jpg
 
 told:_Image_uploads_person_13598_img_1185_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "IMG_1185 (1)"@en ;
+	skos:prefLabel "IMG 1185 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13598_img_1185_1_jpg ;
 	tolo:filePath "/uploads/person/13598/IMG_1185 (1).jpg"^^xsd:string ;
@@ -11734,7 +11295,7 @@ told:_Image_uploads_person_13598_img_1185_1_jpg
 
 told:_Image_uploads_person_13598_img_1185_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "IMG_1185 (1)"@en ;
+	skos:prefLabel "IMG 1185 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13598/IMG_1185 (1)_thumb.jpg"^^xsd:string ;
 	.
@@ -11935,7 +11496,7 @@ told:_Image_uploads_person_13628_bonpo_foundation_receipt_thumb_jpg
 
 told:_Image_uploads_person_13628_dalai_lama_visits_loc_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dalai_Lama_visits_LOC"@en ;
+	skos:prefLabel "Dalai Lama visits LOC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Fourteenth Dalai Lama visits the Library of Congress in September 1979. Lobsang Lhalungpa helped select pechas from the collection to show His Holiness during the visit."@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13628_dalai_lama_visits_loc_jpg ;
@@ -11945,7 +11506,7 @@ told:_Image_uploads_person_13628_dalai_lama_visits_loc_jpg
 
 told:_Image_uploads_person_13628_dalai_lama_visits_loc_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dalai_Lama_visits_LOC"@en ;
+	skos:prefLabel "Dalai Lama visits LOC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13628/Dalai_Lama_visits_LOC_thumb.jpg"^^xsd:string ;
 	.
@@ -12703,7 +12264,7 @@ told:_Image_uploads_person_13689_images_7_thumb_jpeg
 
 told:_Image_uploads_person_13690_khangchenne_siegel_dieter_schuh_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khangchenne_Siegel_Dieter_Schuh"@en ;
+	skos:prefLabel "Khangchenne Siegel Dieter Schuh"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13690_khangchenne_siegel_dieter_schuh_jpg ;
 	tolo:filePath "/uploads/person/13690/Khangchenne_Siegel_Dieter_Schuh.jpg"^^xsd:string ;
@@ -12712,7 +12273,7 @@ told:_Image_uploads_person_13690_khangchenne_siegel_dieter_schuh_jpg
 
 told:_Image_uploads_person_13690_khangchenne_siegel_dieter_schuh_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khangchenne_Siegel_Dieter_Schuh"@en ;
+	skos:prefLabel "Khangchenne Siegel Dieter Schuh"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13690/Khangchenne_Siegel_Dieter_Schuh_thumb.jpg"^^xsd:string ;
 	.
@@ -13061,7 +12622,7 @@ told:_Image_uploads_person_1370_90907_thumb_jpg
 
 told:_Image_uploads_person_13718_img_0690_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_0690"@en ;
+	skos:prefLabel "IMG 0690"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13718_img_0690_jpeg ;
 	tolo:filePath "/uploads/person/13718/IMG_0690.jpeg"^^xsd:string ;
@@ -13070,7 +12631,7 @@ told:_Image_uploads_person_13718_img_0690_jpeg
 
 told:_Image_uploads_person_13718_img_0690_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_0690"@en ;
+	skos:prefLabel "IMG 0690"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13718/IMG_0690_thumb.jpeg"^^xsd:string ;
 	.
@@ -14135,7 +13696,7 @@ told:_Image_uploads_person_13816_pema_tseden_tharlo_moma_thumb_jpg
 
 told:_Image_uploads_person_13816_pt_2016_jpeg
 	a tolo:Image ;
-	skos:prefLabel "PT_2016"@en ;
+	skos:prefLabel "PT 2016"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Pema Tseden at a reading of his collected short stories organized by Latse Library, held in Jackson Heights, NY (2016)"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13816_pt_2016_jpeg ;
@@ -14145,7 +13706,7 @@ told:_Image_uploads_person_13816_pt_2016_jpeg
 
 told:_Image_uploads_person_13816_pt_2016_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "PT_2016"@en ;
+	skos:prefLabel "PT 2016"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13816/PT_2016_thumb.jpeg"^^xsd:string ;
 	.
@@ -14251,7 +13812,7 @@ told:_Image_uploads_person_13821_konchok_sonam_thumb_jpg
 
 told:_Image_uploads_person_13822_20220614_155126_jpg
 	a tolo:Image ;
-	skos:prefLabel "20220614_155126"@en ;
+	skos:prefLabel "20220614 155126"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Shrine in Mangyu village with portrait of Geshe Mila"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13822_20220614_155126_jpg ;
@@ -14261,7 +13822,7 @@ told:_Image_uploads_person_13822_20220614_155126_jpg
 
 told:_Image_uploads_person_13822_20220614_155126_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "20220614_155126"@en ;
+	skos:prefLabel "20220614 155126"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13822/20220614_155126_thumb.jpg"^^xsd:string ;
 	.
@@ -14398,7 +13959,7 @@ told:_Image_uploads_person_13832_geshe_sopa__1978__carol_royce_wilder_lywa_thumb
 
 told:_Image_uploads_person_13833_gelek_rimpoche_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13833_gelek_rimpoche_jpeg ;
 	tolo:filePath "/uploads/person/13833/Gelek_Rimpoche.jpeg"^^xsd:string ;
@@ -14407,7 +13968,7 @@ told:_Image_uploads_person_13833_gelek_rimpoche_jpeg
 
 told:_Image_uploads_person_13833_gelek_rimpoche_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13833/Gelek_Rimpoche_thumb.jpeg"^^xsd:string ;
 	.
@@ -14558,7 +14119,7 @@ told:_Image_uploads_person_13842_monk_1166_thumb_jpg
 
 told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_1_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (1)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Tseten Yudron with Thinley Norbu Rinpoche (left) and Phende Norbu Rinpoche (right)"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_1_jpeg ;
@@ -14568,14 +14129,14 @@ told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_1_jpeg
 
 told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_1_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (1)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13843/Dudjom_Sangyum_Kusho_Tseten_Yudron (1)_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_2_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (2)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (2)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_2_jpeg ;
 	tolo:filePath "/uploads/person/13843/Dudjom_Sangyum_Kusho_Tseten_Yudron (2).jpeg"^^xsd:string ;
@@ -14584,7 +14145,7 @@ told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_2_jpeg
 
 told:_Image_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_2_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (2)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (2)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13843/Dudjom_Sangyum_Kusho_Tseten_Yudron (2)_thumb.jpeg"^^xsd:string ;
 	.
@@ -14639,7 +14200,7 @@ told:_Image_uploads_person_13855_monk_1206_thumb_jpg
 
 told:_Image_uploads_person_13856_kagyutulku_4_papyuk_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_4_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 4 Papyuk"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13856_kagyutulku_4_papyuk_jpg ;
 	tolo:filePath "/uploads/person/13856/KagyuTulku_4_Papyuk.jpg"^^xsd:string ;
@@ -14648,7 +14209,7 @@ told:_Image_uploads_person_13856_kagyutulku_4_papyuk_jpg
 
 told:_Image_uploads_person_13856_kagyutulku_4_papyuk_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_4_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 4 Papyuk"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13856/KagyuTulku_4_Papyuk_thumb.jpg"^^xsd:string ;
 	.
@@ -14687,7 +14248,7 @@ told:_Image_uploads_person_13858_monk_1206_thumb_jpg
 
 told:_Image_uploads_person_13859_kagyutulku_7_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_7"@en ;
+	skos:prefLabel "KagyuTulku 7"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13859_kagyutulku_7_jpg ;
 	tolo:filePath "/uploads/person/13859/KagyuTulku_7.jpg"^^xsd:string ;
@@ -14696,7 +14257,7 @@ told:_Image_uploads_person_13859_kagyutulku_7_jpg
 
 told:_Image_uploads_person_13859_kagyutulku_7_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_7"@en ;
+	skos:prefLabel "KagyuTulku 7"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13859/KagyuTulku_7_thumb.jpg"^^xsd:string ;
 	.
@@ -15056,7 +14617,7 @@ told:_Image_uploads_person_13884_getse04_thumb_jpeg
 
 told:_Image_uploads_person_13884_img_4719_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4719"@en ;
+	skos:prefLabel "IMG 4719"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13884_img_4719_jpeg ;
 	tolo:filePath "/uploads/person/13884/IMG_4719.jpeg"^^xsd:string ;
@@ -15065,14 +14626,14 @@ told:_Image_uploads_person_13884_img_4719_jpeg
 
 told:_Image_uploads_person_13884_img_4719_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4719"@en ;
+	skos:prefLabel "IMG 4719"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13884/IMG_4719_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13884_img_4725_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4725"@en ;
+	skos:prefLabel "IMG 4725"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13884_img_4725_jpeg ;
 	tolo:filePath "/uploads/person/13884/IMG_4725.jpeg"^^xsd:string ;
@@ -15081,14 +14642,14 @@ told:_Image_uploads_person_13884_img_4725_jpeg
 
 told:_Image_uploads_person_13884_img_4725_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4725"@en ;
+	skos:prefLabel "IMG 4725"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13884/IMG_4725_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13884_img_4744_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4744"@en ;
+	skos:prefLabel "IMG 4744"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13884_img_4744_jpeg ;
 	tolo:filePath "/uploads/person/13884/IMG_4744.jpeg"^^xsd:string ;
@@ -15097,14 +14658,14 @@ told:_Image_uploads_person_13884_img_4744_jpeg
 
 told:_Image_uploads_person_13884_img_4744_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "IMG_4744"@en ;
+	skos:prefLabel "IMG 4744"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13884/IMG_4744_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_13885_khandro_ogyan_tsomo_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khandro_Ogyan_Tsomo"@en ;
+	skos:prefLabel "Khandro Ogyan Tsomo"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_13885_khandro_ogyan_tsomo_jpg ;
 	tolo:filePath "/uploads/person/13885/Khandro_Ogyan_Tsomo.jpg"^^xsd:string ;
@@ -15113,7 +14674,7 @@ told:_Image_uploads_person_13885_khandro_ogyan_tsomo_jpg
 
 told:_Image_uploads_person_13885_khandro_ogyan_tsomo_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khandro_Ogyan_Tsomo"@en ;
+	skos:prefLabel "Khandro Ogyan Tsomo"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/13885/Khandro_Ogyan_Tsomo_thumb.jpg"^^xsd:string ;
 	.
@@ -15457,7 +15018,7 @@ told:_Image_uploads_person_1728_953_stupa_thumb_jpg
 
 told:_Image_uploads_person_1746_gelek_rimpoche_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_1746_gelek_rimpoche_jpeg ;
 	tolo:filePath "/uploads/person/1746/Gelek_Rimpoche.jpeg"^^xsd:string ;
@@ -15466,7 +15027,7 @@ told:_Image_uploads_person_1746_gelek_rimpoche_jpeg
 
 told:_Image_uploads_person_1746_gelek_rimpoche_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/1746/Gelek_Rimpoche_thumb.jpeg"^^xsd:string ;
 	.
@@ -15505,7 +15066,7 @@ told:_Image_uploads_person_1820_457_sanggye_rinchen_thumb_jpg
 
 told:_Image_uploads_person_1831_ga_rabjampa_jpg
 	a tolo:Image ;
-	skos:prefLabel "Ga_rabjampa"@en ;
+	skos:prefLabel "Ga rabjampa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_1831_ga_rabjampa_jpg ;
 	tolo:filePath "/uploads/person/1831/Ga_rabjampa.jpg"^^xsd:string ;
@@ -15514,7 +15075,7 @@ told:_Image_uploads_person_1831_ga_rabjampa_jpg
 
 told:_Image_uploads_person_1831_ga_rabjampa_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Ga_rabjampa"@en ;
+	skos:prefLabel "Ga rabjampa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/1831/Ga_rabjampa_thumb.jpg"^^xsd:string ;
 	.
@@ -16676,7 +16237,7 @@ told:_Image_uploads_person_2424_p079_1_a_thumb_jpeg
 
 told:_Image_uploads_person_2424_r_xv_38_detail_jpeg
 	a tolo:Image ;
-	skos:prefLabel "R-XV-38_detail"@en ;
+	skos:prefLabel "R-XV-38 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Theos Bernard, Summer 1937, image R-XV-38"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2424_r_xv_38_detail_jpeg ;
@@ -16686,7 +16247,7 @@ told:_Image_uploads_person_2424_r_xv_38_detail_jpeg
 
 told:_Image_uploads_person_2424_r_xv_38_detail_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "R-XV-38_detail"@en ;
+	skos:prefLabel "R-XV-38 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/2424/R-XV-38_detail_thumb.jpeg"^^xsd:string ;
 	.
@@ -16950,10 +16511,7 @@ told:_Image_uploads_person_2510_53050551_padampa_sanggye_thumb_jpg
 
 told:_Image_uploads_person_2510_57037_padampa_sanggye_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"57037 Padampa Sanggye"@en ,
-		"57037_Padampa_Sanggye"@en
-		;
+	skos:prefLabel "57037 Padampa Sanggye"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2510_57037_padampa_sanggye_jpg ;
 	tolo:filePath
@@ -16965,10 +16523,7 @@ told:_Image_uploads_person_2510_57037_padampa_sanggye_jpg
 
 told:_Image_uploads_person_2510_57037_padampa_sanggye_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"57037 Padampa Sanggye"@en ,
-		"57037_Padampa_Sanggye"@en
-		;
+	skos:prefLabel "57037 Padampa Sanggye"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath
 		"/uploads/person/2510/57037 Padampa Sanggye_thumb.jpg"^^xsd:string ,
@@ -17794,7 +17349,7 @@ told:_Image_uploads_person_2758_795stupa_thumb_jpg
 
 told:_Image_uploads_person_276_5_lhagyari_trichen_namgyal_gyatso_jpg
 	a tolo:Image ;
-	skos:prefLabel "5_lhagyari_trichen_namgyal_gyatso"@en ;
+	skos:prefLabel "5 lhagyari trichen namgyal gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_276_5_lhagyari_trichen_namgyal_gyatso_jpg ;
 	tolo:filePath "/uploads/person/276/5_lhagyari_trichen_namgyal_gyatso.jpg"^^xsd:string ;
@@ -17803,7 +17358,7 @@ told:_Image_uploads_person_276_5_lhagyari_trichen_namgyal_gyatso_jpg
 
 told:_Image_uploads_person_276_5_lhagyari_trichen_namgyal_gyatso_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "5_lhagyari_trichen_namgyal_gyatso"@en ;
+	skos:prefLabel "5 lhagyari trichen namgyal gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/276/5_lhagyari_trichen_namgyal_gyatso_thumb.jpg"^^xsd:string ;
 	.
@@ -17938,7 +17493,7 @@ told:_Image_uploads_person_2781_jampa_bum_thumb_jpg
 
 told:_Image_uploads_person_2784_5th_jamyang_jpeg
 	a tolo:Image ;
-	skos:prefLabel "5th_Jamyang"@en ;
+	skos:prefLabel "5th Jamyang"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2784_5th_jamyang_jpeg ;
 	tolo:filePath "/uploads/person/2784/5th_Jamyang.jpeg"^^xsd:string ;
@@ -17947,7 +17502,7 @@ told:_Image_uploads_person_2784_5th_jamyang_jpeg
 
 told:_Image_uploads_person_2784_5th_jamyang_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "5th_Jamyang"@en ;
+	skos:prefLabel "5th Jamyang"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/2784/5th_Jamyang_thumb.jpeg"^^xsd:string ;
 	.
@@ -18998,7 +18553,7 @@ told:_Image_uploads_person_2953_penchen_thumb_jpeg
 
 told:_Image_uploads_person_2958_lopon_tenzin_namdak_rimpoche_jpg
 	a tolo:Image ;
-	skos:prefLabel "Lopon_Tenzin_Namdak_Rimpoche"@en ;
+	skos:prefLabel "Lopon Tenzin Namdak Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2958_lopon_tenzin_namdak_rimpoche_jpg ;
 	tolo:filePath "/uploads/person/2958/Lopon_Tenzin_Namdak_Rimpoche.jpg"^^xsd:string ;
@@ -19007,7 +18562,7 @@ told:_Image_uploads_person_2958_lopon_tenzin_namdak_rimpoche_jpg
 
 told:_Image_uploads_person_2958_lopon_tenzin_namdak_rimpoche_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Lopon_Tenzin_Namdak_Rimpoche"@en ;
+	skos:prefLabel "Lopon Tenzin Namdak Rimpoche"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/2958/Lopon_Tenzin_Namdak_Rimpoche_thumb.jpg"^^xsd:string ;
 	.
@@ -19094,7 +18649,7 @@ told:_Image_uploads_person_2987_kun_grol_of_alex_thumb_jpg
 
 told:_Image_uploads_person_2992_crw_0477_jpeg
 	a tolo:Image ;
-	skos:prefLabel "CRW_0477"@en ;
+	skos:prefLabel "CRW 0477"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2992_crw_0477_jpeg ;
 	tolo:filePath "/uploads/person/2992/CRW_0477.jpeg"^^xsd:string ;
@@ -19103,14 +18658,14 @@ told:_Image_uploads_person_2992_crw_0477_jpeg
 
 told:_Image_uploads_person_2992_crw_0477_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "CRW_0477"@en ;
+	skos:prefLabel "CRW 0477"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/2992/CRW_0477_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_2992_crw_0481_jpeg
 	a tolo:Image ;
-	skos:prefLabel "CRW_0481"@en ;
+	skos:prefLabel "CRW 0481"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_2992_crw_0481_jpeg ;
 	tolo:filePath "/uploads/person/2992/CRW_0481.jpeg"^^xsd:string ;
@@ -19119,7 +18674,7 @@ told:_Image_uploads_person_2992_crw_0481_jpeg
 
 told:_Image_uploads_person_2992_crw_0481_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "CRW_0481"@en ;
+	skos:prefLabel "CRW 0481"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/2992/CRW_0481_thumb.jpeg"^^xsd:string ;
 	.
@@ -19335,7 +18890,7 @@ told:_Image_uploads_person_3010_795stupa_thumb_jpg
 
 told:_Image_uploads_person_3020_mingyur_namkhe_dorje_jpg
 	a tolo:Image ;
-	skos:prefLabel "Mingyur_Namkhe_Dorje"@en ;
+	skos:prefLabel "Mingyur Namkhe Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_3020_mingyur_namkhe_dorje_jpg ;
 	tolo:filePath "/uploads/person/3020/Mingyur_Namkhe_Dorje.jpg"^^xsd:string ;
@@ -19344,7 +18899,7 @@ told:_Image_uploads_person_3020_mingyur_namkhe_dorje_jpg
 
 told:_Image_uploads_person_3020_mingyur_namkhe_dorje_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Mingyur_Namkhe_Dorje"@en ;
+	skos:prefLabel "Mingyur Namkhe Dorje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/3020/Mingyur_Namkhe_Dorje_thumb.jpg"^^xsd:string ;
 	.
@@ -20436,7 +19991,7 @@ told:_Image_uploads_person_3307_13th_dalai_lama_thumb_jpg
 
 told:_Image_uploads_person_3307_494762_l_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "494762_L_1"@en ;
+	skos:prefLabel "494762 L 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_3307_494762_l_1_jpg ;
 	tolo:filePath "/uploads/person/3307/494762_L_1.jpg"^^xsd:string ;
@@ -20445,14 +20000,14 @@ told:_Image_uploads_person_3307_494762_l_1_jpg
 
 told:_Image_uploads_person_3307_494762_l_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "494762_L_1"@en ;
+	skos:prefLabel "494762 L 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/3307/494762_L_1_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_3307_494762_l_3_jpg
 	a tolo:Image ;
-	skos:prefLabel "494762_L_3"@en ;
+	skos:prefLabel "494762 L 3"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_3307_494762_l_3_jpg ;
 	tolo:filePath "/uploads/person/3307/494762_L_3.jpg"^^xsd:string ;
@@ -20461,7 +20016,7 @@ told:_Image_uploads_person_3307_494762_l_3_jpg
 
 told:_Image_uploads_person_3307_494762_l_3_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "494762_L_3"@en ;
+	skos:prefLabel "494762 L 3"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/3307/494762_L_3_thumb.jpg"^^xsd:string ;
 	.
@@ -21173,7 +20728,7 @@ told:_Image_uploads_person_3795_953_stupa_thumb_jpg
 
 told:_Image_uploads_person_3822_9_panchenlama_inchina1934_jpeg
 	a tolo:Image ;
-	skos:prefLabel "9.PanchenLama_inChina1934"@en ;
+	skos:prefLabel "9.PanchenLama inChina1934"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_3822_9_panchenlama_inchina1934_jpeg ;
 	tolo:filePath "/uploads/person/3822/9.PanchenLama_inChina1934.jpeg"^^xsd:string ;
@@ -21182,7 +20737,7 @@ told:_Image_uploads_person_3822_9_panchenlama_inchina1934_jpeg
 
 told:_Image_uploads_person_3822_9_panchenlama_inchina1934_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "9.PanchenLama_inChina1934"@en ;
+	skos:prefLabel "9.PanchenLama inChina1934"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/3822/9.PanchenLama_inChina1934_thumb.jpeg"^^xsd:string ;
 	.
@@ -21814,7 +21369,7 @@ told:_Image_uploads_person_4092_80421_tripa_31_thumb_jpg
 
 told:_Image_uploads_person_40_a_593_04_10_jpg
 	a tolo:Image ;
-	skos:prefLabel "A_593-04-10"@en ;
+	skos:prefLabel "A 593-04-10"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_40_a_593_04_10_jpg ;
 	tolo:filePath "/uploads/person/40/A_593-04-10.jpg"^^xsd:string ;
@@ -21823,7 +21378,7 @@ told:_Image_uploads_person_40_a_593_04_10_jpg
 
 told:_Image_uploads_person_40_a_593_04_10_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "A_593-04-10"@en ;
+	skos:prefLabel "A 593-04-10"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/40/A_593-04-10_thumb.jpg"^^xsd:string ;
 	.
@@ -22743,7 +22298,7 @@ told:_Image_uploads_person_4301_mail_attachment_thumb_jpg
 
 told:_Image_uploads_person_4302_monk_1206_jpg
 	a tolo:Image ;
-	skos:prefLabel "monk_1206"@en ;
+	skos:prefLabel "monk 1206"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_4302_monk_1206_jpg ;
 	tolo:filePath "/uploads/person/4302/monk_1206.jpg"^^xsd:string ;
@@ -22752,7 +22307,7 @@ told:_Image_uploads_person_4302_monk_1206_jpg
 
 told:_Image_uploads_person_4302_monk_1206_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "monk_1206"@en ;
+	skos:prefLabel "monk 1206"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/4302/monk_1206_thumb.jpg"^^xsd:string ;
 	.
@@ -22967,10 +22522,7 @@ told:_Image_uploads_person_4354_937_marpa_thumb_jpg
 
 told:_Image_uploads_person_4358_kongtrul_65265_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"Kongtrul 65265"@en ,
-		"Kongtrul_65265"@en
-		;
+	skos:prefLabel "Kongtrul 65265"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_4358_kongtrul_65265_jpg ;
 	tolo:filePath
@@ -22982,10 +22534,7 @@ told:_Image_uploads_person_4358_kongtrul_65265_jpg
 
 told:_Image_uploads_person_4358_kongtrul_65265_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"Kongtrul 65265"@en ,
-		"Kongtrul_65265"@en
-		;
+	skos:prefLabel "Kongtrul 65265"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath
 		"/uploads/person/4358/Kongtrul 65265_thumb.jpg"^^xsd:string ,
@@ -23715,7 +23264,7 @@ told:_Image_uploads_person_4642_20061004124335799_thumb_jpg
 
 told:_Image_uploads_person_4642_4348_001_jpg
 	a tolo:Image ;
-	skos:prefLabel "4348_001"@en ;
+	skos:prefLabel "4348 001"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_4642_4348_001_jpg ;
 	tolo:filePath "/uploads/person/4642/4348_001.jpg"^^xsd:string ;
@@ -23724,14 +23273,14 @@ told:_Image_uploads_person_4642_4348_001_jpg
 
 told:_Image_uploads_person_4642_4348_001_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "4348_001"@en ;
+	skos:prefLabel "4348 001"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/4642/4348_001_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_4642_sherab_gyatso_jpg
 	a tolo:Image ;
-	skos:prefLabel "Sherab_Gyatso"@en ;
+	skos:prefLabel "Sherab Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_4642_sherab_gyatso_jpg ;
 	tolo:filePath "/uploads/person/4642/Sherab_Gyatso.jpg"^^xsd:string ;
@@ -23740,7 +23289,7 @@ told:_Image_uploads_person_4642_sherab_gyatso_jpg
 
 told:_Image_uploads_person_4642_sherab_gyatso_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Sherab_Gyatso"@en ;
+	skos:prefLabel "Sherab Gyatso"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/4642/Sherab_Gyatso_thumb.jpg"^^xsd:string ;
 	.
@@ -23956,7 +23505,7 @@ told:_Image_uploads_person_4903_gyalwa_choyang_real_307_thumb_jpg
 
 told:_Image_uploads_person_4909_princess_pema_sal_jpg
 	a tolo:Image ;
-	skos:prefLabel "Princess_Pema_Sal"@en ;
+	skos:prefLabel "Princess Pema Sal"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_4909_princess_pema_sal_jpg ;
 	tolo:filePath "/uploads/person/4909/Princess_Pema_Sal.jpg"^^xsd:string ;
@@ -23965,7 +23514,7 @@ told:_Image_uploads_person_4909_princess_pema_sal_jpg
 
 told:_Image_uploads_person_4909_princess_pema_sal_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Princess_Pema_Sal"@en ;
+	skos:prefLabel "Princess Pema Sal"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/4909/Princess_Pema_Sal_thumb.jpg"^^xsd:string ;
 	.
@@ -25429,10 +24978,7 @@ told:_Image_uploads_person_5791_79663_chekhawa_thumb_jpg
 
 told:_Image_uploads_person_5795_jamchen_choje_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"jamchen choje"@en ,
-		"jamchen_choje"@en
-		;
+	skos:prefLabel "jamchen choje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_5795_jamchen_choje_jpg ;
 	tolo:filePath
@@ -25444,10 +24990,7 @@ told:_Image_uploads_person_5795_jamchen_choje_jpg
 
 told:_Image_uploads_person_5795_jamchen_choje_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel
-		"jamchen choje"@en ,
-		"jamchen_choje"@en
-		;
+	skos:prefLabel "jamchen choje"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath
 		"/uploads/person/5795/jamchen choje_thumb.jpg"^^xsd:string ,
@@ -25761,7 +25304,7 @@ told:_Image_uploads_person_5889_labrang_74280_thumb_jpg
 
 told:_Image_uploads_person_5894_w3cn6510_i3cn6512_tubten_lhundrub_photo_2_jpeg
 	a tolo:Image ;
-	skos:prefLabel "W3CN6510-I3CN6512_Tubten Lhundrub_Photo 2"@en ;
+	skos:prefLabel "W3CN6510-I3CN6512 Tubten Lhundrub Photo 2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_5894_w3cn6510_i3cn6512_tubten_lhundrub_photo_2_jpeg ;
 	tolo:filePath "/uploads/person/5894/W3CN6510-I3CN6512_Tubten Lhundrub_Photo 2.jpeg"^^xsd:string ;
@@ -25770,14 +25313,14 @@ told:_Image_uploads_person_5894_w3cn6510_i3cn6512_tubten_lhundrub_photo_2_jpeg
 
 told:_Image_uploads_person_5894_w3cn6510_i3cn6512_tubten_lhundrub_photo_2_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "W3CN6510-I3CN6512_Tubten Lhundrub_Photo 2"@en ;
+	skos:prefLabel "W3CN6510-I3CN6512 Tubten Lhundrub Photo 2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/5894/W3CN6510-I3CN6512_Tubten Lhundrub_Photo 2_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_5897_amdo_geshe2_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Amdo_Geshe2"@en ;
+	skos:prefLabel "Amdo Geshe2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_5897_amdo_geshe2_jpeg ;
 	tolo:filePath "/uploads/person/5897/Amdo_Geshe2.jpeg"^^xsd:string ;
@@ -25786,14 +25329,14 @@ told:_Image_uploads_person_5897_amdo_geshe2_jpeg
 
 told:_Image_uploads_person_5897_amdo_geshe2_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Amdo_Geshe2"@en ;
+	skos:prefLabel "Amdo Geshe2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/5897/Amdo_Geshe2_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_5897_amdo_geshe_mini_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Amdo_Geshe_mini"@en ;
+	skos:prefLabel "Amdo Geshe mini"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_5897_amdo_geshe_mini_jpeg ;
 	tolo:filePath "/uploads/person/5897/Amdo_Geshe_mini.jpeg"^^xsd:string ;
@@ -25802,7 +25345,7 @@ told:_Image_uploads_person_5897_amdo_geshe_mini_jpeg
 
 told:_Image_uploads_person_5897_amdo_geshe_mini_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Amdo_Geshe_mini"@en ;
+	skos:prefLabel "Amdo Geshe mini"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/5897/Amdo_Geshe_mini_thumb.jpeg"^^xsd:string ;
 	.
@@ -26673,7 +26216,7 @@ told:_Image_uploads_person_6257_493_sabzang_thumb_jpg
 
 told:_Image_uploads_person_6257_sabzang_pakpa_jpg
 	a tolo:Image ;
-	skos:prefLabel "sabzang_pakpa"@en ;
+	skos:prefLabel "sabzang pakpa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_6257_sabzang_pakpa_jpg ;
 	tolo:filePath "/uploads/person/6257/sabzang_pakpa.jpg"^^xsd:string ;
@@ -26682,7 +26225,7 @@ told:_Image_uploads_person_6257_sabzang_pakpa_jpg
 
 told:_Image_uploads_person_6257_sabzang_pakpa_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "sabzang_pakpa"@en ;
+	skos:prefLabel "sabzang pakpa"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/6257/sabzang_pakpa_thumb.jpg"^^xsd:string ;
 	.
@@ -27089,7 +26632,7 @@ told:_Image_uploads_person_6351_65562_thumb_jpg
 
 told:_Image_uploads_person_6351_shakya_chokden5_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Shakya_Chokden5"@en ;
+	skos:prefLabel "Shakya Chokden5"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_6351_shakya_chokden5_jpeg ;
 	tolo:filePath "/uploads/person/6351/Shakya_Chokden5.jpeg"^^xsd:string ;
@@ -27098,7 +26641,7 @@ told:_Image_uploads_person_6351_shakya_chokden5_jpeg
 
 told:_Image_uploads_person_6351_shakya_chokden5_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Shakya_Chokden5"@en ;
+	skos:prefLabel "Shakya Chokden5"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/6351/Shakya_Chokden5_thumb.jpeg"^^xsd:string ;
 	.
@@ -28401,7 +27944,7 @@ told:_Image_uploads_person_6874_105542771_ip16wiec_tibetoct08065_thumb_jpg
 
 told:_Image_uploads_person_6874_depa_sonam_rapten_and_gushri_khan_jpg
 	a tolo:Image ;
-	skos:prefLabel "Depa_Sonam_Rapten_and_Gushri_Khan"@en ;
+	skos:prefLabel "Depa Sonam Rapten and Gushri Khan"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_6874_depa_sonam_rapten_and_gushri_khan_jpg ;
 	tolo:filePath "/uploads/person/6874/Depa_Sonam_Rapten_and_Gushri_Khan.jpg"^^xsd:string ;
@@ -28410,7 +27953,7 @@ told:_Image_uploads_person_6874_depa_sonam_rapten_and_gushri_khan_jpg
 
 told:_Image_uploads_person_6874_depa_sonam_rapten_and_gushri_khan_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Depa_Sonam_Rapten_and_Gushri_Khan"@en ;
+	skos:prefLabel "Depa Sonam Rapten and Gushri Khan"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/6874/Depa_Sonam_Rapten_and_Gushri_Khan_thumb.jpg"^^xsd:string ;
 	.
@@ -29282,7 +28825,7 @@ told:_Image_uploads_person_7297_damcho__macdonald_page_181_thumb_jpeg
 
 told:_Image_uploads_person_7305_phugtal_stonba_lhakhang_late15th_early16thc_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Phugtal_stonba lhakhang late15th_early16thC"@en ;
+	skos:prefLabel "Phugtal stonba lhakhang late15th early16thC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Sherab Zangpo portrait in the Tonpa Lhakhang at Phuktal"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7305_phugtal_stonba_lhakhang_late15th_early16thc_jpeg ;
@@ -29292,14 +28835,14 @@ told:_Image_uploads_person_7305_phugtal_stonba_lhakhang_late15th_early16thc_jpeg
 
 told:_Image_uploads_person_7305_phugtal_stonba_lhakhang_late15th_early16thc_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Phugtal_stonba lhakhang late15th_early16thC"@en ;
+	skos:prefLabel "Phugtal stonba lhakhang late15th early16thC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7305/Phugtal_stonba lhakhang late15th_early16thC_thumb.jpeg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_7305_saspol_cave_2_16thc_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Saspol Cave 2_16thC"@en ;
+	skos:prefLabel "Saspol Cave 2 16thC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "Sherab Zangpo portrait in Saspol, Ladakh"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7305_saspol_cave_2_16thc_jpeg ;
@@ -29309,7 +28852,7 @@ told:_Image_uploads_person_7305_saspol_cave_2_16thc_jpeg
 
 told:_Image_uploads_person_7305_saspol_cave_2_16thc_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Saspol Cave 2_16thC"@en ;
+	skos:prefLabel "Saspol Cave 2 16thC"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7305/Saspol Cave 2_16thC_thumb.jpeg"^^xsd:string ;
 	.
@@ -29572,7 +29115,7 @@ told:_Image_uploads_person_7545_monk_1206_thumb_jpg
 
 told:_Image_uploads_person_7551_orgyen_tendzin_norbu_jpg
 	a tolo:Image ;
-	skos:prefLabel "Orgyen_Tendzin_Norbu"@en ;
+	skos:prefLabel "Orgyen Tendzin Norbu"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7551_orgyen_tendzin_norbu_jpg ;
 	tolo:filePath "/uploads/person/7551/Orgyen_Tendzin_Norbu.jpg"^^xsd:string ;
@@ -29581,7 +29124,7 @@ told:_Image_uploads_person_7551_orgyen_tendzin_norbu_jpg
 
 told:_Image_uploads_person_7551_orgyen_tendzin_norbu_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Orgyen_Tendzin_Norbu"@en ;
+	skos:prefLabel "Orgyen Tendzin Norbu"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7551/Orgyen_Tendzin_Norbu_thumb.jpg"^^xsd:string ;
 	.
@@ -29844,7 +29387,7 @@ told:_Image_uploads_person_7637_795_stupa_thumb_jpg
 
 told:_Image_uploads_person_7641_dsc_1090_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7641_dsc_1090_1_jpg ;
 	tolo:filePath "/uploads/person/7641/DSC_1090 (1).jpg"^^xsd:string ;
@@ -29853,7 +29396,7 @@ told:_Image_uploads_person_7641_dsc_1090_1_jpg
 
 told:_Image_uploads_person_7641_dsc_1090_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7641/DSC_1090 (1)_thumb.jpg"^^xsd:string ;
 	.
@@ -29892,7 +29435,7 @@ told:_Image_uploads_person_7673_795_stupa_thumb_jpg
 
 told:_Image_uploads_person_7676_dragons_gift_4th_je_damcho_pekar_sm_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar_sm"@en ;
+	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar sm"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7676_dragons_gift_4th_je_damcho_pekar_sm_jpg ;
 	tolo:filePath "/uploads/person/7676/Dragon's Gift 4th Je Damcho Pekar_sm.jpg"^^xsd:string ;
@@ -29901,7 +29444,7 @@ told:_Image_uploads_person_7676_dragons_gift_4th_je_damcho_pekar_sm_jpg
 
 told:_Image_uploads_person_7676_dragons_gift_4th_je_damcho_pekar_sm_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar_sm"@en ;
+	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar sm"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7676/Dragon's Gift 4th Je Damcho Pekar_sm_thumb.jpg"^^xsd:string ;
 	.
@@ -29956,7 +29499,7 @@ told:_Image_uploads_person_7719_953_stupa_thumb_jpg
 
 told:_Image_uploads_person_7732_dola_jigme_kalzang_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dola_Jigme_Kalzang"@en ;
+	skos:prefLabel "Dola Jigme Kalzang"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_7732_dola_jigme_kalzang_jpg ;
 	tolo:filePath "/uploads/person/7732/Dola_Jigme_Kalzang.jpg"^^xsd:string ;
@@ -29965,7 +29508,7 @@ told:_Image_uploads_person_7732_dola_jigme_kalzang_jpg
 
 told:_Image_uploads_person_7732_dola_jigme_kalzang_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Dola_Jigme_Kalzang"@en ;
+	skos:prefLabel "Dola Jigme Kalzang"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/7732/Dola_Jigme_Kalzang_thumb.jpg"^^xsd:string ;
 	.
@@ -30757,7 +30300,7 @@ told:_Image_uploads_person_8156_kachen_lochen_zotpa_thumb_jpg
 
 told:_Image_uploads_person_8177_fullsizeoutput_2ad_jpeg
 	a tolo:Image ;
-	skos:prefLabel "fullsizeoutput_2ad"@en ;
+	skos:prefLabel "fullsizeoutput 2ad"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8177_fullsizeoutput_2ad_jpeg ;
 	tolo:filePath "/uploads/person/8177/fullsizeoutput_2ad.jpeg"^^xsd:string ;
@@ -30766,7 +30309,7 @@ told:_Image_uploads_person_8177_fullsizeoutput_2ad_jpeg
 
 told:_Image_uploads_person_8177_fullsizeoutput_2ad_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "fullsizeoutput_2ad"@en ;
+	skos:prefLabel "fullsizeoutput 2ad"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8177/fullsizeoutput_2ad_thumb.jpeg"^^xsd:string ;
 	.
@@ -30997,7 +30540,7 @@ told:_Image_uploads_person_8354_lodro_gyeltsen_thumb_jpeg
 
 told:_Image_uploads_person_8355_jigme_norbu_sm_jpg
 	a tolo:Image ;
-	skos:prefLabel "Jigme Norbu_sm"@en ;
+	skos:prefLabel "Jigme Norbu sm"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8355_jigme_norbu_sm_jpg ;
 	tolo:filePath "/uploads/person/8355/Jigme Norbu_sm.jpg"^^xsd:string ;
@@ -31006,7 +30549,7 @@ told:_Image_uploads_person_8355_jigme_norbu_sm_jpg
 
 told:_Image_uploads_person_8355_jigme_norbu_sm_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Jigme Norbu_sm"@en ;
+	skos:prefLabel "Jigme Norbu sm"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8355/Jigme Norbu_sm_thumb.jpg"^^xsd:string ;
 	.
@@ -31957,7 +31500,7 @@ told:_Image_uploads_person_8651_ktl_closeup_thumb_jpg
 
 told:_Image_uploads_person_8651_ktl_njp_on_teaching_thrones_jpg
 	a tolo:Image ;
-	skos:prefLabel "KTL_NJP_on_Teaching_Thrones"@en ;
+	skos:prefLabel "KTL NJP on Teaching Thrones"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8651_ktl_njp_on_teaching_thrones_jpg ;
 	tolo:filePath "/uploads/person/8651/KTL_NJP_on_Teaching_Thrones.jpg"^^xsd:string ;
@@ -31966,7 +31509,7 @@ told:_Image_uploads_person_8651_ktl_njp_on_teaching_thrones_jpg
 
 told:_Image_uploads_person_8651_ktl_njp_on_teaching_thrones_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "KTL_NJP_on_Teaching_Thrones"@en ;
+	skos:prefLabel "KTL NJP on Teaching Thrones"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8651/KTL_NJP_on_Teaching_Thrones_thumb.jpg"^^xsd:string ;
 	.
@@ -32085,7 +31628,7 @@ told:_Image_uploads_person_8750_dorje_lingpa_shechen_1234_thumb_jpg
 
 told:_Image_uploads_person_8752_jf_blo_grags_1_jpg
 	a tolo:Image ;
-	skos:prefLabel "jf_blo grags_1"@en ;
+	skos:prefLabel "jf blo grags 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8752_jf_blo_grags_1_jpg ;
 	tolo:filePath "/uploads/person/8752/jf_blo grags_1.jpg"^^xsd:string ;
@@ -32094,7 +31637,7 @@ told:_Image_uploads_person_8752_jf_blo_grags_1_jpg
 
 told:_Image_uploads_person_8752_jf_blo_grags_1_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "jf_blo grags_1"@en ;
+	skos:prefLabel "jf blo grags 1"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8752/jf_blo grags_1_thumb.jpg"^^xsd:string ;
 	.
@@ -32229,7 +31772,7 @@ told:_Image_uploads_person_8825_dilgo_khyentse_photo_thumb_jpg
 
 told:_Image_uploads_person_8825_dilgokhyentse_37_detail_jpg
 	a tolo:Image ;
-	skos:prefLabel "DilgoKhyentse_37_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 37 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8825_dilgokhyentse_37_detail_jpg ;
 	tolo:filePath "/uploads/person/8825/DilgoKhyentse_37_detail.jpg"^^xsd:string ;
@@ -32238,14 +31781,14 @@ told:_Image_uploads_person_8825_dilgokhyentse_37_detail_jpg
 
 told:_Image_uploads_person_8825_dilgokhyentse_37_detail_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "DilgoKhyentse_37_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 37 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8825/DilgoKhyentse_37_detail_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_8825_dilgokhyentse_38_detail_jpg
 	a tolo:Image ;
-	skos:prefLabel "DilgoKhyentse_38_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 38 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8825_dilgokhyentse_38_detail_jpg ;
 	tolo:filePath "/uploads/person/8825/DilgoKhyentse_38_detail.jpg"^^xsd:string ;
@@ -32254,7 +31797,7 @@ told:_Image_uploads_person_8825_dilgokhyentse_38_detail_jpg
 
 told:_Image_uploads_person_8825_dilgokhyentse_38_detail_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "DilgoKhyentse_38_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 38 detail"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8825/DilgoKhyentse_38_detail_thumb.jpg"^^xsd:string ;
 	.
@@ -32520,7 +32063,7 @@ told:_Image_uploads_person_8923_shanton_tashi_dorje_shechen_979_thumb_jpg
 
 told:_Image_uploads_person_8928_wp84b84ec6_05_06_jpg
 	a tolo:Image ;
-	skos:prefLabel "wp84b84ec6_05_06"@en ;
+	skos:prefLabel "wp84b84ec6 05 06"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8928_wp84b84ec6_05_06_jpg ;
 	tolo:filePath "/uploads/person/8928/wp84b84ec6_05_06.jpg"^^xsd:string ;
@@ -32529,14 +32072,14 @@ told:_Image_uploads_person_8928_wp84b84ec6_05_06_jpg
 
 told:_Image_uploads_person_8928_wp84b84ec6_05_06_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "wp84b84ec6_05_06"@en ;
+	skos:prefLabel "wp84b84ec6 05 06"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8928/wp84b84ec6_05_06_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_8964_shes_rab_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Shes_rab"@en ;
+	skos:prefLabel "Shes rab"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_8964_shes_rab_jpeg ;
 	tolo:filePath "/uploads/person/8964/Shes_rab.jpeg"^^xsd:string ;
@@ -32545,7 +32088,7 @@ told:_Image_uploads_person_8964_shes_rab_jpeg
 
 told:_Image_uploads_person_8964_shes_rab_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Shes_rab"@en ;
+	skos:prefLabel "Shes rab"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/8964/Shes_rab_thumb.jpeg"^^xsd:string ;
 	.
@@ -33369,7 +32912,7 @@ told:_Image_uploads_person_9254_953_stupa_thumb_jpg
 
 told:_Image_uploads_person_9278_baggi__hr___dsc_0641_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9278_baggi__hr___dsc_0641_jpeg ;
 	tolo:filePath "/uploads/person/9278/Baggi_ HR_ ©DSC_0641.jpeg"^^xsd:string ;
@@ -33378,7 +32921,7 @@ told:_Image_uploads_person_9278_baggi__hr___dsc_0641_jpeg
 
 told:_Image_uploads_person_9278_baggi__hr___dsc_0641_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9278/Baggi_ HR_ ©DSC_0641_thumb.jpeg"^^xsd:string ;
 	.
@@ -33835,7 +33378,7 @@ told:_Image_uploads_person_9572_1164_repa_thumb_jpg
 
 told:_Image_uploads_person_9574_drime_kunga_larger_jpg
 	a tolo:Image ;
-	skos:prefLabel "Drime Kunga_Larger"@en ;
+	skos:prefLabel "Drime Kunga Larger"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9574_drime_kunga_larger_jpg ;
 	tolo:filePath "/uploads/person/9574/Drime Kunga_Larger.jpg"^^xsd:string ;
@@ -33844,7 +33387,7 @@ told:_Image_uploads_person_9574_drime_kunga_larger_jpg
 
 told:_Image_uploads_person_9574_drime_kunga_larger_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Drime Kunga_Larger"@en ;
+	skos:prefLabel "Drime Kunga Larger"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9574/Drime Kunga_Larger_thumb.jpg"^^xsd:string ;
 	.
@@ -33995,7 +33538,7 @@ told:_Image_uploads_person_9601_80190__zhenpen_taye_thumb_jpg
 
 told:_Image_uploads_person_9612_80188_do_khyentse_jpg
 	a tolo:Image ;
-	skos:prefLabel "80188_do_khyentse"@en ;
+	skos:prefLabel "80188 do khyentse"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9612_80188_do_khyentse_jpg ;
 	tolo:filePath "/uploads/person/9612/80188_do_khyentse.jpg"^^xsd:string ;
@@ -34004,7 +33547,7 @@ told:_Image_uploads_person_9612_80188_do_khyentse_jpg
 
 told:_Image_uploads_person_9612_80188_do_khyentse_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "80188_do_khyentse"@en ;
+	skos:prefLabel "80188 do khyentse"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9612/80188_do_khyentse_thumb.jpg"^^xsd:string ;
 	.
@@ -34043,7 +33586,7 @@ told:_Image_uploads_person_9618_52848981_lhalung_palgyi_dorje_thumb_jpg
 
 told:_Image_uploads_person_9622_khenpo_shenga_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Shenga"@en ;
+	skos:prefLabel "Khenpo Shenga"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9622_khenpo_shenga_jpeg ;
 	tolo:filePath "/uploads/person/9622/Khenpo_Shenga.jpeg"^^xsd:string ;
@@ -34052,7 +33595,7 @@ told:_Image_uploads_person_9622_khenpo_shenga_jpeg
 
 told:_Image_uploads_person_9622_khenpo_shenga_thumb_jpeg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Shenga"@en ;
+	skos:prefLabel "Khenpo Shenga"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9622/Khenpo_Shenga_thumb.jpeg"^^xsd:string ;
 	.
@@ -34351,7 +33894,7 @@ told:_Image_uploads_person_9761_picture4_thumb_jpg
 
 told:_Image_uploads_person_9764_kagyutulku_3_papyuk_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_3_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 3 Papyuk"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "statue kept at Tsangek Monastry"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9764_kagyutulku_3_papyuk_jpg ;
@@ -34361,14 +33904,14 @@ told:_Image_uploads_person_9764_kagyutulku_3_papyuk_jpg
 
 told:_Image_uploads_person_9764_kagyutulku_3_papyuk_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_3_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 3 Papyuk"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9764/KagyuTulku_3_Papyuk_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_9764_kagyutulku_3_tsangek_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_3_Tsangek"@en ;
+	skos:prefLabel "KagyuTulku 3 Tsangek"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:caption "statue kept at Papyuk Monastery"@en ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9764_kagyutulku_3_tsangek_jpg ;
@@ -34378,7 +33921,7 @@ told:_Image_uploads_person_9764_kagyutulku_3_tsangek_jpg
 
 told:_Image_uploads_person_9764_kagyutulku_3_tsangek_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "KagyuTulku_3_Tsangek"@en ;
+	skos:prefLabel "KagyuTulku 3 Tsangek"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9764/KagyuTulku_3_Tsangek_thumb.jpg"^^xsd:string ;
 	.
@@ -34401,7 +33944,7 @@ told:_Image_uploads_person_9788_493_lama_ngawang_drakpa_thumb_jpg
 
 told:_Image_uploads_person_9789_493_jangchub_sengge_jpg
 	a tolo:Image ;
-	skos:prefLabel "493_Jangchub_Sengge"@en ;
+	skos:prefLabel "493 Jangchub Sengge"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9789_493_jangchub_sengge_jpg ;
 	tolo:filePath "/uploads/person/9789/493_Jangchub_Sengge.jpg"^^xsd:string ;
@@ -34410,7 +33953,7 @@ told:_Image_uploads_person_9789_493_jangchub_sengge_jpg
 
 told:_Image_uploads_person_9789_493_jangchub_sengge_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "493_Jangchub_Sengge"@en ;
+	skos:prefLabel "493 Jangchub Sengge"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9789/493_Jangchub_Sengge_thumb.jpg"^^xsd:string ;
 	.
@@ -34513,7 +34056,7 @@ told:_Image_uploads_person_9884_953stupa_thumb_jpg
 
 told:_Image_uploads_person_9895_khenpo_ngakchung_2_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Ngakchung_2"@en ;
+	skos:prefLabel "Khenpo Ngakchung 2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9895_khenpo_ngakchung_2_jpg ;
 	tolo:filePath "/uploads/person/9895/Khenpo_Ngakchung_2.jpg"^^xsd:string ;
@@ -34522,7 +34065,7 @@ told:_Image_uploads_person_9895_khenpo_ngakchung_2_jpg
 
 told:_Image_uploads_person_9895_khenpo_ngakchung_2_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Ngakchung_2"@en ;
+	skos:prefLabel "Khenpo Ngakchung 2"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9895/Khenpo_Ngakchung_2_thumb.jpg"^^xsd:string ;
 	.
@@ -34561,7 +34104,7 @@ told:_Image_uploads_person_9923_795_stupa_thumb_jpg
 
 told:_Image_uploads_person_9929_khenpo_munsel_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Munsel"@en ;
+	skos:prefLabel "Khenpo Munsel"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9929_khenpo_munsel_jpg ;
 	tolo:filePath "/uploads/person/9929/Khenpo_Munsel.jpg"^^xsd:string ;
@@ -34586,7 +34129,7 @@ told:_Image_uploads_person_9929_khenpo_munsel_rinpoche_thumb_jpg
 
 told:_Image_uploads_person_9929_khenpo_munsel_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "Khenpo_Munsel"@en ;
+	skos:prefLabel "Khenpo Munsel"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9929/Khenpo_Munsel_thumb.jpg"^^xsd:string ;
 	.
@@ -34756,7 +34299,7 @@ told:_Image_uploads_person_9990_chokyi_lodro_15528_thumb_jpg
 
 told:_Image_uploads_person_9990_im_121_jpg
 	a tolo:Image ;
-	skos:prefLabel "im_121"@en ;
+	skos:prefLabel "im 121"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9990_im_121_jpg ;
 	tolo:filePath "/uploads/person/9990/im_121.jpg"^^xsd:string ;
@@ -34765,14 +34308,14 @@ told:_Image_uploads_person_9990_im_121_jpg
 
 told:_Image_uploads_person_9990_im_121_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "im_121"@en ;
+	skos:prefLabel "im 121"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9990/im_121_thumb.jpg"^^xsd:string ;
 	.
 
 told:_Image_uploads_person_9990_im_177_jpg
 	a tolo:Image ;
-	skos:prefLabel "im_177"@en ;
+	skos:prefLabel "im 177"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:depicts told:_IntellectualProperty_uploads_person_9990_im_177_jpg ;
 	tolo:filePath "/uploads/person/9990/im_177.jpg"^^xsd:string ;
@@ -34781,7 +34324,7 @@ told:_Image_uploads_person_9990_im_177_jpg
 
 told:_Image_uploads_person_9990_im_177_thumb_jpg
 	a tolo:Image ;
-	skos:prefLabel "im_177"@en ;
+	skos:prefLabel "im 177"@en ;
 	gist:isExpressedIn media-image:jpg ;
 	tolo:filePath "/uploads/person/9990/im_177_thumb.jpg"^^xsd:string ;
 	.
@@ -34820,7 +34363,7 @@ told:_Image_uploads_person_9_madarava307_thumb_jpg
 
 told:_IntellectualProperty_uploads_person_0_baggi__hr___dsc_0641_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	tolo:credit "Baggi"^^xsd:string ;
 	.
 
@@ -34842,7 +34385,7 @@ told:_IntellectualProperty_uploads_person_10019_dudjom1_jpg
 
 told:_IntellectualProperty_uploads_person_10019_dudjom_and_chatral_sangye_dorje_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dudjom_and_Chatral_Sangye_Dorje"@en ;
+	skos:prefLabel "Dudjom and Chatral Sangye Dorje"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10019_dudjom_jpg
@@ -34853,12 +34396,12 @@ told:_IntellectualProperty_uploads_person_10019_dudjom_jpg
 
 told:_IntellectualProperty_uploads_person_10019_dudjom_rinpoche_young_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dudjom_Rinpoche_(young)"@en ;
+	skos:prefLabel "Dudjom Rinpoche (young)"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10019_dudjom_with_crown_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dudjom_with_crown"@en ;
+	skos:prefLabel "Dudjom with crown"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10019_dudjomrinpochekalimpong_jpg
@@ -34896,7 +34439,7 @@ told:_IntellectualProperty_uploads_person_10093_bodpatulkucolor_2_jpg
 
 told:_IntellectualProperty_uploads_person_10103_shechen_kongtrul_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Shechen_Kongtrul"@en ;
+	skos:prefLabel "Shechen Kongtrul"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10146_khenpo_tsondru_2_jpeg
@@ -34907,7 +34450,7 @@ told:_IntellectualProperty_uploads_person_10146_khenpo_tsondru_2_jpeg
 
 told:_IntellectualProperty_uploads_person_10146_khenpo_tsondru_copy_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khenpo_Tsondru copy"@en ;
+	skos:prefLabel "Khenpo Tsondru copy"@en ;
 	tolo:credit "Adam Pearcy"^^xsd:string ;
 	.
 
@@ -34919,12 +34462,12 @@ told:_IntellectualProperty_uploads_person_10168_khedrup_norsang_gyatso_jpg
 
 told:_IntellectualProperty_uploads_person_10169_six_dzogchen_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "six_dzogchen"@en ;
+	skos:prefLabel "six dzogchen"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10169_sixth_dzogchen_rinpoche_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Sixth_Dzogchen_Rinpoche"@en ;
+	skos:prefLabel "Sixth Dzogchen Rinpoche"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10171_ngawang_drakpa_jpg
@@ -35059,7 +34602,7 @@ told:_IntellectualProperty_uploads_person_1035_457_tashi_tsultrim_jpg
 
 told:_IntellectualProperty_uploads_person_10372_lama_monlam_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Lama_Monlam"@en ;
+	skos:prefLabel "Lama Monlam"@en ;
 	tolo:credit "National Library of Bhutan"^^xsd:string ;
 	.
 
@@ -35197,7 +34740,7 @@ told:_IntellectualProperty_uploads_person_10531_795_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_10536_stagtshang_raspa_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Stagtshang_Raspa"@en ;
+	skos:prefLabel "Stagtshang Raspa"@en ;
 	tolo:credit "Wikimedia Commons"^^xsd:string ;
 	.
 
@@ -35457,7 +35000,7 @@ told:_IntellectualProperty_uploads_person_10857_drukpa_kunle82091_jpg
 
 told:_IntellectualProperty_uploads_person_10857_img_0401_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_0401"@en ;
+	skos:prefLabel "IMG 0401"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_10878_795stupa_jpg
@@ -35746,7 +35289,7 @@ told:_IntellectualProperty_uploads_person_11299_65167_jpeg
 
 told:_IntellectualProperty_uploads_person_11307_jf_kunpangpa_1_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "jf_kunpangpa_1"@en ;
+	skos:prefLabel "jf kunpangpa 1"@en ;
 	tolo:credit "Jonang Foundation"^^xsd:string ;
 	.
 
@@ -35781,7 +35324,7 @@ told:_IntellectualProperty_uploads_person_11385_k16_and_freda_bedi_jpeg
 
 told:_IntellectualProperty_uploads_person_11385_karmapa16_3_gross_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Karmapa16_3_gross"@en ;
+	skos:prefLabel "Karmapa16 3 gross"@en ;
 	tolo:credit "an employee of the Austrian Buddhist society"^^xsd:string ;
 	.
 
@@ -36146,7 +35689,7 @@ told:_IntellectualProperty_uploads_person_11986_276_gyalwang_je_jpg
 
 told:_IntellectualProperty_uploads_person_12096_lopon_sangye_tenzin_large_jpg_for_web_small_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "lopon_sangye_tenzin_large.jpg-for-web-small"@en ;
+	skos:prefLabel "lopon sangye tenzin large.jpg-for-web-small"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_12100_woman_1148_jpg
@@ -36175,13 +35718,13 @@ told:_IntellectualProperty_uploads_person_12171_lobzang_dorje_jpg
 
 told:_IntellectualProperty_uploads_person_12180__20r6877_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "_20R6877"@en ;
+	skos:prefLabel " 20R6877"@en ;
 	tolo:credit "Cartier Bresson"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_12180_fullsizeoutput_9d_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "fullsizeoutput_9d"@en ;
+	skos:prefLabel "fullsizeoutput 9d"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_12180_kalu1_jpg
@@ -36319,7 +35862,7 @@ told:_IntellectualProperty_uploads_person_12745_monk_1166_jpg
 
 told:_IntellectualProperty_uploads_person_12765_gyatrul_rinpoche2_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Gyatrul_Rinpoche2"@en ;
+	skos:prefLabel "Gyatrul Rinpoche2"@en ;
 	tolo:credit "Vimala Treasures"^^xsd:string ;
 	.
 
@@ -36365,7 +35908,7 @@ told:_IntellectualProperty_uploads_person_12839_tulku_urgyen_rinpoche_early_phot
 
 told:_IntellectualProperty_uploads_person_12839_tulku_urgyen_rinpoche_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Tulku_Urgyen_Rinpoche"@en ;
+	skos:prefLabel "Tulku Urgyen Rinpoche"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_12865_official_1166_standing_jpg
@@ -36388,7 +35931,7 @@ told:_IntellectualProperty_uploads_person_12906_795stupa_jpg
 
 told:_IntellectualProperty_uploads_person_12980_arik_rinpoche_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Arik_Rinpoche"@en ;
+	skos:prefLabel "Arik Rinpoche"@en ;
 	tolo:credit "Mathew Pistono"^^xsd:string ;
 	.
 
@@ -36433,12 +35976,12 @@ told:_IntellectualProperty_uploads_person_13026_wensapa_286_jpg
 
 told:_IntellectualProperty_uploads_person_13054_godzilla_vs_kingkong_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Godzilla_vs_KingKong"@en ;
+	skos:prefLabel "Godzilla vs KingKong"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_13054_mahakala_detail_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "mahakala_detail"@en ;
+	skos:prefLabel "mahakala detail"@en ;
 	gist:isIdentifiedBy told:_ID_har_123456 ;
 	.
 
@@ -36806,13 +36349,13 @@ told:_IntellectualProperty_uploads_person_13120_drodul_dorje_tendzin_jpg
 
 told:_IntellectualProperty_uploads_person_13121_1st_padtul_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "1st_padtul"@en ;
+	skos:prefLabel "1st padtul"@en ;
 	tolo:credit "Padselling Dharma Center"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_13122_3rd_pedtsheling_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "3rd_Pedtsheling"@en ;
+	skos:prefLabel "3rd Pedtsheling"@en ;
 	tolo:credit "Padtselling Dharma Center"^^xsd:string ;
 	.
 
@@ -36848,7 +36391,7 @@ told:_IntellectualProperty_uploads_person_13127_953_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_13128_thugsey_rinpoche_tenpai_gyaltsen_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Thugsey_Rinpoche_Tenpai_Gyaltsen"@en ;
+	skos:prefLabel "Thugsey Rinpoche Tenpai Gyaltsen"@en ;
 	tolo:credit "http://shingkhar.blogspot.com/"^^xsd:string ;
 	.
 
@@ -36902,7 +36445,7 @@ told:_IntellectualProperty_uploads_person_13140_200005_bon_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_13141_79685_sanggye_on_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "79685_sanggye_on"@en ;
+	skos:prefLabel "79685 sanggye on"@en ;
 	gist:isIdentifiedBy told:_ID_har_79685 ;
 	.
 
@@ -37690,7 +37233,7 @@ told:_IntellectualProperty_uploads_person_13520_layman_1166_jpg
 
 told:_IntellectualProperty_uploads_person_13521_10478256_1579142939077638_627026012_n_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	tolo:credit "Transhimalayan Heritage"^^xsd:string ;
 	.
 
@@ -37708,7 +37251,7 @@ told:_IntellectualProperty_uploads_person_13521_rapga_jpg
 
 told:_IntellectualProperty_uploads_person_13522_10478256_1579142939077638_627026012_n_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	tolo:credit "Transhimalayan Heritage"^^xsd:string ;
 	.
 
@@ -37720,7 +37263,7 @@ told:_IntellectualProperty_uploads_person_13522_yampel_jpg
 
 told:_IntellectualProperty_uploads_person_13523_10478256_1579142939077638_627026012_n_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "10478256_1579142939077638_627026012_n"@en ;
+	skos:prefLabel "10478256 1579142939077638 627026012 n"@en ;
 	tolo:credit "Transhimalayan Heritage"^^xsd:string ;
 	.
 
@@ -37850,7 +37393,7 @@ told:_IntellectualProperty_uploads_person_13545_r_sadutshang_jpg
 
 told:_IntellectualProperty_uploads_person_13545_rinchen2_5_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "RInchen2_5-1"@en ;
+	skos:prefLabel "RInchen2 5-1"@en ;
 	tolo:credit "Wisdom Publications"^^xsd:string ;
 	.
 
@@ -37947,7 +37490,7 @@ told:_IntellectualProperty_uploads_person_13566_woman_1148_jpg
 
 told:_IntellectualProperty_uploads_person_13572_dsc_1090_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	tolo:credit "Xavier Hazenbosch"^^xsd:string ;
 	.
 
@@ -37970,7 +37513,7 @@ told:_IntellectualProperty_uploads_person_13588_hutagt2_jpg
 
 told:_IntellectualProperty_uploads_person_13596_menri_potraits_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Menri_Potraits-1"@en ;
+	skos:prefLabel "Menri Potraits-1"@en ;
 	tolo:credit "Samten Karmay"^^xsd:string ;
 	.
 
@@ -37994,7 +37537,7 @@ told:_IntellectualProperty_uploads_person_13597_woman_1148_jpg
 
 told:_IntellectualProperty_uploads_person_13598_img_1185_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_1185 (1)"@en ;
+	skos:prefLabel "IMG 1185 (1)"@en ;
 	tolo:credit "Tashi Tsering, in Bodies in Balance, p. 87"^^xsd:string ;
 	.
 
@@ -38069,7 +37612,7 @@ told:_IntellectualProperty_uploads_person_13628_bonpo_foundation_receipt_jpg
 
 told:_IntellectualProperty_uploads_person_13628_dalai_lama_visits_loc_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dalai_Lama_visits_LOC"@en ;
+	skos:prefLabel "Dalai Lama visits LOC"@en ;
 	tolo:credit "Library of Congress Prints & Photographs Division"^^xsd:string ;
 	.
 
@@ -38329,7 +37872,7 @@ told:_IntellectualProperty_uploads_person_13689_images_7_jpeg
 
 told:_IntellectualProperty_uploads_person_13690_khangchenne_siegel_dieter_schuh_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khangchenne_Siegel_Dieter_Schuh"@en ;
+	skos:prefLabel "Khangchenne Siegel Dieter Schuh"@en ;
 	tolo:credit "Dieter Schuh"^^xsd:string ;
 	.
 
@@ -38461,7 +38004,7 @@ told:_IntellectualProperty_uploads_person_1370_90907_jpg
 
 told:_IntellectualProperty_uploads_person_13718_img_0690_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_0690"@en ;
+	skos:prefLabel "IMG 0690"@en ;
 	tolo:credit "Lin 2006, p. 111"^^xsd:string ;
 	.
 
@@ -38845,7 +38388,7 @@ told:_IntellectualProperty_uploads_person_13816_pema_tseden_tharlo_moma_jpg
 
 told:_IntellectualProperty_uploads_person_13816_pt_2016_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "PT_2016"@en ;
+	skos:prefLabel "PT 2016"@en ;
 	tolo:credit "The Latse Project"^^xsd:string ;
 	.
 
@@ -38884,7 +38427,7 @@ told:_IntellectualProperty_uploads_person_13821_konchok_sonam_jpg
 
 told:_IntellectualProperty_uploads_person_13822_20220614_155126_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "20220614_155126"@en ;
+	skos:prefLabel "20220614 155126"@en ;
 	tolo:credit "Neema Tashi"^^xsd:string ;
 	.
 
@@ -38936,7 +38479,7 @@ told:_IntellectualProperty_uploads_person_13832_geshe_sopa__1978__carol_royce_wi
 
 told:_IntellectualProperty_uploads_person_13833_gelek_rimpoche_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	tolo:credit "Jewel Heart"^^xsd:string ;
 	.
 
@@ -38996,13 +38539,13 @@ told:_IntellectualProperty_uploads_person_13842_monk_1166_jpg
 
 told:_IntellectualProperty_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_1_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (1)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (1)"@en ;
 	tolo:credit "Shambhala Publications"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_13843_dudjom_sangyum_kusho_tseten_yudron_2_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dudjom_Sangyum_Kusho_Tseten_Yudron (2)"@en ;
+	skos:prefLabel "Dudjom Sangyum Kusho Tseten Yudron (2)"@en ;
 	tolo:credit "Shambhala Publications"^^xsd:string ;
 	.
 
@@ -39027,7 +38570,7 @@ told:_IntellectualProperty_uploads_person_13855_monk_1206_jpg
 
 told:_IntellectualProperty_uploads_person_13856_kagyutulku_4_papyuk_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "KagyuTulku_4_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 4 Papyuk"@en ;
 	tolo:credit "Marlene Erschbamer"^^xsd:string ;
 	.
 
@@ -39045,7 +38588,7 @@ told:_IntellectualProperty_uploads_person_13858_monk_1206_jpg
 
 told:_IntellectualProperty_uploads_person_13859_kagyutulku_7_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "KagyuTulku_7"@en ;
+	skos:prefLabel "KagyuTulku 7"@en ;
 	tolo:credit "Marlene Erschbamer"^^xsd:string ;
 	.
 
@@ -39181,22 +38724,22 @@ told:_IntellectualProperty_uploads_person_13884_getse04_jpeg
 
 told:_IntellectualProperty_uploads_person_13884_img_4719_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_4719"@en ;
+	skos:prefLabel "IMG 4719"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_13884_img_4725_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_4725"@en ;
+	skos:prefLabel "IMG 4725"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_13884_img_4744_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "IMG_4744"@en ;
+	skos:prefLabel "IMG 4744"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_13885_khandro_ogyan_tsomo_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khandro_Ogyan_Tsomo"@en ;
+	skos:prefLabel "Khandro Ogyan Tsomo"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_13886_choza_from_charles_2400_001_jpg
@@ -39326,7 +38869,7 @@ told:_IntellectualProperty_uploads_person_1728_953_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_1746_gelek_rimpoche_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Gelek_Rimpoche"@en ;
+	skos:prefLabel "Gelek Rimpoche"@en ;
 	tolo:credit "Jewel Heart"^^xsd:string ;
 	.
 
@@ -39344,7 +38887,7 @@ told:_IntellectualProperty_uploads_person_1820_457_sanggye_rinchen_jpg
 
 told:_IntellectualProperty_uploads_person_1831_ga_rabjampa_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Ga_rabjampa"@en ;
+	skos:prefLabel "Ga rabjampa"@en ;
 	tolo:credit "Tharlam Monastery"^^xsd:string ;
 	.
 
@@ -39777,7 +39320,7 @@ told:_IntellectualProperty_uploads_person_2424_p079_1_a_jpeg
 
 told:_IntellectualProperty_uploads_person_2424_r_xv_38_detail_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "R-XV-38_detail"@en ;
+	skos:prefLabel "R-XV-38 detail"@en ;
 	tolo:credit "Phoebe Apperson Hearst Anthropological Museum"^^xsd:string ;
 	.
 
@@ -39882,10 +39425,7 @@ told:_IntellectualProperty_uploads_person_2510_53050551_padampa_sanggye_jpg
 
 told:_IntellectualProperty_uploads_person_2510_57037_padampa_sanggye_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel
-		"57037 Padampa Sanggye"@en ,
-		"57037_Padampa_Sanggye"@en
-		;
+	skos:prefLabel "57037 Padampa Sanggye"@en ;
 	gist:isIdentifiedBy told:_ID_har_57037 ;
 	.
 
@@ -40197,7 +39737,7 @@ told:_IntellectualProperty_uploads_person_2758_795stupa_jpg
 
 told:_IntellectualProperty_uploads_person_276_5_lhagyari_trichen_namgyal_gyatso_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "5_lhagyari_trichen_namgyal_gyatso"@en ;
+	skos:prefLabel "5 lhagyari trichen namgyal gyatso"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_276_lhagyarinamgyelgyatso1_jpg
@@ -40249,7 +39789,7 @@ told:_IntellectualProperty_uploads_person_2781_jampa_bum_jpg
 
 told:_IntellectualProperty_uploads_person_2784_5th_jamyang_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "5th_Jamyang"@en ;
+	skos:prefLabel "5th Jamyang"@en ;
 	tolo:credit "http://www.sc157.com/html/65/n-32665.html"^^xsd:string ;
 	.
 
@@ -40636,7 +40176,7 @@ told:_IntellectualProperty_uploads_person_2953_penchen_jpeg
 
 told:_IntellectualProperty_uploads_person_2958_lopon_tenzin_namdak_rimpoche_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Lopon_Tenzin_Namdak_Rimpoche"@en ;
+	skos:prefLabel "Lopon Tenzin Namdak Rimpoche"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_2973_khyunggo_tsel_detail_200015_jpg
@@ -40671,13 +40211,13 @@ told:_IntellectualProperty_uploads_person_2987_kun_grol_of_alex_jpg
 
 told:_IntellectualProperty_uploads_person_2992_crw_0477_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "CRW_0477"@en ;
+	skos:prefLabel "CRW 0477"@en ;
 	tolo:credit "Jann Ronis, 2004"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_2992_crw_0481_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "CRW_0481"@en ;
+	skos:prefLabel "CRW 0481"@en ;
 	tolo:credit "Jann Ronis, 2004"^^xsd:string ;
 	.
 
@@ -40760,7 +40300,7 @@ told:_IntellectualProperty_uploads_person_3010_795stupa_jpg
 
 told:_IntellectualProperty_uploads_person_3020_mingyur_namkhe_dorje_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Mingyur_Namkhe_Dorje"@en ;
+	skos:prefLabel "Mingyur Namkhe Dorje"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_3028_276_lodro_sengge_jpg
@@ -41172,12 +40712,12 @@ told:_IntellectualProperty_uploads_person_3307_13th_dalai_lama_jpg
 
 told:_IntellectualProperty_uploads_person_3307_494762_l_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "494762_L_1"@en ;
+	skos:prefLabel "494762 L 1"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_3307_494762_l_3_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "494762_L_3"@en ;
+	skos:prefLabel "494762 L 3"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_3307_79912_thirteenth_dl_jpg
@@ -41443,7 +40983,7 @@ told:_IntellectualProperty_uploads_person_3795_953_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_3822_9_panchenlama_inchina1934_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "9.PanchenLama_inChina1934"@en ;
+	skos:prefLabel "9.PanchenLama inChina1934"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_3822_9thpanchen_jpeg
@@ -41677,7 +41217,7 @@ told:_IntellectualProperty_uploads_person_4092_80421_tripa_31_jpg
 
 told:_IntellectualProperty_uploads_person_40_a_593_04_10_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "A_593-04-10"@en ;
+	skos:prefLabel "A 593-04-10"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_40_acharya_sempa_dorje_jpeg
@@ -42022,7 +41562,7 @@ told:_IntellectualProperty_uploads_person_4301_mail_attachment_jpg
 
 told:_IntellectualProperty_uploads_person_4302_monk_1206_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "monk_1206"@en ;
+	skos:prefLabel "monk 1206"@en ;
 	gist:isIdentifiedBy told:_ID_har_1206 ;
 	.
 
@@ -42105,10 +41645,7 @@ told:_IntellectualProperty_uploads_person_4354_937_marpa_jpg
 
 told:_IntellectualProperty_uploads_person_4358_kongtrul_65265_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel
-		"Kongtrul 65265"@en ,
-		"Kongtrul_65265"@en
-		;
+	skos:prefLabel "Kongtrul 65265"@en ;
 	gist:isIdentifiedBy told:_ID_har_65265 ;
 	.
 
@@ -42387,13 +41924,13 @@ told:_IntellectualProperty_uploads_person_4642_20061004124335799_jpg
 
 told:_IntellectualProperty_uploads_person_4642_4348_001_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "4348_001"@en ;
+	skos:prefLabel "4348 001"@en ;
 	tolo:credit "Tuttle 2005, p. 201"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_4642_sherab_gyatso_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Sherab_Gyatso"@en ;
+	skos:prefLabel "Sherab Gyatso"@en ;
 	tolo:credit "Database of Modern Chinese Buddhism"^^xsd:string ;
 	.
 
@@ -42478,7 +42015,7 @@ told:_IntellectualProperty_uploads_person_4903_gyalwa_choyang_real_307_jpg
 
 told:_IntellectualProperty_uploads_person_4909_princess_pema_sal_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Princess_Pema_Sal"@en ;
+	skos:prefLabel "Princess Pema Sal"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_490_52848971_palgyi_wangchug_jpg
@@ -43036,10 +42573,7 @@ told:_IntellectualProperty_uploads_person_5791_79663_chekhawa_jpg
 
 told:_IntellectualProperty_uploads_person_5795_jamchen_choje_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel
-		"jamchen choje"@en ,
-		"jamchen_choje"@en
-		;
+	skos:prefLabel "jamchen choje"@en ;
 	gist:isIdentifiedBy told:_ID_har_101513 ;
 	.
 
@@ -43160,18 +42694,18 @@ told:_IntellectualProperty_uploads_person_5889_labrang_74280_jpg
 
 told:_IntellectualProperty_uploads_person_5894_w3cn6510_i3cn6512_tubten_lhundrub_photo_2_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "W3CN6510-I3CN6512_Tubten Lhundrub_Photo 2"@en ;
+	skos:prefLabel "W3CN6510-I3CN6512 Tubten Lhundrub Photo 2"@en ;
 	tolo:credit "Dgra 'dul, 2012"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_5897_amdo_geshe2_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Amdo_Geshe2"@en ;
+	skos:prefLabel "Amdo Geshe2"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_5897_amdo_geshe_mini_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Amdo_Geshe_mini"@en ;
+	skos:prefLabel "Amdo Geshe mini"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_5899_795_stupa_jpg
@@ -43500,7 +43034,7 @@ told:_IntellectualProperty_uploads_person_6257_493_sabzang_jpg
 
 told:_IntellectualProperty_uploads_person_6257_sabzang_pakpa_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "sabzang_pakpa"@en ;
+	skos:prefLabel "sabzang pakpa"@en ;
 	tolo:credit "Jackson, Mirror of the Buddha, p. 18"^^xsd:string ;
 	.
 
@@ -43656,7 +43190,7 @@ told:_IntellectualProperty_uploads_person_6351_65562_jpg
 
 told:_IntellectualProperty_uploads_person_6351_shakya_chokden5_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Shakya_Chokden5"@en ;
+	skos:prefLabel "Shakya Chokden5"@en ;
 	tolo:credit "Professor Yaroslav Komarovski"^^xsd:string ;
 	.
 
@@ -44149,7 +43683,7 @@ told:_IntellectualProperty_uploads_person_6874_105542771_ip16wiec_tibetoct08065_
 
 told:_IntellectualProperty_uploads_person_6874_depa_sonam_rapten_and_gushri_khan_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Depa_Sonam_Rapten_and_Gushri_Khan"@en ;
+	skos:prefLabel "Depa Sonam Rapten and Gushri Khan"@en ;
 	tolo:credit "Potala Palace"^^xsd:string ;
 	.
 
@@ -44477,13 +44011,13 @@ told:_IntellectualProperty_uploads_person_7297_damcho__macdonald_page_181_jpeg
 
 told:_IntellectualProperty_uploads_person_7305_phugtal_stonba_lhakhang_late15th_early16thc_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Phugtal_stonba lhakhang late15th_early16thC"@en ;
+	skos:prefLabel "Phugtal stonba lhakhang late15th early16thC"@en ;
 	tolo:credit "Rob Linrothe"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_7305_saspol_cave_2_16thc_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Saspol Cave 2_16thC"@en ;
+	skos:prefLabel "Saspol Cave 2 16thC"@en ;
 	tolo:credit "Rob Linrothe"^^xsd:string ;
 	.
 
@@ -44584,7 +44118,7 @@ told:_IntellectualProperty_uploads_person_7545_monk_1206_jpg
 
 told:_IntellectualProperty_uploads_person_7551_orgyen_tendzin_norbu_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Orgyen_Tendzin_Norbu"@en ;
+	skos:prefLabel "Orgyen Tendzin Norbu"@en ;
 	tolo:credit "Tertön Sogyal Trust"^^xsd:string ;
 	.
 
@@ -44686,7 +44220,7 @@ told:_IntellectualProperty_uploads_person_7637_795_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_7641_dsc_1090_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "DSC_1090 (1)"@en ;
+	skos:prefLabel "DSC 1090 (1)"@en ;
 	tolo:credit "Xavier Hazenbosch"^^xsd:string ;
 	.
 
@@ -44704,7 +44238,7 @@ told:_IntellectualProperty_uploads_person_7673_795_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_7676_dragons_gift_4th_je_damcho_pekar_sm_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar_sm"@en ;
+	skos:prefLabel "Dragon's Gift 4th Je Damcho Pekar sm"@en ;
 	tolo:credit "Dragon's Gift, p. , Shuzo Uemoto, photographer"^^xsd:string ;
 	.
 
@@ -44728,7 +44262,7 @@ told:_IntellectualProperty_uploads_person_7719_953_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_7732_dola_jigme_kalzang_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Dola_Jigme_Kalzang"@en ;
+	skos:prefLabel "Dola Jigme Kalzang"@en ;
 	tolo:credit "W1KG6249"^^xsd:string ;
 	.
 
@@ -45027,7 +44561,7 @@ told:_IntellectualProperty_uploads_person_8156_kachen_lochen_zotpa_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_8177_fullsizeoutput_2ad_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "fullsizeoutput_2ad"@en ;
+	skos:prefLabel "fullsizeoutput 2ad"@en ;
 	tolo:credit "Stéphane Arguillère"^^xsd:string ;
 	.
 
@@ -45113,7 +44647,7 @@ told:_IntellectualProperty_uploads_person_8354_lodro_gyeltsen_jpeg
 
 told:_IntellectualProperty_uploads_person_8355_jigme_norbu_sm_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Jigme Norbu_sm"@en ;
+	skos:prefLabel "Jigme Norbu sm"@en ;
 	tolo:credit "Ariana Maki"^^xsd:string ;
 	.
 
@@ -45464,7 +44998,7 @@ told:_IntellectualProperty_uploads_person_8651_ktl_closeup_jpg
 
 told:_IntellectualProperty_uploads_person_8651_ktl_njp_on_teaching_thrones_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "KTL_NJP_on_Teaching_Thrones"@en ;
+	skos:prefLabel "KTL NJP on Teaching Thrones"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_8651_tare_lhamo_jpg
@@ -45511,7 +45045,7 @@ told:_IntellectualProperty_uploads_person_8750_dorje_lingpa_shechen_1234_jpg
 
 told:_IntellectualProperty_uploads_person_8752_jf_blo_grags_1_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "jf_blo grags_1"@en ;
+	skos:prefLabel "jf blo grags 1"@en ;
 	tolo:credit "Jonang Foundation"^^xsd:string ;
 	.
 
@@ -45560,12 +45094,12 @@ told:_IntellectualProperty_uploads_person_8825_dilgo_khyentse_photo_jpg
 
 told:_IntellectualProperty_uploads_person_8825_dilgokhyentse_37_detail_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "DilgoKhyentse_37_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 37 detail"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_8825_dilgokhyentse_38_detail_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "DilgoKhyentse_38_detail"@en ;
+	skos:prefLabel "DilgoKhyentse 38 detail"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_8857_melong_dorje_shechen_43_jpg
@@ -45663,13 +45197,13 @@ told:_IntellectualProperty_uploads_person_8923_shanton_tashi_dorje_shechen_979_j
 
 told:_IntellectualProperty_uploads_person_8928_wp84b84ec6_05_06_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "wp84b84ec6_05_06"@en ;
+	skos:prefLabel "wp84b84ec6 05 06"@en ;
 	tolo:credit "http://www.thefournobletruths.org/milarepa_khenpo_"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_8964_shes_rab_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Shes_rab"@en ;
+	skos:prefLabel "Shes rab"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_8972_penor_rinpoche_at_namdroling_jpeg
@@ -45983,7 +45517,7 @@ told:_IntellectualProperty_uploads_person_9254_953_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_9278_baggi__hr___dsc_0641_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Baggi_ HR_ ©DSC_0641"@en ;
+	skos:prefLabel "Baggi  HR  ©DSC 0641"@en ;
 	tolo:credit "Baggi"^^xsd:string ;
 	.
 
@@ -46151,7 +45685,7 @@ told:_IntellectualProperty_uploads_person_9572_1164_repa_jpg
 
 told:_IntellectualProperty_uploads_person_9574_drime_kunga_larger_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Drime Kunga_Larger"@en ;
+	skos:prefLabel "Drime Kunga Larger"@en ;
 	tolo:credit "Rnying ma rgyud 'bum, vol. 30, f. 3"^^xsd:string ;
 	.
 
@@ -46210,7 +45744,7 @@ told:_IntellectualProperty_uploads_person_9601_80190__zhenpen_taye_jpg
 
 told:_IntellectualProperty_uploads_person_9612_80188_do_khyentse_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "80188_do_khyentse"@en ;
+	skos:prefLabel "80188 do khyentse"@en ;
 	gist:isIdentifiedBy told:_ID_har_80188 ;
 	.
 
@@ -46228,7 +45762,7 @@ told:_IntellectualProperty_uploads_person_9618_52848981_lhalung_palgyi_dorje_jpg
 
 told:_IntellectualProperty_uploads_person_9622_khenpo_shenga_jpeg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khenpo_Shenga"@en ;
+	skos:prefLabel "Khenpo Shenga"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_9624_52848972_denma_tsemang_jpg
@@ -46342,13 +45876,13 @@ told:_IntellectualProperty_uploads_person_9761_picture4_jpg
 
 told:_IntellectualProperty_uploads_person_9764_kagyutulku_3_papyuk_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "KagyuTulku_3_Papyuk"@en ;
+	skos:prefLabel "KagyuTulku 3 Papyuk"@en ;
 	tolo:credit "Marlene Erschbamer"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_9764_kagyutulku_3_tsangek_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "KagyuTulku_3_Tsangek"@en ;
+	skos:prefLabel "KagyuTulku 3 Tsangek"@en ;
 	tolo:credit "Marlene Erschbamer"^^xsd:string ;
 	.
 
@@ -46360,7 +45894,7 @@ told:_IntellectualProperty_uploads_person_9788_493_lama_ngawang_drakpa_jpg
 
 told:_IntellectualProperty_uploads_person_9789_493_jangchub_sengge_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "493_Jangchub_Sengge"@en ;
+	skos:prefLabel "493 Jangchub Sengge"@en ;
 	gist:isIdentifiedBy told:_ID_har_493 ;
 	.
 
@@ -46402,7 +45936,7 @@ told:_IntellectualProperty_uploads_person_9884_953stupa_jpg
 
 told:_IntellectualProperty_uploads_person_9895_khenpo_ngakchung_2_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khenpo_Ngakchung_2"@en ;
+	skos:prefLabel "Khenpo Ngakchung 2"@en ;
 	.
 
 told:_IntellectualProperty_uploads_person_9895_ngawang_pelzang_jpeg
@@ -46418,7 +45952,7 @@ told:_IntellectualProperty_uploads_person_9923_795_stupa_jpg
 
 told:_IntellectualProperty_uploads_person_9929_khenpo_munsel_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "Khenpo_Munsel"@en ;
+	skos:prefLabel "Khenpo Munsel"@en ;
 	tolo:credit "http://www.rigpawiki.org/"^^xsd:string ;
 	.
 
@@ -46490,13 +46024,13 @@ told:_IntellectualProperty_uploads_person_9990_chokyi_lodro_15528_jpg
 
 told:_IntellectualProperty_uploads_person_9990_im_121_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "im_121"@en ;
+	skos:prefLabel "im 121"@en ;
 	tolo:credit "Shechen"^^xsd:string ;
 	.
 
 told:_IntellectualProperty_uploads_person_9990_im_177_jpg
 	a gist:IntellectualProperty ;
-	skos:prefLabel "im_177"@en ;
+	skos:prefLabel "im 177"@en ;
 	tolo:credit "Shechen"^^xsd:string ;
 	.
 
