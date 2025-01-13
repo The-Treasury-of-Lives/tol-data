@@ -5324,10 +5324,10 @@ told:_FormattedContent_Source_70_491
 	gist:isExpressedIn media-txt:html ;
 	.
 
-told:_FormattedContent_Source_70_493-495.
+told:_FormattedContent_Source_70_493-495
 	a gist:FormattedContent ;
 	gist:containedText "<p>Gyurme Dorje. 2004. <em>Tibet Handbook</em>. Bath: Footprint, pp. 493-495.</p>"^^xsd:string ;
-	gist:isAbout told:_Text_70_493-495. ;
+	gist:isAbout told:_Text_70_493-495 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -11444,7 +11444,7 @@ told:_Place_899
 told:_Place_9
 	rdfs:seeAlso
 		told:_Text_123_65 ,
-		told:_Text_70_493-495.
+		told:_Text_70_493-495
 		;
 	.
 
@@ -13607,7 +13607,7 @@ told:_Text_57_403-404
 
 told:_Text_5_367
 	a gist:Text ;
-	skos:prefLabel "Chab spel tshe brtan phun tshogs, mi 'gyur rdo rje. 1991. bod kyi gal che'i lo rgyus yig cha bdams bsgrigs. lha sa: bod ljongs mi dmangs dpe skrun khang, p. 367."^^xsd:string ;
+	skos:prefLabel "Chab spel tshe brtan phun tshogs, mi 'gyur rdo rje. 1991. bod kyi gal che'i lo rgyus yig cha bdams bsgrigs. lha sa: bod ljongs mi dmangs dpe skrun khang."^^xsd:string ;
 	gist:isPartOf told:_ContentExpression_5 ;
 	tolo:pageNumbers "367"^^xsd:string ;
 	.
@@ -14466,11 +14466,11 @@ told:_Text_70_491
 	tolo:pageNumbers "491"^^xsd:string ;
 	.
 
-told:_Text_70_493-495.
+told:_Text_70_493-495
 	a gist:Text ;
 	skos:prefLabel "Gyurme Dorje. 2004.Tibet Handbook. Bath: Footprint."^^xsd:string ;
 	gist:isPartOf told:_ContentExpression_70 ;
-	tolo:pageNumbers "493-495."^^xsd:string ;
+	tolo:pageNumbers "493-495"^^xsd:string ;
 	.
 
 told:_Text_70_495
