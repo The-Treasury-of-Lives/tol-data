@@ -26,9 +26,9 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # Wylie Lineage Name
 # Lineage Tibetan Name
 # Lineage Chinese Name
-# Lineage Variant Names English (semi-colon-delimited list)
-# Lineage Variant Names Tibetan (semi-colon-delimited list)
-# Lineage Variant Names Wylie (semi-colon-delimited list)
+# Lineage Variant Names English (semicolon-delimited list)
+# Lineage Variant Names Tibetan (semicolon-delimited list)
+# Lineage Variant Names Wylie (semicolon-delimited list)
 
 # Run:
 # tarql -e utf-8 --dedup 50000 monastery_lineages.tq monastery-lineages-8-1-24.csv > tolMonasteryLineages.ttl

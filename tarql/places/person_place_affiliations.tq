@@ -17,7 +17,7 @@ PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 ## Columns
-# community_id
+# community_id (semicolon + space-delimited list)
 # person_id
 
 # Run:
@@ -39,7 +39,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?community_id)) AS ?place_iri)
 
     OPTIONAL {
-        ?person apf:strSplit(?person_id "; ") 
+        ?person apf:strSplit(?person_id "; ")
     }
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?person)) AS ?person_iri)
 

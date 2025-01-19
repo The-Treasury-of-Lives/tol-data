@@ -25,7 +25,7 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 # Wylie Name
 # Tibetan
 # Chinese
-# Founder TOL ID (may be multiple: semi-colon + space-delimited list)
+# Founder TOL ID (may be multiple: semicolon + space-delimited list)
 # Parent TOL ID
 # Description
 
