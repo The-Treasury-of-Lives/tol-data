@@ -1,0 +1,566 @@
+@prefix bdo: <http://purl.bdrc.io/ontology/core/> .
+@prefix bdr: <http://purl.bdrc.io/resource/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gist: <https://w3id.org/semanticarts/ns/ontology/gist/> .
+@prefix media-image: <https://www.iana.org/assignments/media-types/image/> .
+@prefix media-txt: <https://www.iana.org/assignments/media-types/text/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix told: <https://w3id.org/treasuryoflives/ns/data/tol/> .
+@prefix tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/> .
+@prefix tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+told:_Biography_10019
+	tolo:isSponsoredBy told:_Biography_Sponsor_11 ;
+	.
+
+told:_Biography_10203
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_10355
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_10373
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_11158
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_11231
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_11290
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_11385
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_11428
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12171
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12180
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12479
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12500
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12553
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12613
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12741
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12742
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12743
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12745
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_12839
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13246
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13248
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13249
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13597
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13598
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13612
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13613
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13615
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13616
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_13625
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13647
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13653
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13654
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13659
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13666
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13677
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13679
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13683
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13684
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13686
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13687
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13692
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13693
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13694
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13697
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13698
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13699
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13700
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13701
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13702
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13703
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13704
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13707
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13708
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13718
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13719
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13720
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13721
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13722
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13723
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13724
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13725
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13745
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13747
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13748
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13749
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13750
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13787
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13788
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13789
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13790
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13791
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13793
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13794
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13795
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13796
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13797
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13798
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13803
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13806
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13809
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13811
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13816
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_13828
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2069
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2418
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2424
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2541
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2945
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_2953
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_3152
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_3770
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_3822
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_3955
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_4310
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_4476
+	tolo:isSponsoredBy told:_Biography_Sponsor_11 ;
+	.
+
+told:_Biography_4820
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_5894
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_7007
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_7297
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_7881
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_7882
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_7929
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_8
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_8507
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_8906
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_8972
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_9047
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_9105
+	tolo:isSponsoredBy told:_Biography_Sponsor_11 ;
+	.
+
+told:_Biography_9172
+	tolo:isSponsoredBy told:_Biography_Sponsor_5 ;
+	.
+
+told:_Biography_9289
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_9301
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_9343
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_9688
+	tolo:isSponsoredBy told:_Biography_Sponsor_11 ;
+	.
+
+told:_Biography_9983
+	tolo:isSponsoredBy told:_Biography_Sponsor_6 ;
+	.
+
+told:_Biography_Sponsor_11
+	a gist:Organization ;
+	skos:prefLabel "Jnanasukha Foundation"@en ;
+	gist:hasAddress told:_ElectronicAddress_https___www_jnanasukha_org ;
+	gist:name "Jnanasukha Foundation"@en ;
+	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_422b1_jnanasukha_logo_jpg ;
+	.
+
+told:_Biography_Sponsor_5
+	a gist:Organization ;
+	skos:prefLabel "Khyentse Foundation"@en ;
+	gist:hasAddress told:_ElectronicAddress_https___khyentsefoundation_org ;
+	gist:name "Khyentse Foundation"@en ;
+	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_d002f_white_lion_blue_jpg ;
+	.
+
+told:_Biography_Sponsor_6
+	a gist:Organization ;
+	skos:prefLabel "National Endowment for the Humanities"@en ;
+	gist:hasAddress told:_ElectronicAddress_https___www_neh_gov ;
+	gist:name "National Endowment for the Humanities"@en ;
+	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_86b82_neh_preferred_seal820_jpg ;
+	.
+
+told:_ElectronicAddress_https___khyentsefoundation_org
+	a gist:ElectronicAddress ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
+	tolo:url "https://khyentsefoundation.org/"^^xsd:anyURI ;
+	.
+
+told:_ElectronicAddress_https___www_jnanasukha_org
+	a gist:ElectronicAddress ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
+	tolo:url "https://www.jnanasukha.org/"^^xsd:anyURI ;
+	.
+
+told:_ElectronicAddress_https___www_neh_gov
+	a gist:ElectronicAddress ;
+	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
+	tolo:url "https://www.neh.gov/"^^xsd:anyURI ;
+	.
+
+told:_FormattedContent_Biography_Sponsor_11
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Founded in 2002 by Lama Dechen Yeshe Wangmo, Jnanasukha Foundation focuses on the Wisdom Dakini, Yeshe Tsogyal, and the Dudjom New Treasures of the Nyingma tradition of Tibetan Vajrayana Buddhism.</p>"""@en ;
+	gist:isAbout told:_Biography_Sponsor_11 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_Sponsor_5
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	In 2017, The Treasury of Lives received an Ashoka Grant from the <a href="https://khyentsefoundation.org/">Khyentse Foundation</a>, a nonprofit organization founded in 2001 by Dzongsar Khyentse Rinpoche to support all traditions of Buddhist study and practice. Khyentse Foundation&#39;s support enabled the publication of ten biographies of Buddhist women from the Tibetan cultural region. In 2018, ten peer-reviewed biographies were added to the site.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Biography_Sponsor_5 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Biography_Sponsor_6
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	The National Endowment for the Humanities Collections and Reference Resources (Division of Preservation and Access) awarded The Treasury of Lives an 18-month (2017-2019) grant to support planning for the long-term sustainability of The Treasury of Lives. The planning project supported enhancements in data management, editorial standards, refinement of dynamic map and geodata, search optimization and public engagement for the online encyclopedia.</p>
+<p>
+	The National Endowment for the Humanities Collections and Reference Resources (Division of Preservation and Access) awarded The Treasury of Lives a 3-year (2020-2023) implementation grant for the expansion of encyclopedia content and redevelopment of its technical infrastructure to implement the principles of linked open data.</p>
+<p>
+	Any views, findings, conclusions, or recommendations expressed do not necessarily represent those of the National Endowment for the Humanities.</p>"""@en ;
+	gist:isAbout told:_Biography_Sponsor_6 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_Image_uploads_sponsors_422b1_jnanasukha_logo_jpg
+	a tolo:Image ;
+	skos:prefLabel "Jnanasukha Foundation"@en ;
+	tolo:filePath "422b1-jnanasukha-logo.jpg"^^xsd:string ;
+	.
+
+told:_Image_uploads_sponsors_86b82_neh_preferred_seal820_jpg
+	a tolo:Image ;
+	skos:prefLabel "National Endowment for the Humanities"@en ;
+	tolo:filePath "86b82-NEH-Preferred-Seal820.jpg"^^xsd:string ;
+	.
+
+told:_Image_uploads_sponsors_d002f_white_lion_blue_jpg
+	a tolo:Image ;
+	skos:prefLabel "Khyentse Foundation"@en ;
+	tolo:filePath "d002f-white-lion-blue.jpg"^^xsd:string ;
+	.
+
