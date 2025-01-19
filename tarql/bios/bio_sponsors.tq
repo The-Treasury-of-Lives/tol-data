@@ -68,13 +68,14 @@ WHERE {
   # Testing
   # FILTER(?ROWNUM = 1)
 
-  FILTER(BOUND(?person_id))
+  FILTER(BOUND(?sponsor_url) || BOUND(?sponsor_description) || BOUND(?image_path) || BOUND(?person_id))
 
-  BIND(tarql:expandPrefixedName(CONCAT("told:_Biography_Sponsor_", ?sponsor_id)) AS ?sponsor_iri)
+  BIND(REPLACE(REPLACE(?sponsor_name, "&", "and"), "\\W+", "_") AS ?sponsor_local_name)
+  BIND(tarql:expandPrefixedName(CONCAT("told:_Organization_", ?sponsor_local_name)) AS ?sponsor_iri)
   BIND(STRLANG(?sponsor_name, "en") AS ?sponsor_name_en)
 
   # Sponsor description
-  BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Biography_Sponsor_", ?sponsor_id)) AS ?sponsor_description_iri)
+  BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Organization_", ?sponsor_local_name)) AS ?sponsor_description_iri)
   BIND(STRLANG(?sponsor_description, "en") AS ?sponsor_description_en)
 
   # Sponsored biographies
