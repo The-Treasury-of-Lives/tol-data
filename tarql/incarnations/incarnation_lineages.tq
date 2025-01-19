@@ -29,7 +29,7 @@ PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 # Tibetan --?tibetan_name
 # Chinese -- ?chinese_name
 # BDRC G ID -- monastery ID -- ignore (owl:sameAs will come from institution data)
-# TOL G ID -- ?monastery_iri (may be multiple)
+# TOL G ID -- ?monastery_iri (may be multiple: semi-colon + space-delimited list)
 # description -- ?html_description_iri
 
 # Run:
