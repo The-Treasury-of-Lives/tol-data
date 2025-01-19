@@ -89,7 +89,7 @@ WHERE {
 
     # Use image file path for IRIs to ensure uniqueness
     BIND(LCASE(REPLACE(REPLACE(REPLACE(?complete_file_path, "^/", ""), "['()]", ""), "\\W", "_")) AS ?file_path)
-    #BIND(LCASE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\W", "_")) AS ?filenanme)
+    # BIND(LCASE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\W", "_")) AS ?filenanme)
     # BIND(LCASE(REPLACE(REPLACE(REPLACE(?image_file_name, "['()]", ""), "\\.[^.]+$", ""), "\\W", "_")) AS ?filename)
     BIND(tarql:expandPrefixedName(CONCAT("told:_Image_", ?file_path)) AS ?image_file_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_IntellectualProperty_", ?file_path)) AS ?work_iri)

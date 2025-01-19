@@ -26,11 +26,11 @@ PREFIX wiki: <https://www.wikidata.org/wiki/>
 # Tibetan
 # Birth year
 # Birth year approximate
-# Birth year alternate
+# Birth year alternate (comma + space-delimited list)
 # Birth century
 # Death year
 # Death year approximate
-# Death year alternate
+# Death year alternate (comma + space-delimited list)
 # Death century
 # Gender
 # Display name English

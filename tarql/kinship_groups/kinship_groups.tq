@@ -23,17 +23,17 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # Wylie
 # Tibetan
 # Chinese
-# En Name Variants
-# Wylie Name Variants
-# Tibetan Name Variants
+# En Name Variants (semi-colon + space-delimited list)
+# Wylie Name Variants (semi-colon + space-delimited list)
+# Tibetan Name Variants (semi-colon + space-delimited list)
 # Family Type Id (ignore)
 # Family Type
 # Family Type Wylie
 # Family Type Chinese
 # Lhasa Aristocracy Type English
-# Lhasa Aristocracy Type Wylie (ignore)
-# Lhasa Aristocracy Type Tibetan (ignore)
-# Lhasa Aristocracy Type Chinese (ignore)
+# Lhasa Aristocracy Type Wylie (ignore - comes from vocabulary)
+# Lhasa Aristocracy Type Tibetan (ignore - comes from vocabulary)
+# Lhasa Aristocracy Type Chinese (ignore - comes from vocabulary)
 # Description
 # BDRC ID
 # Members
@@ -77,7 +77,7 @@ CONSTRUCT {
 WHERE {
 
     # Testing
-    # FILTER(?ROWNUM IN (150, 151))
+    # FILTER(?ROWNUM IN (1))
 
     BIND(REPLACE(?TOL_ID, "TOL", "") AS ?tol_id)
     BIND(tarql:expandPrefixedName(CONCAT("told:_KinshipGroup_", ?tol_id)) AS ?kinship_group_iri)
@@ -111,12 +111,9 @@ WHERE {
     BIND(STRLANG(?tibetan_name_variant, "bo-x-ewts") AS ?name_variant_tibetan)
 
     # Kinship group type
-    OPTIONAL {
-        ?lhasa_type apf:strSplit(?Lhasa_Aristocracy_Type_English "; ")
-    }
     BIND(
         COALESCE(
-            IF(BOUND(?lhasa_type), LCASE(?lhasa_type), ?unbound),
+            IF(BOUND(?Lhasa_Aristocracy_Type_English), LCASE(?Lhasa_Aristocracy_Type_English), ?unbound),
             IF(BOUND(?Family_Type), LCASE(REPLACE(?Family_Type, " ", "_")), ?unbound)
     ) AS ?kinship_group_type)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_KinshipGroupType_", ?kinship_group_type)) AS ?kinship_group_type_iri)

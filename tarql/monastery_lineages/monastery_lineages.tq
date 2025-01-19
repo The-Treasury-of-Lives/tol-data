@@ -1,5 +1,5 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
-PREFIX bdr: <http://purl.bdrc.io/resource/> 
+PREFIX bdr: <http://purl.bdrc.io/resource/>
 PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -14,10 +14,10 @@ PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/> 
-PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/> 
+PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
+PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 
-## COLUMNS 
+## COLUMNS
 # Lineage ID
 # Role
 # BDRC ROLE ID (ignore - will get same as with roles)
@@ -26,30 +26,30 @@ PREFIX relators: <ttp://id.loc.gov/vocabulary/relators/>
 # Wylie Lineage Name
 # Lineage Tibetan Name
 # Lineage Chinese Name
-# Lineage Variant Names English
-# Lineage Variant Names Tibetan
-# Lineage Variant Names Wylie
+# Lineage Variant Names English (semi-colon-delimited list)
+# Lineage Variant Names Tibetan (semi-colon-delimited list)
+# Lineage Variant Names Wylie (semi-colon-delimited list)
 
 # Run:
 # tarql -e utf-8 --dedup 50000 monastery_lineages.tq monastery-lineages-8-1-24.csv > tolMonasteryLineages.ttl
 
 CONSTRUCT {
 
-    ?monastery_lineage_iri 
+    ?monastery_lineage_iri
         a tolo:MonasteryLineage ;
-        skos:prefLabel 
+        skos:prefLabel
             ?pref_label_en ,
             ?pref_label_wylie ,
             ?pref_label_tibetan ,
             ?pref_label_chinese ;
-        skos:altLabel 
+        skos:altLabel
             ?alt_label_en ,
             ?alt_label_wylie ,
             ?alt_label_tibetan ;
         tolo:primaryName
             ?pref_label_en ,
             ?pref_label_wylie ,
-            ?pref_label_tibetan , 
+            ?pref_label_tibetan ,
             ?pref_label_chinese ;
         tolo:nameVariant
             ?alt_label_en ,
@@ -69,7 +69,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_MonasteryLineage_", ?Lineage_ID)) AS ?monastery_lineage_iri)
 
     # Role
-    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Role_", LCASE(REPLACE(?Role, " ", "_")))) AS ?role_iri)  
+    BIND(tarql:expandPrefixedName(CONCAT("tolx:_Role_", LCASE(REPLACE(?Role, " ", "_")))) AS ?role_iri)
 
     # Monastery
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?Lineage_Place_ID)) AS ?monastery_iri)
@@ -81,21 +81,21 @@ WHERE {
     BIND(STRLANG(?Lineage_Chinese_Name, "zh-Hani") AS ?pref_label_chinese)
 
     # # Variant names - no data yet
-    # # English 
+    # # English
     # OPTIONAL {
-    #     ?en_variant apf:strSplit(?Lineage_Variant_Names_English ";") 
+    #     ?en_variant apf:strSplit(?Lineage_Variant_Names_English ";")
     # }
     # BIND(STRLANG(?en_variant, "en") AS ?alt_label_en)
 
     # # Wylie
     # OPTIONAL {
-    #     ?wylie_variant apf:strSplit(?Lineage_Variant_Names_Wylie ";") 
+    #     ?wylie_variant apf:strSplit(?Lineage_Variant_Names_Wylie ";")
     # }
     # BIND(STRLANG(?wylie_variant, "bo-x-ewts") AS ?alt_label_wylie)
 
     # # Tibetan
     # OPTIONAL {
-    #     ?tibetan_variant apf:strSplit(?Lineage_Variant_Names_Tibetan ";") 
+    #     ?tibetan_variant apf:strSplit(?Lineage_Variant_Names_Tibetan ";")
     # }
     # BIND(STRLANG(?tibetan_variant, "bo") AS ?alt_label_tibetan)
 
