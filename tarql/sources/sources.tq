@@ -85,7 +85,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)) AS ?place_iri)
 
     # If there are page numbers, the source is a text object that is part of a content expression object. Otherwise, the source is the full content expression object.
-    # Note: articles in journal entries are being modeled as a single content expression. Ultimately we would want to parse these into separate objects.
+    # Note: articles in journal entries are being modeled as a single content expression. Ultimately we would want to parse these into separate objects for the journal and article, and possibly even separate the journal and journal volume.
     BIND(IF(BOUND(?TOL_Source_location_ID), ?TOL_Source_location_ID, ?TOL_Source_ID) AS ?source_id)
     BIND(IF(BOUND(?TOL_Source_location_ID), "Text", "ContentExpression") AS ?source_class)
     BIND(tarql:expandPrefixedName(CONCAT("gist:", ?source_class)) AS ?source_class_iri)
@@ -93,7 +93,7 @@ WHERE {
     BIND(IF(BOUND(?TOL_Source_location_ID), tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)), ?unbound) AS ?full_work_iri)
     BIND(COALESCE(?full_work_iri, ?source_iri) AS ?work_iri)
 
-    # If the source is an excerpt of the work, add page numbers to the work's pref label to get the text pref label.
+    # If the source is an excerpt of the work, add the page numbers to the work's pref label to get the text pref label.
     BIND(
         COALESCE(
             IF(?source_class = "Text" && CONTAINS(?Pages, "-"), "pp.", ?unbound),
