@@ -38,7 +38,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # creator_tol_id
 # type
 # century
-# tradition_id (semi-colon + space-delimited list)
+# tradition_id (semicolon + space-delimited list)
 # tol_place_id (ignore)
 
 # Run:

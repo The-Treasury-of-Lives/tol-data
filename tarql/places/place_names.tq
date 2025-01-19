@@ -22,14 +22,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # wylie_name
 # tibetan
 # chinese_name
-# en_variants (semi-colon-delimited list)
-# bo_x_ewts_variants (semi-colon-delimited list)
-# zh_hani_variants (semi-colon-delimited list)
-# sa_iast_variants (semi-colon-delimited list)
-# sa_deva_variants (semi-colon-delimited list)
-# ru_cyrl_variants (semi-colon-delimited list)
-# mn_cyrl_variants (semi-colon-delimited list)
-# mn_mong_variants (semi-colon-delimited list)
+# en_variants (semicolon-delimited list)
+# bo_x_ewts_variants (semicolon-delimited list)
+# zh_hani_variants (semicolon-delimited list)
+# sa_iast_variants (semicolon-delimited list)
+# sa_deva_variants (semicolon-delimited list)
+# ru_cyrl_variants (semicolon-delimited list)
+# mn_cyrl_variants (semicolon-delimited list)
+# mn_mong_variants (semicolon-delimited list)
 
 # Run:
 # tarql -e utf-8 --dedup 50000 place_names.tq place-names-w-variants-5-29-24.csv > tolPlaceNames.ttl

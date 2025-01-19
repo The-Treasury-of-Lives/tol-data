@@ -23,7 +23,7 @@ PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 # sponsor_description
 # image_file_name (ignore)
 # image_path
-# person_id (semi-colon-delimited list)
+# person_id (semicolon-delimited list)
 
 # Run:
 # tarql -e utf-8 --dedup 1000 bio_sponsors.tq bio-sponsor-1-9-25.csv > tolBioSponsors.ttl

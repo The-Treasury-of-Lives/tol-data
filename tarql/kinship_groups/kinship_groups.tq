@@ -23,9 +23,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # Wylie
 # Tibetan
 # Chinese
-# En Name Variants (semi-colon + space-delimited list)
-# Wylie Name Variants (semi-colon + space-delimited list)
-# Tibetan Name Variants (semi-colon + space-delimited list)
+# En Name Variants (semicolon + space-delimited list)
+# Wylie Name Variants (semicolon + space-delimited list)
+# Tibetan Name Variants (semicolon + space-delimited list)
 # Family Type Id (ignore)
 # Family Type
 # Family Type Wylie
