@@ -36,7 +36,7 @@ PREFIX viaf: <https://viaf.org/viaf/>
 # url other
 
 # Run:
-# tarql -e utf-8 --dedup 50000 sources.tq place-sources-12-19-24.csv > tolSources.ttl
+# tarql -e utf-8 --dedup 50000 sources.tq place-sources-12-19-24.csv > tolPlaceSources.ttl
 
 # Note: This TARQL may or may not be usable for bio sources as well. Need to see data.
 
@@ -48,7 +48,7 @@ CONSTRUCT {
         a ?source_class_iri ;
         skos:prefLabel ?text_pref_label ;
         tolo:pageNumbers ?Pages ;
-        gist:isPartOf ?full_work_iri ;
+        gist:isPartOf ?full_instance_iri ;
         .
 
     ?display_text_iri
@@ -58,7 +58,7 @@ CONSTRUCT {
         gist:isExpressedIn media-txt:html ;
         .
 
-    ?work_iri
+    ?instance_iri
         a gist:ContentExpression ;
         skos:prefLabel ?Source ;
         rdfs:seeAlso ?url ;
@@ -84,16 +84,16 @@ WHERE {
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?PLACE_ID)) AS ?place_iri)
 
-    # If there are page numbers, the source is a text object that is part of a content expression object. Otherwise, the source is the full content expression object.
+    # If there are page numbers, the source is a text object that is part of a content expression object (BIBFRAME Instance). Otherwise, the source is the full content expression object.
     # Note: articles in journal entries are being modeled as a single content expression. Ultimately we would want to parse these into separate objects for the journal and article, and possibly even separate the journal and journal volume.
     BIND(IF(BOUND(?TOL_Source_location_ID), ?TOL_Source_location_ID, ?TOL_Source_ID) AS ?source_id)
     BIND(IF(BOUND(?TOL_Source_location_ID), "Text", "ContentExpression") AS ?source_class)
     BIND(tarql:expandPrefixedName(CONCAT("gist:", ?source_class)) AS ?source_class_iri)
     BIND(tarql:expandPrefixedName(CONCAT("told:_", ?source_class, "_", ?source_id)) AS ?source_iri)
-    BIND(IF(BOUND(?TOL_Source_location_ID), tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)), ?unbound) AS ?full_work_iri)
-    BIND(COALESCE(?full_work_iri, ?source_iri) AS ?work_iri)
+    BIND(IF(BOUND(?TOL_Source_location_ID), tarql:expandPrefixedName(CONCAT("told:_ContentExpression_", ?TOL_Source_ID)), ?unbound) AS ?full_instance_iri)
+    BIND(COALESCE(?full_instance_iri, ?source_iri) AS ?instance_iri)
 
-    # If the source is an excerpt of the work, add the page numbers to the work's pref label to get the text pref label.
+    # If the source is an excerpt from the instance, add the page numbers to the instance's pref label to get the text pref label.
     BIND(
         COALESCE(
             IF(?source_class = "Text" && CONTAINS(?Pages, "-"), "pp.", ?unbound),
