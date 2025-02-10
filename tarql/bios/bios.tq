@@ -37,9 +37,9 @@ CONSTRUCT {
         gist:containedText ?bio_text_en ;
 	    gist:isExpressedIn media-txt:html ;
         gist:isCategorizedBy ?peer_reviewed_category ;
-        tolo:hasStatement
-            ?relative_author_statement ,
-            ?student_author_statement ;
+        gist:refersTo
+            ?relative_author_disclosure ,
+            ?student_author_disclosure ;
         tolo:hasSummary ?summary_iri ;
         tolo:hasSourceStatement ?source_statement_iri ;
         .
@@ -74,8 +74,8 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_FormattedContent_Biography_SourceStatement_", ?person_id)) AS ?source_statement_iri)
     BIND(STRLANG(?sources, "en") AS ?source_statement_en)
 
-    BIND(IF(?relative_statement = "1", told:_AuthorStatement_relative, ?unbound) AS ?relative_author_statement)
-    BIND(IF(?student_statement = "1", told:_AuthorStatement_student, ?unbound) AS ?student_author_statement)
+    BIND(IF(?relative_statement = "1", told:_AuthorDisclosure_relative, ?unbound) AS ?relative_author_disclosure)
+    BIND(IF(?student_statement = "1", told:_AuthorDisclosure_student, ?unbound) AS ?student_author_disclosure)
 
     BIND(IF(?peer_reviewed = "1", "peer_reviewed", "not_peer_reviewed") AS ?peer_reviewed_value)
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_PeerReviewStatus_", ?peer_reviewed_value)) AS ?peer_reviewed_category)
