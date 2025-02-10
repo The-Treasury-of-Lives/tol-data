@@ -8375,8 +8375,8 @@ told:_Biography_12981
 	gist:isAbout told:_Person_12981 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_student ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_12981 ;
-	tolo:hasStatement told:_AuthorStatement_student ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_12981 ;
 	.
 
@@ -15469,7 +15469,7 @@ told:_Biography_13614
 <p>
 	A satirical song then became popular using word-play to mock Norbu for acting as a common spy (Tibetan: '<em>so pa</em>'), playing on his earlier title 'Nangso ('border protector'), on his name Norbu ('jewel'), on the Zhabdrung's renown as a magician as the lama in the south and finally on Bhutan's precious vertebrae relic of the <a href=\"/biographies/view/First-Drukchen-Tsangpa-Gyare-Yeshe-Dorje/TBRC_P909\">First Drukchen Tsangpa Gyare Yeshe Dorje</a> (gtsang pa rgya ras ye shes rdo rje, 1161-1211), brought from Tibet by the Zhabdrung:</p>
 <p>
-	The lama must be residing in the south,  For all offerings were made to the south. The Drukpas have captured Ngodrub;  Norbu has worked as a spy.</p>
+	The lama must be residing in the south, For all offerings were made to the south.The Drukpas have captured Ngodrub; Norbu has worked as a spy.</p>
 <p>
 	Here the \"offerings\" refers to armor and weapons, and \"Ngodrub\" (<em>dngos grub</em>), the name of one of the commanders means \"yogic powers.\"</p>
 <p>
@@ -16164,8 +16164,8 @@ told:_Biography_13648
 	gist:isAbout told:_Person_13648 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_relative ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13648 ;
-	tolo:hasStatement told:_AuthorStatement_relative ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_13648 ;
 	.
 
@@ -20894,8 +20894,8 @@ told:_Biography_13805
 	gist:isAbout told:_Person_13805 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_relative ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13805 ;
-	tolo:hasStatement told:_AuthorStatement_relative ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_13805 ;
 	.
 
@@ -23896,8 +23896,8 @@ told:_Biography_13884
 	gist:isAbout told:_Person_13884 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_student ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_13884 ;
-	tolo:hasStatement told:_AuthorStatement_student ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_13884 ;
 	.
 
@@ -35645,8 +35645,8 @@ told:_Biography_40
 	gist:isAbout told:_Person_40 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_student ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_40 ;
-	tolo:hasStatement told:_AuthorStatement_student ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_40 ;
 	.
 
@@ -41145,7 +41145,7 @@ told:_Biography_5527
 <p>
 	The text contains many Mahāmudrā lines of argument about the baselessness of ordinary appearances and grasping. For example, in verse 50 we find a well-known Mahāmudrā metaphor of emptiness of the mind found even at the heart of deluded afflictions being \"like the tracks of birds flying through the sky.\"<a href=\"#_ftn6\" name=\"_ftnref6\" title=\"\">[6]</a> The next verse continues to demonstrate how an understanding of emptiness unravels the afflictions of attachment and anger:</p>
 <p style=\"margin-left: 40px;\">
-	 In this [perceptual] domain so praised,<br />
+	In this [perceptual] domain so praised,<br />
 	As like a dream, a sound, a rainbow,<br />
 	To what is there to be attached?<br />
 	Likewise, toward what is there anger and apprehension?<a href=\"#_ftn7\" name=\"_ftnref7\" title=\"\">[7]</a></p>
@@ -55906,8 +55906,8 @@ told:_Biography_9278
 	gist:isAbout told:_Person_9278 ;
 	gist:isCategorizedBy tolx:_PeerReviewStatus_peer_reviewed ;
 	gist:isExpressedIn media-txt:html ;
+	gist:refersTo told:_AuthorDisclosure_student ;
 	tolo:hasSourceStatement told:_FormattedContent_Biography_SourceStatement_9278 ;
-	tolo:hasStatement told:_AuthorStatement_student ;
 	tolo:hasSummary told:_FormattedContent_Biography_Summary_9278 ;
 	.
 
