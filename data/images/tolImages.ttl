@@ -2964,13 +2964,13 @@ told:_IntellectualProperty_1
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:description "A painting of Tsongkapa, founder of the Geluk tradition, with the two principal students, Gyaltsab on the left and Khedrub on the right."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_59 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_595 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -2978,13 +2978,13 @@ told:_IntellectualProperty_10
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Damarupa"@en ;
 	gist:description "Damarupa and Avadhutipa, two Indian siddhas. On the left is the siddha Damarupa holding upraised in his right hand a damaru drum and a skullcup in the left. On the viewer's right is Avadhutipa holding a skullcup to the heart with the left hand and pointing downwards with the right hand."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_946 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Damarupa"@en ;
 	.
 
@@ -2992,13 +2992,13 @@ told:_IntellectualProperty_100
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Machik Labdron"@en ;
 	gist:description "Nineteenth-century painting of Machik Labdron as a wisdom dakini."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_57037 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Machik Labdron"@en ;
 	.
 
@@ -3006,13 +3006,13 @@ told:_IntellectualProperty_101
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Machik Labdron and Chod Refuge Field"@en ;
 	gist:description "Mid-twentieth-century painting of Machik Labdron and the Chod refuge field displaying teachers and deities."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_79 ,
 		told:_Tradition_37
 		;
 	gist:isIdentifiedBy told:_ID_har_223 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Machik Labdron and Chod Refuge Field"@en ;
 	.
 
@@ -3020,10 +3020,10 @@ told:_IntellectualProperty_102
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava - Guru Drakpo"@en ;
 	gist:description "This twentieth-century painting depicts Padmasambhava in wrathful form as Guru Drakpo, in the treasure tradition of Padmasambhava biographer Nyangrel Nyima Wozer."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_Tradition_1 ;
 	gist:isIdentifiedBy told:_ID_har_9 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava - Guru Drakpo"@en ;
 	.
 
@@ -3031,13 +3031,13 @@ told:_IntellectualProperty_103
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namkhai Nyingpo"@en ;
 	gist:description "Namkhai Nyingpo, one of the twenty-five disciples of Padmasambhava, is depicted with long-life ritual implements. Other details of this nineteenth-century painting from Kham suggest a elements from Jamgon Kongtrul's story of Namkhai Nyingpo and Dorje Tso."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_678 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Namkhai Nyingpo"@en ;
 	.
 
@@ -3045,13 +3045,13 @@ told:_IntellectualProperty_104
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:description "Ivory sculpture of Avalokiteśvara attributed to the Tenth Karmapa, Choying Dorje, dated to 1647/1648 or 1658."@en ;
-	gist:hasPhysicalLocation told:_Collection_cleveland_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_65 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_31668 ;
+	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
 	gist:name "Avalokiteśvara"@en ;
 	tolo:hasCreator told:_Person_2662 ;
 	.
@@ -3060,13 +3060,13 @@ told:_IntellectualProperty_105
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pehar Gyelpo"@en ;
 	gist:description "The protector deity Pehar Gyelpo is depicted with three Geluk masters above."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_213 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Pehar Gyelpo"@en ;
 	.
 
@@ -3074,13 +3074,13 @@ told:_IntellectualProperty_107
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Bodhisattva with Atisa and Dromton"@en ;
 	gist:description "This eighteenth-century painting of a bodhisattva depicts Atiśa and Kadam founder Dromton on the top (left and right). Tara and Jambala are pictured along the bottom. Dromton is considered an emanation of Padmapani Avalokiteśvara, who is the central figure in this image according to some sources. However, the presence of a sword and book suggests that the central figure is Mañjuśrī."@en ;
-	gist:hasPhysicalLocation told:_Collection_cleveland_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_70 ,
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59247 ;
+	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
 	gist:name "Bodhisattva with Atisa and Dromton"@en ;
 	.
 
@@ -3088,12 +3088,12 @@ told:_IntellectualProperty_108
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Atiśa"@en ;
 	gist:description "This painting of Atiśa is from the early to mid twelfth century and features extensive inscriptions on the reverse side."@en ;
-	gist:hasPhysicalLocation told:_Collection_the_metropolitan_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_45 ,
 		told:_Tradition_4
 		;
+	gist:isMemberOf told:_Collection_the_metropolitan_museum_of_art ;
 	gist:name "Atiśa"@en ;
 	.
 
@@ -3101,7 +3101,6 @@ told:_IntellectualProperty_109
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Preaching Śākyamuni"@en ;
 	gist:description "This prayer card dating to around the year 1000 is from Toling in Western Tibet. It depicts Śākyamuni Buddha in a preaching posture."@en ;
-	gist:hasPhysicalLocation told:_Collection_cleveland_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_41 ,
@@ -3109,6 +3108,7 @@ told:_IntellectualProperty_109
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59217 ;
+	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
 	gist:name "Preaching Śākyamuni"@en ;
 	.
 
@@ -3116,13 +3116,13 @@ told:_IntellectualProperty_11
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sanggye Sengge"@en ;
 	gist:description "Sanggye Sengge, the eleventh throne holder of Ngor Ewam Monastery."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_60 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_493 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sanggye Sengge"@en ;
 	.
 
@@ -3139,9 +3139,9 @@ told:_IntellectualProperty_114
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
 	gist:description "This letter from the Tibetan Government in Exile documents Lobsang Phuntsok Lhalungpa's role in cultural preservation activities of the early exile government."@en ;
-	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
@@ -3149,9 +3149,9 @@ told:_IntellectualProperty_115
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
 	gist:description "A letter certifying Lobsang Phunstok Lhalungpa's employment and exemplary service as a teacher at St. Joseph's College in Darjeeling."@en ;
-	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
@@ -3159,9 +3159,9 @@ told:_IntellectualProperty_116
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
 	gist:description "A receipt dated September 9, 1965 documenting the dispersal of funds to the Sakya Trizin and the Sakya Settlement at Dehra Dun, by Lobsang P. Lhalungpa on behalf of the Tibet Society of United Kingdom."@en ;
-	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_75 ;
+	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
 	.
 
@@ -3193,13 +3193,13 @@ told:_IntellectualProperty_119
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Avalokiteśvara"@en ;
 	gist:description "This sixteenth-century thangka of Avalokiteśvara depicts the Tsembu teaching lineage, named for Tsembupa, one of the five great systems of Avalokiteśvara practice in Tibet. This system is well preserved in Geluk and Sakya traditions."@en ;
-	gist:hasPhysicalLocation told:_Collection_the_metropolitan_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_86433 ;
+	gist:isMemberOf told:_Collection_the_metropolitan_museum_of_art ;
 	gist:name "Avalokiteśvara"@en ;
 	tolo:credit "Trungpa, Chögyam. 1975. Visual Dharma: The Buddhist Art of Tibet. United Kingdom: Shambhala Publications."^^xsd:string ;
 	.
@@ -3208,13 +3208,13 @@ told:_IntellectualProperty_12
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Two Lineal Lamas"@en ;
 	gist:description "Two men, Kunkhyen and Jamyang Chokyi Gyalpo. This painting is from a set of compositions that appears based on similar paintings identified as a Sakya Lamdre lineage set. The secondary lineage that starts at the top left and proceeds down the right and left registers is possibly the Prajñāparamitā ineage beginning with Śākyamuni Buddha."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_457 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Two Lineal Lamas"@en ;
 	.
 
@@ -3241,9 +3241,9 @@ told:_IntellectualProperty_122
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Officials at Hastings House"@en ;
 	gist:description "Officials at Hastings House in Calcutta, 1910."@en ;
-	gist:hasPhysicalLocation told:_Collection_world_museum_liverpool ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isMemberOf told:_Collection_world_museum_liverpool ;
 	gist:name "Officials at Hastings House"@en ;
 	tolo:hasCreator told:_Person_charles_bell ;
 	.
@@ -3265,9 +3265,9 @@ told:_IntellectualProperty_124
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	gist:description "Dasang Damdul Tsarong and his wife Pema Dolkar during Losar, 1937."@en ;
-	gist:hasPhysicalLocation told:_Collection_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isMemberOf told:_Collection_the_pitt_rivers_museum ;
 	gist:name "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	tolo:credit 'The Tibet Album. "Tsarong and Pema Dolkar at home at New Year" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_frederick_spencer_chapman ;
@@ -3288,13 +3288,13 @@ told:_IntellectualProperty_126
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
 	gist:description "This twentieth-century painting of the Sixteenth Karmapa depicts Shakyamuni Buddha in the upper register and Kagyu masters below."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_77 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_858 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
 	.
 
@@ -3302,13 +3302,13 @@ told:_IntellectualProperty_127
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	gist:description "Lobzang Chokyi Gyeltsen, the first person to hold the title of Paṇchen Lama, is pictured in this eighteenth-century painting, with Maitreya to the right enveloped in a rainbow. The upper left depicts Cakrasaṃvara and to the right is Paṇchen Lama's teacher Khedrub Sanggye Yeshe. The lower left shows Vaiśravaṇa, with Begtse Chen to the right."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_477 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	.
 
@@ -3325,13 +3325,13 @@ told:_IntellectualProperty_13
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sangye Sengge"@en ;
 	gist:description "Sanggye Sengge, the eleventh throne holder of Ngor Ewam Monastery is the main figure in this work, created between 1550 and 1560. It is in the Menri style with Beri elements."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_63 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_96 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sangye Sengge"@en ;
 	.
 
@@ -3363,10 +3363,10 @@ told:_IntellectualProperty_132
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
 	gist:description "Avalokiteśvara with one thousand hands and eleven faces in the nyungne tradition of Gelongma Pelmo with Geluk lineage teachers of Tashilhunpo Monastery."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_40 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
 	.
 
@@ -3374,9 +3374,9 @@ told:_IntellectualProperty_133
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tibetan Primer"@en ;
 	gist:description "1962 Tibetan Primer written by Lobsang Phuntsok Lhalungpa on behalf of the Fourteenth Dalai Lama in collaboration with Khendrung Tubten Norzang, Dzeme Rinpoche, Dudjom Rinpoche, Thartse Khen Rinpoche, Rato Kyongla Rinpoche, and published by Kundeling Woser Gyeltsen."@en ;
-	gist:hasPhysicalLocation told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Tibetan Primer"@en ;
 	.
 
@@ -3393,13 +3393,13 @@ told:_IntellectualProperty_136
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rahula and Retinue"@en ;
 	gist:description "Rahula, wrathful protector of the the treasure tradition, is depicted with various masters in a nineteenth-century painting from Kham."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65864 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Rahula and Retinue"@en ;
 	.
 
@@ -3407,13 +3407,13 @@ told:_IntellectualProperty_15
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jetsun Drakpa Gyaltsen"@en ;
 	gist:description "Drakpa Gyaltsen and Sakya Pandita, uncle and nephew, teacher and student surrounded by the lineage kings of Shambhala. This composition belongs to a larger set of paintings depicting the Lamdre lineage of the Sakya tradition of Tibetan Buddhism in a two figure per composition configuration."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_57 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_580 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Jetsun Drakpa Gyaltsen"@en ;
 	.
 
@@ -3421,13 +3421,13 @@ told:_IntellectualProperty_16
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shangton Chobar"@en ;
 	gist:description "Shangton Chobar with Sachen Kunga Nyingpo on the middle left, Sonam Tsemo on the right."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_63 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Shangton Chobar"@en ;
 	.
 
@@ -3435,13 +3435,13 @@ told:_IntellectualProperty_17
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sakya Pandita Kunga Gyaltsen"@en ;
 	gist:description "A Sakya lineage painting."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_935 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sakya Pandita Kunga Gyaltsen"@en ;
 	.
 
@@ -3449,13 +3449,13 @@ told:_IntellectualProperty_18
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:description "Tsongkhapa, founder of the Geluk tradition, with the two principal students, Gyaltsab on the left and Khedrubje on the right."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_76 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -3463,13 +3463,13 @@ told:_IntellectualProperty_19
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Six Kagyu Teachers With Lineage"@en ;
 	gist:description "An important early Kagyu painting, possibly the earliest known depiction of the First Karmapa. The lineage depicted is likely the Shri Saraha Hevajra that passed into Tibet through Zhang Yudrakpa."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_53 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_89141 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Six Kagyu Teachers With Lineage"@en ;
 	.
 
@@ -3477,13 +3477,13 @@ told:_IntellectualProperty_2
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
 	gist:description "Pañjarnata Mahākāla is the protector of the Hevajra cycle of Tantras. The iconography and rituals are found in the eighteenth chapter of the Vajra Pañjara (\"canopy,\" or \"pavilion\") Tantra, an exclusive 'explanatory tantra' to Hevajra itself. It is dated to the late fourteenth or early fifteenth century."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_56 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_82 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
@@ -3519,13 +3519,13 @@ told:_IntellectualProperty_22
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Early Karmapa with footprints"@en ;
 	gist:description "The footprints of an early Karmapa, probably the first, Dusum Khyenpa, together with a portrait and the eight auspicious symbols."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_48 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_508 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Early Karmapa with footprints"@en ;
 	.
 
@@ -3533,13 +3533,13 @@ told:_IntellectualProperty_24
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	gist:description "Cakrasaṃvara, Sahaja Heruka, with the footprints of Drigungpa Rinchen Pel."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_49 ,
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_65205 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	.
 
@@ -3547,13 +3547,13 @@ told:_IntellectualProperty_25
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pakmodrupa Dorje Gyelpo"@en ;
 	gist:description "Pakmodrupa Dorje Gyelpo. One of the three principal students of Gampopa and teacher to many patriarchs of Kagyu sub-traditions."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_49 ,
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65461 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Pakmodrupa Dorje Gyelpo"@en ;
 	.
 
@@ -3575,13 +3575,13 @@ told:_IntellectualProperty_28
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sakya Lotsawa with his teachers"@en ;
 	gist:description "Sakya Lotsawa Jampai Dorje, the Twenty-Third Sakya Tridzin."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_89148 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sakya Lotsawa with his teachers"@en ;
 	.
 
@@ -3589,13 +3589,13 @@ told:_IntellectualProperty_29
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Karma Kagyu Refuge Field"@en ;
 	gist:description "Karma Kagyu Field of Accumulation painting with the Fifteenth Karmapa, Kakyab Dorje, as the last lineage holder at the time of the compositions creation."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_78 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65861 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Karma Kagyu Refuge Field"@en ;
 	.
 
@@ -3603,13 +3603,13 @@ told:_IntellectualProperty_3
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mahakala - Panjarnata"@en ;
 	gist:description "Mahākāla surrounded by the stylized flames of pristine awareness and emanating forth from the licks of flame are messengers in the shapes of various animals, black crows, black dogs, wolves, black men and women."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_57 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_642 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
@@ -3617,13 +3617,13 @@ told:_IntellectualProperty_30
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Tsongkhapa"@en ;
 	gist:description "A very early -- possibly the earliest known -- portrait of Tsongkhapa narrating his life story."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_57 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_410 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -3631,13 +3631,13 @@ told:_IntellectualProperty_31
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gampopa together with early Drukpa Kagyu masters"@en ;
 	gist:description 'A magnificent eighteenth-century painting depicting Gampopa with a number of early Drukpa Kagyu masters, including early abbots of Ralung Monastery and several of the "Nine Incomparable Lions."'@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_276 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Gampopa together with early Drukpa Kagyu masters"@en ;
 	.
 
@@ -3645,13 +3645,13 @@ told:_IntellectualProperty_32
 	a gist:IntellectualProperty ;
 	skos:prefLabel "The Seventh Dalai Lama with previous incarnations"@en ;
 	gist:description "The Seventh Dalai Lama, Kelzang Gyatso, along with a selection of the previous incarnations according to the Book of Kadam."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_380 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "The Seventh Dalai Lama with previous incarnations"@en ;
 	.
 
@@ -3659,7 +3659,6 @@ told:_IntellectualProperty_33
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pakmodrupa"@en ;
 	gist:description "Pakmodrupa Dorje Gyelpo, one of the three principal students of Gampopa."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_53 ,
@@ -3667,6 +3666,7 @@ told:_IntellectualProperty_33
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65119 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Pakmodrupa"@en ;
 	.
 
@@ -3674,13 +3674,13 @@ told:_IntellectualProperty_34
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:description "The style of this painting is known as tseltang, a red background with fine gold lines forming the shapes of the subject deities. Only the eyes are filled with white and black pigments."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_285 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3688,13 +3688,13 @@ told:_IntellectualProperty_35
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:description "An early image of Padmasambhava with Nyangrel Nyima Wozer and masters of various traditions, including Padampa Sanggye."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_49 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_160 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3702,13 +3702,13 @@ told:_IntellectualProperty_36
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Namkha Pelzang and a Naro Chodruk lineage"@en ;
 	gist:description "This eighteenth-century painting of Namkha Pelzang, the twelfth abbot of Ralung Monastery, belongs to a set of Ralung patriarchs. Two other paintings belonging to the set can be seen on Himalayan Art Resources."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65193 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Namkha Pelzang and a Naro Chodruk lineage"@en ;
 	.
 
@@ -3716,13 +3716,13 @@ told:_IntellectualProperty_37
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Gampopa and Karmapa"@en ;
 	gist:description "This sixteenth-century painting depicts two founding patriarchs of the Karma Kagyu school, Gampopa Sonam Rinchen and Dusum Khyenpa, later known as the First Karmapa."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_536 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Gampopa and Karmapa"@en ;
 	.
 
@@ -3730,13 +3730,13 @@ told:_IntellectualProperty_39
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Wangdu Nyingpo and other masters"@en ;
 	gist:description "Wangdu Nyinpo was the Twenty-Ninth Sakya Tridzin. This painting gives visual representation to his previous incarnations, which include Padmasambhava, and some of his disciples."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_412 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Wangdu Nyingpo and other masters"@en ;
 	.
 
@@ -3744,13 +3744,13 @@ told:_IntellectualProperty_40
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
 	gist:description "This sixteenth-century painting shows the Drigung founder, Jikten Gonpo, with two men who stood at the beginning of the two main incarnation lines at monastery, the Drigung Chetsang and the Drigung Chungtsang."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_1034 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
 	.
 
@@ -3758,13 +3758,13 @@ told:_IntellectualProperty_42
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Portrait of Drenpa Namkha"@en ;
 	gist:description "Nineteenth-century portrait of the Bon master Drenpa Namkha surrounded by deities and lineage masters."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_72
 		;
 	gist:isIdentifiedBy told:_ID_har_65401 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Portrait of Drenpa Namkha"@en ;
 	.
 
@@ -3772,13 +3772,13 @@ told:_IntellectualProperty_43
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drukpa Kagyu Lineage of Bhutan"@en ;
 	gist:description "Nineteenth-century painting of the Drukpa Kagyu lineage of Bhutan."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65249 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Drukpa Kagyu Lineage of Bhutan"@en ;
 	.
 
@@ -3786,13 +3786,13 @@ told:_IntellectualProperty_44
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Drukpa Kagyu and Kagyu Lineages"@en ;
 	gist:description "Eighteenth-century thangka of Drukpa Kagyu and Kagyu lineage masters."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_362 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Drukpa Kagyu and Kagyu Lineages"@en ;
 	.
 
@@ -3800,7 +3800,6 @@ told:_IntellectualProperty_46
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Episodes from the Life of Milarepa"@en ;
 	gist:description "This nineteenth-century painting of Milarepa is possibly a copy of an original from Pelpung Monastery. A representative of the Situ style, it exemplifies the types of paintings commissioned by Situ Paṇchen and his circle."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
@@ -3808,6 +3807,7 @@ told:_IntellectualProperty_46
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_921 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Episodes from the Life of Milarepa"@en ;
 	.
 
@@ -3815,13 +3815,13 @@ told:_IntellectualProperty_48
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Third Pawo Tsuklak Gyatso"@en ;
 	gist:description "An exceptional painting of the Third Nenang Pawo surrounded by hierarchs of the Karma Kagyu and other traditions. The size of the hand and footprints suggest that they are stylized rather than actual prints."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_65 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_825 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Third Pawo Tsuklak Gyatso"@en ;
 	.
 
@@ -3829,10 +3829,10 @@ told:_IntellectualProperty_49
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Śākyaśrībhadra"@en ;
 	gist:description "An eighteenth-century painting of the Indian master Śākyaśrībhadra."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_69 ;
 	gist:isIdentifiedBy told:_ID_har_142 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Śākyaśrībhadra"@en ;
 	.
 
@@ -3840,13 +3840,13 @@ told:_IntellectualProperty_5
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
 	gist:description "A painting of Sachen Kunga Nyingpo."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65789 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
@@ -3864,13 +3864,13 @@ told:_IntellectualProperty_51
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava"@en ;
 	gist:description "This eighteenth-century painting features Padmasambhava surrounded by his consorts Yeshe Tsogyel and Mandarava. Below are Śāntarakṣita; and Trisong Detsen."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_188 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3878,10 +3878,10 @@ told:_IntellectualProperty_52
 	a gist:IntellectualProperty ;
 	skos:prefLabel "The Demoness of Tibet"@en ;
 	gist:description "The Demoness of Tibet is a close copy of a well-known image located in the Tibet Museum in Lhasa. The landscape of Tibet is shown as the mythical demoness of Tibetan legend. Important Buddhist temples and monasteries are located across her body, spanning from the Ngari region in the west to Kham in the east."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_65719 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "The Demoness of Tibet"@en ;
 	.
 
@@ -3901,13 +3901,13 @@ told:_IntellectualProperty_54
 	a gist:IntellectualProperty ;
 	skos:prefLabel "The First Dorje Drak Rigdzin"@en ;
 	gist:description "A nineteenth-century painting featuring the First Dorje Drak Rigdzin, Rigdzin Godemchen Ngodrub Gyeltsen, a Nyingma treasure revealer who discovered the Jangter, or Northern Treasures."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_53 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1066 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "The First Dorje Drak Rigdzin"@en ;
 	.
 
@@ -3915,7 +3915,6 @@ told:_IntellectualProperty_55
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Puchungwa Zhonnu Gyelsten"@en ;
 	gist:description "An eighteenth-century painting of Puchungwa Zhonnu Gyeltsen with Rinchen Zangpo."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
@@ -3923,6 +3922,7 @@ told:_IntellectualProperty_55
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_376 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Puchungwa Zhonnu Gyelsten"@en ;
 	.
 
@@ -3930,7 +3930,6 @@ told:_IntellectualProperty_56
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
 	gist:description "This late eighteenth- or early twentieth-century Drigung Kagyu painting of Padmasambhava and the Drigung Kagyu refuge field is associated with a treasure tradition of Rinchen Puntsok. Drigung Monastery is pictured along the bottom of the painting along with Terdrom on the left edge. A nearby treasure site is shown adjacent to Terdrom."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_76 ,
@@ -3938,6 +3937,7 @@ told:_IntellectualProperty_56
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_413 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
 	.
 
@@ -3975,13 +3975,13 @@ told:_IntellectualProperty_6
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
 	gist:description "Ngorchen Kunga Zangpo, the founder of the Ngor Branch of the Sakya tradition."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_59 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_134 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
@@ -4009,9 +4009,9 @@ told:_IntellectualProperty_62
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Surkhang Wangchen Gelek"@en ;
 	gist:description "Surkhang Wangchen Gelek, who became a Kalon of the Tibetan government at the age of thirty-three."@en ;
-	gist:hasPhysicalLocation told:_Collection_the_pitt_rivers_museum ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
+	gist:isMemberOf told:_Collection_the_pitt_rivers_museum ;
 	gist:name "Surkhang Wangchen Gelek"@en ;
 	tolo:credit 'The Tibet Album. "Wangchen Geleg Surkhang, Phuntsog Rabgye Ragashar" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_hugh_e_richardson ;
@@ -4052,10 +4052,10 @@ told:_IntellectualProperty_66
 	a gist:IntellectualProperty ;
 	skos:prefLabel "A sculpture of Lowo Khenchen"@en ;
 	gist:description "A cast bronze sculpture of the sixteenth-century Ngor master Lowo Khenchen Sonam Lhundrub."@en ;
-	gist:hasPhysicalLocation told:_Collection_philadelphia_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo told:_Tradition_7 ;
 	gist:isIdentifiedBy told:_ID_har_87137 ;
+	gist:isMemberOf told:_Collection_philadelphia_museum_of_art ;
 	gist:name "A sculpture of Lowo Khenchen"@en ;
 	.
 
@@ -4063,13 +4063,13 @@ told:_IntellectualProperty_67
 	a gist:IntellectualProperty ;
 	skos:prefLabel "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	gist:description "This painting shows major sites of Lhasa including the Jokhang, Potala Palace and Lukhang. The monasteries of Sera, Drepung, and Sangpu Neutok are also pictured. It is possible that the image depicts activities during Losar festivities."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_77 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65848 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	.
 
@@ -4077,13 +4077,13 @@ told:_IntellectualProperty_68
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	gist:description "An eighteenth-century painting of The Fifth Dalai Lama pictured with major scenes from his life."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65275 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	.
 
@@ -4091,9 +4091,9 @@ told:_IntellectualProperty_69
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Perspective Drawing of Lhasa"@en ;
 	gist:description "This drawing shows Lhasa before 1950 from an elevated perspective. The highly detailed representation shows many major monasteries and landmarks of Lhasa."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_knud_larsen ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
+	gist:isMemberOf told:_Collection_collection_of_knud_larsen ;
 	gist:name "Perspective Drawing of Lhasa"@en ;
 	tolo:credit "Larsen, Knud and Sinding-Larsen, Amund. 2001. The Lhasa Atlas: Traditional Tibetan Architecture and Townscape. Kiribati: Serindia."^^xsd:string ;
 	.
@@ -4102,13 +4102,13 @@ told:_IntellectualProperty_7
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Ngorchen Kunga Zangpo"@en ;
 	gist:description "Ngorchen Kunga Zangpo at the left and his successor Muchen Sempa Chenpo Konchok Gyaltsen sitting on the right, surrounded by lineage teachers."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_59 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_128 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
@@ -4146,13 +4146,13 @@ told:_IntellectualProperty_73
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Khedrubje Gelek Pelzang"@en ;
 	gist:description "To the left, Khedrupje is depicted while thinking of his great teacher, Tsongkhapa, who appears above him on a cloud. On the middle right, Khedrubje is making an offering to Tsongkhapa. On the lower right, Khedrubje is seated while editing a manuscript."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_56 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Khedrubje Gelek Pelzang"@en ;
 	.
 
@@ -4160,7 +4160,6 @@ told:_IntellectualProperty_74
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Third Karmapa and Lineage Masters"@en ;
 	gist:description "A unique image made with ink shows Buddhist masters from multiple traditions. The style is considered unusual and has been associated with the Tenth Karmapa."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
@@ -4169,6 +4168,7 @@ told:_IntellectualProperty_74
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65562 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Third Karmapa and Lineage Masters"@en ;
 	.
 
@@ -4176,13 +4176,13 @@ told:_IntellectualProperty_77
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Milarepa"@en ;
 	gist:description "An eighteenth-century scuplture of Milarepa from Tibet, carved of stone."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_700037 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Milarepa"@en ;
 	.
 
@@ -4190,13 +4190,13 @@ told:_IntellectualProperty_78
 	a gist:IntellectualProperty ;
 	skos:prefLabel "The Eighth Tatsak"@en ;
 	gist:description "A nineteenth-century painting from Tibet of the Eighth Tatsak with prominent Geluk figures."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65916 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "The Eighth Tatsak"@en ;
 	.
 
@@ -4213,13 +4213,13 @@ told:_IntellectualProperty_8
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Buddhashri"@en ;
 	gist:description "Buddhashri surrounded by the lineage teachers of the Yogachara tradition of Buddhist philosophy. He was the principal teacher of Ngorchen Kunga Zangpo, the founder of the Ngor branch of the Sakya tradition."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_58 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_269 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Buddhashri"@en ;
 	.
 
@@ -4227,13 +4227,13 @@ told:_IntellectualProperty_80
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Rigdzin Kunzang Sherab"@en ;
 	gist:description "An eighteenth-century painting of Rigdzin Kunzang Sherab, the founder of Pelyul monastery, surrounded by deities and Nyingma masters."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_777 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Rigdzin Kunzang Sherab"@en ;
 	.
 
@@ -4241,13 +4241,13 @@ told:_IntellectualProperty_81
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Shakyamuni Buddha"@en ;
 	gist:description "The central figure of Shakyamuni Buddha is shown with Tsongkhapa and primary disciples in the upper left corner. Below are protector deities."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_39 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Shakyamuni Buddha"@en ;
 	.
 
@@ -4255,13 +4255,13 @@ told:_IntellectualProperty_82
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Machik Labdron"@en ;
 	gist:description "This nineteenth-century painting depicts Machik Labdron with tantric deities and mahasiddhas."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_619 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Machik Labdron"@en ;
 	.
 
@@ -4269,13 +4269,13 @@ told:_IntellectualProperty_83
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava with Jigme Lingpa and Disciples"@en ;
 	gist:description "This eighteenth-century painting depicts Padmasambhava as a monk surrounded by several disciples and Jigme Lingpa above his head."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_12 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava with Jigme Lingpa and Disciples"@en ;
 	.
 
@@ -4283,13 +4283,13 @@ told:_IntellectualProperty_84
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Mahakala with Four Hands"@en ;
 	gist:description "The central figure of Mahakala is depicted with historical figures including Nāgārjuna and Ga Lotsāwa, as well as masters of the Drukpa Kagyu lineage."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_453 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Mahakala with Four Hands"@en ;
 	.
 
@@ -4297,13 +4297,13 @@ told:_IntellectualProperty_85
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Three Sisters"@en ;
 	gist:description "The Three Sisters were Indian deities brought into the Tibetan pantheon initially in the eleventh century by the Sakya translator Bari Lotsawa Rinchen Drak and later through treasure revelation."@en ;
-	gist:hasPhysicalLocation told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1047 ;
+	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Three Sisters"@en ;
 	.
 
@@ -4331,13 +4331,13 @@ told:_IntellectualProperty_89
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Go Lotsawa Khukpa Lhetse"@en ;
 	gist:description "The important translator Go Khukpa Lhetse is the central figure of this nineteenth-century painting, with Atiśa depicted above."@en ;
-	gist:hasPhysicalLocation <https://w3id.org/treasuryoflives/ns/data/tol/_Collection_tibet_house_museum,_new_delhi> ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_71925 ;
+	gist:isMemberOf <https://w3id.org/treasuryoflives/ns/data/tol/_Collection_tibet_house_museum,_new_delhi> ;
 	gist:name "Go Lotsawa Khukpa Lhetse"@en ;
 	.
 
@@ -4345,13 +4345,13 @@ told:_IntellectualProperty_9
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Lhachok Sengge"@en ;
 	gist:description 'An ivory statue of Lhachok Sengge. The inscription on the base of the statue reads "rgyal ba lha mchog seng ge."'@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_61 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65232 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Lhachok Sengge"@en ;
 	.
 
@@ -4359,13 +4359,13 @@ told:_IntellectualProperty_90
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Do Khyentse Yeshe Dorje"@en ;
 	gist:description "This nineteenth-century painting depicts the central figure of Do Khyentse Yeshe Dorje with previous Nyingma masters above."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_300 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Do Khyentse Yeshe Dorje"@en ;
 	.
 
@@ -4373,13 +4373,13 @@ told:_IntellectualProperty_91
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Śākyamuni Buddha with Geluk Masters"@en ;
 	gist:description "This eighteenth-century painting depicts Śākyamuni Buddha with primordial buddha Vajradhara, bodhisattvas Maitreya and Mañjuśrī, and multiple Geluk masters."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_309 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Śākyamuni Buddha with Geluk Masters"@en ;
 	.
 
@@ -4387,13 +4387,13 @@ told:_IntellectualProperty_93
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Pema Karpo"@en ;
 	gist:description "This nineteenth-century painting from Bhutan shows Pema Karpo surrounded by deities and Buddhist masters Marpa, Milarepa, and Marpa. The primordial buddha Vajradhara is pictured above the central figure."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_615 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Pema Karpo"@en ;
 	.
 
@@ -4401,13 +4401,13 @@ told:_IntellectualProperty_94
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Sachen Kunga Nyingpo"@en ;
 	gist:description "A fifteenth-century painting of Sachen Kunga Nyingpo, the Third Sakya Trizin and son of Khon Konchok Gyelpo."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_57 ,
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_944 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
@@ -4415,13 +4415,13 @@ told:_IntellectualProperty_95
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
 	gist:description "Avalokiteśvara Jinasagara is depicted at center with meditation deities immediately surrounding: Hayagrīva (left), Guhyajñāna (right), Siddharajni (center top), Mahākāla (center bottom). On the uppermost level is Milarepa on the left, Marpa in the center, and Gampopa on the right."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_696 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
 	.
 
@@ -4429,13 +4429,13 @@ told:_IntellectualProperty_97
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava as Pema Jungne"@en ;
 	gist:description "A nineteenth-century painting of Padmasambhava as Pema Jungne depicts his disciple Sokpo Pelgyi Yeshe in the lower left corner."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65094 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava as Pema Jungne"@en ;
 	.
 
@@ -4443,13 +4443,13 @@ told:_IntellectualProperty_98
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Padmasambhava as Sengge Dradok"@en ;
 	gist:description "This Nyingma painting of Padmasambhava as Sengge Dradok shows Yeshe Tsogyel in the lower right corner."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_69 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_633 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Padmasambhava as Sengge Dradok"@en ;
 	.
 
@@ -4457,13 +4457,13 @@ told:_IntellectualProperty_99
 	a gist:IntellectualProperty ;
 	skos:prefLabel "Jatson Nyingpo"@en ;
 	gist:description "Nineteenth-century painting of Jatson Nyingpo from eastern Tibet depicts the prolific treasure revealer wearing monks robes."@en ;
-	gist:hasPhysicalLocation told:_Collection_rubin_museum_of_art ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo
 		told:_HistoricalPeriod_73 ,
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1035 ;
+	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
 	gist:name "Jatson Nyingpo"@en ;
 	.
 
