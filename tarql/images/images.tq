@@ -72,7 +72,7 @@ CONSTRUCT {
             ?place_iri ;
         gist:isCategorizedBy ?work_type_iri ;
         gist:isIdentifiedBy ?har_number_iri ;
-        gist:hasPhysicalLocation ?collection_iri ;
+        gist:isMemberOf ?collection_iri ;
         tolo:hasCreator ?creator_iri ;
         tolo:credit ?credit ;
         .
