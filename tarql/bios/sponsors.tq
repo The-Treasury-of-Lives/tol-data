@@ -71,7 +71,7 @@ WHERE {
   FILTER(BOUND(?sponsor_url) || BOUND(?sponsor_description) || BOUND(?image_path) || BOUND(?person_id))
 
   BIND(REPLACE(REPLACE(?sponsor_name, "&", "and"), "\\W+", "_") AS ?sponsor_local_name)
-  BIND(tarql:expandPrefixedName(CONCAT("told:_Sponsor_", ?sponsor_local_name)) AS ?sponsor_iri)
+  BIND(tarql:expandPrefixedName(CONCAT("told:_Organization_", ?sponsor_local_name)) AS ?sponsor_iri)
   BIND(STRLANG(?sponsor_name, "en") AS ?sponsor_name_en)
 
   # Sponsor description
