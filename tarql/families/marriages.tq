@@ -1,9 +1,7 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
 PREFIX bdr: <http://purl.bdrc.io/resource/>
-PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
+PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -12,8 +10,8 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX told: <https://w3id.org/treasuryoflives/ns/data/tol/>
 PREFIX tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/>
 PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
+PREFIX viaf: <https://viaf.org/viaf/>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 
@@ -79,7 +77,7 @@ WHERE {
     BIND(
         COALESCE(
             IF(?is_junior_for_wife = "1", "junior", ?unbound),
-            IF(?is_senior_for_wife = "1", "senior", ?unbound)            
+            IF(?is_senior_for_wife = "1", "senior", ?unbound)
         ) AS ?wife_status
     )
     # The purpose of the status assignment object is to be able to add dates to the status, though currently these don't exist in the data.
@@ -90,7 +88,7 @@ WHERE {
     BIND(
         COALESCE(
             IF(?is_junior_for_husband = "1", "junior", ?unbound),
-            IF(?is_senior_for_husband = "1", "senior", ?unbound)            
+            IF(?is_senior_for_husband = "1", "senior", ?unbound)
         ) AS ?husband_status
     )
     # The purpose of the status assignment object is to be able to add dates to the status, though currently these don't exist in the data.
@@ -104,11 +102,11 @@ WHERE {
     # Start year
     BIND(
         COALESCE(
-            IF(REGEX(?start, "^\\d{4}$"), ?start, ?unbound), 
+            IF(REGEX(?start, "^\\d{4}$"), ?start, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?start, "^\\d{3}$"), CONCAT("0", ?start), ?unbound),
             ?unbound
-        ) 
+        )
         AS ?start_year
     )
 
@@ -118,20 +116,20 @@ WHERE {
     BIND(
         COALESCE(
             IF(BOUND(?start_year) && ?start_approximate = "1", "tolo:approximateStartYear", ?unbound),
-            IF(BOUND(?start_year), "gist:actualStartYear", ?unbound),  
-            ?unbound              
+            IF(BOUND(?start_year), "gist:actualStartYear", ?unbound),
+            ?unbound
         ) AS ?start_predicate
     )
-    BIND(tarql:expandPrefixedName(?start_predicate) AS ?start_predicate_iri)   
+    BIND(tarql:expandPrefixedName(?start_predicate) AS ?start_predicate_iri)
 
 
     # End year
     BIND(
         COALESCE(
-            IF(REGEX(?end, "^\\d{4}$"), ?end, ?unbound), 
+            IF(REGEX(?end, "^\\d{4}$"), ?end, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?end, "^\\d{3}$"), CONCAT("0",?start), ?unbound)
-        ) 
+        )
         AS ?end_year
     )
 
@@ -141,11 +139,11 @@ WHERE {
     BIND(
         COALESCE(
             IF(BOUND(?end_year) && ?end_approximate = "1", "tolo:approximateEndYear", ?unbound),
-            IF(BOUND(?end_year), "gist:actualEndYear", ?unbound),  
-            ?unbound              
+            IF(BOUND(?end_year), "gist:actualEndYear", ?unbound),
+            ?unbound
         ) AS ?end_predicate
     )
-    BIND(tarql:expandPrefixedName(?end_predicate) AS ?end_predicate_iri)  
+    BIND(tarql:expandPrefixedName(?end_predicate) AS ?end_predicate_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("tolx:_MarriageTerminationCause_", ?reason_name)) AS ?termination_cause_iri)
 

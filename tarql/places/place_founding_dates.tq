@@ -1,9 +1,7 @@
 PREFIX bdo: <http://purl.bdrc.io/ontology/core/>
 PREFIX bdr: <http://purl.bdrc.io/resource/>
-PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX gist: <https://w3id.org/semanticarts/ns/ontology/gist/>
+PREFIX media-image: <https://www.iana.org/assignments/media-types/image/>
 PREFIX media-txt: <https://www.iana.org/assignments/media-types/text/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -12,14 +10,14 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX told: <https://w3id.org/treasuryoflives/ns/data/tol/>
 PREFIX tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/>
 PREFIX tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/>
+PREFIX viaf: <https://viaf.org/viaf/>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
-PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 ## Columns
 # community_id
 # tbrc_id (ignore)
-# community_name 
+# community_name
 # founded_date
 # founded_date_approximate
 # founded_date_alternate
@@ -32,12 +30,12 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
 
-    ?founding_iri 
+    ?founding_iri
         # Type assertion comes from place_founders.tq
         skos:prefLabel ?founding_label_en ;
         tolo:actualYear ?actual_datetime ;
         tolo:approximateYear ?approximate_datetime;
-        tolo:alternateYear 
+        tolo:alternateYear
             ?alternate_datetime_1 ,
             ?alternate_datetime_2 ;
         tolo:occursDuring ?founding_time_period_iri ;
@@ -60,10 +58,10 @@ WHERE {
 
     BIND(
         COALESCE(
-            IF(REGEX(?founded_date, "^\\d{4}$"), ?founded_date, ?unbound), 
+            IF(REGEX(?founded_date, "^\\d{4}$"), ?founded_date, ?unbound),
             # Add initial 0 to 3-digit year to create a well-formed year
             IF(REGEX(?founded_date, "^\\d{3}$"), CONCAT("0", ?founded_date), ?unbound)
-        ) 
+        )
         AS ?founded_year
     )
 
@@ -85,9 +83,9 @@ WHERE {
     BIND(IF(BOUND(?founded_date_alternate), ?founded_datetime, ?unbound) AS ?alternate_datetime_2)
 
     # Founding century
-    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?founded_century_id)) AS ?founding_time_period_iri) 
+    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?founded_century_id)) AS ?founding_time_period_iri)
 
     # Existed by century
-    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?existed_by_century_id)) AS ?occurred_by_time_period_iri) 
-    
+    BIND(tarql:expandPrefixedName(CONCAT("told:_HistoricalPeriod_", ?existed_by_century_id)) AS ?occurred_by_time_period_iri)
+
 }
