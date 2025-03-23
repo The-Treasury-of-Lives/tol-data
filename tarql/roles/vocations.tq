@@ -37,13 +37,13 @@ CONSTRUCT {
         gist:hasParticipant ?person_iri ;
         gist:isCategorizedBy ?role_iri ;
 
-        tolo:actualStartYear ?actual_start_datetime ;
+        gist:actualStartYear ?actual_start_datetime ;
         tolo:approximateStartYear ?approximate_start_datetime;
         tolo:alternateStartYear
             ?alternate_datetime_1 ,
             ?alternate_datetime_2 ;
 
-        tolo:actualEndYear ?actual_end_datetime ;
+        gist:actualEndYear ?actual_end_datetime ;
         tolo:approximateEndYear ?approximate_end_datetime;
         tolo:alternateEndYear
             ?alternate_datetime_1 ,
