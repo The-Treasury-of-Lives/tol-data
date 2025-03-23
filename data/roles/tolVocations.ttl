@@ -694,9 +694,9 @@ told:_Vocation_2423_1360
 
 told:_Vocation_2423_695
 	a tolo:Vocation ;
+	gist:actualStartYear "1943-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_2423 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualStartYear "1943-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateEndYear "1961-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -864,23 +864,23 @@ told:_Vocation_3241_1319
 
 told:_Vocation_334_1661
 	a tolo:Vocation ;
+	gist:actualStartYear "1941-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_334 ;
 	gist:isCategorizedBy tolx:_Role_governor ;
-	tolo:actualStartYear "1941-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_342_1661
 	a tolo:Vocation ;
+	gist:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_342 ;
 	gist:isCategorizedBy tolx:_Role_governor ;
-	tolo:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_346_1661
 	a tolo:Vocation ;
+	gist:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_346 ;
 	gist:isCategorizedBy tolx:_Role_governor ;
-	tolo:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_3485_1032
@@ -897,9 +897,9 @@ told:_Vocation_3485_1035
 
 told:_Vocation_348_1661
 	a tolo:Vocation ;
+	gist:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_348 ;
 	gist:isCategorizedBy tolx:_Role_governor ;
-	tolo:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_3660_1031
@@ -970,17 +970,17 @@ told:_Vocation_3955_1658
 
 told:_Vocation_4025_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1921-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1914-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_4025 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1921-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1914-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_4027_1360
 	a tolo:Vocation ;
+	gist:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_4027 ;
 	gist:isCategorizedBy tolx:_Role_dapon ;
-	tolo:actualStartYear "1924-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_4043_1030
@@ -1381,9 +1381,9 @@ told:_Vocation_6801_1658
 
 told:_Vocation_6874_1319
 	a tolo:Vocation ;
+	gist:actualStartYear "1643-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_6874 ;
 	gist:isCategorizedBy tolx:_Role_desi ;
-	tolo:actualStartYear "1643-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_6874_1659
@@ -1478,10 +1478,10 @@ told:_Vocation_7521_1032
 
 told:_Vocation_7618_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1938-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1932-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_7618 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1938-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1932-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_7673_1032
@@ -1504,10 +1504,10 @@ told:_Vocation_7929_1483
 
 told:_Vocation_7929_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1930-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1915-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_7929 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1930-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1915-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_8181_1035
@@ -1590,9 +1590,9 @@ told:_Vocation_86_1031
 
 told:_Vocation_8706_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_8706 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateStartYear "1900-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -1712,26 +1712,26 @@ told:_Vocation_9301_1659
 
 told:_Vocation_9301_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1894-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9301 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1894-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9303_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1902-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9303 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1903-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1902-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9304_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1907-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9304 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1907-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9305_1360
@@ -1742,122 +1742,122 @@ told:_Vocation_9305_1360
 
 told:_Vocation_9305_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1912-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9305 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1912-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9309_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1914-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1904-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9309 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1914-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1904-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9310_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1913-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1912-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9310 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1913-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1912-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9311_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1914-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1913-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9311 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1914-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1913-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9312_695
 	a tolo:Vocation ;
+	gist:actualStartYear "1914-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9312 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualStartYear "1914-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateEndYear "1935-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9313_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1932-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1921-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9313 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1932-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1921-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9315_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1931-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1929-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9315 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1931-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1929-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9317_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1943-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1932-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9317 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1943-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1932-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9320_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1945-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1934-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9320 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1945-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1934-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9321_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1946-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1938-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9321 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1946-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1938-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9324_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1949-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1945-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9324 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1949-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1945-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9325_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1952-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1946-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9325 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1952-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1946-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9326_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1957-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1949-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9326 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1957-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1949-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9327_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1959-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1950-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9327 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1959-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1950-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9331_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1959-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1957-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9331 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1959-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1957-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9333_1360
@@ -1874,41 +1874,41 @@ told:_Vocation_9333_695
 
 told:_Vocation_9334_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1901-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1893-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9334 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1901-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1893-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9336_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1891-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9336 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1891-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateStartYear "1881-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9338_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1898-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9338 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1898-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateStartYear "1878-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9339_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1891-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1876-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9339 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1891-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1876-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9340_695
 	a tolo:Vocation ;
+	gist:actualStartYear "1873-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9340 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualStartYear "1873-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateEndYear "1878-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -1920,25 +1920,25 @@ told:_Vocation_9343_1360
 
 told:_Vocation_9343_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1896-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1871-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9343 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1896-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1871-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9344_695
 	a tolo:Vocation ;
+	gist:actualStartYear "1870-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9344 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualStartYear "1870-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9345_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1871-01-01T00:00:00"^^xsd:dateTime ;
+	gist:actualStartYear "1869-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9345 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1871-01-01T00:00:00"^^xsd:dateTime ;
-	tolo:actualStartYear "1869-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Vocation_9442_1032
@@ -1961,9 +1961,9 @@ told:_Vocation_9482_1031
 
 told:_Vocation_9550_695
 	a tolo:Vocation ;
+	gist:actualEndYear "1750-01-01T00:00:00"^^xsd:dateTime ;
 	gist:hasParticipant told:_Person_9550 ;
 	gist:isCategorizedBy tolx:_Role_kalon ;
-	tolo:actualEndYear "1750-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateStartYear "1734-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
