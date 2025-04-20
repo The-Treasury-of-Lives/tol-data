@@ -81,7 +81,7 @@ CONSTRUCT {
         .
 
     ?collection_iri
-        a tolo:Collection ;
+        a tolo:ArtCollection ;
         skos:prefLabel ?collection_name_en ;
         gist:name ?collection_name_en ;
         .
@@ -163,7 +163,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Place_", ?tol_place_id)) AS ?place_iri)
 
     # Physical location of work (museum, collection, etc.)
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Collection_", LCASE(REPLACE(?location, " ", "_")))) AS ?collection_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_ArtCollection_", LCASE(REPLACE(?location, " ", "_")))) AS ?collection_iri)
     BIND(STRLANG(?location, "en") AS ?collection_name_en)
 
     # If there's a source URL, create an address object.

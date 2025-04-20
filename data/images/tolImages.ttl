@@ -14,62 +14,62 @@
 @prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_Collection_cleveland_museum_of_art
-	a tolo:Collection ;
+told:_ArtCollection_cleveland_museum_of_art
+	a tolo:ArtCollection ;
 	skos:prefLabel "Cleveland Museum of Art"@en ;
 	gist:name "Cleveland Museum of Art"@en ;
 	.
 
-told:_Collection_collection_of_knud_larsen
-	a tolo:Collection ;
+told:_ArtCollection_collection_of_knud_larsen
+	a tolo:ArtCollection ;
 	skos:prefLabel "Collection of Knud Larsen"@en ;
 	gist:name "Collection of Knud Larsen"@en ;
 	.
 
-told:_Collection_collection_of_shelley_and_donald_rubin
-	a tolo:Collection ;
+told:_ArtCollection_collection_of_shelley_and_donald_rubin
+	a tolo:ArtCollection ;
 	skos:prefLabel "Collection of Shelley and Donald Rubin"@en ;
 	gist:name "Collection of Shelley and Donald Rubin"@en ;
 	.
 
-told:_Collection_estate_of_lobsang_p._lhalungpa
-	a tolo:Collection ;
+told:_ArtCollection_estate_of_lobsang_p._lhalungpa
+	a tolo:ArtCollection ;
 	skos:prefLabel "Estate of Lobsang P. Lhalungpa"@en ;
 	gist:name "Estate of Lobsang P. Lhalungpa"@en ;
 	.
 
-told:_Collection_philadelphia_museum_of_art
-	a tolo:Collection ;
+told:_ArtCollection_philadelphia_museum_of_art
+	a tolo:ArtCollection ;
 	skos:prefLabel "Philadelphia Museum of Art"@en ;
 	gist:name "Philadelphia Museum of Art"@en ;
 	.
 
-told:_Collection_rubin_museum_of_art
-	a tolo:Collection ;
+told:_ArtCollection_rubin_museum_of_art
+	a tolo:ArtCollection ;
 	skos:prefLabel "Rubin Museum of Art"@en ;
 	gist:name "Rubin Museum of Art"@en ;
 	.
 
-told:_Collection_the_metropolitan_museum_of_art
-	a tolo:Collection ;
+told:_ArtCollection_the_metropolitan_museum_of_art
+	a tolo:ArtCollection ;
 	skos:prefLabel "The Metropolitan Museum of Art"@en ;
 	gist:name "The Metropolitan Museum of Art"@en ;
 	.
 
-told:_Collection_the_pitt_rivers_museum
-	a tolo:Collection ;
+told:_ArtCollection_the_pitt_rivers_museum
+	a tolo:ArtCollection ;
 	skos:prefLabel "The Pitt Rivers Museum"@en ;
 	gist:name "The Pitt Rivers Museum"@en ;
 	.
 
-<https://w3id.org/treasuryoflives/ns/data/tol/_Collection_tibet_house_museum,_new_delhi>
-	a tolo:Collection ;
+<https://w3id.org/treasuryoflives/ns/data/tol/_ArtCollection_tibet_house_museum,_new_delhi>
+	a tolo:ArtCollection ;
 	skos:prefLabel "Tibet House Museum, New Delhi"@en ;
 	gist:name "Tibet House Museum, New Delhi"@en ;
 	.
 
-told:_Collection_world_museum_liverpool
-	a tolo:Collection ;
+told:_ArtCollection_world_museum_liverpool
+	a tolo:ArtCollection ;
 	skos:prefLabel "World Museum Liverpool"@en ;
 	gist:name "World Museum Liverpool"@en ;
 	.
@@ -2967,7 +2967,7 @@ told:_IntellectualProperty_1
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_595 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -2981,7 +2981,7 @@ told:_IntellectualProperty_10
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_946 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Damarupa"@en ;
 	.
 
@@ -2995,7 +2995,7 @@ told:_IntellectualProperty_100
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_57037 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Machik Labdron"@en ;
 	.
 
@@ -3009,7 +3009,7 @@ told:_IntellectualProperty_101
 		told:_Tradition_37
 		;
 	gist:isIdentifiedBy told:_ID_har_223 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Machik Labdron and Chod Refuge Field"@en ;
 	.
 
@@ -3020,7 +3020,7 @@ told:_IntellectualProperty_102
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_Tradition_1 ;
 	gist:isIdentifiedBy told:_ID_har_9 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava - Guru Drakpo"@en ;
 	.
 
@@ -3034,7 +3034,7 @@ told:_IntellectualProperty_103
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_678 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Namkhai Nyingpo"@en ;
 	.
 
@@ -3048,7 +3048,7 @@ told:_IntellectualProperty_104
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_31668 ;
-	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_cleveland_museum_of_art ;
 	gist:name "Avalokiteśvara"@en ;
 	tolo:hasCreator told:_Person_2662 ;
 	.
@@ -3063,7 +3063,7 @@ told:_IntellectualProperty_105
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_213 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Pehar Gyelpo"@en ;
 	.
 
@@ -3077,7 +3077,7 @@ told:_IntellectualProperty_107
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59247 ;
-	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_cleveland_museum_of_art ;
 	gist:name "Bodhisattva with Atisa and Dromton"@en ;
 	.
 
@@ -3090,7 +3090,7 @@ told:_IntellectualProperty_108
 		told:_HistoricalPeriod_45 ,
 		told:_Tradition_4
 		;
-	gist:isMemberOf told:_Collection_the_metropolitan_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_the_metropolitan_museum_of_art ;
 	gist:name "Atiśa"@en ;
 	.
 
@@ -3105,7 +3105,7 @@ told:_IntellectualProperty_109
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_59217 ;
-	gist:isMemberOf told:_Collection_cleveland_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_cleveland_museum_of_art ;
 	gist:name "Preaching Śākyamuni"@en ;
 	.
 
@@ -3119,7 +3119,7 @@ told:_IntellectualProperty_11
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_493 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sanggye Sengge"@en ;
 	.
 
@@ -3138,7 +3138,7 @@ told:_IntellectualProperty_114
 	gist:description "This letter from the Tibetan Government in Exile documents Lobsang Phuntsok Lhalungpa's role in cultural preservation activities of the early exile government."@en ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
-	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
+	gist:isMemberOf told:_ArtCollection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Letter from Tibetan Exile Government to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
@@ -3148,7 +3148,7 @@ told:_IntellectualProperty_115
 	gist:description "A letter certifying Lobsang Phunstok Lhalungpa's employment and exemplary service as a teacher at St. Joseph's College in Darjeeling."@en ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
-	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
+	gist:isMemberOf told:_ArtCollection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Letter from St. Joseph's College to Lobsang Phuntsok Lhalungpa"@en ;
 	.
 
@@ -3158,7 +3158,7 @@ told:_IntellectualProperty_116
 	gist:description "A receipt dated September 9, 1965 documenting the dispersal of funds to the Sakya Trizin and the Sakya Settlement at Dehra Dun, by Lobsang P. Lhalungpa on behalf of the Tibet Society of United Kingdom."@en ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_75 ;
-	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
+	gist:isMemberOf told:_ArtCollection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Receipt from Lobsang P. Lhalungpa to Sakya Trizin"@en ;
 	.
 
@@ -3196,7 +3196,7 @@ told:_IntellectualProperty_119
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_86433 ;
-	gist:isMemberOf told:_Collection_the_metropolitan_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_the_metropolitan_museum_of_art ;
 	gist:name "Avalokiteśvara"@en ;
 	tolo:credit "Trungpa, Chögyam. 1975. Visual Dharma: The Buddhist Art of Tibet. United Kingdom: Shambhala Publications."^^xsd:string ;
 	.
@@ -3211,7 +3211,7 @@ told:_IntellectualProperty_12
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_457 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Two Lineal Lamas"@en ;
 	.
 
@@ -3240,7 +3240,7 @@ told:_IntellectualProperty_122
 	gist:description "Officials at Hastings House in Calcutta, 1910."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
-	gist:isMemberOf told:_Collection_world_museum_liverpool ;
+	gist:isMemberOf told:_ArtCollection_world_museum_liverpool ;
 	gist:name "Officials at Hastings House"@en ;
 	tolo:hasCreator told:_Person_charles_bell ;
 	.
@@ -3264,7 +3264,7 @@ told:_IntellectualProperty_124
 	gist:description "Dasang Damdul Tsarong and his wife Pema Dolkar during Losar, 1937."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
-	gist:isMemberOf told:_Collection_the_pitt_rivers_museum ;
+	gist:isMemberOf told:_ArtCollection_the_pitt_rivers_museum ;
 	gist:name "Tsarong Dasang Damdul and Tsarong Pema Dolkar"@en ;
 	tolo:credit 'The Tibet Album. "Tsarong and Pema Dolkar at home at New Year" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_frederick_spencer_chapman ;
@@ -3291,7 +3291,7 @@ told:_IntellectualProperty_126
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_858 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sixteenth Karmapa Rangjung Rigpai Dorje"@en ;
 	.
 
@@ -3305,7 +3305,7 @@ told:_IntellectualProperty_127
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_477 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Panchen Lama Lobzang Chokyi Gyeltsen"@en ;
 	.
 
@@ -3328,7 +3328,7 @@ told:_IntellectualProperty_13
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_96 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sangye Sengge"@en ;
 	.
 
@@ -3363,7 +3363,7 @@ told:_IntellectualProperty_132
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_40 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Avalokiteśvara Sāhasrabhujalokeśvara"@en ;
 	.
 
@@ -3373,7 +3373,7 @@ told:_IntellectualProperty_133
 	gist:description "1962 Tibetan Primer written by Lobsang Phuntsok Lhalungpa on behalf of the Fourteenth Dalai Lama in collaboration with Khendrung Tubten Norzang, Dzeme Rinpoche, Dudjom Rinpoche, Thartse Khen Rinpoche, Rato Kyongla Rinpoche, and published by Kundeling Woser Gyeltsen."@en ;
 	gist:isCategorizedBy tolx:_WorkType_document ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
-	gist:isMemberOf told:_Collection_estate_of_lobsang_p._lhalungpa ;
+	gist:isMemberOf told:_ArtCollection_estate_of_lobsang_p._lhalungpa ;
 	gist:name "Tibetan Primer"@en ;
 	.
 
@@ -3396,7 +3396,7 @@ told:_IntellectualProperty_136
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65864 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Rahula and Retinue"@en ;
 	.
 
@@ -3410,7 +3410,7 @@ told:_IntellectualProperty_15
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_580 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Jetsun Drakpa Gyaltsen"@en ;
 	.
 
@@ -3424,7 +3424,7 @@ told:_IntellectualProperty_16
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_63 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Shangton Chobar"@en ;
 	.
 
@@ -3438,7 +3438,7 @@ told:_IntellectualProperty_17
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_935 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sakya Pandita Kunga Gyaltsen"@en ;
 	.
 
@@ -3452,7 +3452,7 @@ told:_IntellectualProperty_18
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_76 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -3466,7 +3466,7 @@ told:_IntellectualProperty_19
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_89141 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Six Kagyu Teachers With Lineage"@en ;
 	.
 
@@ -3480,7 +3480,7 @@ told:_IntellectualProperty_2
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_82 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
@@ -3522,7 +3522,7 @@ told:_IntellectualProperty_22
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_508 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Early Karmapa with footprints"@en ;
 	.
 
@@ -3536,7 +3536,7 @@ told:_IntellectualProperty_24
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_65205 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Cakrasamvara with the footprints of Drigungpa Rinchen Pel"@en ;
 	.
 
@@ -3550,7 +3550,7 @@ told:_IntellectualProperty_25
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65461 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Pakmodrupa Dorje Gyelpo"@en ;
 	.
 
@@ -3578,7 +3578,7 @@ told:_IntellectualProperty_28
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_89148 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sakya Lotsawa with his teachers"@en ;
 	.
 
@@ -3592,7 +3592,7 @@ told:_IntellectualProperty_29
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65861 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Karma Kagyu Refuge Field"@en ;
 	.
 
@@ -3606,7 +3606,7 @@ told:_IntellectualProperty_3
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_642 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Mahakala - Panjarnata"@en ;
 	.
 
@@ -3620,7 +3620,7 @@ told:_IntellectualProperty_30
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_410 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Tsongkhapa"@en ;
 	.
 
@@ -3634,7 +3634,7 @@ told:_IntellectualProperty_31
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_276 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Gampopa together with early Drukpa Kagyu masters"@en ;
 	.
 
@@ -3648,7 +3648,7 @@ told:_IntellectualProperty_32
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_380 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "The Seventh Dalai Lama with previous incarnations"@en ;
 	.
 
@@ -3663,7 +3663,7 @@ told:_IntellectualProperty_33
 		told:_Tradition_45
 		;
 	gist:isIdentifiedBy told:_ID_har_65119 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Pakmodrupa"@en ;
 	.
 
@@ -3677,7 +3677,7 @@ told:_IntellectualProperty_34
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_285 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3691,7 +3691,7 @@ told:_IntellectualProperty_35
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_160 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3705,7 +3705,7 @@ told:_IntellectualProperty_36
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65193 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Namkha Pelzang and a Naro Chodruk lineage"@en ;
 	.
 
@@ -3719,7 +3719,7 @@ told:_IntellectualProperty_37
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_536 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Gampopa and Karmapa"@en ;
 	.
 
@@ -3733,7 +3733,7 @@ told:_IntellectualProperty_39
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_412 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Wangdu Nyingpo and other masters"@en ;
 	.
 
@@ -3747,7 +3747,7 @@ told:_IntellectualProperty_40
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_1034 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Jikten Gonpo with the First Chungtsang and the Second Chetsang"@en ;
 	.
 
@@ -3761,7 +3761,7 @@ told:_IntellectualProperty_42
 		told:_Tradition_72
 		;
 	gist:isIdentifiedBy told:_ID_har_65401 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Portrait of Drenpa Namkha"@en ;
 	.
 
@@ -3775,7 +3775,7 @@ told:_IntellectualProperty_43
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_65249 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Drukpa Kagyu Lineage of Bhutan"@en ;
 	.
 
@@ -3789,7 +3789,7 @@ told:_IntellectualProperty_44
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_362 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Drukpa Kagyu and Kagyu Lineages"@en ;
 	.
 
@@ -3804,7 +3804,7 @@ told:_IntellectualProperty_46
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_921 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Episodes from the Life of Milarepa"@en ;
 	.
 
@@ -3818,7 +3818,7 @@ told:_IntellectualProperty_48
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_825 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Third Pawo Tsuklak Gyatso"@en ;
 	.
 
@@ -3829,7 +3829,7 @@ told:_IntellectualProperty_49
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_69 ;
 	gist:isIdentifiedBy told:_ID_har_142 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Śākyaśrībhadra"@en ;
 	.
 
@@ -3843,7 +3843,7 @@ told:_IntellectualProperty_5
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65789 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
@@ -3867,7 +3867,7 @@ told:_IntellectualProperty_51
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_188 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava"@en ;
 	.
 
@@ -3878,7 +3878,7 @@ told:_IntellectualProperty_52
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_77 ;
 	gist:isIdentifiedBy told:_ID_har_65719 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "The Demoness of Tibet"@en ;
 	.
 
@@ -3904,7 +3904,7 @@ told:_IntellectualProperty_54
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1066 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "The First Dorje Drak Rigdzin"@en ;
 	.
 
@@ -3919,7 +3919,7 @@ told:_IntellectualProperty_55
 		told:_Tradition_4
 		;
 	gist:isIdentifiedBy told:_ID_har_376 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Puchungwa Zhonnu Gyelsten"@en ;
 	.
 
@@ -3934,7 +3934,7 @@ told:_IntellectualProperty_56
 		told:_Tradition_42
 		;
 	gist:isIdentifiedBy told:_ID_har_413 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava with Drigung Kagyu Refuge Field"@en ;
 	.
 
@@ -3978,7 +3978,7 @@ told:_IntellectualProperty_6
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_134 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
@@ -4008,7 +4008,7 @@ told:_IntellectualProperty_62
 	gist:description "Surkhang Wangchen Gelek, who became a Kalon of the Tibetan government at the age of thirty-three."@en ;
 	gist:isCategorizedBy tolx:_WorkType_photograph ;
 	gist:isConnectedTo told:_HistoricalPeriod_79 ;
-	gist:isMemberOf told:_Collection_the_pitt_rivers_museum ;
+	gist:isMemberOf told:_ArtCollection_the_pitt_rivers_museum ;
 	gist:name "Surkhang Wangchen Gelek"@en ;
 	tolo:credit 'The Tibet Album. "Wangchen Geleg Surkhang, Phuntsog Rabgye Ragashar" 05 Dec. 2006. The Pitt Rivers Museum.'^^xsd:string ;
 	tolo:hasCreator told:_Person_hugh_e_richardson ;
@@ -4052,7 +4052,7 @@ told:_IntellectualProperty_66
 	gist:isCategorizedBy tolx:_WorkType_sculpture ;
 	gist:isConnectedTo told:_Tradition_7 ;
 	gist:isIdentifiedBy told:_ID_har_87137 ;
-	gist:isMemberOf told:_Collection_philadelphia_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_philadelphia_museum_of_art ;
 	gist:name "A sculpture of Lowo Khenchen"@en ;
 	.
 
@@ -4066,7 +4066,7 @@ told:_IntellectualProperty_67
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65848 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "The Potala Palace and the Main Monuments of Lhasa"@en ;
 	.
 
@@ -4080,7 +4080,7 @@ told:_IntellectualProperty_68
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65275 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Scenes from the Life of the Fifth Dalai Lama (1617-1682)"@en ;
 	.
 
@@ -4090,7 +4090,7 @@ told:_IntellectualProperty_69
 	gist:description "This drawing shows Lhasa before 1950 from an elevated perspective. The highly detailed representation shows many major monasteries and landmarks of Lhasa."@en ;
 	gist:isCategorizedBy tolx:_WorkType_painting ;
 	gist:isConnectedTo told:_HistoricalPeriod_78 ;
-	gist:isMemberOf told:_Collection_collection_of_knud_larsen ;
+	gist:isMemberOf told:_ArtCollection_collection_of_knud_larsen ;
 	gist:name "Perspective Drawing of Lhasa"@en ;
 	tolo:credit "Larsen, Knud and Sinding-Larsen, Amund. 2001. The Lhasa Atlas: Traditional Tibetan Architecture and Townscape. Kiribati: Serindia."^^xsd:string ;
 	.
@@ -4105,7 +4105,7 @@ told:_IntellectualProperty_7
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_128 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Ngorchen Kunga Zangpo"@en ;
 	.
 
@@ -4149,7 +4149,7 @@ told:_IntellectualProperty_73
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_56 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Khedrubje Gelek Pelzang"@en ;
 	.
 
@@ -4165,7 +4165,7 @@ told:_IntellectualProperty_74
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_65562 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Third Karmapa and Lineage Masters"@en ;
 	.
 
@@ -4179,7 +4179,7 @@ told:_IntellectualProperty_77
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_700037 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Milarepa"@en ;
 	.
 
@@ -4193,7 +4193,7 @@ told:_IntellectualProperty_78
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_65916 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "The Eighth Tatsak"@en ;
 	.
 
@@ -4216,7 +4216,7 @@ told:_IntellectualProperty_8
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_269 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Buddhashri"@en ;
 	.
 
@@ -4230,7 +4230,7 @@ told:_IntellectualProperty_80
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_777 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Rigdzin Kunzang Sherab"@en ;
 	.
 
@@ -4244,7 +4244,7 @@ told:_IntellectualProperty_81
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_39 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Shakyamuni Buddha"@en ;
 	.
 
@@ -4258,7 +4258,7 @@ told:_IntellectualProperty_82
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_619 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Machik Labdron"@en ;
 	.
 
@@ -4272,7 +4272,7 @@ told:_IntellectualProperty_83
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_12 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava with Jigme Lingpa and Disciples"@en ;
 	.
 
@@ -4286,7 +4286,7 @@ told:_IntellectualProperty_84
 		told:_Tradition_40
 		;
 	gist:isIdentifiedBy told:_ID_har_453 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Mahakala with Four Hands"@en ;
 	.
 
@@ -4300,7 +4300,7 @@ told:_IntellectualProperty_85
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1047 ;
-	gist:isMemberOf told:_Collection_collection_of_shelley_and_donald_rubin ;
+	gist:isMemberOf told:_ArtCollection_collection_of_shelley_and_donald_rubin ;
 	gist:name "Three Sisters"@en ;
 	.
 
@@ -4334,7 +4334,7 @@ told:_IntellectualProperty_89
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_71925 ;
-	gist:isMemberOf <https://w3id.org/treasuryoflives/ns/data/tol/_Collection_tibet_house_museum,_new_delhi> ;
+	gist:isMemberOf <https://w3id.org/treasuryoflives/ns/data/tol/_ArtCollection_tibet_house_museum,_new_delhi> ;
 	gist:name "Go Lotsawa Khukpa Lhetse"@en ;
 	.
 
@@ -4348,7 +4348,7 @@ told:_IntellectualProperty_9
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_65232 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Lhachok Sengge"@en ;
 	.
 
@@ -4362,7 +4362,7 @@ told:_IntellectualProperty_90
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_300 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Do Khyentse Yeshe Dorje"@en ;
 	.
 
@@ -4376,7 +4376,7 @@ told:_IntellectualProperty_91
 		told:_Tradition_27
 		;
 	gist:isIdentifiedBy told:_ID_har_309 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Śākyamuni Buddha with Geluk Masters"@en ;
 	.
 
@@ -4390,7 +4390,7 @@ told:_IntellectualProperty_93
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_615 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Pema Karpo"@en ;
 	.
 
@@ -4404,7 +4404,7 @@ told:_IntellectualProperty_94
 		told:_Tradition_7
 		;
 	gist:isIdentifiedBy told:_ID_har_944 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Sachen Kunga Nyingpo"@en ;
 	.
 
@@ -4418,7 +4418,7 @@ told:_IntellectualProperty_95
 		told:_Tradition_8
 		;
 	gist:isIdentifiedBy told:_ID_har_696 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Avalokiteśvara Jinasagara with Kagyu Masters"@en ;
 	.
 
@@ -4432,7 +4432,7 @@ told:_IntellectualProperty_97
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_65094 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava as Pema Jungne"@en ;
 	.
 
@@ -4446,7 +4446,7 @@ told:_IntellectualProperty_98
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_633 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Padmasambhava as Sengge Dradok"@en ;
 	.
 
@@ -4460,7 +4460,7 @@ told:_IntellectualProperty_99
 		told:_Tradition_1
 		;
 	gist:isIdentifiedBy told:_ID_har_1035 ;
-	gist:isMemberOf told:_Collection_rubin_museum_of_art ;
+	gist:isMemberOf told:_ArtCollection_rubin_museum_of_art ;
 	gist:name "Jatson Nyingpo"@en ;
 	.
 
