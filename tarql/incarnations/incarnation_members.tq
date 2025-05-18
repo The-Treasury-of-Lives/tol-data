@@ -15,21 +15,22 @@ PREFIX wiki: <https://www.wikidata.org/wiki/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 ## Columns
-# Incarnation Name -- ignore -- comes from incarnation lineage data
-# Incarnation BDRC ID -- ignore -- comes from incarnation lineage data
-# Incarnation TOL ID -- ?incarnation_lineage_iri
-# Parent lineage TOL ID -- ?parent_lineage_iri
-# Preceding incarnation member TOL ID -- ignore
-# Incarnation sequence -- ?sequence
-# Ordinal -- ?ordinal_int
-# Person BDRC ID -- ignore -- comes from person data
-# Person TOL ID -- ?person_iri
-# Branched Lineage -- ignore
-# New Seat Established -- ignore
-# Notes -- ignore
+# Incarnation Name - ignore - comes from incarnation lineage data
+# Incarnation BDRC ID - ignore - comes from incarnation lineage data
+# Incarnation Lineage TOL ID - ?incarnation_lineage_iri
+# Previous Incarnation Lineage TOL ID - Used to form ?previous_incarnation_iri for split lineages
+# Previous Incarnation Person TOL ID - ?previous_incarnation_iri
+# Incarnation Sequence - ignore
+# Ordinal - ?ordinal_int
+# Person BDRC ID - ignore -- comes from person data
+# Person TOL ID - ?person_iri
+# Branched Lineage - ignore
+# New Seat Established - ignore
+# Notes - ignore
+# Questions for Katie - ignore
 
 # Run:
-# tarql -e utf-8 --dedup 5000 incarnation_members.tq incarnation-members-10-7-24.csv > tolIncarnationMembers.ttl
+# tarql -e utf-8 --dedup 5000 incarnation_members.tq incarnation-members-5-18-25.csv > tolIncarnationMembers.ttl
 
 CONSTRUCT {
 
@@ -40,29 +41,32 @@ CONSTRUCT {
     ?incarnation_iri
         a tolo:Incarnation ;
         gist:providesOrderFor ?person_iri ;
-        gist:sequence ?sequence ;
         tolo:ordinal ?ordinal_int ;
         gist:isMemberOf ?incarnation_lineage_iri ;
         .
+
+    ?previous_incarnation_iri gist:precedesDirectly ?incarnation_iri .
 
 }
 
 WHERE {
 
     # Testing
-    # FILTER(?ROWNUM = 1)
+    # FILTER(?ROWNUM IN (688))
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IncarnationLineage_", ?Incarnation_TOL_ID)) AS ?incarnation_lineage_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IncarnationLineage_", ?Incarnation_Lineage_TOL_ID)) AS ?incarnation_lineage_iri)
 
-    # Parent incarnation lineage
-    BIND(tarql:expandPrefixedName(CONCAT("told:_IncarnationLineage_", ?Parent_lineage_TOL_ID)) AS ?parent_lineage_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_IncarnationLineage_", ?Previous_Incarnation_Lineage_TOL_ID)) AS ?parent_lineage_iri)
 
-    # Incarnation
-    BIND(tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?Incarnation_TOL_ID, "_", ?Person_TOL_ID)) AS ?incarnation_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?Incarnation_Lineage_TOL_ID, "_", ?Person_TOL_ID)) AS ?incarnation_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?Person_TOL_ID)) AS ?person_iri)
 
     BIND(STRDT(?Ordinal, xsd:integer) AS ?ordinal_int)
-    BIND(STRDT(?Incarnation_Sequence, xsd:integer) AS ?sequence)
+
+    # Previous incarnation
+    # Belongs to same lineage unless a value is noted
+    BIND(COALESCE(?Previous_Incarnation_Lineage_TOL_ID, ?Incarnation_Lineage_TOL_ID) AS ?lineage_of_previous_incarnation)
+    BIND(IF(BOUND(?Previous_Incarnation_Person_TOL_ID), tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?lineage_of_previous_incarnation, "_", ?Previous_Incarnation_Person_TOL_ID)), ?unbound) AS ?previous_incarnation_iri)
 
 }
