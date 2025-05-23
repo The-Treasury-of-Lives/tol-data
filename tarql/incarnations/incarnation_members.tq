@@ -20,7 +20,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # Incarnation Lineage TOL ID - ?incarnation_lineage_iri
 # Previous Incarnation Lineage TOL ID - Used to form ?previous_incarnation_iri for split lineages
 # Previous Incarnation Person TOL ID - ?previous_incarnation_iri
-# Incarnation Sequence - ignore
+# Incarnation Sequence - ?sequence_int
 # Ordinal - ?ordinal_int
 # Person BDRC ID - ignore -- comes from person data
 # Person TOL ID - ?person_iri
@@ -41,6 +41,7 @@ CONSTRUCT {
     ?incarnation_iri
         a tolo:Incarnation ;
         gist:providesOrderFor ?person_iri ;
+        gist:sequence ?sequence_int ;
         tolo:ordinal ?ordinal_int ;
         gist:isMemberOf ?incarnation_lineage_iri ;
         .
@@ -63,6 +64,7 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?Person_TOL_ID)) AS ?person_iri)
 
     BIND(STRDT(?Ordinal, xsd:integer) AS ?ordinal_int)
+    BIND(STRDT(?Incarnation_Sequence, xsd:integer) AS ?sequence_int)
 
     # Previous incarnation
     # Belongs to same lineage unless a value is noted
