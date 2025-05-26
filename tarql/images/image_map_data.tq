@@ -14,6 +14,8 @@ PREFIX viaf: <https://viaf.org/viaf/>
 PREFIX wiki: <https://www.wikidata.org/wiki/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
+## Note: Not currently used. Image map coordinates will be stored outside the graph.
+
 ## Columns
 # painting_map_id
 # coordinates
