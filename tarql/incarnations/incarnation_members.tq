@@ -43,7 +43,7 @@ CONSTRUCT {
         gist:providesOrderFor ?person_iri ;
         gist:sequence ?sequence_int ;
         tolo:ordinal ?ordinal_int ;
-        gist:isMemberOf ?incarnation_lineage_iri ;
+        ?member_predicate_iri ?incarnation_lineage_iri ;
         .
 
     ?previous_incarnation_iri gist:precedesDirectly ?incarnation_iri .
@@ -65,6 +65,8 @@ WHERE {
 
     BIND(STRDT(?Ordinal, xsd:integer) AS ?ordinal_int)
     BIND(STRDT(?Incarnation_Sequence, xsd:integer) AS ?sequence_int)
+
+    BIND(IF(?sequence_int = 1, gist:isFirstMemberOf, gist:isMemberOf) AS ?member_predicate_iri)
 
     # Previous incarnation
     # Belongs to same lineage unless a value is noted

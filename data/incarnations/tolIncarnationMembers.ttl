@@ -90,7 +90,7 @@ told:_Incarnation_100_3135
 
 told:_Incarnation_100_6757
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_100 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_100 ;
 	gist:precedesDirectly told:_Incarnation_100_7979 ;
 	gist:providesOrderFor told:_Person_6757 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -162,7 +162,7 @@ told:_Incarnation_101_6569
 
 told:_Incarnation_101_7028
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_101 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_101 ;
 	gist:precedesDirectly told:_Incarnation_101_6569 ;
 	gist:providesOrderFor told:_Person_7028 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -206,7 +206,7 @@ told:_Incarnation_103_12356
 
 told:_Incarnation_103_12357
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_103 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_103 ;
 	gist:precedesDirectly told:_Incarnation_103_12356 ;
 	gist:providesOrderFor told:_Person_12357 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -267,7 +267,7 @@ told:_Incarnation_104_2469
 
 told:_Incarnation_104_6635
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_104 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_104 ;
 	gist:precedesDirectly told:_Incarnation_104_13202 ;
 	gist:providesOrderFor told:_Person_6635 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -320,7 +320,7 @@ told:_Incarnation_106_13604
 
 told:_Incarnation_106_2072
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_106 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_106 ;
 	gist:precedesDirectly told:_Incarnation_106_13600 ;
 	gist:providesOrderFor told:_Person_2072 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -346,7 +346,7 @@ told:_Incarnation_107_13605
 
 told:_Incarnation_107_13606
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_107 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_107 ;
 	gist:precedesDirectly told:_Incarnation_107_13607 ;
 	gist:providesOrderFor told:_Person_13606 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -390,7 +390,7 @@ told:_Incarnation_108_13610
 
 told:_Incarnation_108_13769
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_108 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_108 ;
 	gist:precedesDirectly told:_Incarnation_108_13770 ;
 	gist:providesOrderFor told:_Person_13769 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -453,7 +453,7 @@ told:_Incarnation_109_13645
 
 told:_Incarnation_109_2592
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_109 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_109 ;
 	gist:precedesDirectly told:_Incarnation_109_4002 ;
 	gist:providesOrderFor told:_Person_2592 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -524,7 +524,7 @@ told:_Incarnation_109_9361
 
 told:_Incarnation_10_3320
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_10 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_10 ;
 	gist:precedesDirectly told:_Incarnation_10_4568 ;
 	gist:providesOrderFor told:_Person_3320 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -559,7 +559,7 @@ told:_Incarnation_10_9176
 
 told:_Incarnation_111_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_111 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_111 ;
 	gist:precedesDirectly told:_Incarnation_111_8825 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -575,7 +575,7 @@ told:_Incarnation_111_8825
 
 told:_Incarnation_113_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_113 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_113 ;
 	gist:precedesDirectly told:_Incarnation_113_9521 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -591,7 +591,7 @@ told:_Incarnation_113_9521
 
 told:_Incarnation_114_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_114 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_114 ;
 	gist:precedesDirectly told:_Incarnation_114_9924 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -624,7 +624,7 @@ told:_Incarnation_115_13654
 
 told:_Incarnation_115_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_115 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_115 ;
 	gist:precedesDirectly told:_Incarnation_115_13653 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -632,7 +632,7 @@ told:_Incarnation_115_4291
 
 told:_Incarnation_116_13617
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_116 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_116 ;
 	gist:precedesDirectly told:_Incarnation_116_13689 ;
 	gist:providesOrderFor told:_Person_13617 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -658,7 +658,7 @@ told:_Incarnation_117_13710
 
 told:_Incarnation_117_13711
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_117 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_117 ;
 	gist:precedesDirectly told:_Incarnation_117_13712 ;
 	gist:providesOrderFor told:_Person_13711 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -782,7 +782,7 @@ told:_Incarnation_118_6419
 
 told:_Incarnation_119_11170
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_119 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_119 ;
 	gist:precedesDirectly told:_Incarnation_119_11171 ;
 	gist:providesOrderFor told:_Person_11170 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -870,7 +870,7 @@ told:_Incarnation_11_8630
 
 told:_Incarnation_11_8631
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_11 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_11 ;
 	gist:precedesDirectly told:_Incarnation_11_8551 ;
 	gist:providesOrderFor told:_Person_8631 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -932,7 +932,7 @@ told:_Incarnation_120_8333
 
 told:_Incarnation_120_8334
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_120 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_120 ;
 	gist:precedesDirectly told:_Incarnation_120_7069 ;
 	gist:providesOrderFor told:_Person_8334 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -959,7 +959,7 @@ told:_Incarnation_120_9155
 
 told:_Incarnation_121_13836
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_121 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_121 ;
 	gist:precedesDirectly told:_Incarnation_121_13837 ;
 	gist:providesOrderFor told:_Person_13836 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1012,7 +1012,7 @@ told:_Incarnation_121_13841
 
 told:_Incarnation_122_4691
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_122 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_122 ;
 	gist:precedesDirectly told:_Incarnation_122_8592 ;
 	gist:providesOrderFor told:_Person_4691 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1044,7 +1044,7 @@ told:_Incarnation_123_10019
 
 told:_Incarnation_123_7737
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_123 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_123 ;
 	gist:precedesDirectly told:_Incarnation_123_9105 ;
 	gist:providesOrderFor told:_Person_7737 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1112,7 +1112,7 @@ told:_Incarnation_124_13859
 
 told:_Incarnation_124_9761
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_124 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_124 ;
 	gist:precedesDirectly told:_Incarnation_124_13855 ;
 	gist:providesOrderFor told:_Person_9761 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1129,7 +1129,7 @@ told:_Incarnation_124_9764
 
 told:_Incarnation_125_13861
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_125 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_125 ;
 	gist:precedesDirectly told:_Incarnation_125_13862 ;
 	gist:providesOrderFor told:_Person_13861 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1154,7 +1154,7 @@ told:_Incarnation_126_10355
 
 told:_Incarnation_126_12772
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_126 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_126 ;
 	gist:precedesDirectly told:_Incarnation_126_13678 ;
 	gist:providesOrderFor told:_Person_12772 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1171,7 +1171,7 @@ told:_Incarnation_126_13678
 
 told:_Incarnation_12_10687
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_12 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_12 ;
 	gist:precedesDirectly told:_Incarnation_12_11114 ;
 	gist:providesOrderFor told:_Person_10687 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1296,7 +1296,7 @@ told:_Incarnation_12_6065
 
 told:_Incarnation_13_2436
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_13 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_13 ;
 	gist:precedesDirectly told:_Incarnation_13_6502 ;
 	gist:providesOrderFor told:_Person_2436 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1393,7 +1393,7 @@ told:_Incarnation_14_4273
 
 told:_Incarnation_14_4676
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_14 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_14 ;
 	gist:precedesDirectly told:_Incarnation_14_4272 ;
 	gist:providesOrderFor told:_Person_4676 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1446,7 +1446,7 @@ told:_Incarnation_15_3010
 
 told:_Incarnation_15_7767
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_15 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_15 ;
 	gist:precedesDirectly told:_Incarnation_15_3010 ;
 	gist:providesOrderFor told:_Person_7767 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1500,7 +1500,7 @@ told:_Incarnation_16_10253
 
 told:_Incarnation_16_13205
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_16 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_16 ;
 	gist:precedesDirectly told:_Incarnation_16_13206 ;
 	gist:providesOrderFor told:_Person_13205 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1598,7 +1598,7 @@ told:_Incarnation_16_13215
 
 told:_Incarnation_17_8540
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_17 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_17 ;
 	gist:precedesDirectly told:_Incarnation_17_8562 ;
 	gist:providesOrderFor told:_Person_8540 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1659,7 +1659,7 @@ told:_Incarnation_18_13585
 
 told:_Incarnation_18_7622
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_18 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_18 ;
 	gist:precedesDirectly told:_Incarnation_18_7824 ;
 	gist:providesOrderFor told:_Person_7622 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1704,7 +1704,7 @@ told:_Incarnation_19_12747
 
 told:_Incarnation_19_6919
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_19 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_19 ;
 	gist:precedesDirectly told:_Incarnation_19_7719 ;
 	gist:providesOrderFor told:_Person_6919 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1755,7 +1755,7 @@ told:_Incarnation_1_10793
 
 told:_Incarnation_1_8574
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_1 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_1 ;
 	gist:precedesDirectly told:_Incarnation_1_10793 ;
 	gist:providesOrderFor told:_Person_8574 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1835,7 +1835,7 @@ told:_Incarnation_20_11516
 
 told:_Incarnation_20_11865
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_20 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_20 ;
 	gist:precedesDirectly told:_Incarnation_20_11986 ;
 	gist:providesOrderFor told:_Person_11865 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1917,7 +1917,7 @@ told:_Incarnation_21_3020
 
 told:_Incarnation_21_9126
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_21 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_21 ;
 	gist:precedesDirectly told:_Incarnation_21_9383 ;
 	gist:providesOrderFor told:_Person_9126 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1961,7 +1961,7 @@ told:_Incarnation_22_13150
 
 told:_Incarnation_22_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_22 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_22 ;
 	gist:precedesDirectly told:_Incarnation_22_11432 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -1978,7 +1978,7 @@ told:_Incarnation_23_10827
 
 told:_Incarnation_23_10832
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_23 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_23 ;
 	gist:precedesDirectly told:_Incarnation_23_10827 ;
 	gist:providesOrderFor told:_Person_10832 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2048,7 +2048,7 @@ told:_Incarnation_24_13149
 
 told:_Incarnation_24_4358
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_24 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_24 ;
 	gist:precedesDirectly told:_Incarnation_24_13148 ;
 	gist:providesOrderFor told:_Person_4358 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2073,7 +2073,7 @@ told:_Incarnation_25_3146
 
 told:_Incarnation_25_6059
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_25 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_25 ;
 	gist:precedesDirectly told:_Incarnation_25_3146 ;
 	gist:providesOrderFor told:_Person_6059 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2181,7 +2181,7 @@ told:_Incarnation_26_13146
 
 told:_Incarnation_26_4379
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_26 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_26 ;
 	gist:precedesDirectly told:_Incarnation_26_7644 ;
 	gist:providesOrderFor told:_Person_4379 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2224,7 +2224,7 @@ told:_Incarnation_27_13163
 
 told:_Incarnation_27_9601
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_27 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_27 ;
 	gist:precedesDirectly told:_Incarnation_27_13163 ;
 	gist:providesOrderFor told:_Person_9601 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2233,7 +2233,7 @@ told:_Incarnation_27_9601
 
 told:_Incarnation_28_3173
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_28 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_28 ;
 	gist:precedesDirectly told:_Incarnation_28_7107 ;
 	gist:providesOrderFor told:_Person_3173 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2348,7 +2348,7 @@ told:_Incarnation_29_4285
 
 told:_Incarnation_29_9750
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_29 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_29 ;
 	gist:precedesDirectly told:_Incarnation_29_13106 ;
 	gist:providesOrderFor told:_Person_9750 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2357,7 +2357,7 @@ told:_Incarnation_29_9750
 
 told:_Incarnation_2_13760
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_2 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_2 ;
 	gist:precedesDirectly told:_Incarnation_2_4727 ;
 	gist:providesOrderFor told:_Person_13760 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2463,7 +2463,7 @@ told:_Incarnation_30_2165
 
 told:_Incarnation_30_2661
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_30 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_30 ;
 	gist:precedesDirectly told:_Incarnation_30_2162 ;
 	gist:providesOrderFor told:_Person_2661 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2508,7 +2508,7 @@ told:_Incarnation_31_2021
 
 told:_Incarnation_31_4490
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_31 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_31 ;
 	gist:precedesDirectly told:_Incarnation_31_7923 ;
 	gist:providesOrderFor told:_Person_4490 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2597,7 +2597,7 @@ told:_Incarnation_32_2996
 
 told:_Incarnation_32_6646
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_32 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_32 ;
 	gist:precedesDirectly told:_Incarnation_32_2996 ;
 	gist:providesOrderFor told:_Person_6646 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2697,7 +2697,7 @@ told:_Incarnation_33_2662
 
 told:_Incarnation_33_2683
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_33 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_33 ;
 	gist:precedesDirectly told:_Incarnation_33_2776 ;
 	gist:providesOrderFor told:_Person_2683 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2804,7 +2804,7 @@ told:_Incarnation_34_13168
 
 told:_Incarnation_34_1852
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_34 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_34 ;
 	gist:precedesDirectly told:_Incarnation_34_11569 ;
 	gist:providesOrderFor told:_Person_1852 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2910,7 +2910,7 @@ told:_Incarnation_35_13105
 
 told:_Incarnation_35_8116
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_35 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_35 ;
 	gist:precedesDirectly told:_Incarnation_35_13102 ;
 	gist:providesOrderFor told:_Person_8116 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2963,7 +2963,7 @@ told:_Incarnation_36_4424
 
 told:_Incarnation_36_4488
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_36 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_36 ;
 	gist:precedesDirectly told:_Incarnation_36_13155 ;
 	gist:providesOrderFor told:_Person_4488 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -2990,7 +2990,7 @@ told:_Incarnation_37_11426
 
 told:_Incarnation_37_11443
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_37 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_37 ;
 	gist:precedesDirectly told:_Incarnation_37_11426 ;
 	gist:providesOrderFor told:_Person_11443 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3024,7 +3024,7 @@ told:_Incarnation_38_5910
 
 told:_Incarnation_38_8069
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_38 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_38 ;
 	gist:precedesDirectly told:_Incarnation_38_5910 ;
 	gist:providesOrderFor told:_Person_8069 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3085,7 +3085,7 @@ told:_Incarnation_39_9190
 
 told:_Incarnation_39_9405
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_39 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_39 ;
 	gist:precedesDirectly told:_Incarnation_39_9190 ;
 	gist:providesOrderFor told:_Person_9405 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3128,7 +3128,7 @@ told:_Incarnation_3_13757
 
 told:_Incarnation_3_3064
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_3 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_3 ;
 	gist:precedesDirectly told:_Incarnation_3_13175 ;
 	gist:providesOrderFor told:_Person_3064 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3164,7 +3164,7 @@ told:_Incarnation_40_11737
 
 told:_Incarnation_40_13762
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_40 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_40 ;
 	gist:precedesDirectly told:_Incarnation_40_13763 ;
 	gist:providesOrderFor told:_Person_13762 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3235,7 +3235,7 @@ told:_Incarnation_41_13716
 
 told:_Incarnation_41_6529
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_41 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_41 ;
 	gist:precedesDirectly told:_Incarnation_41_7908 ;
 	gist:providesOrderFor told:_Person_6529 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3296,7 +3296,7 @@ told:_Incarnation_42_8603
 
 told:_Incarnation_42_8616
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_42 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_42 ;
 	gist:precedesDirectly told:_Incarnation_42_8584 ;
 	gist:providesOrderFor told:_Person_8616 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3394,7 +3394,7 @@ told:_Incarnation_43_6340
 
 told:_Incarnation_43_6690
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_43 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_43 ;
 	gist:precedesDirectly told:_Incarnation_43_6340 ;
 	gist:providesOrderFor told:_Person_6690 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3483,7 +3483,7 @@ told:_Incarnation_44_6626
 
 told:_Incarnation_44_8027
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_44 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_44 ;
 	gist:precedesDirectly told:_Incarnation_44_6626 ;
 	gist:providesOrderFor told:_Person_8027 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3590,7 +3590,7 @@ told:_Incarnation_45_2704
 
 told:_Incarnation_45_3417
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_45 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_45 ;
 	gist:precedesDirectly told:_Incarnation_45_10878 ;
 	gist:providesOrderFor told:_Person_3417 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3615,7 +3615,7 @@ told:_Incarnation_46_13128
 
 told:_Incarnation_46_4372
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_46 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_46 ;
 	gist:precedesDirectly told:_Incarnation_46_4376 ;
 	gist:providesOrderFor told:_Person_4372 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3696,7 +3696,7 @@ told:_Incarnation_46_9179
 
 told:_Incarnation_47_13121
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_47 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_47 ;
 	gist:precedesDirectly told:_Incarnation_47_13123 ;
 	gist:providesOrderFor told:_Person_13121 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3739,7 +3739,7 @@ told:_Incarnation_48_149
 
 told:_Incarnation_48_2329
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_48 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_48 ;
 	gist:precedesDirectly told:_Incarnation_48_3414 ;
 	gist:providesOrderFor told:_Person_2329 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3810,7 +3810,7 @@ told:_Incarnation_49_5349
 
 told:_Incarnation_49_6526
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_49 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_49 ;
 	gist:precedesDirectly told:_Incarnation_49_5349 ;
 	gist:providesOrderFor told:_Person_6526 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3828,7 +3828,7 @@ told:_Incarnation_4_3074
 
 told:_Incarnation_4_6312
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_4 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_4 ;
 	gist:precedesDirectly told:_Incarnation_4_3074 ;
 	gist:providesOrderFor told:_Person_6312 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3871,7 +3871,7 @@ told:_Incarnation_50_10315
 
 told:_Incarnation_50_13067
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_50 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_50 ;
 	gist:precedesDirectly told:_Incarnation_50_13068 ;
 	gist:providesOrderFor told:_Person_13067 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -3981,7 +3981,7 @@ told:_Incarnation_51_6634
 
 told:_Incarnation_51_9753
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_51 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_51 ;
 	gist:precedesDirectly told:_Incarnation_51_6493 ;
 	gist:providesOrderFor told:_Person_9753 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4007,7 +4007,7 @@ told:_Incarnation_53_6045
 
 told:_Incarnation_53_6505
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_53 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_53 ;
 	gist:precedesDirectly told:_Incarnation_53_6045 ;
 	gist:providesOrderFor told:_Person_6505 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4062,7 +4062,7 @@ told:_Incarnation_55_4546
 
 told:_Incarnation_55_6622
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_55 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_55 ;
 	gist:precedesDirectly told:_Incarnation_55_4546 ;
 	gist:providesOrderFor told:_Person_6622 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4175,7 +4175,7 @@ told:_Incarnation_56_5953
 
 told:_Incarnation_56_5956
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_56 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_56 ;
 	gist:precedesDirectly told:_Incarnation_56_13194 ;
 	gist:providesOrderFor told:_Person_5956 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4201,7 +4201,7 @@ told:_Incarnation_57_13180
 
 told:_Incarnation_57_2392
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_57 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_57 ;
 	gist:precedesDirectly told:_Incarnation_57_2399 ;
 	gist:providesOrderFor told:_Person_2392 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4298,7 +4298,7 @@ told:_Incarnation_58_6580
 
 told:_Incarnation_58_6746
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_58 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_58 ;
 	gist:precedesDirectly told:_Incarnation_58_6935 ;
 	gist:providesOrderFor told:_Person_6746 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4387,7 +4387,7 @@ told:_Incarnation_59_12578
 
 told:_Incarnation_59_2926
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_59 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_59 ;
 	gist:precedesDirectly told:_Incarnation_59_10831 ;
 	gist:providesOrderFor told:_Person_2926 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4478,7 +4478,7 @@ told:_Incarnation_60_3708
 
 told:_Incarnation_60_3712
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_60 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_60 ;
 	gist:precedesDirectly told:_Incarnation_60_3708 ;
 	gist:providesOrderFor told:_Person_3712 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4513,7 +4513,7 @@ told:_Incarnation_61_4309
 
 told:_Incarnation_61_5371
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_61 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_61 ;
 	gist:precedesDirectly told:_Incarnation_61_4280 ;
 	gist:providesOrderFor told:_Person_5371 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4522,7 +4522,7 @@ told:_Incarnation_61_5371
 
 told:_Incarnation_62_5652
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_62 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_62 ;
 	gist:precedesDirectly told:_Incarnation_62_6979 ;
 	gist:providesOrderFor told:_Person_5652 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4574,7 +4574,7 @@ told:_Incarnation_64_13768
 
 told:_Incarnation_64_8541
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_64 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_64 ;
 	gist:precedesDirectly told:_Incarnation_64_8583 ;
 	gist:providesOrderFor told:_Person_8541 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4626,7 +4626,7 @@ told:_Incarnation_65_5599
 
 told:_Incarnation_65_5899
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_65 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_65 ;
 	gist:precedesDirectly told:_Incarnation_65_3225 ;
 	gist:providesOrderFor told:_Person_5899 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4670,7 +4670,7 @@ told:_Incarnation_66_2997
 
 told:_Incarnation_66_3005
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_66 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_66 ;
 	gist:precedesDirectly told:_Incarnation_66_8139 ;
 	gist:providesOrderFor told:_Person_3005 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4731,7 +4731,7 @@ told:_Incarnation_67_2238
 
 told:_Incarnation_67_4493
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_67 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_67 ;
 	gist:precedesDirectly told:_Incarnation_67_9523 ;
 	gist:providesOrderFor told:_Person_4493 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4810,7 +4810,7 @@ told:_Incarnation_68_6667
 
 told:_Incarnation_68_6670
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_68 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_68 ;
 	gist:precedesDirectly told:_Incarnation_68_6667 ;
 	gist:providesOrderFor told:_Person_6670 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4854,7 +4854,7 @@ told:_Incarnation_69_13219
 
 told:_Incarnation_69_7589
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_69 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_69 ;
 	gist:precedesDirectly told:_Incarnation_69_10409 ;
 	gist:providesOrderFor told:_Person_7589 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -4916,7 +4916,7 @@ told:_Incarnation_6_13094
 
 told:_Incarnation_6_13095
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_6 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_6 ;
 	gist:precedesDirectly told:_Incarnation_6_13096 ;
 	gist:providesOrderFor told:_Person_13095 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5022,7 +5022,7 @@ told:_Incarnation_70_8814
 
 told:_Incarnation_70_9213
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_70 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_70 ;
 	gist:precedesDirectly told:_Incarnation_70_9525 ;
 	gist:providesOrderFor told:_Person_9213 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5049,7 +5049,7 @@ told:_Incarnation_70_9884
 
 told:_Incarnation_71_3788
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_71 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_71 ;
 	gist:precedesDirectly told:_Incarnation_71_3789 ;
 	gist:providesOrderFor told:_Person_3788 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5209,7 +5209,7 @@ told:_Incarnation_72_2717
 
 told:_Incarnation_72_3843
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_72 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_72 ;
 	gist:precedesDirectly told:_Incarnation_72_9634 ;
 	gist:providesOrderFor told:_Person_3843 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5261,7 +5261,7 @@ told:_Incarnation_73_13229
 
 told:_Incarnation_73_5151
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_73 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_73 ;
 	gist:precedesDirectly told:_Incarnation_73_5159 ;
 	gist:providesOrderFor told:_Person_5151 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5341,7 +5341,7 @@ told:_Incarnation_74_2672
 
 told:_Incarnation_74_5924
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_74 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_74 ;
 	gist:precedesDirectly told:_Incarnation_74_10898 ;
 	gist:providesOrderFor told:_Person_5924 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5394,7 +5394,7 @@ told:_Incarnation_75_12001
 
 told:_Incarnation_75_3043
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_75 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_75 ;
 	gist:precedesDirectly told:_Incarnation_75_9690 ;
 	gist:providesOrderFor told:_Person_3043 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5465,7 +5465,7 @@ told:_Incarnation_76_6188
 
 told:_Incarnation_76_6647
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_76 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_76 ;
 	gist:precedesDirectly told:_Incarnation_76_6185 ;
 	gist:providesOrderFor told:_Person_6647 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5500,7 +5500,7 @@ told:_Incarnation_77_2151
 
 told:_Incarnation_77_4358
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_77 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_77 ;
 	gist:precedesDirectly told:_Incarnation_77_12169 ;
 	gist:providesOrderFor told:_Person_4358 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5517,7 +5517,7 @@ told:_Incarnation_79_10018
 
 told:_Incarnation_79_7582
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_79 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_79 ;
 	gist:precedesDirectly told:_Incarnation_79_10018 ;
 	gist:providesOrderFor told:_Person_7582 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5578,7 +5578,7 @@ told:_Incarnation_7_289
 
 told:_Incarnation_7_6668
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_7 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_7 ;
 	gist:precedesDirectly told:_Incarnation_7_9546 ;
 	gist:providesOrderFor told:_Person_6668 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5605,7 +5605,7 @@ told:_Incarnation_80_10254
 
 told:_Incarnation_80_12523
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_80 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_80 ;
 	gist:precedesDirectly told:_Incarnation_80_12524 ;
 	gist:providesOrderFor told:_Person_12523 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5685,7 +5685,7 @@ told:_Incarnation_80_12531
 
 told:_Incarnation_81_13473
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_81 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_81 ;
 	gist:precedesDirectly told:_Incarnation_81_13474 ;
 	gist:providesOrderFor told:_Person_13473 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5738,7 +5738,7 @@ told:_Incarnation_81_13478
 
 told:_Incarnation_82_11246
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_82 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_82 ;
 	gist:precedesDirectly told:_Incarnation_82_11246 ;
 	gist:providesOrderFor told:_Person_11246 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5781,7 +5781,7 @@ told:_Incarnation_83_13277
 
 told:_Incarnation_83_4358
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_83 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_83 ;
 	gist:precedesDirectly told:_Incarnation_83_13277 ;
 	gist:providesOrderFor told:_Person_4358 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5797,7 +5797,7 @@ told:_Incarnation_84_10103
 
 told:_Incarnation_84_4358
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_84 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_84 ;
 	gist:precedesDirectly told:_Incarnation_84_10103 ;
 	gist:providesOrderFor told:_Person_4358 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5813,7 +5813,7 @@ told:_Incarnation_85_12180
 
 told:_Incarnation_85_4358
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_85 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_85 ;
 	gist:precedesDirectly told:_Incarnation_85_12180 ;
 	gist:providesOrderFor told:_Person_4358 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5829,7 +5829,7 @@ told:_Incarnation_86_13481
 
 told:_Incarnation_86_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_86 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_86 ;
 	gist:precedesDirectly told:_Incarnation_86_9990 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5854,7 +5854,7 @@ told:_Incarnation_87_12104
 
 told:_Incarnation_87_4291
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_87 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_87 ;
 	gist:precedesDirectly told:_Incarnation_87_12104 ;
 	gist:providesOrderFor told:_Person_4291 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5879,7 +5879,7 @@ told:_Incarnation_88_13782
 
 told:_Incarnation_88_13783
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_88 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_88 ;
 	gist:precedesDirectly told:_Incarnation_88_13784 ;
 	gist:providesOrderFor told:_Person_13783 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5923,7 +5923,7 @@ told:_Incarnation_89_13777
 
 told:_Incarnation_89_7803
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_89 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_89 ;
 	gist:precedesDirectly told:_Incarnation_89_8005 ;
 	gist:providesOrderFor told:_Person_7803 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -5976,7 +5976,7 @@ told:_Incarnation_8_10678
 
 told:_Incarnation_8_2118
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_8 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_8 ;
 	gist:precedesDirectly told:_Incarnation_8_10673 ;
 	gist:providesOrderFor told:_Person_2118 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6002,7 +6002,7 @@ told:_Incarnation_90_11276
 
 told:_Incarnation_90_11277
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_90 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_90 ;
 	gist:precedesDirectly told:_Incarnation_90_11278 ;
 	gist:providesOrderFor told:_Person_11277 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6020,7 +6020,7 @@ told:_Incarnation_90_11278
 
 told:_Incarnation_91_11279
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_91 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_91 ;
 	gist:precedesDirectly told:_Incarnation_91_8971 ;
 	gist:providesOrderFor told:_Person_11279 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6054,7 +6054,7 @@ told:_Incarnation_92_13881
 
 told:_Incarnation_92_8753
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_92 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_92 ;
 	gist:precedesDirectly told:_Incarnation_92_11245 ;
 	gist:providesOrderFor told:_Person_8753 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6089,7 +6089,7 @@ told:_Incarnation_93_2999
 
 told:_Incarnation_93_3000
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_93 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_93 ;
 	gist:precedesDirectly told:_Incarnation_93_4374 ;
 	gist:providesOrderFor told:_Person_3000 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6168,7 +6168,7 @@ told:_Incarnation_93_9223
 
 told:_Incarnation_94_10824
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_94 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_94 ;
 	gist:precedesDirectly told:_Incarnation_94_11302 ;
 	gist:providesOrderFor told:_Person_10824 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6273,7 +6273,7 @@ told:_Incarnation_95_13582
 
 told:_Incarnation_95_8181
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_95 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_95 ;
 	gist:precedesDirectly told:_Incarnation_95_13577 ;
 	gist:providesOrderFor told:_Person_8181 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6307,7 +6307,7 @@ told:_Incarnation_96_13581
 
 told:_Incarnation_96_8181
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_96 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_96 ;
 	gist:precedesDirectly told:_Incarnation_96_10743 ;
 	gist:providesOrderFor told:_Person_8181 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6332,7 +6332,7 @@ told:_Incarnation_97_13591
 
 told:_Incarnation_97_13592
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_97 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_97 ;
 	gist:precedesDirectly told:_Incarnation_97_13591 ;
 	gist:providesOrderFor told:_Person_13592 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6403,7 +6403,7 @@ told:_Incarnation_98_13756
 
 told:_Incarnation_98_6285
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_98 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_98 ;
 	gist:precedesDirectly told:_Incarnation_98_13752 ;
 	gist:providesOrderFor told:_Person_6285 ;
 	gist:sequence "1"^^xsd:integer ;
@@ -6412,7 +6412,7 @@ told:_Incarnation_98_6285
 
 told:_Incarnation_99_8600
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_99 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_99 ;
 	gist:providesOrderFor told:_Person_8600 ;
 	gist:sequence "1"^^xsd:integer ;
 	tolo:ordinal "1"^^xsd:integer ;
@@ -6455,7 +6455,7 @@ told:_Incarnation_9_13501
 
 told:_Incarnation_9_2441
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_9 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_9 ;
 	gist:precedesDirectly told:_Incarnation_9_3758 ;
 	gist:providesOrderFor told:_Person_2441 ;
 	gist:sequence "1"^^xsd:integer ;
