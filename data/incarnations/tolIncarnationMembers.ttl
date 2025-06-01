@@ -703,10 +703,10 @@ told:_Incarnation_117_2419
 
 told:_Incarnation_118_3134
 	a tolo:Incarnation ;
-	gist:isMemberOf told:_IncarnationLineage_118 ;
+	gist:isFirstMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3730 ;
 	gist:providesOrderFor told:_Person_3134 ;
-	gist:sequence "6"^^xsd:integer ;
+	gist:sequence "1"^^xsd:integer ;
 	tolo:ordinal "6"^^xsd:integer ;
 	.
 
@@ -715,7 +715,7 @@ told:_Incarnation_118_3730
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3733 ;
 	gist:providesOrderFor told:_Person_3730 ;
-	gist:sequence "7"^^xsd:integer ;
+	gist:sequence "2"^^xsd:integer ;
 	tolo:ordinal "7"^^xsd:integer ;
 	.
 
@@ -724,7 +724,7 @@ told:_Incarnation_118_3733
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_6419 ;
 	gist:providesOrderFor told:_Person_3733 ;
-	gist:sequence "8"^^xsd:integer ;
+	gist:sequence "3"^^xsd:integer ;
 	tolo:ordinal "8"^^xsd:integer ;
 	.
 
@@ -733,7 +733,7 @@ told:_Incarnation_118_3734
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3735 ;
 	gist:providesOrderFor told:_Person_3734 ;
-	gist:sequence "10"^^xsd:integer ;
+	gist:sequence "5"^^xsd:integer ;
 	tolo:ordinal "10"^^xsd:integer ;
 	.
 
@@ -742,7 +742,7 @@ told:_Incarnation_118_3735
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3738 ;
 	gist:providesOrderFor told:_Person_3735 ;
-	gist:sequence "11"^^xsd:integer ;
+	gist:sequence "6"^^xsd:integer ;
 	tolo:ordinal "11"^^xsd:integer ;
 	.
 
@@ -751,7 +751,7 @@ told:_Incarnation_118_3738
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3739 ;
 	gist:providesOrderFor told:_Person_3738 ;
-	gist:sequence "12"^^xsd:integer ;
+	gist:sequence "7"^^xsd:integer ;
 	tolo:ordinal "12"^^xsd:integer ;
 	.
 
@@ -759,7 +759,7 @@ told:_Incarnation_118_3739
 	a tolo:Incarnation ;
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:providesOrderFor told:_Person_3739 ;
-	gist:sequence "13"^^xsd:integer ;
+	gist:sequence "8"^^xsd:integer ;
 	tolo:ordinal "13"^^xsd:integer ;
 	.
 
@@ -768,7 +768,7 @@ told:_Incarnation_118_6419
 	gist:isMemberOf told:_IncarnationLineage_118 ;
 	gist:precedesDirectly told:_Incarnation_118_3734 ;
 	gist:providesOrderFor told:_Person_6419 ;
-	gist:sequence "9"^^xsd:integer ;
+	gist:sequence "4"^^xsd:integer ;
 	tolo:ordinal "9"^^xsd:integer ;
 	.
 
