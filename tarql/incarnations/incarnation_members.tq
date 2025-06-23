@@ -42,6 +42,7 @@ CONSTRUCT {
 
     ?incarnation_iri
         a tolo:Incarnation ;
+        skos:prefLabel ?pref_label_en ;
         gist:providesOrderFor ?person_iri ;
         gist:sequence ?sequence_int ;
         tolo:ordinal ?ordinal_int ;
@@ -64,6 +65,8 @@ WHERE {
     BIND(tarql:expandPrefixedName(CONCAT("told:_Incarnation_", ?Incarnation_Lineage_TOL_ID, "_", ?Person_TOL_ID)) AS ?incarnation_iri)
 
     BIND(tarql:expandPrefixedName(CONCAT("told:_Person_", ?Person_TOL_ID)) AS ?person_iri)
+
+    BIND(STRLANG(CONCAT("Lineage ", ?Incarnation_Lineage_TOL_ID, " Person ", ?Person_TOL_ID), "en") AS ?pref_label_en)
 
     BIND(STRDT(?Ordinal, xsd:integer) AS ?ordinal_int)
     BIND(STRDT(?Incarnation_Sequence, xsd:integer) AS ?sequence_int)
