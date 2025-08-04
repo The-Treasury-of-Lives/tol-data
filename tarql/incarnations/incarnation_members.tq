@@ -32,7 +32,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # Katie/Alex reply - ignore
 
 # Run:
-# tarql -e utf-8 --dedup 5000 incarnation_members.tq incarnation-members-6-1-25.csv > tolIncarnationMembers.ttl
+# tarql -e utf-8 --dedup 5000 incarnation_members.tq incarnation-members-8-4-25.csv > tolIncarnationMembers.ttl
 
 CONSTRUCT {
 
