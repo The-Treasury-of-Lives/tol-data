@@ -5986,12 +5986,12 @@ told:_Incarnation_75_12001
 	tolo:ordinal "5"^^xsd:integer ;
 	.
 
-told:_Incarnation_75_3043
+told:_Incarnation_75_13307
 	a tolo:Incarnation ;
-	skos:prefLabel "Lineage 75 Person 3043"@en ;
+	skos:prefLabel "Lineage 75 Person 13307"@en ;
 	gist:isFirstMemberOf told:_IncarnationLineage_75 ;
 	gist:precedesDirectly told:_Incarnation_75_9690 ;
-	gist:providesOrderFor told:_Person_3043 ;
+	gist:providesOrderFor told:_Person_13307 ;
 	gist:sequence "1"^^xsd:integer ;
 	tolo:ordinal "1"^^xsd:integer ;
 	.
