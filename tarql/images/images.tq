@@ -174,11 +174,11 @@ WHERE {
     BIND(IF(!BOUND(?location) || ?source != ?location, ?source, ?unbound) AS ?credit)
 
     # Editing metadata
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
     BIND(REPLACE(REPLACE(?create_date, " ", "T"), "T(\\d):", "T0$1:") AS ?create_date_clean)
     BIND(STRDT(?create_date_clean, xsd:dateTime) AS ?create_datetime)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?last_modified_by_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)) AS ?last_modified_by_iri)
     BIND(REPLACE(REPLACE(?last_modified_date, " ", "T"), "T(\\d):", "T0$1:") AS ?last_modified_date_clean)
     BIND(STRDT(?last_modified_date_clean, xsd:dateTime) AS ?last_modified_datetime)
 

@@ -124,7 +124,7 @@ WHERE {
 
     # Editing metadata
     # Note: editing metadata is ignored here because it is row-based rather than resource-based. Because some images are used with multiple persons, that results in multiple create and last modified metadata on the same image.
-    # BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?create_user_id)) AS ?created_by_iri)
+    # BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?create_user_id)) AS ?created_by_iri)
 
     # BIND(REPLACE(?create_date, " .+$", "") AS ?create_day)
     # BIND(REPLACE(?create_date, "^.+ ", "") AS ?create_time)
@@ -132,7 +132,7 @@ WHERE {
     # BIND(STRDT(CONCAT(?create_day, "T", ?normalized_create_time), xsd:dateTime) AS ?create_datetime)
 
     # If no modification date/user, use creation date/user.
-    # BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
+    # BIND(IF(?last_modified_user_id != "NULL", tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)), ?created_by_iri) AS ?last_modified_by_iri)
 
     # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, " .+$", ""), ?unbound) AS ?last_modified_day)
     # BIND(IF(?last_modified_date != "NULL", REPLACE(?last_modified_date, "^.+ ", ""), ?unbound) AS ?last_modified_time)
