@@ -14,22 +14,10 @@
 @prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_Biography_10018
-	tolo:createDateTime "2017-01-18T13:43:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-06T14:47:01"^^xsd:dateTime ;
-	.
-
-told:_Biography_10019
-	tolo:createDateTime "2024-02-12T18:48:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-30T21:23:53"^^xsd:dateTime ;
-	.
-
 told:_Biography_10068
 	tolo:createDateTime "2011-09-23T22:51:40"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T19:16:57"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-25T17:16:56"^^xsd:dateTime ;
 	.
 
 told:_Biography_10083
@@ -48,12 +36,6 @@ told:_Biography_10146
 	tolo:createDateTime "2014-09-22T12:17:07"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-11-13T20:33:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_10168
-	tolo:createDateTime "2017-07-12T03:04:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2017-10-10T20:44:40"^^xsd:dateTime ;
 	.
 
 told:_Biography_10169
@@ -80,34 +62,16 @@ told:_Biography_10202
 	tolo:lastModifiedDateTime "2023-06-22T19:18:02"^^xsd:dateTime ;
 	.
 
-told:_Biography_10203
-	tolo:createDateTime "2023-04-20T19:30:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T23:19:06"^^xsd:dateTime ;
-	.
-
 told:_Biography_10258
 	tolo:createDateTime "2009-08-19T16:20:19"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2016-06-27T12:47:31"^^xsd:dateTime ;
 	.
 
-told:_Biography_10280
-	tolo:createDateTime "2019-02-13T15:29:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-09-21T14:54:10"^^xsd:dateTime ;
-	.
-
 told:_Biography_1029
 	tolo:createDateTime "2010-07-06T16:04:10"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2023-09-12T13:11:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_10298
-	tolo:createDateTime "2024-08-21T20:53:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-04T16:13:03"^^xsd:dateTime ;
 	.
 
 told:_Biography_10301
@@ -128,28 +92,10 @@ told:_Biography_10315
 	tolo:lastModifiedDateTime "2019-06-10T21:15:25"^^xsd:dateTime ;
 	.
 
-told:_Biography_10319
-	tolo:createDateTime "2023-08-24T15:56:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-08-25T13:01:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_10320
-	tolo:createDateTime "2023-08-24T15:50:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-24T16:00:21"^^xsd:dateTime ;
-	.
-
 told:_Biography_1035
 	tolo:createDateTime "2010-07-06T16:29:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2023-09-12T13:08:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_10355
-	tolo:createDateTime "2022-06-28T16:13:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:45:18"^^xsd:dateTime ;
 	.
 
 told:_Biography_10372
@@ -178,20 +124,8 @@ told:_Biography_10412
 
 told:_Biography_10413
 	tolo:createDateTime "2012-01-13T17:10:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T23:20:34"^^xsd:dateTime ;
-	.
-
-told:_Biography_10414
-	tolo:createDateTime "2016-03-23T13:20:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:46:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_10415
-	tolo:createDateTime "2016-03-23T13:16:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2018-01-24T20:31:45"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-11T14:08:33"^^xsd:dateTime ;
 	.
 
 told:_Biography_10422
@@ -230,12 +164,6 @@ told:_Biography_10470
 	tolo:lastModifiedDateTime "2023-11-09T12:27:48"^^xsd:dateTime ;
 	.
 
-told:_Biography_10480
-	tolo:createDateTime "2017-11-14T15:14:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2017-11-15T17:02:58"^^xsd:dateTime ;
-	.
-
 told:_Biography_10482
 	tolo:createDateTime "2011-05-23T16:44:58"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -272,22 +200,10 @@ told:_Biography_10536
 	tolo:lastModifiedDateTime "2023-09-21T14:56:45"^^xsd:dateTime ;
 	.
 
-told:_Biography_10546
-	tolo:createDateTime "2017-03-07T17:02:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-08-26T17:28:30"^^xsd:dateTime ;
-	.
-
 told:_Biography_10548
 	tolo:createDateTime "2014-07-16T16:13:08"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
 	tolo:lastModifiedDateTime "2018-01-23T20:49:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_10561
-	tolo:createDateTime "2017-06-01T09:25:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2017-08-30T14:17:47"^^xsd:dateTime ;
 	.
 
 told:_Biography_10571
@@ -308,10 +224,10 @@ told:_Biography_10573
 	tolo:lastModifiedDateTime "2024-05-07T23:46:48"^^xsd:dateTime ;
 	.
 
-told:_Biography_10579
-	tolo:createDateTime "2017-06-23T11:04:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T17:40:21"^^xsd:dateTime ;
+told:_Biography_10580
+	tolo:createDateTime "2012-03-27T15:58:44"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2023-12-08T00:53:03"^^xsd:dateTime ;
 	.
 
 told:_Biography_10591
@@ -320,40 +236,16 @@ told:_Biography_10591
 	tolo:lastModifiedDateTime "2022-10-20T18:04:03"^^xsd:dateTime ;
 	.
 
-told:_Biography_10613
-	tolo:createDateTime "2015-11-03T11:06:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-11-03T16:45:50"^^xsd:dateTime ;
-	.
-
-told:_Biography_10617
-	tolo:createDateTime "2020-10-29T18:43:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-11-13T16:25:50"^^xsd:dateTime ;
-	.
-
 told:_Biography_10623
 	tolo:createDateTime "2014-01-22T07:57:29"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T19:29:37"^^xsd:dateTime ;
 	.
 
-told:_Biography_10633
-	tolo:createDateTime "2015-11-03T14:24:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-11-03T16:45:48"^^xsd:dateTime ;
-	.
-
 told:_Biography_10644
 	tolo:createDateTime "2014-01-22T08:58:19"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-23T01:01:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_10647
-	tolo:createDateTime "2024-01-18T21:23:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-19T13:12:36"^^xsd:dateTime ;
 	.
 
 told:_Biography_10649
@@ -416,34 +308,10 @@ told:_Biography_10687
 	tolo:lastModifiedDateTime "2024-05-07T23:48:15"^^xsd:dateTime ;
 	.
 
-told:_Biography_10699
-	tolo:createDateTime "2019-12-20T19:29:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-12-09T18:14:28"^^xsd:dateTime ;
-	.
-
-told:_Biography_10742
-	tolo:createDateTime "2015-11-03T16:43:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-01-20T21:15:34"^^xsd:dateTime ;
-	.
-
-told:_Biography_10753
-	tolo:createDateTime "2015-11-03T15:27:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-10T16:37:02"^^xsd:dateTime ;
-	.
-
 told:_Biography_10794
 	tolo:createDateTime "2010-09-20T13:34:56"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2016-08-02T17:02:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_10811
-	tolo:createDateTime "2019-01-16T18:56:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-21T23:28:40"^^xsd:dateTime ;
 	.
 
 told:_Biography_10815
@@ -466,20 +334,14 @@ told:_Biography_10827
 
 told:_Biography_10828
 	tolo:createDateTime "2011-10-01T01:53:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T16:22:41"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-12-30T14:57:40"^^xsd:dateTime ;
 	.
 
 told:_Biography_10832
 	tolo:createDateTime "2011-09-16T23:25:16"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-01-05T17:19:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_10835
-	tolo:createDateTime "2018-03-14T21:47:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-09-21T14:57:20"^^xsd:dateTime ;
 	.
 
 told:_Biography_10857
@@ -512,28 +374,16 @@ told:_Biography_10898
 	tolo:lastModifiedDateTime "2017-09-27T18:29:00"^^xsd:dateTime ;
 	.
 
-told:_Biography_10900
-	tolo:createDateTime "2019-11-08T17:04:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-10T21:20:39"^^xsd:dateTime ;
-	.
-
 told:_Biography_10904
 	tolo:createDateTime "2009-08-27T13:34:16"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:50:40"^^xsd:dateTime ;
 	.
 
-told:_Biography_10908
-	tolo:createDateTime "2019-11-07T17:03:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:29:35"^^xsd:dateTime ;
-	.
-
-told:_Biography_10911
-	tolo:createDateTime "2019-11-08T20:23:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-11-15T17:35:29"^^xsd:dateTime ;
+told:_Biography_10909
+	tolo:createDateTime "2012-10-26T21:57:28"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:24:21"^^xsd:dateTime ;
 	.
 
 told:_Biography_10957
@@ -542,52 +392,22 @@ told:_Biography_10957
 	tolo:lastModifiedDateTime "2023-06-22T19:41:26"^^xsd:dateTime ;
 	.
 
-told:_Biography_10961
-	tolo:createDateTime "2019-11-20T20:57:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T01:54:11"^^xsd:dateTime ;
-	.
-
-told:_Biography_10970
-	tolo:createDateTime "2019-11-15T17:05:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-11-15T17:07:57"^^xsd:dateTime ;
-	.
-
-told:_Biography_10980
-	tolo:createDateTime "2019-11-20T17:36:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-11-25T15:28:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_10981
-	tolo:createDateTime "2019-11-25T16:36:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-08-07T13:48:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_10982
-	tolo:createDateTime "2019-11-25T16:46:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-08-07T13:52:07"^^xsd:dateTime ;
-	.
-
 told:_Biography_11003
 	tolo:createDateTime "2014-09-22T16:27:23"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-01-20T14:53:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_11056
-	tolo:createDateTime "2018-07-12T19:33:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-03-05T23:13:22"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-12T19:00:14"^^xsd:dateTime ;
 	.
 
 told:_Biography_1108
 	tolo:createDateTime "2009-08-31T15:25:06"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2022-08-31T14:58:20"^^xsd:dateTime ;
+	.
+
+told:_Biography_11092
+	tolo:createDateTime "2012-11-27T20:41:17"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:23:36"^^xsd:dateTime ;
 	.
 
 told:_Biography_11114
@@ -614,70 +434,10 @@ told:_Biography_11141
 	tolo:lastModifiedDateTime "2015-09-15T11:31:27"^^xsd:dateTime ;
 	.
 
-told:_Biography_11158
-	tolo:createDateTime "2023-06-02T18:17:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T01:54:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_11183
-	tolo:createDateTime "2020-10-20T14:51:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-10-20T16:45:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_11231
-	tolo:createDateTime "2021-01-09T17:39:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-10T14:57:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_11245
-	tolo:createDateTime "2016-05-04T14:36:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:09:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_11246
-	tolo:createDateTime "2016-05-04T12:24:33"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2018-01-24T18:31:00"^^xsd:dateTime ;
-	.
-
 told:_Biography_11258
 	tolo:createDateTime "2011-12-02T19:56:14"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-02-17T16:56:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_11277
-	tolo:createDateTime "2016-05-04T16:35:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:10:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_11278
-	tolo:createDateTime "2016-05-13T15:36:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-03-01T16:47:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_11279
-	tolo:createDateTime "2016-05-04T14:48:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:10:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_11285
-	tolo:createDateTime "2016-11-08T14:58:23"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-06-06T22:48:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_11290
-	tolo:createDateTime "2022-03-07T16:28:33"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-10-12T14:07:26"^^xsd:dateTime ;
 	.
 
 told:_Biography_11299
@@ -688,20 +448,14 @@ told:_Biography_11299
 
 told:_Biography_11307
 	tolo:createDateTime "2009-08-05T11:38:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-09-16T11:10:31"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-05-15T14:45:29"^^xsd:dateTime ;
 	.
 
 told:_Biography_11352
 	tolo:createDateTime "2010-01-28T13:15:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-10-04T14:49:59"^^xsd:dateTime ;
-	.
-
-told:_Biography_11385
-	tolo:createDateTime "2021-06-14T21:37:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-11T14:18:08"^^xsd:dateTime ;
 	.
 
 told:_Biography_11417
@@ -722,12 +476,6 @@ told:_Biography_11427
 	tolo:lastModifiedDateTime "2022-04-26T14:26:36"^^xsd:dateTime ;
 	.
 
-told:_Biography_11428
-	tolo:createDateTime "2023-08-17T15:54:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-17T15:56:37"^^xsd:dateTime ;
-	.
-
 told:_Biography_11432
 	tolo:createDateTime "2011-12-23T18:07:10"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -738,12 +486,6 @@ told:_Biography_11435
 	tolo:createDateTime "2013-01-07T17:03:41"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T19:46:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_11437
-	tolo:createDateTime "2023-10-18T19:41:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-07T20:56:09"^^xsd:dateTime ;
 	.
 
 told:_Biography_11441
@@ -772,8 +514,8 @@ told:_Biography_11445
 
 told:_Biography_11453
 	tolo:createDateTime "2009-07-30T14:05:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-14T21:35:39"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-05T12:30:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_11462
@@ -832,8 +574,8 @@ told:_Biography_11569
 
 told:_Biography_11572
 	tolo:createDateTime "2010-09-23T16:45:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:40:45"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-22T12:43:36"^^xsd:dateTime ;
 	.
 
 told:_Biography_11575
@@ -866,34 +608,16 @@ told:_Biography_11632
 	tolo:lastModifiedDateTime "2024-05-08T12:41:15"^^xsd:dateTime ;
 	.
 
+told:_Biography_11645
+	tolo:createDateTime "2012-11-05T20:14:43"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:24:41"^^xsd:dateTime ;
+	.
+
 told:_Biography_11731
 	tolo:createDateTime "2013-03-29T16:20:17"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2023-11-10T20:56:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_11741
-	tolo:createDateTime "2019-07-30T14:07:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2019-08-02T19:46:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_11790
-	tolo:createDateTime "2016-06-10T14:14:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-31T15:32:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_11796
-	tolo:createDateTime "2016-06-10T13:43:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-10T14:16:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_11798
-	tolo:createDateTime "2016-01-29T13:48:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-23T00:41:34"^^xsd:dateTime ;
 	.
 
 told:_Biography_11865
@@ -938,12 +662,6 @@ told:_Biography_11942
 	tolo:lastModifiedDateTime "2018-01-12T22:14:58"^^xsd:dateTime ;
 	.
 
-told:_Biography_11972
-	tolo:createDateTime "2016-03-11T15:22:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-02-28T16:48:39"^^xsd:dateTime ;
-	.
-
 told:_Biography_11986
 	tolo:createDateTime "2010-03-09T14:32:54"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -956,22 +674,10 @@ told:_Biography_12096
 	tolo:lastModifiedDateTime "2022-03-17T16:46:34"^^xsd:dateTime ;
 	.
 
-told:_Biography_12100
-	tolo:createDateTime "2016-03-31T15:05:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-19T12:30:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_12171
-	tolo:createDateTime "2022-06-01T19:28:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-02T15:12:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_12180
-	tolo:createDateTime "2021-02-02T19:40:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-07-10T16:27:00"^^xsd:dateTime ;
+told:_Biography_12234
+	tolo:createDateTime "2012-11-17T01:27:30"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:24:32"^^xsd:dateTime ;
 	.
 
 told:_Biography_12264
@@ -986,34 +692,10 @@ told:_Biography_12340
 	tolo:lastModifiedDateTime "2016-03-02T16:59:36"^^xsd:dateTime ;
 	.
 
-told:_Biography_12403
-	tolo:createDateTime "2022-07-26T16:24:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-08-16T11:23:30"^^xsd:dateTime ;
-	.
-
 told:_Biography_12405
 	tolo:createDateTime "2015-04-08T16:51:02"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-08T12:51:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_12439
-	tolo:createDateTime "2023-08-01T19:13:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-02T13:31:44"^^xsd:dateTime ;
-	.
-
-told:_Biography_12479
-	tolo:createDateTime "2023-03-24T15:28:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-06T14:40:11"^^xsd:dateTime ;
-	.
-
-told:_Biography_12500
-	tolo:createDateTime "2022-05-05T14:44:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-05-06T20:33:42"^^xsd:dateTime ;
 	.
 
 told:_Biography_12521
@@ -1026,42 +708,6 @@ told:_Biography_12547
 	tolo:createDateTime "2011-08-04T21:51:29"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-23T00:42:49"^^xsd:dateTime ;
-	.
-
-told:_Biography_12553
-	tolo:createDateTime "2021-06-07T18:49:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-01-23T21:07:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_12613
-	tolo:createDateTime "2023-06-05T19:42:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-10-12T19:15:08"^^xsd:dateTime ;
-	.
-
-told:_Biography_12741
-	tolo:createDateTime "2021-06-08T15:41:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-10-12T14:04:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_12742
-	tolo:createDateTime "2022-05-06T20:19:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-07T16:54:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_12743
-	tolo:createDateTime "2022-05-06T20:05:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-11-29T16:00:33"^^xsd:dateTime ;
-	.
-
-told:_Biography_12745
-	tolo:createDateTime "2023-04-20T19:18:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-22T14:59:21"^^xsd:dateTime ;
 	.
 
 told:_Biography_12785
@@ -1082,46 +728,10 @@ told:_Biography_12828
 	tolo:lastModifiedDateTime "2024-05-08T12:52:20"^^xsd:dateTime ;
 	.
 
-told:_Biography_12838
-	tolo:createDateTime "2020-07-16T13:31:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-07-20T16:36:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_12839
-	tolo:createDateTime "2021-08-14T20:18:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-24T17:29:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_12865
-	tolo:createDateTime "2016-05-20T11:25:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-20T12:50:23"^^xsd:dateTime ;
-	.
-
 told:_Biography_12906
 	tolo:createDateTime "2013-02-19T21:50:19"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-11-12T14:55:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_12980
-	tolo:createDateTime "2024-05-28T21:13:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-06-05T18:12:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_12981
-	tolo:createDateTime "2023-06-16T19:52:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-05T16:09:58"^^xsd:dateTime ;
-	.
-
-told:_Biography_12982
-	tolo:createDateTime "2024-01-25T18:55:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-26T16:54:50"^^xsd:dateTime ;
 	.
 
 told:_Biography_13026
@@ -1146,6 +756,12 @@ told:_Biography_13061
 	tolo:createDateTime "2009-07-29T11:54:49"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-12-21T16:09:12"^^xsd:dateTime ;
+	.
+
+told:_Biography_13062
+	tolo:createDateTime "2009-07-29T13:41:24"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2010-09-22T16:37:28"^^xsd:dateTime ;
 	.
 
 told:_Biography_13063
@@ -1272,6 +888,12 @@ told:_Biography_13084
 	tolo:createDateTime "2010-04-19T15:36:36"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-23T00:43:32"^^xsd:dateTime ;
+	.
+
+told:_Biography_13085
+	tolo:createDateTime "2010-04-23T12:59:24"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2012-05-02T21:29:34"^^xsd:dateTime ;
 	.
 
 told:_Biography_13086
@@ -1438,8 +1060,8 @@ told:_Biography_13112
 
 told:_Biography_13113
 	tolo:createDateTime "2010-10-20T10:16:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-01-13T15:23:51"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-28T14:12:09"^^xsd:dateTime ;
 	.
 
 told:_Biography_13115
@@ -1592,6 +1214,12 @@ told:_Biography_13143
 	tolo:lastModifiedDateTime "2024-05-08T13:24:14"^^xsd:dateTime ;
 	.
 
+told:_Biography_13144
+	tolo:createDateTime "2011-09-01T20:00:09"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2011-10-27T19:45:18"^^xsd:dateTime ;
+	.
+
 told:_Biography_13145
 	tolo:createDateTime "2011-09-01T20:16:06"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -1646,6 +1274,12 @@ told:_Biography_13157
 	tolo:lastModifiedDateTime "2018-05-23T19:07:50"^^xsd:dateTime ;
 	.
 
+told:_Biography_13161
+	tolo:createDateTime "2012-04-11T19:36:12"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2012-10-17T18:11:36"^^xsd:dateTime ;
+	.
+
 told:_Biography_13162
 	tolo:createDateTime "2012-05-07T18:14:23"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -1666,8 +1300,8 @@ told:_Biography_13164
 
 told:_Biography_13165
 	tolo:createDateTime "2012-06-04T18:45:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-23T00:58:58"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-02T12:45:30"^^xsd:dateTime ;
 	.
 
 told:_Biography_13166
@@ -1816,8 +1450,8 @@ told:_Biography_13195
 
 told:_Biography_13196
 	tolo:createDateTime "2013-07-01T09:08:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-07-14T20:43:04"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-11-19T16:52:22"^^xsd:dateTime ;
 	.
 
 told:_Biography_13197
@@ -1864,14 +1498,14 @@ told:_Biography_13204
 
 told:_Biography_13205
 	tolo:createDateTime "2014-04-07T13:48:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-04-15T14:02:39"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-12-18T14:23:33"^^xsd:dateTime ;
 	.
 
 told:_Biography_13206
 	tolo:createDateTime "2014-04-08T09:00:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-02-04T16:28:22"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-24T14:54:48"^^xsd:dateTime ;
 	.
 
 told:_Biography_13217
@@ -2006,24 +1640,6 @@ told:_Biography_13242
 	tolo:lastModifiedDateTime "2019-11-01T15:31:00"^^xsd:dateTime ;
 	.
 
-told:_Biography_13246
-	tolo:createDateTime "2023-04-24T15:06:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-17T22:10:36"^^xsd:dateTime ;
-	.
-
-told:_Biography_13248
-	tolo:createDateTime "2023-06-06T12:59:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-06T15:03:30"^^xsd:dateTime ;
-	.
-
-told:_Biography_13249
-	tolo:createDateTime "2023-04-20T19:45:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-22T14:53:02"^^xsd:dateTime ;
-	.
-
 told:_Biography_13404
 	tolo:createDateTime "2015-04-24T14:33:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -2096,1254 +1712,6 @@ told:_Biography_13434
 	tolo:lastModifiedDateTime "2016-07-12T15:47:20"^^xsd:dateTime ;
 	.
 
-told:_Biography_13435
-	tolo:createDateTime "2015-05-29T13:24:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-23T01:02:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_13436
-	tolo:createDateTime "2015-06-02T10:36:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-02T15:58:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13437
-	tolo:createDateTime "2015-06-02T15:53:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-01-22T20:01:30"^^xsd:dateTime ;
-	.
-
-told:_Biography_13438
-	tolo:createDateTime "2015-06-02T16:25:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-12-05T17:24:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13439
-	tolo:createDateTime "2015-06-02T17:21:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-02T17:21:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13440
-	tolo:createDateTime "2015-06-04T11:19:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-07-06T13:59:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13441
-	tolo:createDateTime "2015-06-04T11:57:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-02-26T17:36:08"^^xsd:dateTime ;
-	.
-
-told:_Biography_13442
-	tolo:createDateTime "2015-06-04T12:48:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2015-09-03T13:23:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_13443
-	tolo:createDateTime "2015-06-04T15:20:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-06-02T17:11:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13444
-	tolo:createDateTime "2015-06-05T11:46:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-12-05T17:22:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_13445
-	tolo:createDateTime "2015-06-05T12:02:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-01-22T20:30:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_13446
-	tolo:createDateTime "2015-06-05T15:31:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-12-05T17:21:36"^^xsd:dateTime ;
-	.
-
-told:_Biography_13447
-	tolo:createDateTime "2015-06-05T16:55:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:34:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_13448
-	tolo:createDateTime "2015-06-05T17:03:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-02-03T16:36:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_13449
-	tolo:createDateTime "2015-06-12T15:25:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-12T16:19:09"^^xsd:dateTime ;
-	.
-
-told:_Biography_13450
-	tolo:createDateTime "2015-06-12T16:15:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-12T16:16:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_13451
-	tolo:createDateTime "2015-06-12T16:34:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-12T16:37:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13452
-	tolo:createDateTime "2015-06-16T16:03:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-16T18:02:16"^^xsd:dateTime ;
-	.
-
-told:_Biography_13453
-	tolo:createDateTime "2015-06-16T16:26:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-16T17:57:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_13454
-	tolo:createDateTime "2015-06-16T17:19:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-02-26T17:40:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_13455
-	tolo:createDateTime "2015-06-16T17:52:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-16T17:57:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_13462
-	tolo:createDateTime "2021-11-22T15:07:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-11-22T15:40:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_13502
-	tolo:createDateTime "2016-02-11T11:28:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-16T12:05:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_13507
-	tolo:createDateTime "2016-01-29T13:25:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-11-19T15:51:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_13509
-	tolo:createDateTime "2016-02-05T09:47:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:38:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_13510
-	tolo:createDateTime "2016-02-06T14:46:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-08-31T15:52:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13511
-	tolo:createDateTime "2016-02-10T15:58:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-09-05T19:12:35"^^xsd:dateTime ;
-	.
-
-told:_Biography_13512
-	tolo:createDateTime "2016-02-10T16:29:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-26T14:49:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13513
-	tolo:createDateTime "2016-02-11T10:08:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-06-07T15:03:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_13514
-	tolo:createDateTime "2016-02-11T10:22:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-11T10:36:57"^^xsd:dateTime ;
-	.
-
-told:_Biography_13515
-	tolo:createDateTime "2016-02-11T10:32:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-11T10:36:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_13516
-	tolo:createDateTime "2016-02-12T16:29:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-04T10:56:11"^^xsd:dateTime ;
-	.
-
-told:_Biography_13517
-	tolo:createDateTime "2016-02-12T16:42:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-16T21:19:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_13518
-	tolo:createDateTime "2016-02-12T16:52:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-02T17:02:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13519
-	tolo:createDateTime "2016-02-24T10:53:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-08-20T22:13:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13520
-	tolo:createDateTime "2016-02-24T11:13:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-26T09:40:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13521
-	tolo:createDateTime "2016-02-24T11:57:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-08-04T17:05:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_13522
-	tolo:createDateTime "2016-02-24T12:09:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-06-17T16:35:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_13523
-	tolo:createDateTime "2016-02-24T12:16:44"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-04-21T16:01:09"^^xsd:dateTime ;
-	.
-
-told:_Biography_13527
-	tolo:createDateTime "2016-03-02T15:55:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-02T17:03:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_13528
-	tolo:createDateTime "2016-03-02T16:02:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-02T16:15:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_13531
-	tolo:createDateTime "2016-03-10T12:07:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-16T14:42:48"^^xsd:dateTime ;
-	.
-
-told:_Biography_13532
-	tolo:createDateTime "2016-03-11T15:10:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-12-19T19:04:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_13533
-	tolo:createDateTime "2016-03-11T14:53:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:16:09"^^xsd:dateTime ;
-	.
-
-told:_Biography_13534
-	tolo:createDateTime "2016-03-18T14:07:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:36:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_13535
-	tolo:createDateTime "2016-03-18T14:14:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:37:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_13536
-	tolo:createDateTime "2016-03-18T14:32:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:35:30"^^xsd:dateTime ;
-	.
-
-told:_Biography_13537
-	tolo:createDateTime "2016-03-18T14:42:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:37:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13538
-	tolo:createDateTime "2016-03-18T14:56:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:38:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_13539
-	tolo:createDateTime "2016-03-18T15:44:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-31T16:39:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13540
-	tolo:createDateTime "2016-03-31T14:59:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:39:33"^^xsd:dateTime ;
-	.
-
-told:_Biography_13541
-	tolo:createDateTime "2016-03-31T16:32:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-10-06T17:26:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13542
-	tolo:createDateTime "2016-03-31T16:43:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:39:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_13543
-	tolo:createDateTime "2016-03-31T16:52:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-13T16:14:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13544
-	tolo:createDateTime "2016-04-01T16:25:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-04-07T14:28:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13545
-	tolo:createDateTime "2016-04-15T13:34:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:46:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13546
-	tolo:createDateTime "2016-04-15T13:44:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:47:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13547
-	tolo:createDateTime "2016-04-15T14:02:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-07-21T16:43:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_13548
-	tolo:createDateTime "2016-04-22T15:39:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-04-22T17:16:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_13549
-	tolo:createDateTime "2016-04-22T15:52:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-08-20T16:40:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13550
-	tolo:createDateTime "2016-05-13T15:23:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-13T16:10:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13558
-	tolo:createDateTime "2016-05-20T10:47:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-20T12:50:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13559
-	tolo:createDateTime "2016-05-26T11:52:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-26T17:56:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_13560
-	tolo:createDateTime "2016-05-26T16:15:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-26T17:56:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_13561
-	tolo:createDateTime "2016-05-26T17:20:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-03-18T18:02:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_13562
-	tolo:createDateTime "2016-05-26T17:55:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-02T11:56:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13563
-	tolo:createDateTime "2016-06-02T12:02:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-03T11:49:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_13564
-	tolo:createDateTime "2016-06-02T12:55:28"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-03-18T18:05:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13566
-	tolo:createDateTime "2016-07-21T11:26:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-03-22T18:25:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_13572
-	tolo:createDateTime "2016-08-17T15:09:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2016-08-17T16:00:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_13574
-	tolo:createDateTime "2016-09-15T15:14:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-09-15T17:29:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_13583
-	tolo:createDateTime "2016-10-19T15:59:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-08-20T16:33:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_13588
-	tolo:createDateTime "2016-11-29T11:46:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-06-11T14:11:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_13596
-	tolo:createDateTime "2017-12-14T19:51:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2017-12-14T19:55:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13597
-	tolo:createDateTime "2018-02-14T15:26:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:47:44"^^xsd:dateTime ;
-	.
-
-told:_Biography_13598
-	tolo:createDateTime "2018-02-14T15:46:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-02-23T17:44:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_13611
-	tolo:createDateTime "2018-03-07T17:51:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-08-20T16:26:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_13612
-	tolo:createDateTime "2018-03-26T15:34:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:18:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_13613
-	tolo:createDateTime "2018-03-29T13:25:28"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-21T23:46:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_13614
-	tolo:createDateTime "2018-04-04T21:24:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2018-06-13T21:03:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_13615
-	tolo:createDateTime "2018-04-09T13:32:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-09-12T15:41:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_13616
-	tolo:createDateTime "2018-04-09T13:41:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-03-07T16:47:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13617
-	tolo:createDateTime "2018-07-03T14:25:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-01-10T14:52:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_13625
-	tolo:createDateTime "2022-06-30T20:42:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-09-12T15:55:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_13627
-	tolo:createDateTime "2019-11-21T17:59:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-11-25T14:17:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_13628
-	tolo:createDateTime "2019-12-04T16:56:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-09-21T19:16:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13631
-	tolo:createDateTime "2019-11-25T14:20:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-11-25T15:26:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_13633
-	tolo:createDateTime "2019-12-23T17:43:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-08T18:49:42"^^xsd:dateTime ;
-	.
-
-told:_Biography_13634
-	tolo:createDateTime "2019-12-23T17:58:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:49:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13635
-	tolo:createDateTime "2020-01-07T16:05:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-09T18:45:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13636
-	tolo:createDateTime "2020-01-07T17:02:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-01-07T17:05:59"^^xsd:dateTime ;
-	.
-
-told:_Biography_13638
-	tolo:createDateTime "2020-01-08T15:10:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-08T20:52:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_13642
-	tolo:createDateTime "2020-01-08T17:39:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-05-02T15:02:31"^^xsd:dateTime ;
-	.
-
-told:_Biography_13647
-	tolo:createDateTime "2023-06-05T21:50:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-05T22:00:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_13648
-	tolo:createDateTime "2020-05-25T18:51:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-29T14:56:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_13650
-	tolo:createDateTime "2020-07-13T16:21:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-07-13T18:26:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_13652
-	tolo:createDateTime "2020-08-06T20:09:44"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-31T15:39:52"^^xsd:dateTime ;
-	.
-
-told:_Biography_13653
-	tolo:createDateTime "2021-04-21T14:37:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-08-11T03:00:36"^^xsd:dateTime ;
-	.
-
-told:_Biography_13654
-	tolo:createDateTime "2021-03-16T18:53:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-15T20:01:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13655
-	tolo:createDateTime "2020-08-13T20:25:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-12-03T15:27:09"^^xsd:dateTime ;
-	.
-
-told:_Biography_13659
-	tolo:createDateTime "2021-04-06T19:42:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-11T19:39:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13666
-	tolo:createDateTime "2021-03-16T15:15:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-11-30T18:10:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_13677
-	tolo:createDateTime "2021-06-07T18:09:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-21T21:09:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_13679
-	tolo:createDateTime "2021-06-08T15:08:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-01-23T21:13:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_13683
-	tolo:createDateTime "2021-06-21T15:00:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-05-17T16:11:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13684
-	tolo:createDateTime "2021-06-28T20:09:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-12T15:28:39"^^xsd:dateTime ;
-	.
-
-told:_Biography_13686
-	tolo:createDateTime "2021-06-29T20:13:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-27T18:00:52"^^xsd:dateTime ;
-	.
-
-told:_Biography_13687
-	tolo:createDateTime "2021-07-14T15:10:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-02T16:14:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13688
-	tolo:createDateTime "2021-07-16T18:39:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-11-30T18:05:11"^^xsd:dateTime ;
-	.
-
-told:_Biography_13689
-	tolo:createDateTime "2021-07-27T15:03:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-05T16:52:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13690
-	tolo:createDateTime "2023-06-15T16:13:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-15T16:15:34"^^xsd:dateTime ;
-	.
-
-told:_Biography_13692
-	tolo:createDateTime "2021-08-11T18:31:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-13T18:39:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_13693
-	tolo:createDateTime "2021-08-31T19:26:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-09-14T15:22:31"^^xsd:dateTime ;
-	.
-
-told:_Biography_13694
-	tolo:createDateTime "2021-08-31T20:29:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-08-17T20:21:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13697
-	tolo:createDateTime "2021-12-14T16:41:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-23T16:03:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_13698
-	tolo:createDateTime "2022-02-23T15:54:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-02T21:52:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_13699
-	tolo:createDateTime "2022-03-03T19:54:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-10T15:37:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_1370
-	tolo:createDateTime "2020-05-11T14:39:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-12-20T15:05:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_13700
-	tolo:createDateTime "2022-03-04T20:13:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-03-07T16:44:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_13701
-	tolo:createDateTime "2022-03-04T21:18:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-06T20:31:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_13702
-	tolo:createDateTime "2022-03-07T16:50:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-15T15:58:48"^^xsd:dateTime ;
-	.
-
-told:_Biography_13703
-	tolo:createDateTime "2022-03-07T17:02:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-15T16:00:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_13704
-	tolo:createDateTime "2022-03-07T17:21:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:23:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_13706
-	tolo:createDateTime "2022-03-22T19:20:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-04-17T12:40:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_13707
-	tolo:createDateTime "2022-05-05T18:51:40"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-11-29T16:01:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_13708
-	tolo:createDateTime "2023-05-11T13:28:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-09-12T15:55:52"^^xsd:dateTime ;
-	.
-
-told:_Biography_13718
-	tolo:createDateTime "2022-06-27T14:04:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-06-27T15:29:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_13719
-	tolo:createDateTime "2022-06-27T14:22:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-06-27T15:29:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_13720
-	tolo:createDateTime "2022-06-27T15:01:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-06-27T15:29:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_13721
-	tolo:createDateTime "2022-06-27T15:28:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-02-08T20:52:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_13722
-	tolo:createDateTime "2022-06-29T20:14:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T13:59:59"^^xsd:dateTime ;
-	.
-
-told:_Biography_13723
-	tolo:createDateTime "2022-06-30T14:28:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-11-28T16:19:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_13724
-	tolo:createDateTime "2022-06-30T19:39:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-02-06T16:59:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_13725
-	tolo:createDateTime "2022-06-30T21:00:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-08-17T19:48:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_13731
-	tolo:createDateTime "2022-08-08T14:57:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-02-26T18:06:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13737
-	tolo:createDateTime "2022-10-31T18:53:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-02T19:28:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13738
-	tolo:createDateTime "2022-10-31T19:11:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-03T17:04:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_13740
-	tolo:createDateTime "2022-11-04T20:21:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-08-10T14:42:34"^^xsd:dateTime ;
-	.
-
-told:_Biography_13744
-	tolo:createDateTime "2022-12-01T13:17:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T20:39:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_13745
-	tolo:createDateTime "2023-03-20T16:15:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-04-26T20:31:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_13747
-	tolo:createDateTime "2023-01-10T17:29:44"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-13T18:39:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_13748
-	tolo:createDateTime "2023-01-10T21:36:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-27T18:02:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_13749
-	tolo:createDateTime "2023-01-10T22:24:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-27T18:03:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_13750
-	tolo:createDateTime "2023-01-10T22:34:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-27T18:02:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_13773
-	tolo:createDateTime "2023-01-20T15:50:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-12T14:58:50"^^xsd:dateTime ;
-	.
-
-told:_Biography_13787
-	tolo:createDateTime "2023-03-23T19:55:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-22T14:52:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13788
-	tolo:createDateTime "2023-03-23T17:38:32"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-17T21:41:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_13789
-	tolo:createDateTime "2023-06-06T13:31:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-06T15:04:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_13790
-	tolo:createDateTime "2023-08-14T17:02:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-14T17:23:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_13791
-	tolo:createDateTime "2023-08-14T17:21:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-14T17:23:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13793
-	tolo:createDateTime "2023-06-05T16:47:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-05T22:01:42"^^xsd:dateTime ;
-	.
-
-told:_Biography_13794
-	tolo:createDateTime "2023-03-23T20:45:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:21:36"^^xsd:dateTime ;
-	.
-
-told:_Biography_13795
-	tolo:createDateTime "2023-04-24T15:38:44"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-17T21:45:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13796
-	tolo:createDateTime "2023-04-24T15:56:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-10-12T14:10:59"^^xsd:dateTime ;
-	.
-
-told:_Biography_13797
-	tolo:createDateTime "2023-04-24T15:13:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:26:08"^^xsd:dateTime ;
-	.
-
-told:_Biography_13798
-	tolo:createDateTime "2023-06-05T21:59:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-05T22:00:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_13803
-	tolo:createDateTime "2023-03-23T20:22:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-03-23T20:46:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13805
-	tolo:createDateTime "2023-03-22T20:01:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-23T14:58:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_13806
-	tolo:createDateTime "2023-06-05T16:27:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-05T22:02:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13809
-	tolo:createDateTime "2023-04-12T18:28:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-04-20T12:12:35"^^xsd:dateTime ;
-	.
-
-told:_Biography_13810
-	tolo:createDateTime "2023-05-12T15:45:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T14:01:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13811
-	tolo:createDateTime "2023-06-07T20:03:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-10-17T22:57:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_13812
-	tolo:createDateTime "2023-06-15T13:00:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-19T14:00:08"^^xsd:dateTime ;
-	.
-
-told:_Biography_13815
-	tolo:createDateTime "2023-06-20T14:07:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:22:28"^^xsd:dateTime ;
-	.
-
-told:_Biography_13816
-	tolo:createDateTime "2023-07-18T21:11:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-23T17:32:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_13817
-	tolo:createDateTime "2023-08-14T16:18:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-05T15:52:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13819
-	tolo:createDateTime "2023-08-24T15:24:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-28T13:41:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_13820
-	tolo:createDateTime "2023-08-25T16:51:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T12:51:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_13821
-	tolo:createDateTime "2023-08-31T15:15:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-07T19:19:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_13822
-	tolo:createDateTime "2023-08-31T15:45:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-14T17:44:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_13823
-	tolo:createDateTime "2023-08-31T16:04:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-31T16:30:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13824
-	tolo:createDateTime "2023-08-31T16:19:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-07T19:31:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_13825
-	tolo:createDateTime "2023-08-31T16:25:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-31T16:29:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_13828
-	tolo:createDateTime "2023-10-17T16:24:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-25T10:41:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13836
-	tolo:createDateTime "2023-10-23T18:11:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:27:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_13837
-	tolo:createDateTime "2023-10-23T18:18:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:25:48"^^xsd:dateTime ;
-	.
-
-told:_Biography_13838
-	tolo:createDateTime "2023-10-23T18:25:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:26:36"^^xsd:dateTime ;
-	.
-
-told:_Biography_13839
-	tolo:createDateTime "2023-10-23T18:33:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:26:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13840
-	tolo:createDateTime "2023-10-23T18:43:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:24:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_13841
-	tolo:createDateTime "2023-10-23T18:50:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:27:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_13842
-	tolo:createDateTime "2023-10-23T18:56:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-10-23T23:25:16"^^xsd:dateTime ;
-	.
-
-told:_Biography_13843
-	tolo:createDateTime "2023-10-27T14:44:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-02-15T13:26:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13850
-	tolo:createDateTime "2023-11-13T21:38:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-01-26T18:14:52"^^xsd:dateTime ;
-	.
-
-told:_Biography_13853
-	tolo:createDateTime "2023-12-18T21:09:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-19T14:02:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_13855
-	tolo:createDateTime "2024-01-05T22:05:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-12T13:47:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13856
-	tolo:createDateTime "2024-01-08T14:42:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-12T14:01:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_13857
-	tolo:createDateTime "2024-01-08T14:56:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-08T15:17:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13858
-	tolo:createDateTime "2024-01-08T14:59:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-08T15:17:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_13859
-	tolo:createDateTime "2024-01-08T15:14:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-12T13:53:11"^^xsd:dateTime ;
-	.
-
-told:_Biography_13860
-	tolo:createDateTime "2024-01-18T21:11:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-18T21:56:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_13861
-	tolo:createDateTime "2024-01-18T21:44:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-18T21:56:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_13862
-	tolo:createDateTime "2024-01-18T21:50:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-18T21:56:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_13863
-	tolo:createDateTime "2024-01-25T17:42:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-06-12T21:54:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13864
-	tolo:createDateTime "2024-01-29T19:27:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-29T22:10:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13865
-	tolo:createDateTime "2024-01-29T20:46:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-29T22:08:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13866
-	tolo:createDateTime "2024-01-29T21:00:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-29T22:07:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_13867
-	tolo:createDateTime "2024-01-29T21:38:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-29T22:08:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_13868
-	tolo:createDateTime "2024-01-29T22:05:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-31T15:39:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_13869
-	tolo:createDateTime "2024-02-02T20:43:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-08T14:03:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_13870
-	tolo:createDateTime "2024-02-05T18:11:08"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-07-09T16:11:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_13877
-	tolo:createDateTime "2024-02-20T20:13:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-26T22:01:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_13878
-	tolo:createDateTime "2024-02-20T20:51:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-26T22:01:03"^^xsd:dateTime ;
-	.
-
-told:_Biography_13879
-	tolo:createDateTime "2024-03-05T15:56:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-05T16:49:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_13882
-	tolo:createDateTime "2024-04-10T15:00:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-07-09T16:57:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_13883
-	tolo:createDateTime "2024-04-15T20:22:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-10T17:37:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_13884
-	tolo:createDateTime "2024-04-23T19:58:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-24T12:53:21"^^xsd:dateTime ;
-	.
-
-told:_Biography_13885
-	tolo:createDateTime "2024-05-23T15:12:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-05-28T19:49:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_13888
-	tolo:createDateTime "2024-06-18T16:02:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-28T12:25:44"^^xsd:dateTime ;
-	.
-
 told:_Biography_1564
 	tolo:createDateTime "2013-03-25T16:08:42"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -3362,46 +1730,22 @@ told:_Biography_1586
 	tolo:lastModifiedDateTime "2020-04-09T21:17:59"^^xsd:dateTime ;
 	.
 
+told:_Biography_1597
+	tolo:createDateTime "2012-10-22T16:34:15"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:24:13"^^xsd:dateTime ;
+	.
+
 told:_Biography_1628
 	tolo:createDateTime "2014-01-06T11:01:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-02T14:03:46"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-05-27T22:35:51"^^xsd:dateTime ;
 	.
 
 told:_Biography_1637
 	tolo:createDateTime "2010-10-08T11:56:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T00:01:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_1639
-	tolo:createDateTime "2018-01-05T20:11:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2018-01-05T20:13:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_1659
-	tolo:createDateTime "2022-01-19T19:09:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-01-24T20:11:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_1719
-	tolo:createDateTime "2023-07-06T14:29:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-07-06T14:51:48"^^xsd:dateTime ;
-	.
-
-told:_Biography_1720
-	tolo:createDateTime "2023-07-06T14:49:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-07-06T14:51:49"^^xsd:dateTime ;
-	.
-
-told:_Biography_1721
-	tolo:createDateTime "2023-07-06T14:20:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-07-06T14:51:48"^^xsd:dateTime ;
 	.
 
 told:_Biography_1722
@@ -3460,8 +1804,8 @@ told:_Biography_1871
 
 told:_Biography_1898
 	tolo:createDateTime "2010-04-19T12:11:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T20:31:55"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-28T13:28:02"^^xsd:dateTime ;
 	.
 
 told:_Biography_1901
@@ -3520,26 +1864,14 @@ told:_Biography_1985
 
 told:_Biography_2029
 	tolo:createDateTime "2013-05-02T20:15:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-10T16:23:43"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-06-04T15:33:03"^^xsd:dateTime ;
 	.
 
 told:_Biography_2051
 	tolo:createDateTime "2010-01-20T16:24:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-02-01T14:39:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_2069
-	tolo:createDateTime "2022-05-06T19:39:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-05-09T15:35:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_2104
-	tolo:createDateTime "2010-05-03T11:32:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2017-09-28T18:21:50"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-24T15:48:02"^^xsd:dateTime ;
 	.
 
 told:_Biography_2118
@@ -3552,12 +1884,6 @@ told:_Biography_2137
 	tolo:createDateTime "2010-01-22T14:45:38"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2018-03-26T14:48:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_2162
-	tolo:createDateTime "2021-07-07T18:11:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-07-12T14:07:10"^^xsd:dateTime ;
 	.
 
 told:_Biography_2180
@@ -3608,12 +1934,6 @@ told:_Biography_2280
 	tolo:lastModifiedDateTime "2024-05-13T16:21:20"^^xsd:dateTime ;
 	.
 
-told:_Biography_23
-	tolo:createDateTime "2019-08-09T16:34:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-11-19T23:17:44"^^xsd:dateTime ;
-	.
-
 told:_Biography_2314
 	tolo:createDateTime "2015-05-19T11:40:54"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -3628,8 +1948,8 @@ told:_Biography_2327
 
 told:_Biography_2328
 	tolo:createDateTime "2010-06-30T11:07:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-07-27T11:46:18"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-28T15:04:55"^^xsd:dateTime ;
 	.
 
 told:_Biography_2329
@@ -3644,22 +1964,10 @@ told:_Biography_2330
 	tolo:lastModifiedDateTime "2016-06-21T16:51:32"^^xsd:dateTime ;
 	.
 
-told:_Biography_2336
-	tolo:createDateTime "2016-02-11T09:57:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-02-26T14:59:06"^^xsd:dateTime ;
-	.
-
 told:_Biography_2338
 	tolo:createDateTime "2010-04-19T14:20:20"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-13T16:13:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_2339
-	tolo:createDateTime "2017-03-15T10:14:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-07-23T19:34:50"^^xsd:dateTime ;
 	.
 
 told:_Biography_2340
@@ -3670,8 +1978,8 @@ told:_Biography_2340
 
 told:_Biography_2387
 	tolo:createDateTime "2010-04-19T11:57:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-01-31T14:49:26"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-11-26T13:03:39"^^xsd:dateTime ;
 	.
 
 told:_Biography_2392
@@ -3696,42 +2004,6 @@ told:_Biography_2409
 	tolo:createDateTime "2011-10-19T02:48:55"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-10-31T17:10:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_2418
-	tolo:createDateTime "2022-06-15T13:25:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T20:37:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_2419
-	tolo:createDateTime "2017-12-01T20:21:40"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-22T15:33:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_2423
-	tolo:createDateTime "2016-02-04T17:42:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-22T19:59:08"^^xsd:dateTime ;
-	.
-
-told:_Biography_2424
-	tolo:createDateTime "2023-09-08T20:50:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-09-12T15:43:57"^^xsd:dateTime ;
-	.
-
-told:_Biography_2427
-	tolo:createDateTime "2016-06-24T12:23:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-24T14:05:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_2434
-	tolo:createDateTime "2016-06-24T11:45:40"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-24T14:05:29"^^xsd:dateTime ;
 	.
 
 told:_Biography_2436
@@ -3790,8 +2062,8 @@ told:_Biography_2495
 
 told:_Biography_2504
 	tolo:createDateTime "2014-01-15T13:22:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-10T17:35:35"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-05-27T15:29:48"^^xsd:dateTime ;
 	.
 
 told:_Biography_2506
@@ -3830,12 +2102,6 @@ told:_Biography_2539
 	tolo:lastModifiedDateTime "2024-02-05T14:12:09"^^xsd:dateTime ;
 	.
 
-told:_Biography_2541
-	tolo:createDateTime "2021-06-28T19:49:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-14T17:52:54"^^xsd:dateTime ;
-	.
-
 told:_Biography_2561
 	tolo:createDateTime "2014-12-19T11:54:19"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -3862,8 +2128,8 @@ told:_Biography_2584
 
 told:_Biography_2589
 	tolo:createDateTime "2011-03-03T14:03:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-02-07T15:43:42"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-28T20:40:03"^^xsd:dateTime ;
 	.
 
 told:_Biography_2591
@@ -3908,22 +2174,10 @@ told:_Biography_2638
 	tolo:lastModifiedDateTime "2019-08-13T21:01:23"^^xsd:dateTime ;
 	.
 
-told:_Biography_2639
-	tolo:createDateTime "2016-01-15T15:46:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-15T16:28:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_2640
-	tolo:createDateTime "2016-01-15T15:32:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-15T16:30:21"^^xsd:dateTime ;
-	.
-
 told:_Biography_2661
 	tolo:createDateTime "2011-11-04T15:26:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-01T18:48:18"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-05T15:24:27"^^xsd:dateTime ;
 	.
 
 told:_Biography_2662
@@ -3950,16 +2204,22 @@ told:_Biography_2683
 	tolo:lastModifiedDateTime "2022-02-07T16:07:07"^^xsd:dateTime ;
 	.
 
+told:_Biography_2687
+	tolo:createDateTime "2009-07-15T14:11:55"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2009-07-15T14:43:07"^^xsd:dateTime ;
+	.
+
+told:_Biography_2693
+	tolo:createDateTime "2012-10-22T16:54:13"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:21:34"^^xsd:dateTime ;
+	.
+
 told:_Biography_2712
 	tolo:createDateTime "2009-08-05T13:25:51"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-11-14T01:34:16"^^xsd:dateTime ;
-	.
-
-told:_Biography_2720
-	tolo:createDateTime "2016-03-02T15:25:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-06-07T15:04:45"^^xsd:dateTime ;
 	.
 
 told:_Biography_2730
@@ -3980,6 +2240,12 @@ told:_Biography_2740
 	tolo:lastModifiedDateTime "2019-05-08T13:57:45"^^xsd:dateTime ;
 	.
 
+told:_Biography_2742
+	tolo:createDateTime "2012-10-17T20:55:06"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:23:55"^^xsd:dateTime ;
+	.
+
 told:_Biography_2755
 	tolo:createDateTime "2012-09-04T19:57:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -3992,12 +2258,6 @@ told:_Biography_2758
 	tolo:lastModifiedDateTime "2023-06-22T19:56:40"^^xsd:dateTime ;
 	.
 
-told:_Biography_276
-	tolo:createDateTime "2016-06-03T11:48:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T20:27:23"^^xsd:dateTime ;
-	.
-
 told:_Biography_2774
 	tolo:createDateTime "2009-11-20T12:25:30"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -4006,8 +2266,8 @@ told:_Biography_2774
 
 told:_Biography_2776
 	tolo:createDateTime "2011-04-26T16:59:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-04-25T16:53:53"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-20T17:43:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_2780
@@ -4050,12 +2310,6 @@ told:_Biography_2790
 	tolo:createDateTime "2009-08-03T16:50:28"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2015-07-30T09:47:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_2791
-	tolo:createDateTime "2017-12-11T15:15:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2017-12-12T14:48:43"^^xsd:dateTime ;
 	.
 
 told:_Biography_2798
@@ -4130,12 +2384,6 @@ told:_Biography_2845
 	tolo:lastModifiedDateTime "2023-09-22T02:52:13"^^xsd:dateTime ;
 	.
 
-told:_Biography_2854
-	tolo:createDateTime "2017-09-14T14:39:23"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T02:21:14"^^xsd:dateTime ;
-	.
-
 told:_Biography_2866
 	tolo:createDateTime "2010-05-11T12:00:28"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -4152,12 +2400,6 @@ told:_Biography_2872
 	tolo:createDateTime "2010-12-08T16:37:44"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-03-06T15:25:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_2882
-	tolo:createDateTime "2021-01-14T21:42:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-22T14:32:55"^^xsd:dateTime ;
 	.
 
 told:_Biography_2891
@@ -4198,14 +2440,8 @@ told:_Biography_2915
 
 told:_Biography_2916
 	tolo:createDateTime "2009-09-24T11:26:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T19:57:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_2918
-	tolo:createDateTime "2024-03-11T14:50:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-03-11T14:50:56"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-08T12:20:22"^^xsd:dateTime ;
 	.
 
 told:_Biography_2919
@@ -4232,16 +2468,10 @@ told:_Biography_2943
 	tolo:lastModifiedDateTime "2021-03-10T19:32:34"^^xsd:dateTime ;
 	.
 
-told:_Biography_2945
-	tolo:createDateTime "2023-05-18T14:47:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-07-24T15:29:04"^^xsd:dateTime ;
-	.
-
 told:_Biography_2948
 	tolo:createDateTime "2010-04-19T15:46:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-05-14T15:45:14"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-03-04T17:56:20"^^xsd:dateTime ;
 	.
 
 told:_Biography_2949
@@ -4256,18 +2486,6 @@ told:_Biography_2952
 	tolo:lastModifiedDateTime "2020-06-08T18:08:06"^^xsd:dateTime ;
 	.
 
-told:_Biography_2953
-	tolo:createDateTime "2024-08-06T22:00:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-08-12T14:40:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_2973
-	tolo:createDateTime "2016-05-20T10:31:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-20T11:10:25"^^xsd:dateTime ;
-	.
-
 told:_Biography_2974
 	tolo:createDateTime "2012-10-26T21:42:29"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -4280,18 +2498,6 @@ told:_Biography_2980
 	tolo:lastModifiedDateTime "2024-05-07T21:12:42"^^xsd:dateTime ;
 	.
 
-told:_Biography_2987
-	tolo:createDateTime "2016-06-13T11:04:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-09-15T15:07:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_2992
-	tolo:createDateTime "2024-01-24T21:43:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-25T16:26:38"^^xsd:dateTime ;
-	.
-
 told:_Biography_2996
 	tolo:createDateTime "2011-06-30T11:35:52"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -4300,8 +2506,8 @@ told:_Biography_2996
 
 told:_Biography_2997
 	tolo:createDateTime "2014-01-24T10:47:33"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-12-16T21:14:21"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-05T12:27:26"^^xsd:dateTime ;
 	.
 
 told:_Biography_3000
@@ -4310,16 +2516,10 @@ told:_Biography_3000
 	tolo:lastModifiedDateTime "2022-03-28T13:45:31"^^xsd:dateTime ;
 	.
 
-told:_Biography_3004
-	tolo:createDateTime "2024-08-19T21:40:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-09-09T22:52:53"^^xsd:dateTime ;
-	.
-
 told:_Biography_3006
 	tolo:createDateTime "2009-10-05T14:38:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-23T17:14:38"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-27T22:44:40"^^xsd:dateTime ;
 	.
 
 told:_Biography_3008
@@ -4336,8 +2536,8 @@ told:_Biography_3010
 
 told:_Biography_3020
 	tolo:createDateTime "2011-09-15T23:53:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-09-23T19:04:06"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-25T14:15:56"^^xsd:dateTime ;
 	.
 
 told:_Biography_3028
@@ -4382,12 +2582,6 @@ told:_Biography_3064
 	tolo:lastModifiedDateTime "2018-03-01T16:24:05"^^xsd:dateTime ;
 	.
 
-told:_Biography_3072
-	tolo:createDateTime "2016-01-29T12:19:28"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-29T14:03:45"^^xsd:dateTime ;
-	.
-
 told:_Biography_3074
 	tolo:createDateTime "2011-04-28T11:23:00"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -4424,12 +2618,6 @@ told:_Biography_3107
 	tolo:lastModifiedDateTime "2020-06-19T13:36:04"^^xsd:dateTime ;
 	.
 
-told:_Biography_3109
-	tolo:createDateTime "2016-05-13T15:45:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-13T16:10:01"^^xsd:dateTime ;
-	.
-
 told:_Biography_3121
 	tolo:createDateTime "2009-10-26T13:06:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -4458,12 +2646,6 @@ told:_Biography_3141
 	tolo:createDateTime "2010-03-18T12:35:47"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T21:14:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_3152
-	tolo:createDateTime "2018-02-14T16:33:01"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-05-03T02:18:15"^^xsd:dateTime ;
 	.
 
 told:_Biography_3153
@@ -4522,14 +2704,8 @@ told:_Biography_3181
 
 told:_Biography_3182
 	tolo:createDateTime "2009-07-29T14:52:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-14T21:38:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_3188
-	tolo:createDateTime "2015-06-16T15:19:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-16T15:19:17"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-03-28T20:37:21"^^xsd:dateTime ;
 	.
 
 told:_Biography_3189
@@ -4574,16 +2750,10 @@ told:_Biography_3225
 	tolo:lastModifiedDateTime "2016-08-01T13:50:40"^^xsd:dateTime ;
 	.
 
-told:_Biography_3266
-	tolo:createDateTime "2021-07-26T19:42:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-07-26T19:45:39"^^xsd:dateTime ;
-	.
-
 told:_Biography_3274
 	tolo:createDateTime "2010-09-10T10:47:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-08-04T19:57:45"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-18T18:21:15"^^xsd:dateTime ;
 	.
 
 told:_Biography_3296
@@ -4604,40 +2774,16 @@ told:_Biography_3414
 	tolo:lastModifiedDateTime "2020-02-19T14:37:32"^^xsd:dateTime ;
 	.
 
-told:_Biography_3417
-	tolo:createDateTime "2024-01-26T17:18:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-29T15:41:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_3436
-	tolo:createDateTime "2024-01-10T17:46:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T21:16:16"^^xsd:dateTime ;
-	.
-
 told:_Biography_3469
 	tolo:createDateTime "2009-08-21T10:56:34"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2015-09-04T16:42:56"^^xsd:dateTime ;
 	.
 
-told:_Biography_3485
-	tolo:createDateTime "2022-02-22T16:05:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T18:45:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_3627
-	tolo:createDateTime "2023-07-07T20:39:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-12-21T21:20:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_3660
-	tolo:createDateTime "2020-01-06T20:34:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-14T01:24:03"^^xsd:dateTime ;
+told:_Biography_3671
+	tolo:createDateTime "2010-03-30T15:19:18"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2023-12-08T19:38:10"^^xsd:dateTime ;
 	.
 
 told:_Biography_3673
@@ -4680,12 +2826,6 @@ told:_Biography_3735
 	tolo:createDateTime "2012-09-04T21:23:58"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-07-12T20:26:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_3736
-	tolo:createDateTime "2019-12-10T22:22:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-24T02:12:58"^^xsd:dateTime ;
 	.
 
 told:_Biography_3738
@@ -4740,12 +2880,6 @@ told:_Biography_3769
 	tolo:createDateTime "2012-10-26T21:04:45"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T16:37:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_3770
-	tolo:createDateTime "2018-02-14T15:58:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-11-29T20:04:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_3778
@@ -4824,12 +2958,6 @@ told:_Biography_3795
 	tolo:createDateTime "2010-07-19T16:09:07"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T21:23:28"^^xsd:dateTime ;
-	.
-
-told:_Biography_3822
-	tolo:createDateTime "2023-03-13T20:02:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-06T14:57:33"^^xsd:dateTime ;
 	.
 
 told:_Biography_3866
@@ -4922,28 +3050,10 @@ told:_Biography_3940
 	tolo:lastModifiedDateTime "2016-02-03T13:55:41"^^xsd:dateTime ;
 	.
 
-told:_Biography_3955
-	tolo:createDateTime "2021-06-07T16:41:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-12T15:04:57"^^xsd:dateTime ;
-	.
-
 told:_Biography_3957
 	tolo:createDateTime "2013-12-16T09:24:15"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T16:38:31"^^xsd:dateTime ;
-	.
-
-told:_Biography_3989
-	tolo:createDateTime "2015-10-27T10:15:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-06-24T20:10:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_40
-	tolo:createDateTime "2024-01-26T18:13:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-09T15:51:07"^^xsd:dateTime ;
 	.
 
 told:_Biography_4000
@@ -4976,22 +3086,10 @@ told:_Biography_4077
 	tolo:lastModifiedDateTime "2017-10-10T20:32:37"^^xsd:dateTime ;
 	.
 
-told:_Biography_4080
-	tolo:createDateTime "2016-01-15T16:02:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-15T16:28:24"^^xsd:dateTime ;
-	.
-
 told:_Biography_4085
 	tolo:createDateTime "2009-08-03T15:59:01"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:02:50"^^xsd:dateTime ;
-	.
-
-told:_Biography_4086
-	tolo:createDateTime "2019-02-28T16:10:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-09-14T20:10:19"^^xsd:dateTime ;
 	.
 
 told:_Biography_4092
@@ -5090,16 +3188,10 @@ told:_Biography_4175
 	tolo:lastModifiedDateTime "2016-07-12T15:42:02"^^xsd:dateTime ;
 	.
 
-told:_Biography_4177
-	tolo:createDateTime "2016-06-10T15:58:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-13T11:05:44"^^xsd:dateTime ;
-	.
-
 told:_Biography_4185
 	tolo:createDateTime "2009-07-17T12:46:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-09T12:40:12"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-21T14:42:43"^^xsd:dateTime ;
 	.
 
 told:_Biography_4196
@@ -5172,12 +3264,6 @@ told:_Biography_4228
 	tolo:createDateTime "2012-10-22T20:12:02"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2022-03-01T21:20:40"^^xsd:dateTime ;
-	.
-
-told:_Biography_4249
-	tolo:createDateTime "2015-11-03T15:05:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T16:42:51"^^xsd:dateTime ;
 	.
 
 told:_Biography_4259
@@ -5258,28 +3344,10 @@ told:_Biography_4291
 	tolo:lastModifiedDateTime "2024-05-07T22:06:09"^^xsd:dateTime ;
 	.
 
-told:_Biography_4301
-	tolo:createDateTime "2016-04-07T11:53:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T22:06:35"^^xsd:dateTime ;
-	.
-
-told:_Biography_4302
-	tolo:createDateTime "2015-06-16T12:54:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2015-06-18T09:51:20"^^xsd:dateTime ;
-	.
-
 told:_Biography_4309
 	tolo:createDateTime "2011-06-09T14:33:12"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:07:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_4310
-	tolo:createDateTime "2023-06-06T15:01:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T22:07:32"^^xsd:dateTime ;
 	.
 
 told:_Biography_4314
@@ -5292,6 +3360,12 @@ told:_Biography_4327
 	tolo:createDateTime "2015-05-19T13:19:52"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:07:54"^^xsd:dateTime ;
+	.
+
+told:_Biography_4344
+	tolo:createDateTime "2012-05-02T07:51:35"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2012-07-31T15:47:16"^^xsd:dateTime ;
 	.
 
 told:_Biography_4348
@@ -5320,14 +3394,8 @@ told:_Biography_4352
 
 told:_Biography_4354
 	tolo:createDateTime "2009-07-02T12:56:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-04-15T15:28:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_4358
-	tolo:createDateTime "2015-09-09T09:55:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-02T18:59:58"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-05-16T15:26:27"^^xsd:dateTime ;
 	.
 
 told:_Biography_4359
@@ -5368,14 +3436,14 @@ told:_Biography_4402
 
 told:_Biography_4425
 	tolo:createDateTime "2010-02-10T10:22:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-08-09T14:34:54"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-28T19:09:19"^^xsd:dateTime ;
 	.
 
 told:_Biography_4469
 	tolo:createDateTime "2011-02-03T15:18:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T22:08:26"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-05-06T16:21:45"^^xsd:dateTime ;
 	.
 
 told:_Biography_4478
@@ -5480,6 +3548,12 @@ told:_Biography_4535
 	tolo:lastModifiedDateTime "2020-03-03T16:33:30"^^xsd:dateTime ;
 	.
 
+told:_Biography_4543
+	tolo:createDateTime "2011-08-04T21:47:24"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2023-12-08T19:36:11"^^xsd:dateTime ;
+	.
+
 told:_Biography_4607
 	tolo:createDateTime "2012-10-26T18:54:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -5492,16 +3566,10 @@ told:_Biography_4611
 	tolo:lastModifiedDateTime "2024-06-13T19:05:40"^^xsd:dateTime ;
 	.
 
-told:_Biography_4622
-	tolo:createDateTime "2020-01-15T16:52:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-01-17T16:45:36"^^xsd:dateTime ;
-	.
-
 told:_Biography_4626
 	tolo:createDateTime "2009-09-03T13:26:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-02-03T16:30:23"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-25T15:12:46"^^xsd:dateTime ;
 	.
 
 told:_Biography_4630
@@ -5554,14 +3622,8 @@ told:_Biography_4669
 
 told:_Biography_4676
 	tolo:createDateTime "2009-07-20T12:02:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-01-06T19:32:54"^^xsd:dateTime ;
-	.
-
-told:_Biography_4691
-	tolo:createDateTime "2023-12-01T21:51:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-06T17:35:48"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-13T12:53:42"^^xsd:dateTime ;
 	.
 
 told:_Biography_4720
@@ -5582,12 +3644,6 @@ told:_Biography_4730
 	tolo:lastModifiedDateTime "2020-04-21T17:11:02"^^xsd:dateTime ;
 	.
 
-told:_Biography_4820
-	tolo:createDateTime "2021-06-07T19:19:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-06-16T18:38:34"^^xsd:dateTime ;
-	.
-
 told:_Biography_490
 	tolo:createDateTime "2009-08-31T15:58:49"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -5598,18 +3654,6 @@ told:_Biography_4903
 	tolo:createDateTime "2009-07-22T10:43:34"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:16:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_4909
-	tolo:createDateTime "2024-09-05T15:52:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-09-10T01:39:06"^^xsd:dateTime ;
-	.
-
-told:_Biography_4935
-	tolo:createDateTime "2024-08-21T21:24:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-08-22T20:28:02"^^xsd:dateTime ;
 	.
 
 told:_Biography_494
@@ -5668,8 +3712,8 @@ told:_Biography_5078
 
 told:_Biography_5099
 	tolo:createDateTime "2013-06-19T08:12:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T16:59:14"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-13T12:40:41"^^xsd:dateTime ;
 	.
 
 told:_Biography_5115
@@ -5722,8 +3766,8 @@ told:_Biography_5159
 
 told:_Biography_5164
 	tolo:createDateTime "2012-07-31T14:25:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T22:32:56"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-05-06T16:35:25"^^xsd:dateTime ;
 	.
 
 told:_Biography_5166
@@ -5744,46 +3788,16 @@ told:_Biography_5281
 	tolo:lastModifiedDateTime "2016-10-13T13:51:01"^^xsd:dateTime ;
 	.
 
-told:_Biography_5306
-	tolo:createDateTime "2020-10-08T15:08:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-07-29T21:55:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_5312
-	tolo:createDateTime "2020-06-12T18:48:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T18:33:41"^^xsd:dateTime ;
-	.
-
-told:_Biography_5313
-	tolo:createDateTime "2016-06-15T13:00:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-15T13:01:02"^^xsd:dateTime ;
-	.
-
 told:_Biography_5317
 	tolo:createDateTime "2011-01-19T15:40:16"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
 	tolo:lastModifiedDateTime "2017-04-12T18:31:04"^^xsd:dateTime ;
 	.
 
-told:_Biography_5326
-	tolo:createDateTime "2016-01-15T15:13:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-04-25T16:17:06"^^xsd:dateTime ;
-	.
-
 told:_Biography_5328
 	tolo:createDateTime "2014-01-02T12:15:51"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T17:03:05"^^xsd:dateTime ;
-	.
-
-told:_Biography_5331
-	tolo:createDateTime "2016-05-13T15:55:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-05-13T16:10:00"^^xsd:dateTime ;
 	.
 
 told:_Biography_5338
@@ -5816,12 +3830,6 @@ told:_Biography_5381
 	tolo:lastModifiedDateTime "2023-06-22T22:37:01"^^xsd:dateTime ;
 	.
 
-told:_Biography_5386
-	tolo:createDateTime "2020-02-28T17:08:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-02-28T20:26:01"^^xsd:dateTime ;
-	.
-
 told:_Biography_5401
 	tolo:createDateTime "2010-06-14T14:35:38"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -5836,8 +3844,8 @@ told:_Biography_5406
 
 told:_Biography_5408
 	tolo:createDateTime "2010-06-24T14:03:43"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T19:24:30"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-05-15T14:44:33"^^xsd:dateTime ;
 	.
 
 told:_Biography_5410
@@ -5924,12 +3932,6 @@ told:_Biography_5511
 	tolo:lastModifiedDateTime "2021-03-24T18:40:57"^^xsd:dateTime ;
 	.
 
-told:_Biography_5527
-	tolo:createDateTime "2019-03-27T16:16:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-03-27T16:42:51"^^xsd:dateTime ;
-	.
-
 told:_Biography_5555
 	tolo:createDateTime "2010-05-07T12:46:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -5938,26 +3940,20 @@ told:_Biography_5555
 
 told:_Biography_5588
 	tolo:createDateTime "2009-07-15T16:47:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-09-24T18:31:46"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-02T19:12:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_5615
 	tolo:createDateTime "2009-11-20T16:08:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-14T21:34:16"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-05T12:29:12"^^xsd:dateTime ;
 	.
 
 told:_Biography_5626
 	tolo:createDateTime "2010-06-10T17:13:31"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2024-08-06T17:35:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_5641
-	tolo:createDateTime "2016-05-26T17:00:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-01-24T17:27:36"^^xsd:dateTime ;
 	.
 
 told:_Biography_5644
@@ -5970,12 +3966,6 @@ told:_Biography_5652
 	tolo:createDateTime "2011-01-06T15:01:05"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T22:38:57"^^xsd:dateTime ;
-	.
-
-told:_Biography_5693
-	tolo:createDateTime "2018-10-29T16:07:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2019-06-26T14:50:56"^^xsd:dateTime ;
 	.
 
 told:_Biography_5706
@@ -5992,8 +3982,8 @@ told:_Biography_5717
 
 told:_Biography_5729
 	tolo:createDateTime "2010-12-03T15:46:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-07-02T02:44:36"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-05-13T14:30:25"^^xsd:dateTime ;
 	.
 
 told:_Biography_5750
@@ -6034,8 +4024,8 @@ told:_Biography_5791
 
 told:_Biography_5795
 	tolo:createDateTime "2015-03-02T18:03:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-07-09T18:55:21"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-05T12:33:41"^^xsd:dateTime ;
 	.
 
 told:_Biography_5796
@@ -6048,18 +4038,6 @@ told:_Biography_5801
 	tolo:createDateTime "2013-01-14T18:11:12"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2019-12-10T17:23:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_5803
-	tolo:createDateTime "2017-07-26T10:17:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-10-26T16:28:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_5805
-	tolo:createDateTime "2022-03-22T20:18:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-03-23T20:35:02"^^xsd:dateTime ;
 	.
 
 told:_Biography_5817
@@ -6078,24 +4056,6 @@ told:_Biography_5819
 	tolo:createDateTime "2010-09-21T16:40:12"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2016-07-19T15:06:56"^^xsd:dateTime ;
-	.
-
-told:_Biography_5820
-	tolo:createDateTime "2020-03-30T17:12:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-04-14T17:11:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_5822
-	tolo:createDateTime "2020-03-31T15:27:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-04-10T13:32:58"^^xsd:dateTime ;
-	.
-
-told:_Biography_5824
-	tolo:createDateTime "2021-04-08T18:37:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-04-09T12:48:24"^^xsd:dateTime ;
 	.
 
 told:_Biography_5849
@@ -6120,12 +4080,6 @@ told:_Biography_5889
 	tolo:createDateTime "2012-10-25T18:48:22"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:42:01"^^xsd:dateTime ;
-	.
-
-told:_Biography_5894
-	tolo:createDateTime "2021-06-05T15:55:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-21T20:44:29"^^xsd:dateTime ;
 	.
 
 told:_Biography_5897
@@ -6194,10 +4148,10 @@ told:_Biography_5953
 	tolo:lastModifiedDateTime "2020-03-12T13:59:19"^^xsd:dateTime ;
 	.
 
-told:_Biography_5985
-	tolo:createDateTime "2016-06-24T13:37:32"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-24T14:05:28"^^xsd:dateTime ;
+told:_Biography_5977
+	tolo:createDateTime "2010-04-29T10:45:20"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2015-04-24T11:54:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_5997
@@ -6212,16 +4166,10 @@ told:_Biography_5999
 	tolo:lastModifiedDateTime "2021-01-05T18:13:10"^^xsd:dateTime ;
 	.
 
-told:_Biography_6009
-	tolo:createDateTime "2018-06-18T14:46:37"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T02:00:45"^^xsd:dateTime ;
-	.
-
 told:_Biography_6010
 	tolo:createDateTime "2013-05-03T19:25:07"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2018-01-19T16:00:42"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-12-20T15:15:19"^^xsd:dateTime ;
 	.
 
 told:_Biography_6025
@@ -6232,8 +4180,8 @@ told:_Biography_6025
 
 told:_Biography_6037
 	tolo:createDateTime "2013-03-15T17:51:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T22:41:42"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-13T15:36:59"^^xsd:dateTime ;
 	.
 
 told:_Biography_6045
@@ -6246,12 +4194,6 @@ told:_Biography_6065
 	tolo:createDateTime "2009-08-11T17:07:12"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:50:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_6076
-	tolo:createDateTime "2022-07-26T16:00:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-12T21:09:57"^^xsd:dateTime ;
 	.
 
 told:_Biography_6099
@@ -6320,12 +4262,6 @@ told:_Biography_6185
 	tolo:lastModifiedDateTime "2023-06-22T17:34:22"^^xsd:dateTime ;
 	.
 
-told:_Biography_6194
-	tolo:createDateTime "2021-02-16T15:48:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-10-26T16:33:20"^^xsd:dateTime ;
-	.
-
 told:_Biography_6198
 	tolo:createDateTime "2013-12-23T08:35:14"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -6356,6 +4292,12 @@ told:_Biography_6219
 	tolo:lastModifiedDateTime "2020-03-03T17:14:51"^^xsd:dateTime ;
 	.
 
+told:_Biography_6230
+	tolo:createDateTime "2012-10-17T21:10:57"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2017-01-04T11:24:02"^^xsd:dateTime ;
+	.
+
 told:_Biography_6251
 	tolo:createDateTime "2010-05-12T16:00:30"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -6366,12 +4308,6 @@ told:_Biography_6257
 	tolo:createDateTime "2010-04-26T16:41:32"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2019-08-12T17:16:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_6275
-	tolo:createDateTime "2018-12-18T15:19:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T18:38:27"^^xsd:dateTime ;
 	.
 
 told:_Biography_6278
@@ -6392,130 +4328,10 @@ told:_Biography_6286
 	tolo:lastModifiedDateTime "2023-06-21T22:51:55"^^xsd:dateTime ;
 	.
 
-told:_Biography_6331
-	tolo:createDateTime "2016-03-10T12:28:30"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T16:27:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_6332
-	tolo:createDateTime "2016-04-15T14:48:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-11-19T15:55:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_6333
-	tolo:createDateTime "2016-04-15T14:20:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-04-15T15:15:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_6334
-	tolo:createDateTime "2016-02-11T11:16:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-23T15:18:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_6335
-	tolo:createDateTime "2016-01-07T11:33:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:41:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_6336
-	tolo:createDateTime "2016-01-07T11:47:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:42:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_6337
-	tolo:createDateTime "2016-01-08T10:06:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:46:26"^^xsd:dateTime ;
-	.
-
-told:_Biography_6338
-	tolo:createDateTime "2016-01-08T10:21:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:47:38"^^xsd:dateTime ;
-	.
-
-told:_Biography_6339
-	tolo:createDateTime "2016-01-08T10:46:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:48:23"^^xsd:dateTime ;
-	.
-
 told:_Biography_6340
 	tolo:createDateTime "2010-06-21T15:15:25"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2016-02-29T12:08:01"^^xsd:dateTime ;
-	.
-
-told:_Biography_6341
-	tolo:createDateTime "2016-01-22T11:34:29"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T12:38:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_6342
-	tolo:createDateTime "2016-01-22T12:02:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-28T16:36:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_6343
-	tolo:createDateTime "2016-01-22T12:26:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-28T16:34:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_6344
-	tolo:createDateTime "2016-01-22T15:58:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-28T16:34:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_6345
-	tolo:createDateTime "2016-01-22T16:13:52"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-01-29T11:55:49"^^xsd:dateTime ;
-	.
-
-told:_Biography_6346
-	tolo:createDateTime "2016-01-29T12:00:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-01-14T14:24:55"^^xsd:dateTime ;
-	.
-
-told:_Biography_6348
-	tolo:createDateTime "2016-02-04T17:13:06"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-02-10T12:11:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_6349
-	tolo:createDateTime "2016-02-04T17:20:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-04-12T18:52:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_6350
-	tolo:createDateTime "2016-02-11T11:07:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-23T15:18:16"^^xsd:dateTime ;
-	.
-
-told:_Biography_6351
-	tolo:createDateTime "2017-10-10T18:46:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-01-31T14:43:30"^^xsd:dateTime ;
-	.
-
-told:_Biography_6353
-	tolo:createDateTime "2016-04-22T12:24:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-04-22T16:06:01"^^xsd:dateTime ;
 	.
 
 told:_Biography_6367
@@ -6530,28 +4346,16 @@ told:_Biography_6373
 	tolo:lastModifiedDateTime "2015-10-09T16:19:32"^^xsd:dateTime ;
 	.
 
-told:_Biography_6374
-	tolo:createDateTime "2020-01-10T17:19:33"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-01-10T17:19:55"^^xsd:dateTime ;
-	.
-
 told:_Biography_6393
 	tolo:createDateTime "2013-12-16T09:45:41"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T17:34:49"^^xsd:dateTime ;
 	.
 
-told:_Biography_6395
-	tolo:createDateTime "2016-06-15T12:49:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-15T13:01:03"^^xsd:dateTime ;
-	.
-
 told:_Biography_6405
 	tolo:createDateTime "2009-08-07T15:16:32"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-12-01T15:04:18"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-24T15:55:49"^^xsd:dateTime ;
 	.
 
 told:_Biography_6412
@@ -6566,12 +4370,6 @@ told:_Biography_6419
 	tolo:lastModifiedDateTime "2023-06-22T22:44:45"^^xsd:dateTime ;
 	.
 
-told:_Biography_6441
-	tolo:createDateTime "2020-03-30T19:17:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-03-30T19:23:55"^^xsd:dateTime ;
-	.
-
 told:_Biography_6452
 	tolo:createDateTime "2009-11-19T17:27:09"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -6582,12 +4380,6 @@ told:_Biography_6466
 	tolo:createDateTime "2010-11-23T10:23:41"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2022-11-10T16:08:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_6470
-	tolo:createDateTime "2017-11-29T15:19:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-05-05T17:37:33"^^xsd:dateTime ;
 	.
 
 told:_Biography_6489
@@ -6612,12 +4404,6 @@ told:_Biography_6498
 	tolo:createDateTime "2011-02-03T14:04:52"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T22:52:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_6499
-	tolo:createDateTime "2016-03-02T15:46:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-12-20T20:09:23"^^xsd:dateTime ;
 	.
 
 told:_Biography_6502
@@ -6666,18 +4452,6 @@ told:_Biography_6548
 	tolo:createDateTime "2011-05-04T11:01:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2021-01-29T17:00:45"^^xsd:dateTime ;
-	.
-
-told:_Biography_6567
-	tolo:createDateTime "2016-04-06T16:50:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-05-03T10:17:01"^^xsd:dateTime ;
-	.
-
-told:_Biography_6568
-	tolo:createDateTime "2016-04-07T13:56:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-04-07T14:28:30"^^xsd:dateTime ;
 	.
 
 told:_Biography_6578
@@ -6776,12 +4550,6 @@ told:_Biography_6672
 	tolo:lastModifiedDateTime "2016-07-26T17:10:54"^^xsd:dateTime ;
 	.
 
-told:_Biography_6678
-	tolo:createDateTime "2019-11-06T21:26:44"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T22:53:38"^^xsd:dateTime ;
-	.
-
 told:_Biography_6681
 	tolo:createDateTime "2009-07-20T16:03:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -6822,12 +4590,6 @@ told:_Biography_6731
 	tolo:createDateTime "2012-10-26T18:17:48"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2023-06-22T17:45:35"^^xsd:dateTime ;
-	.
-
-told:_Biography_6733
-	tolo:createDateTime "2020-02-24T17:39:03"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-02-24T18:58:52"^^xsd:dateTime ;
 	.
 
 told:_Biography_6735
@@ -6872,12 +4634,6 @@ told:_Biography_6770
 	tolo:lastModifiedDateTime "2016-03-22T14:55:25"^^xsd:dateTime ;
 	.
 
-told:_Biography_6779
-	tolo:createDateTime "2016-06-24T14:04:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-24T14:05:27"^^xsd:dateTime ;
-	.
-
 told:_Biography_6788
 	tolo:createDateTime "2013-06-06T15:17:54"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -6888,12 +4644,6 @@ told:_Biography_6793
 	tolo:createDateTime "2010-05-17T14:52:43"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2015-12-09T15:50:00"^^xsd:dateTime ;
-	.
-
-told:_Biography_6801
-	tolo:createDateTime "2016-07-01T12:05:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-07-01T12:28:26"^^xsd:dateTime ;
 	.
 
 told:_Biography_6818
@@ -6912,12 +4662,6 @@ told:_Biography_6872
 	tolo:createDateTime "2010-10-22T12:05:24"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2020-04-15T19:40:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_6892
-	tolo:createDateTime "2016-04-07T14:20:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-02-03T16:36:49"^^xsd:dateTime ;
 	.
 
 told:_Biography_6895
@@ -6980,22 +4724,10 @@ told:_Biography_6979
 	tolo:lastModifiedDateTime "2024-05-13T16:11:03"^^xsd:dateTime ;
 	.
 
-told:_Biography_6982
-	tolo:createDateTime "2016-07-01T12:27:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-07-01T12:28:25"^^xsd:dateTime ;
-	.
-
 told:_Biography_6997
 	tolo:createDateTime "2010-10-08T11:46:47"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-01-09T15:38:18"^^xsd:dateTime ;
-	.
-
-told:_Biography_7007
-	tolo:createDateTime "2021-03-09T22:30:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-09-19T19:37:26"^^xsd:dateTime ;
 	.
 
 told:_Biography_7024
@@ -7040,12 +4772,6 @@ told:_Biography_7083
 	tolo:lastModifiedDateTime "2016-08-23T11:16:23"^^xsd:dateTime ;
 	.
 
-told:_Biography_7090
-	tolo:createDateTime "2020-03-31T13:59:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-04-10T13:31:37"^^xsd:dateTime ;
-	.
-
 told:_Biography_7093
 	tolo:createDateTime "2010-09-20T13:45:58"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -7058,16 +4784,10 @@ told:_Biography_7105
 	tolo:lastModifiedDateTime "2023-06-22T17:52:13"^^xsd:dateTime ;
 	.
 
-told:_Biography_7113
-	tolo:createDateTime "2018-11-16T21:28:32"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-11-17T02:20:48"^^xsd:dateTime ;
-	.
-
 told:_Biography_7114
 	tolo:createDateTime "2009-07-15T17:02:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-23T18:15:55"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-09-16T12:54:18"^^xsd:dateTime ;
 	.
 
 told:_Biography_7130
@@ -7080,12 +4800,6 @@ told:_Biography_7152
 	tolo:createDateTime "2011-04-13T15:06:13"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
 	tolo:lastModifiedDateTime "2018-01-12T00:37:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_7162
-	tolo:createDateTime "2016-11-04T11:25:45"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-10-17T20:04:06"^^xsd:dateTime ;
 	.
 
 told:_Biography_7164
@@ -7142,52 +4856,16 @@ told:_Biography_7240
 	tolo:lastModifiedDateTime "2020-03-03T17:10:24"^^xsd:dateTime ;
 	.
 
-told:_Biography_7254
-	tolo:createDateTime "2024-01-23T17:32:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-15T12:30:13"^^xsd:dateTime ;
-	.
-
 told:_Biography_726
 	tolo:createDateTime "2009-08-05T16:12:04"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T20:28:40"^^xsd:dateTime ;
 	.
 
-told:_Biography_7272
-	tolo:createDateTime "2015-08-24T16:04:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T17:31:37"^^xsd:dateTime ;
-	.
-
 told:_Biography_7294
 	tolo:createDateTime "2014-03-03T11:16:29"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-01-31T14:51:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_7297
-	tolo:createDateTime "2023-03-01T15:58:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-03-15T14:56:53"^^xsd:dateTime ;
-	.
-
-told:_Biography_7305
-	tolo:createDateTime "2020-07-22T17:23:32"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-06-16T17:32:27"^^xsd:dateTime ;
-	.
-
-told:_Biography_7326
-	tolo:createDateTime "2017-09-13T13:31:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2018-10-15T20:14:04"^^xsd:dateTime ;
-	.
-
-told:_Biography_7348
-	tolo:createDateTime "2015-11-03T10:55:47"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-10T18:23:50"^^xsd:dateTime ;
 	.
 
 told:_Biography_7370
@@ -7208,40 +4886,16 @@ told:_Biography_7429
 	tolo:lastModifiedDateTime "2023-06-21T22:56:19"^^xsd:dateTime ;
 	.
 
-told:_Biography_7462
-	tolo:createDateTime "2016-06-02T14:02:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-06-03T11:49:50"^^xsd:dateTime ;
-	.
-
-told:_Biography_7473
-	tolo:createDateTime "2020-07-08T17:10:28"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:28:57"^^xsd:dateTime ;
-	.
-
 told:_Biography_7512
 	tolo:createDateTime "2010-06-24T14:11:02"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-13T16:18:06"^^xsd:dateTime ;
 	.
 
-told:_Biography_7521
-	tolo:createDateTime "2016-06-02T14:14:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2016-10-28T16:10:45"^^xsd:dateTime ;
-	.
-
 told:_Biography_7523
 	tolo:createDateTime "2014-05-08T13:47:32"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:29:20"^^xsd:dateTime ;
-	.
-
-told:_Biography_7525
-	tolo:createDateTime "2022-07-26T16:36:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-08-08T07:21:15"^^xsd:dateTime ;
 	.
 
 told:_Biography_7545
@@ -7262,34 +4916,10 @@ told:_Biography_7559
 	tolo:lastModifiedDateTime "2017-09-28T17:42:58"^^xsd:dateTime ;
 	.
 
-told:_Biography_7565
-	tolo:createDateTime "2017-12-11T15:33:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2017-12-13T19:28:29"^^xsd:dateTime ;
-	.
-
-told:_Biography_7581
-	tolo:createDateTime "2016-02-12T10:27:36"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-15T16:04:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_7582
-	tolo:createDateTime "2016-03-02T16:07:35"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-02T16:15:52"^^xsd:dateTime ;
-	.
-
 told:_Biography_7601
 	tolo:createDateTime "2011-05-23T16:15:35"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2021-01-09T16:04:37"^^xsd:dateTime ;
-	.
-
-told:_Biography_7613
-	tolo:createDateTime "2016-03-24T12:18:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:29:47"^^xsd:dateTime ;
 	.
 
 told:_Biography_7622
@@ -7306,14 +4936,8 @@ told:_Biography_7636
 
 told:_Biography_7637
 	tolo:createDateTime "2009-07-30T17:03:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-07-15T10:42:52"^^xsd:dateTime ;
-	.
-
-told:_Biography_7641
-	tolo:createDateTime "2016-08-17T13:55:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-08-17T15:20:58"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-11-18T17:38:15"^^xsd:dateTime ;
 	.
 
 told:_Biography_7644
@@ -7334,12 +4958,6 @@ told:_Biography_7676
 	tolo:lastModifiedDateTime "2021-03-23T14:04:58"^^xsd:dateTime ;
 	.
 
-told:_Biography_7681
-	tolo:createDateTime "2016-03-03T10:27:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-03-11T15:24:40"^^xsd:dateTime ;
-	.
-
 told:_Biography_7718
 	tolo:createDateTime "2015-02-26T14:09:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -7350,12 +4968,6 @@ told:_Biography_7719
 	tolo:createDateTime "2011-06-22T10:39:11"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:30:13"^^xsd:dateTime ;
-	.
-
-told:_Biography_7732
-	tolo:createDateTime "2017-09-26T12:07:12"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2020-01-19T16:12:37"^^xsd:dateTime ;
 	.
 
 told:_Biography_7736
@@ -7372,14 +4984,14 @@ told:_Biography_7743
 
 told:_Biography_7767
 	tolo:createDateTime "2013-05-14T20:46:15"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2020-02-04T15:29:07"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-15T15:52:54"^^xsd:dateTime ;
 	.
 
 told:_Biography_7775
 	tolo:createDateTime "2014-05-20T14:01:00"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-01-22T19:45:46"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-04-17T12:59:28"^^xsd:dateTime ;
 	.
 
 told:_Biography_7803
@@ -7407,9 +5019,18 @@ told:_Biography_7874
 	.
 
 told:_Biography_7876
-	tolo:createDateTime "2013-12-23T09:46:54"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T19:53:35"^^xsd:dateTime ;
+	tolo:createDateTime
+		"2013-12-23T09:43:42"^^xsd:dateTime ,
+		"2013-12-23T09:46:54"^^xsd:dateTime
+		;
+	tolo:isLastModifiedByUser
+		told:_User_2 ,
+		told:_User_342
+		;
+	tolo:lastModifiedDateTime
+		"2013-12-23T11:48:14"^^xsd:dateTime ,
+		"2023-06-22T19:53:35"^^xsd:dateTime
+		;
 	.
 
 told:_Biography_7877
@@ -7424,18 +5045,6 @@ told:_Biography_7879
 	tolo:lastModifiedDateTime "2020-06-03T18:41:37"^^xsd:dateTime ;
 	.
 
-told:_Biography_7881
-	tolo:createDateTime "2021-06-29T20:37:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:31:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_7882
-	tolo:createDateTime "2021-07-01T18:12:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T18:15:14"^^xsd:dateTime ;
-	.
-
 told:_Biography_7895
 	tolo:createDateTime "2011-04-14T16:34:54"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
@@ -7448,12 +5057,6 @@ told:_Biography_7918
 	tolo:lastModifiedDateTime "2018-01-16T19:46:46"^^xsd:dateTime ;
 	.
 
-told:_Biography_7929
-	tolo:createDateTime "2021-02-15T20:14:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-07-13T18:55:29"^^xsd:dateTime ;
-	.
-
 told:_Biography_7937
 	tolo:createDateTime "2011-01-06T15:51:02"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
@@ -7464,12 +5067,6 @@ told:_Biography_7945
 	tolo:createDateTime "2013-03-15T18:08:21"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:31:47"^^xsd:dateTime ;
-	.
-
-told:_Biography_8
-	tolo:createDateTime "2022-03-03T19:25:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T00:27:04"^^xsd:dateTime ;
 	.
 
 told:_Biography_8027
@@ -7492,8 +5089,8 @@ told:_Biography_8069
 
 told:_Biography_8076
 	tolo:createDateTime "2010-04-29T10:22:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-07-29T11:51:06"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-19T11:55:14"^^xsd:dateTime ;
 	.
 
 told:_Biography_8079
@@ -7574,22 +5171,10 @@ told:_Biography_8116
 	tolo:lastModifiedDateTime "2016-02-29T11:58:27"^^xsd:dateTime ;
 	.
 
-told:_Biography_8126
-	tolo:createDateTime "2016-05-13T16:07:40"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-05-04T19:58:48"^^xsd:dateTime ;
-	.
-
 told:_Biography_8128
 	tolo:createDateTime "2010-11-04T16:10:59"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:32:50"^^xsd:dateTime ;
-	.
-
-told:_Biography_8156
-	tolo:createDateTime "2022-11-02T11:47:55"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-11-28T15:20:28"^^xsd:dateTime ;
 	.
 
 told:_Biography_8177
@@ -7612,20 +5197,14 @@ told:_Biography_8184
 
 told:_Biography_8342
 	tolo:createDateTime "2010-10-19T17:09:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:33:28"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-21T14:31:25"^^xsd:dateTime ;
 	.
 
 told:_Biography_8343
 	tolo:createDateTime "2011-04-14T16:42:23"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
 	tolo:lastModifiedDateTime "2018-01-16T22:33:42"^^xsd:dateTime ;
-	.
-
-told:_Biography_8354
-	tolo:createDateTime "2020-07-03T17:51:53"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-07-26T14:10:48"^^xsd:dateTime ;
 	.
 
 told:_Biography_8355
@@ -7652,28 +5231,10 @@ told:_Biography_84
 	tolo:lastModifiedDateTime "2017-03-22T12:09:12"^^xsd:dateTime ;
 	.
 
-told:_Biography_8454
-	tolo:createDateTime "2023-06-21T14:04:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-21T14:05:25"^^xsd:dateTime ;
-	.
-
-told:_Biography_8455
-	tolo:createDateTime "2023-06-20T14:31:51"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-22T14:27:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_8456
-	tolo:createDateTime "2023-06-20T14:15:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-06-22T14:24:11"^^xsd:dateTime ;
-	.
-
 told:_Biography_8459
 	tolo:createDateTime "2014-01-02T10:56:48"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-13T16:06:57"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-05-27T16:59:18"^^xsd:dateTime ;
 	.
 
 told:_Biography_8460
@@ -7688,18 +5249,6 @@ told:_Biography_8472
 	tolo:lastModifiedDateTime "2023-06-21T23:05:29"^^xsd:dateTime ;
 	.
 
-told:_Biography_8474
-	tolo:createDateTime "2016-04-22T12:43:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T02:05:24"^^xsd:dateTime ;
-	.
-
-told:_Biography_8507
-	tolo:createDateTime "2022-05-02T19:02:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-05-03T12:54:28"^^xsd:dateTime ;
-	.
-
 told:_Biography_8536
 	tolo:createDateTime "2012-07-31T15:02:20"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -7708,8 +5257,8 @@ told:_Biography_8536
 
 told:_Biography_8538
 	tolo:createDateTime "2011-09-07T20:03:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-13T21:31:43"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-12-13T15:28:13"^^xsd:dateTime ;
 	.
 
 told:_Biography_8539
@@ -7768,8 +5317,8 @@ told:_Biography_8571
 
 told:_Biography_8574
 	tolo:createDateTime "2009-07-20T15:01:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-05-01T19:18:04"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-29T16:55:52"^^xsd:dateTime ;
 	.
 
 told:_Biography_8575
@@ -7792,8 +5341,8 @@ told:_Biography_8580
 
 told:_Biography_8583
 	tolo:createDateTime "2012-05-01T23:30:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2017-09-29T18:18:58"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-12-13T17:08:00"^^xsd:dateTime ;
 	.
 
 told:_Biography_8584
@@ -7806,12 +5355,6 @@ told:_Biography_8585
 	tolo:createDateTime "2012-05-01T23:14:43"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
 	tolo:lastModifiedDateTime "2017-09-29T20:35:34"^^xsd:dateTime ;
-	.
-
-told:_Biography_8592
-	tolo:createDateTime "2024-01-23T17:14:49"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-23T17:47:36"^^xsd:dateTime ;
 	.
 
 told:_Biography_8596
@@ -7934,12 +5477,6 @@ told:_Biography_8675
 	tolo:lastModifiedDateTime "2017-12-20T14:51:36"^^xsd:dateTime ;
 	.
 
-told:_Biography_8730
-	tolo:createDateTime "2020-11-12T19:34:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-08T22:51:29"^^xsd:dateTime ;
-	.
-
 told:_Biography_8750
 	tolo:createDateTime "2009-07-15T17:06:36"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -7952,28 +5489,10 @@ told:_Biography_8752
 	tolo:lastModifiedDateTime "2016-03-04T15:43:27"^^xsd:dateTime ;
 	.
 
-told:_Biography_8753
-	tolo:createDateTime "2016-06-13T16:29:04"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:35:42"^^xsd:dateTime ;
-	.
-
-told:_Biography_8754
-	tolo:createDateTime "2016-05-20T12:47:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-13T19:25:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_8757
-	tolo:createDateTime "2016-09-23T13:09:38"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-09-23T14:24:55"^^xsd:dateTime ;
-	.
-
 told:_Biography_8782
 	tolo:createDateTime "2011-05-23T12:21:31"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-08-12T20:21:43"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-18T21:00:34"^^xsd:dateTime ;
 	.
 
 told:_Biography_8825
@@ -8012,18 +5531,6 @@ told:_Biography_8891
 	tolo:lastModifiedDateTime "2024-05-13T16:56:08"^^xsd:dateTime ;
 	.
 
-told:_Biography_8892
-	tolo:createDateTime "2016-05-04T14:57:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-05-17T12:37:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_8906
-	tolo:createDateTime "2021-06-28T17:19:42"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-06-28T20:10:10"^^xsd:dateTime ;
-	.
-
 told:_Biography_8912
 	tolo:createDateTime "2009-08-21T15:43:56"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
@@ -8042,12 +5549,6 @@ told:_Biography_8964
 	tolo:lastModifiedDateTime "2024-09-09T13:22:16"^^xsd:dateTime ;
 	.
 
-told:_Biography_8972
-	tolo:createDateTime "2023-08-30T16:50:18"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-02-15T13:42:21"^^xsd:dateTime ;
-	.
-
 told:_Biography_8975
 	tolo:createDateTime "2013-05-15T19:18:24"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -8056,8 +5557,8 @@ told:_Biography_8975
 
 told:_Biography_8986
 	tolo:createDateTime "2011-08-30T18:19:46"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T23:05:30"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-21T14:43:11"^^xsd:dateTime ;
 	.
 
 told:_Biography_9
@@ -8070,12 +5571,6 @@ told:_Biography_9030
 	tolo:createDateTime "2009-08-05T12:01:39"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2015-08-20T16:35:32"^^xsd:dateTime ;
-	.
-
-told:_Biography_9047
-	tolo:createDateTime "2022-05-31T19:43:24"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-06-02T15:30:53"^^xsd:dateTime ;
 	.
 
 told:_Biography_9049
@@ -8144,28 +5639,16 @@ told:_Biography_9062
 	tolo:lastModifiedDateTime "2023-06-22T23:06:38"^^xsd:dateTime ;
 	.
 
-told:_Biography_9083
-	tolo:createDateTime "2024-02-06T14:44:09"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-04-23T18:19:37"^^xsd:dateTime ;
-	.
-
 told:_Biography_9095
 	tolo:createDateTime "2010-08-13T14:40:23"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2016-08-02T16:55:28"^^xsd:dateTime ;
 	.
 
-told:_Biography_9105
-	tolo:createDateTime "2023-12-08T16:42:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-12-18T20:28:42"^^xsd:dateTime ;
-	.
-
 told:_Biography_9121
 	tolo:createDateTime "2009-08-28T16:59:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-10T16:35:42"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-30T15:11:04"^^xsd:dateTime ;
 	.
 
 told:_Biography_9126
@@ -8186,40 +5669,28 @@ told:_Biography_9158
 	tolo:lastModifiedDateTime "2023-06-22T23:07:08"^^xsd:dateTime ;
 	.
 
-told:_Biography_9171
-	tolo:createDateTime "2016-04-22T12:15:20"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-10T19:22:58"^^xsd:dateTime ;
-	.
-
-told:_Biography_9172
-	tolo:createDateTime "2018-02-14T15:35:14"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_343 ;
-	tolo:lastModifiedDateTime "2018-04-25T20:12:29"^^xsd:dateTime ;
-	.
-
 told:_Biography_9190
 	tolo:createDateTime "2011-08-25T22:18:19"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-11-10T17:36:58"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_342 ;
+	tolo:lastModifiedDateTime "2025-07-21T17:54:20"^^xsd:dateTime ;
 	.
 
 told:_Biography_9201
 	tolo:createDateTime "2011-06-29T16:49:05"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-08-22T14:38:14"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-04-24T15:48:47"^^xsd:dateTime ;
 	.
 
 told:_Biography_9203
 	tolo:createDateTime "2013-02-25T18:39:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-06-22T19:15:08"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-02-05T20:35:26"^^xsd:dateTime ;
 	.
 
 told:_Biography_9213
 	tolo:createDateTime "2012-07-19T16:12:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:39:25"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2024-09-16T14:26:15"^^xsd:dateTime ;
 	.
 
 told:_Biography_9254
@@ -8228,22 +5699,10 @@ told:_Biography_9254
 	tolo:lastModifiedDateTime "2015-09-30T12:02:44"^^xsd:dateTime ;
 	.
 
-told:_Biography_9278
-	tolo:createDateTime "2024-07-23T14:49:11"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-09T14:20:08"^^xsd:dateTime ;
-	.
-
 told:_Biography_9287
 	tolo:createDateTime "2015-05-05T11:58:06"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2015-05-05T14:44:43"^^xsd:dateTime ;
-	.
-
-told:_Biography_9289
-	tolo:createDateTime "2022-06-30T20:03:59"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-08-17T19:49:24"^^xsd:dateTime ;
 	.
 
 told:_Biography_9297
@@ -8252,34 +5711,10 @@ told:_Biography_9297
 	tolo:lastModifiedDateTime "2017-01-13T10:17:45"^^xsd:dateTime ;
 	.
 
-told:_Biography_9301
-	tolo:createDateTime "2021-06-02T12:54:10"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-07-02T15:39:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_9333
-	tolo:createDateTime "2016-01-29T14:02:16"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2021-03-18T18:00:44"^^xsd:dateTime ;
-	.
-
-told:_Biography_9343
-	tolo:createDateTime "2022-03-04T20:31:50"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2022-03-07T16:41:03"^^xsd:dateTime ;
-	.
-
 told:_Biography_9355
 	tolo:createDateTime "2012-08-16T18:21:50"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
 	tolo:lastModifiedDateTime "2024-05-07T23:39:59"^^xsd:dateTime ;
-	.
-
-told:_Biography_9361
-	tolo:createDateTime "2018-07-25T19:02:21"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-04-14T22:55:04"^^xsd:dateTime ;
 	.
 
 told:_Biography_9372
@@ -8298,18 +5733,6 @@ told:_Biography_9394
 	tolo:createDateTime "2015-01-15T11:12:39"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2023-12-21T21:25:19"^^xsd:dateTime ;
-	.
-
-told:_Biography_9442
-	tolo:createDateTime "2016-01-15T16:27:02"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2016-01-15T16:29:46"^^xsd:dateTime ;
-	.
-
-told:_Biography_9469
-	tolo:createDateTime "2024-06-27T13:44:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-09-11T16:31:32"^^xsd:dateTime ;
 	.
 
 told:_Biography_9482
@@ -8342,28 +5765,10 @@ told:_Biography_9546
 	tolo:lastModifiedDateTime "2023-11-13T20:13:48"^^xsd:dateTime ;
 	.
 
-told:_Biography_9572
-	tolo:createDateTime "2016-06-08T11:27:58"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2018-05-14T20:30:07"^^xsd:dateTime ;
-	.
-
-told:_Biography_9574
-	tolo:createDateTime "2019-08-27T18:41:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-07T23:41:44"^^xsd:dateTime ;
-	.
-
 told:_Biography_9579
 	tolo:createDateTime "2009-07-22T11:52:44"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2024-06-26T14:15:17"^^xsd:dateTime ;
-	.
-
-told:_Biography_9585
-	tolo:createDateTime "2019-04-08T15:35:56"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2022-06-03T10:12:20"^^xsd:dateTime ;
 	.
 
 told:_Biography_9588
@@ -8380,20 +5785,14 @@ told:_Biography_9589
 
 told:_Biography_9590
 	tolo:createDateTime "2010-05-13T11:29:57"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2017-12-14T15:20:03"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-02T19:27:54"^^xsd:dateTime ;
 	.
 
 told:_Biography_9593
 	tolo:createDateTime "2012-09-17T20:19:13"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2022-04-26T14:36:02"^^xsd:dateTime ;
-	.
-
-told:_Biography_9594
-	tolo:createDateTime "2020-07-29T17:10:34"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-03-18T16:24:47"^^xsd:dateTime ;
 	.
 
 told:_Biography_96
@@ -8404,14 +5803,14 @@ told:_Biography_96
 
 told:_Biography_9601
 	tolo:createDateTime "2011-12-28T21:27:13"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2021-01-06T15:23:23"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-01-06T21:08:58"^^xsd:dateTime ;
 	.
 
 told:_Biography_9612
 	tolo:createDateTime "2009-07-17T16:41:17"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2023-07-18T00:50:23"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-07-02T19:14:19"^^xsd:dateTime ;
 	.
 
 told:_Biography_9618
@@ -8434,8 +5833,8 @@ told:_Biography_9624
 
 told:_Biography_9634
 	tolo:createDateTime "2009-12-11T15:24:39"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2019-03-11T14:48:46"^^xsd:dateTime ;
+	tolo:isLastModifiedByUser told:_User_2 ;
+	tolo:lastModifiedDateTime "2025-06-05T13:10:18"^^xsd:dateTime ;
 	.
 
 told:_Biography_9646
@@ -8486,18 +5885,6 @@ told:_Biography_9753
 	tolo:lastModifiedDateTime "2024-06-27T15:51:28"^^xsd:dateTime ;
 	.
 
-told:_Biography_9761
-	tolo:createDateTime "2021-09-28T17:58:27"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-08T14:16:12"^^xsd:dateTime ;
-	.
-
-told:_Biography_9764
-	tolo:createDateTime "2024-01-08T14:34:25"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2024-01-12T13:59:51"^^xsd:dateTime ;
-	.
-
 told:_Biography_9788
 	tolo:createDateTime "2010-05-07T12:40:38"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_343 ;
@@ -8534,12 +5921,6 @@ told:_Biography_9884
 	tolo:lastModifiedDateTime "2023-06-22T23:14:05"^^xsd:dateTime ;
 	.
 
-told:_Biography_9895
-	tolo:createDateTime "2023-11-06T20:46:26"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_2 ;
-	tolo:lastModifiedDateTime "2023-11-15T16:09:54"^^xsd:dateTime ;
-	.
-
 told:_Biography_9923
 	tolo:createDateTime "2011-06-21T12:16:35"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_342 ;
@@ -8556,18 +5937,6 @@ told:_Biography_9935
 	tolo:createDateTime "2013-07-03T11:01:03"^^xsd:dateTime ;
 	tolo:isLastModifiedByUser told:_UserAccount_2 ;
 	tolo:lastModifiedDateTime "2023-12-18T20:55:33"^^xsd:dateTime ;
-	.
-
-told:_Biography_9945
-	tolo:createDateTime "2019-07-30T12:29:41"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-05-13T16:20:15"^^xsd:dateTime ;
-	.
-
-told:_Biography_9983
-	tolo:createDateTime "2021-07-01T18:41:22"^^xsd:dateTime ;
-	tolo:isLastModifiedByUser told:_UserAccount_342 ;
-	tolo:lastModifiedDateTime "2024-07-09T19:11:02"^^xsd:dateTime ;
 	.
 
 told:_Biography_9985

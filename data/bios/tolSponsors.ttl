@@ -1,5 +1,3 @@
-@prefix bdo: <http://purl.bdrc.io/ontology/core/> .
-@prefix bdr: <http://purl.bdrc.io/resource/> .
 @prefix gist: <https://w3id.org/semanticarts/ns/ontology/gist/> .
 @prefix media-image: <https://www.iana.org/assignments/media-types/image/> .
 @prefix media-txt: <https://www.iana.org/assignments/media-types/text/> .
@@ -10,8 +8,6 @@
 @prefix told: <https://w3id.org/treasuryoflives/ns/data/tol/> .
 @prefix tolo: <https://w3id.org/treasuryoflives/ns/ontology/tol/> .
 @prefix tolx: <https://w3id.org/treasuryoflives/ns/taxonomy/tol/> .
-@prefix viaf: <https://viaf.org/viaf/> .
-@prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 told:_Biography_10019
@@ -92,6 +88,10 @@ told:_Biography_12745
 
 told:_Biography_12839
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
+	.
+
+told:_Biography_13244
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
 
 told:_Biography_13246
@@ -350,8 +350,24 @@ told:_Biography_13828
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
 	.
 
+told:_Biography_13901
+	tolo:isSponsoredBy told:_Organization_Jnanasukha_Foundation ;
+	.
+
+told:_Biography_1798
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
+told:_Biography_2029
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
 told:_Biography_2069
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
+	.
+
+told:_Biography_2094
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
 
 told:_Biography_2418
@@ -362,8 +378,16 @@ told:_Biography_2424
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
 	.
 
+told:_Biography_2511
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
 told:_Biography_2541
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
+	.
+
+told:_Biography_2610
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
 
 told:_Biography_2945
@@ -394,6 +418,10 @@ told:_Biography_4310
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
 	.
 
+told:_Biography_4330
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
 told:_Biography_4476
 	tolo:isSponsoredBy told:_Organization_Jnanasukha_Foundation ;
 	.
@@ -404,6 +432,22 @@ told:_Biography_4820
 
 told:_Biography_5894
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
+	.
+
+told:_Biography_6101
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
+told:_Biography_6229
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
+told:_Biography_6328
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
+	.
+
+told:_Biography_6879
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
 
 told:_Biography_7007
@@ -428,6 +472,10 @@ told:_Biography_7929
 
 told:_Biography_8
 	tolo:isSponsoredBy told:_Organization_National_Endowment_for_the_Humanities ;
+	.
+
+told:_Biography_8194
+	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
 
 told:_Biography_8507
@@ -480,12 +528,6 @@ told:_ElectronicAddress_https___khyentsefoundation_org
 	tolo:url "https://khyentsefoundation.org/"^^xsd:anyURI ;
 	.
 
-told:_ElectronicAddress_https___www_fredericklenzfoundation_org
-	a gist:ElectronicAddress ;
-	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
-	tolo:url "https://www.fredericklenzfoundation.org/"^^xsd:anyURI ;
-	.
-
 told:_ElectronicAddress_https___www_jnanasukha_org
 	a gist:ElectronicAddress ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
@@ -496,12 +538,6 @@ told:_ElectronicAddress_https___www_neh_gov
 	a gist:ElectronicAddress ;
 	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
 	tolo:url "https://www.neh.gov/"^^xsd:anyURI ;
-	.
-
-told:_ElectronicAddress_www_sdrubin_org
-	a gist:ElectronicAddress ;
-	gist:isCategorizedBy tolx:_ElectronicAddressType_url ;
-	tolo:url "www.sdrubin.org"^^xsd:anyURI ;
 	.
 
 told:_FormattedContent_Sponsor_Jnanasukha_Foundation
@@ -532,58 +568,11 @@ told:_FormattedContent_Sponsor_National_Endowment_for_the_Humanities
 	gist:isExpressedIn media-txt:html ;
 	.
 
-told:_FormattedContent_Sponsor_Shelley_and_Donald_Rubin_Foundation
-	a gist:FormattedContent ;
-	gist:containedText """<p>
-	The Treasury of Lives began in 2007 as a project of The Shelley &amp; Donald Rubin Foundation, one of several web resources that the Foundation has incubated. The Foundation fully funded The Treasury until 2016, when the project became independent, and continued to offer partial support through 2019.</p>"""@en ;
-	gist:isAbout told:_Organization_Shelley_and_Donald_Rubin_Foundation ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_FormattedContent_Sponsor_The_Frederick_P_Lenz_Foundation_for_American_Buddhism
-	a gist:FormattedContent ;
-	gist:containedText """<p>
-	The Treasury of Lives is the grateful recipient of general support funding from the&nbsp;The Frederick P. Lenz Foundation for American Buddhism.</p>"""@en ;
-	gist:isAbout told:_Organization_The_Frederick_P_Lenz_Foundation_for_American_Buddhism ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_Image_uploads_sponsors_422b1_jnanasukha_logo_jpg
-	a tolo:Image ;
-	skos:prefLabel "Jnanasukha Foundation"@en ;
-	tolo:filePath "422b1-jnanasukha-logo.jpg"^^xsd:string ;
-	.
-
-told:_Image_uploads_sponsors_7a495_lenz_png
-	a tolo:Image ;
-	skos:prefLabel "The Frederick P. Lenz Foundation for American Buddhism"@en ;
-	tolo:filePath "7a495-lenz.png"^^xsd:string ;
-	.
-
-told:_Image_uploads_sponsors_7e015_rubinfnd_png
-	a tolo:Image ;
-	skos:prefLabel "Shelley and Donald Rubin Foundation"@en ;
-	tolo:filePath "7e015-rubinfnd.png"^^xsd:string ;
-	.
-
-told:_Image_uploads_sponsors_86b82_neh_preferred_seal820_jpg
-	a tolo:Image ;
-	skos:prefLabel "National Endowment for the Humanities"@en ;
-	tolo:filePath "86b82-NEH-Preferred-Seal820.jpg"^^xsd:string ;
-	.
-
-told:_Image_uploads_sponsors_d002f_white_lion_blue_jpg
-	a tolo:Image ;
-	skos:prefLabel "Khyentse Foundation"@en ;
-	tolo:filePath "d002f-white-lion-blue.jpg"^^xsd:string ;
-	.
-
 told:_Organization_Jnanasukha_Foundation
 	a tolo:Sponsor ;
 	skos:prefLabel "Jnanasukha Foundation"@en ;
 	gist:hasAddress told:_ElectronicAddress_https___www_jnanasukha_org ;
 	gist:name "Jnanasukha Foundation"@en ;
-	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_422b1_jnanasukha_logo_jpg ;
 	.
 
 told:_Organization_Khyentse_Foundation
@@ -591,7 +580,6 @@ told:_Organization_Khyentse_Foundation
 	skos:prefLabel "Khyentse Foundation"@en ;
 	gist:hasAddress told:_ElectronicAddress_https___khyentsefoundation_org ;
 	gist:name "Khyentse Foundation"@en ;
-	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_d002f_white_lion_blue_jpg ;
 	.
 
 told:_Organization_National_Endowment_for_the_Humanities
@@ -599,22 +587,5 @@ told:_Organization_National_Endowment_for_the_Humanities
 	skos:prefLabel "National Endowment for the Humanities"@en ;
 	gist:hasAddress told:_ElectronicAddress_https___www_neh_gov ;
 	gist:name "National Endowment for the Humanities"@en ;
-	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_86b82_neh_preferred_seal820_jpg ;
-	.
-
-told:_Organization_Shelley_and_Donald_Rubin_Foundation
-	a tolo:Sponsor ;
-	skos:prefLabel "Shelley and Donald Rubin Foundation"@en ;
-	gist:hasAddress told:_ElectronicAddress_www_sdrubin_org ;
-	gist:name "Shelley and Donald Rubin Foundation"@en ;
-	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_7e015_rubinfnd_png ;
-	.
-
-told:_Organization_The_Frederick_P_Lenz_Foundation_for_American_Buddhism
-	a tolo:Sponsor ;
-	skos:prefLabel "The Frederick P. Lenz Foundation for American Buddhism"@en ;
-	gist:hasAddress told:_ElectronicAddress_https___www_fredericklenzfoundation_org ;
-	gist:name "The Frederick P. Lenz Foundation for American Buddhism"@en ;
-	tolo:hasPrimaryDisplayImage told:_Image_uploads_sponsors_7a495_lenz_png ;
 	.
 
