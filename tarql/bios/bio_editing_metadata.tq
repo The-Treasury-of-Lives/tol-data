@@ -50,6 +50,6 @@ WHERE {
     BIND(IF(REGEX(?update_date, "T\\d:"), REPLACE(?update_date, "T", "T0"), ?update_date) AS ?update_date_clean)
     BIND(STRDT(?update_date_clean, xsd:dateTime) AS ?last_modified_datetime)
 
-    BIND(tarql:expandPrefixedName(CONCAT("told:_User_", ?last_modified_user_id)) AS ?modifier_iri)
+    BIND(tarql:expandPrefixedName(CONCAT("told:_UserAccount_", ?last_modified_user_id)) AS ?modifier_iri)
 
 }
