@@ -81,7 +81,7 @@ told:_FormattedContent_Description_Place_101
 told:_FormattedContent_Description_Place_1010
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tsopu is a monastery and hermitage affiliated with <a href="/geographies/view/Katok/TBRC_G17">Katok</a>. It was in existence by at least the eighteenth century when the First Tsopu Drubchen, <a href="/biographies/view/Choying-Rangdrol/TBRC_P6010">Choying Rangdrol</a>, devoted his life to meditation here, his title being derived from the place name.&nbsp;</p>'''@en ;
+	Tsopu is a monastery and hermitage in Nyarong affiliated with <a href="/geographies/view/Katok/TBRC_G17">Katok</a>. It was in existence by at least the eighteenth century when the First Tsopu Drubchen, <a href="/biographies/view/Choying-Rangdrol/TBRC_P6010">Choying Rangdrol</a>, devoted his life to meditation here, his title being derived from the place name. It was also known as Tsozur Monastery and Chopu.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1010 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -207,6 +207,12 @@ told:_FormattedContent_Description_Place_1025
 	gist:containedText '''<p>
 	Nalatse Nepoche was a temple in Gungtang. It was the site where <a href="/biographies/view/Marton-Chokyi-Gyelpo/TBRC_P8LS14473">Marton Chokyi Gyelpo</a> wrote his text <em>The Incisive Vajra</em>. It is where <a href="/biographies/view/Mel-Lotsawa/TBRC_p3088">Mel Lotsawa</a> taught <a href="/biographies/view/Sachen-Kunga-Nyingpo/TBRC_p1615">Sachen Kunga Nyingpo</a>.</p>'''@en ;
 	gist:isAbout told:_Place_1025 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1034
+	a gist:FormattedContent ;
+	gist:isAbout told:_Place_1034 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -708,8 +714,8 @@ told:_FormattedContent_Description_Place_1109
 
 told:_FormattedContent_Description_Place_1110
 	a gist:FormattedContent ;
-	gist:containedText """<p>
-	Rahor was a Nyingma monastery in the Dranggo region of Kham. It was originally an old Bon institution that was possibly over a thousand years old. Later it was converted to Sakya and then much later Nyingma.&nbsp;</p>"""@en ;
+	gist:containedText '''<p>
+	Rahor is a Nyingma monastery in present-day Dranggo county, Kham. It was originally a Bon institution that was possibly over a thousand years old. Later it was converted to Sakya and then much later Nyingma. Now considered a branch of <a href="/geographies/view/Dzogchen-Monastery/TBRC_G16">Dzogchen Monastery</a>, its reconstruction was spearheaded by <a href="/biographies/view/Rahor-Khenpo-Tubten/13895">Rahor Khenpo Tubten</a> beginning in 1989.</p>'''@en ;
 	gist:isAbout told:_Place_1110 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1005,7 +1011,7 @@ told:_FormattedContent_Description_Place_1152
 told:_FormattedContent_Description_Place_1153
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Serding Monastery was a Sakya or Kadam institution in Tsang. It existed in the thirteenth century, when <a href="/biographies/view/Jamyang-Gonpo/TBRC_P4253">Jamyang Gonpo</a> took ordination there.</p>'''@en ;
+	Serding Monastery was a Sakya or Kadam institution in Tsang. It existed in the thirteenth century, when <a href="/biographies/view/Jamyang-Gonpo/TBRC_P4253">Jamyang Gonpo</a> took ordination there. The Chel clan controlled it in the twelfth century.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1153 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1107,10 +1113,18 @@ told:_FormattedContent_Description_Place_117
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_1170
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Pelge Samten Ling was a hermitage in Kham likely established by&nbsp;<a href="/biographies/view/Pelge-Samten-Puntsok/TBRC_p8002">Pelge Samten Puntsok</a>, a preincarnation of&nbsp;<a href="/biographies/view/Patrul-Rinpoche/TBRC_p270">Patrul Rinpoche</a>. Patrul left the hermitage as a young man in favor of wandering Kham.</p>'''@en ;
+	gist:isAbout told:_Place_1170 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_1171
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Dzagyel was a Nyingma monastery in the Dzachuka region of Derge. It was founded by the <a href="/biographies/view/First-Dodrubchen/TBRC_P293">First Dodrubchen</a>&nbsp;and&nbsp;<a href="/biographies/view/Jigme-Gyelwai-Nyugu/TBRC_p695">Jigme Gyelwai Nyugu</a>, and became the later&#39;s main seat and that of his main disciple,&nbsp;<a href="/biographies/view/Patrul-Rinpoche-Jigme-Chokyi-Wangpo/TBRC_P270">Patrul Rinpoche Jigme Chokyi Wangpo</a>&nbsp;and the reincarnations of both men: <a href="/biographies/view/Kunzang-Dechen-Dorje/TBRC_P8435">Kunzang Dechen Dorje</a> and <a href="/biographies/view/Patrul-Namkha-Jigme/TBRC_P3JM136">Patrul Namkha Jigme</a>.</p>'''@en ;
+	Dzagyel is a Nyingma monastery in the Dzachuka region of Derge. It was founded by the <a href="/biographies/view/First-Dodrubchen/TBRC_P293">First Dodrubchen</a>&nbsp;and&nbsp;<a href="/biographies/view/Jigme-Gyelwai-Nyugu/TBRC_p695">Jigme Gyelwai Nyugu</a>, and became the latter&#39;s main seat and that of his main disciple,&nbsp;<a href="/biographies/view/Patrul-Rinpoche-Jigme-Chokyi-Wangpo/TBRC_P270">Patrul Rinpoche Jigme Chokyi Wangpo</a>&nbsp;and the reincarnations of both men: <a href="/biographies/view/Kunzang-Dechen-Dorje/TBRC_P8435">Kunzang Dechen Dorje</a> and <a href="/biographies/view/Patrul-Namkha-Jigme/TBRC_P3JM136">Patrul Namkha Jigme</a>.</p>'''@en ;
 	gist:isAbout told:_Place_1171 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1144,6 +1158,14 @@ told:_FormattedContent_Description_Place_1175
 	gist:containedText '''<p>
 	Kumbum Monastery in Nangchen was established in the thirteenth century by <a href="/biographies/view/Repa-Karpo/TBRC_P5137">Repa Karpo</a>, a disciple of <a href="/biographies/view/Tishri-Repa/TBRC_P5133">Tishri Repa</a>.</p>'''@en ;
 	gist:isAbout told:_Place_1175 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1176
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Ne Chode is a small Geluk monastery in the Ne region of Tsang. It was founded in an earth tiger year -- possibly 1458 or 1518 -- by Gonpo Pelwa, a student of <a href="/biographies/view/Sherab-Sengge/TBRC_TBRC-ID">Sherab Sengge</a>, himself a disciple of <a href="/biographies/view/Tsongkhapa/TBRC_p64">Tsongkhapa</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1176 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -1293,6 +1315,14 @@ told:_FormattedContent_Description_Place_1196
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_1197
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Chokhor Gang is a small Sakya monastery in Tsang.</p>"""@en ;
+	gist:isAbout told:_Place_1197 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_1198
 	a gist:FormattedContent ;
 	gist:containedText """<p>
@@ -1320,7 +1350,7 @@ told:_FormattedContent_Description_Place_12
 told:_FormattedContent_Description_Place_120
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Nenying is a Geluk monastery in central Tibet. It was first established in the eighth century, and converted to the Shangpa Kagyu tradition in the eleventh century, and ultimately to the Geluk tradition in the seventeenth century. The <a href="/biographies/view/Seventh-Ganden-Tripa-Lodro-Tenpa-/TBRC_P4636">Seventh Ganden Tripa Lodro Tenpa </a>received his monastic vows at Nenying.</p>'''@en ;
+	Nenying is a Geluk monastery just south of Gyantse. It was first established in the eighth century by <a href="/geographies/view/Samye/TBRC_G287">Samye</a> head Gya Jampel Sangwa, a teacher to emperors Trisong Detsen, Tridesongtsen and Trisukdetsen. Over the centuries it was associated with the Nyingma, Sakya, Shangpa Kagyu,&nbsp; Bodong, Kadam and Geluk traditions. It became distinguished in the fifteenth century as a vibrant home to well-known painters including Menla Dondrub, who initiated the Menri style. The <a href="/biographies/view/Eighth-Samding-Dorje-Pakmo/TBRC_P8LS12645">Eighth Samding Dorje Pakmo</a> was granted Nenying by her paternal uncle, the <a href="/biographies/view/Sixth-Panchen-Lama/TBRC_P168">Sixth Panchen Lama</a>. The <a href="/biographies/view/Seventh-Ganden-Tripa-Lodro-Tenpa-/TBRC_P4636">Seventh Ganden Tripa Lodro Tenpa </a>received his monastic vows at Nenying.</p>'''@en ;
 	gist:isAbout told:_Place_120 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1343,8 +1373,8 @@ told:_FormattedContent_Description_Place_1201
 
 told:_FormattedContent_Description_Place_1204
 	a gist:FormattedContent ;
-	gist:containedText """<p>
-	Erdene Zuu is regarded as the oldest surviving Buddhist monastery of Mongolia and was founded in 1585 by Abatai Khan, a descendant of Chinggis Khan. The area was formerly known as Kharkhorum, the palace and adminstrative center of the Mongol empire. Erdene Zuu was initially a Sakya institution but was converted to Geluk in 1685 during the time of the First Jetsundampa. Though severely damaged during the communist purges of the early 20th century, Erdene Zuu has been revitalized since 1990 and is an active site of Buddhist practice. The surrounding region was designated as a UNESCO&nbsp;world heritage site in 2004.</p>"""@en ;
+	gist:containedText '''<p>
+	Erdene Zuu is regarded as the oldest surviving Buddhist monastery of Mongolia. It was founded in 1585 by Abatai Khan, a descendant of Chinggis Khan. The area was formerly known as Kharkhorum, the palace and adminstrative center of the Mongol empire. Erdene Zuu was initially a Sakya institution but was converted to Geluk in 1685 during the time of the <a href="/biographies/view/First-Jetsundampa/TBRC_P5779">First Jetsundampa</a>. Though severely damaged during the communist purges of the early twentieth century, Erdene Zuu has been revitalized since 1990 and is an active site of Buddhist practice. The surrounding region was designated as a UNESCO&nbsp;world heritage site in 2004.</p>'''@en ;
 	gist:isAbout told:_Place_1204 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1788,7 +1818,7 @@ told:_FormattedContent_Description_Place_1262
 told:_FormattedContent_Description_Place_1263
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Gyelpak Tashi Choling is a Nyingma monastery in the Te&#39;u section of Minyak, Kham. It is considered a branch of <a href="/geographies/view/Dzogchen-Monastery/TBRC_g16">Dzogchen Monastery</a>.</p>'''@en ;
+	Gyelpak Tashi Choling is a Nyingma monastery in the Teu section of Minyak, Kham. It is considered a branch of <a href="/geographies/view/Dzogchen-Monastery/TBRC_g16">Dzogchen Monastery</a>.</p>'''@en ;
 	gist:isAbout told:_Place_1263 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1924,7 +1954,7 @@ told:_FormattedContent_Description_Place_1279
 told:_FormattedContent_Description_Place_128
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Nalendra, a monastery located north of Lhasa in Penyul, was founded in 1436 by <a href="/biographies/view/Rongton-Mawai-Sengge/TBRC_P431">Rongton Sheja Kunrik</a>, who was born into a Bon family and studied at Kadam monasteries. The monastery was absorbed into the Sakya tradition and Rongton came to be considered &nbsp;one of the six jewels of the Sakya tradition. There are extensive ruins at the site, along with a renovated assembly hall containing murals.&nbsp;<a href="/biographies/view/Khenpo-Tsultrim-Gyelsten/TBRC_P6677">Khenpo Tsultrim Gyelsten</a> is credited with initiating the renovation of the site.</p>'''@en ;
+	Nālendra, a monastery located north of Lhasa in Penyul, was founded in 1436 by <a href="/biographies/view/Rongton-Mawai-Sengge/TBRC_P431">Rongton Sheja Kunrik</a>, who was born into a Bon family and studied at Kadam monasteries. The monastery was absorbed into the Sakya tradition and Rongton came to be considered &nbsp;one of the six jewels of the Sakya tradition. There are extensive ruins at the site, along with a renovated assembly hall containing murals.&nbsp;<a href="/biographies/view/Khenpo-Tsultrim-Gyelsten/TBRC_P6677">Khenpo Tsultrim Gyelsten</a> is credited with initiating the renovation of the site.</p>'''@en ;
 	gist:isAbout told:_Place_128 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -1957,8 +1987,8 @@ told:_FormattedContent_Description_Place_1282
 
 told:_FormattedContent_Description_Place_1283
 	a gist:FormattedContent ;
-	gist:containedText """<p>
-	One of the most recognizable Geluk monasteries of Ladakh, which looks like a replica of the Potala Palace. Thikse was established during the period of Geluk expansion in Ladakh, probably about the middle of the fifteenth century. It was founded by Pelden Sherab, the nephew of Sherab Zangpo, and situated outside of Leh.</p>"""@en ;
+	gist:containedText '''<p>
+	One of the most recognizable Geluk monasteries of Ladakh, which looks like a replica of the <a href="/geographies/view/Potala-Palace/TBRC_G222">Potala Palace</a>. Thiksay was established during the period of Geluk expansion in Ladakh, probably about the middle of the fifteenth century. It was founded by Pelden Sherab, the nephew of <a href="/biographies/view/Sherab-Zangpo/TBRC_P483">Sherab Zangpo</a>, and situated outside of Leh.</p>'''@en ;
 	gist:isAbout told:_Place_1283 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2198,7 +2228,7 @@ told:_FormattedContent_Description_Place_1312
 told:_FormattedContent_Description_Place_1313
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Dzonggo was a royal religious center of the nearby kingdom of Ling, founded around the 19th century, and affiliated with the Nyingma tradition. It should not be confused with the Sakya <a href="/geographies/view/Dzonggo-Monastery/TBRC_G1KR2784">Dzonggo Monastery</a> in Yushu.</p>'''@en ;
+	Dzonggo was a Nyingma monastery in Ling, founded in the nineteenth century by Ling Terchen Pema Drodul Tsel, the brother of the king of Ling, Gonpo Dargye. It should not be confused with the Sakya <a href="/geographies/view/Dzonggo-Monastery/TBRC_G1KR2784">Dzonggo Monastery</a> in Yushu.</p>'''@en ;
 	gist:isAbout told:_Place_1313 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2222,7 +2252,7 @@ told:_FormattedContent_Description_Place_1316
 told:_FormattedContent_Description_Place_1317
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Nyetang Mokchok, also known as Tashi Dechen, is a Shangpa Kagyu monastery in Chushur county of central Tibet founded in the twelfth century by <a href="/biographies/view/Mokchok-Rinchen-Tsondru/TBRC_P1984">Mokchok Rinchen Tsondru</a>. Mokchok Jampa Yeshe, who trained at <a href="/geographies/view/Drigung-Monastery/TBRC_G340">Drigung Monastery</a>, built a new monastery next to Tashi Dechen called Silwa Tsel in the early twentieth century. Tashi Dechen was destroyed during the Cultural Revolution, but Silwa Tsel survived by being used as grain storage, and has been restored.&nbsp;</p>'''@en ;
+	Nyetang Mokchok, also known as Tashi Dechen, is a Shangpa Kagyu monastery in Chushur county of central Tibet founded in the twelfth century by <a href="/biographies/view/Mokchok-Rinchen-Tsondru/TBRC_P1984">Mokchok Rinchen Tsondru</a>. Mokchok Jampa Yeshe, who trained at <a href="/geographies/view/Depung-Monastery/TBRC_G108">Depung Monastery</a>, built a new monastery next to Tashi Dechen called Silwa Tsel in the early twentieth century. Tashi Dechen was destroyed during the Cultural Revolution, but Silwa Tsel survived by being used as grain storage, and has been restored.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1317 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2254,7 +2284,7 @@ told:_FormattedContent_Description_Place_1320
 told:_FormattedContent_Description_Place_1321
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Baḥne is a small Nyingma monaster in Nyakchuka, Amdo. It was converted from a Kagyu monastery in the early eighteenth century.&nbsp;</p>"""@en ;
+	Baḥne is a small Nyingma monastery in Nyakchuka, Amdo. It was converted from a Kagyu monastery in the early eighteenth century.&nbsp;</p>"""@en ;
 	gist:isAbout told:_Place_1321 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2270,7 +2300,7 @@ told:_FormattedContent_Description_Place_1322
 told:_FormattedContent_Description_Place_1323
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Do Dorje Drak is a Nyingma monastery in Dartsedo (Kangding), Kham. It was founded in 1564 as the house monastery of the Chakla family that ruled the region.</p>"""@en ;
+	Do Dorje Drak is a Nyingma monastery in Dartsedo, Kham. It was founded in 1564 as the house monastery of the Chakla family that ruled the region.</p>"""@en ;
 	gist:isAbout told:_Place_1323 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2446,7 +2476,7 @@ told:_FormattedContent_Description_Place_1345
 told:_FormattedContent_Description_Place_1346
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Sengge Yumtso, Or Lion&#39;s Turquoise Lake, known by many other names, is a small glacial lake above the Rongme Valley where <a href="/biographies/view/Chokgyur-Lingpa/TBRC_P564">Chokgyur Lingpa</a> and <a href="/biographies/view/Jamyang-Khyentse-Wangpo/TBRC_P258">Jamyang Khyentse Wangpo</a> revealed treasure in 1866.</p>'''@en ;
+	Sengge Yumtso, or Lion&#39;s Turquoise Lake, also known by many other names, is a small glacial lake above the Rongme Valley where <a href="/biographies/view/Chokgyur-Lingpa/TBRC_P564">Chokgyur Lingpa</a> and <a href="/biographies/view/Jamyang-Khyentse-Wangpo/TBRC_P258">Jamyang Khyentse Wangpo</a> revealed treasure in 1866.</p>'''@en ;
 	gist:isAbout told:_Place_1346 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2502,7 +2532,7 @@ told:_FormattedContent_Description_Place_1351
 told:_FormattedContent_Description_Place_1352
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Ngedon Dongak Chokhor Ling was a hermitage in Serta founded by <a href="/biographies/view/Khenchen-Choying-Khyabdel/TBRC_P7289">Khenchen Choying Khyabdel</a> in 1979. On October 29, 2010 it was re-established as a permanent structure with the support of <a href="/geographies/view/Tarthang-Tulku/TBRC_P6384">Tarthang Tulku</a>.&nbsp;</p>'''@en ;
+	Limdo Chogar, Ngedon Dongak Chokhor Ling, was a hermitage in Serta founded by <a href="/biographies/view/Khenchen-Choying-Khyabdel/TBRC_P7289">Khenchen Choying Khyabdel</a> in 1979. On October 29, 2010 it was re-established as a permanent structure with the support of <a href="/geographies/view/Tarthang-Tulku/TBRC_P6384">Tarthang Tulku</a>.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1352 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2582,7 +2612,7 @@ told:_FormattedContent_Description_Place_1363
 told:_FormattedContent_Description_Place_1364
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Khyunglung Ngulkhar, regarded as the capital of the ancient Zhangzhung kingdom, is where <a href="/biographies/view/Drenpa-Namkha/TBRC_P4261">Drenpa Namkha</a> is said to have been born.</p>'''@en ;
+	Khyunglung Ngulkhar, regarded as the capital of the ancient Zhangzhung kingdom, is where <a href="/biographies/view/Drenpa-Namkha/TBRC_P4261">Drenpa Namkha</a> is said to have been born. The exact location is not settled, however, research by John Bellezza suggests that it may be locatedin the Sutlej Valley of southeastern Tibet.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1364 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -2664,14 +2694,6 @@ told:_FormattedContent_Description_Place_1374
 	gist:containedText '''<p>
 	Popularly known as North Point, St. Joseph&rsquo;s is a Jesuit boys&rsquo; boarding school in Darjeeling in north India founded in 1888. Traditionally considered one of the best schools in the region, St. Joseph&rsquo;s counted among its alumni the Shah kings of Nepal and the Wangchuck kings of Bhutan as well as notable Tibetan aristocrats and intellectuals such as Jamyang Norbu. In the years 1947-1951, <a href="/biographies/view/Lobsang-P.-Lhalungpa/TBRC_P1KG10060">Lobsang P. Lhalungpa</a>, who was sent to India as the Cultural and Educational Representative of the Tibetan government, was based at St. Joseph&rsquo;s and taught Tibetan there. His duties included overseeing the education of Tibetan students at North Point with the intention of training them for service in the Tibetan government. St. Joseph&#39;s became affiliated with Calcutta University in 1926.</p>'''@en ;
 	gist:isAbout told:_Place_1374 ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_FormattedContent_Description_Place_1376
-	a gist:FormattedContent ;
-	gist:containedText '''<p>
-	Chode was a royal temple in the Derge region of Denma. <a href="/biographies/view/Zhuchen-Tsultrim-Rinchen/TBRC_p801">Zhuchen Tsultrim Rinchen</a> rebuilt and expanded it in 1752. <a href="/biographies/view/Kongtrul-Lodro-Gyatso/TBRC_p264">Kongtrul Lodro Gyatso</a> spent time there as a young boy.</p>'''@en ;
-	gist:isAbout told:_Place_1376 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -2998,7 +3020,7 @@ told:_FormattedContent_Description_Place_1418
 told:_FormattedContent_Description_Place_1419
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Ensa is a Geluk monastery in the Nubra Valley of Ladakh.&nbsp;According to tradition,&nbsp;<a href="/biographies/view/Sherab-Zangpo/TBRC_P483">Sherab Zangpo</a>&nbsp;(fifteenth century) meditated at this location, which later developed into a monastery. Archeological evidence suggests earlier activity at the site.&nbsp;</p>'''@en ;
+	Wensa is a Geluk monastery in the Nubra Valley of Ladakh.&nbsp;According to tradition,&nbsp;<a href="/biographies/view/Sherab-Zangpo/TBRC_P483">Sherab Zangpo</a>&nbsp;(fifteenth century) meditated at this location, which later developed into a monastery. Archeological evidence suggests earlier activity at the site.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1419 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -3046,7 +3068,9 @@ told:_FormattedContent_Description_Place_1426
 told:_FormattedContent_Description_Place_1428
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Achung Namdzong is a Nyingma monastery in Qinghai, in present day Chentsa County. Situated within Khamra National Park, it is surrounded by native forests. It is associated with the protector deity Mesang, who, according to tradition, was given the site by Padmasambhava.&nbsp;</p>"""@en ;
+	Achung Namdzong is a Nyingma monastery in Qinghai, in present day Chentsa County. Situated within Khamra National Park, it is surrounded by native forests. It is associated with the protector deity Mesang, who, according to tradition, was given the site by Padmasambhava.</p>
+<p>
+	According to tradition, three monksnamed Marben Shakya Sengge, Yo Gechung and Tsang Rabsel settled at Achung Namdzong following the persecution of Buddhism in central Tibet in the ninth century.</p>"""@en ;
 	gist:isAbout told:_Place_1428 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -3976,7 +4000,7 @@ told:_FormattedContent_Description_Place_1544
 told:_FormattedContent_Description_Place_1545
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Jekhar Chode, also known as Nyemo Chode, is a Bodong monastery in Nyemo. According to BDRC it was posibly founded in the tenth century by a lama named Jigme Drakpa.&nbsp;</p>"""@en ;
+	Jekhar Chode, also known as Nyemo Chode and Nyemo Chekar, is a Bodong monastery in Nyemo. According to BDRC it was posibly founded in the tenth century by a lama named Jigme Drakpa.&nbsp;</p>"""@en ;
 	gist:isAbout told:_Place_1545 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -4445,8 +4469,8 @@ told:_FormattedContent_Description_Place_1609
 
 told:_FormattedContent_Description_Place_1610
 	a gist:FormattedContent ;
-	gist:containedText """<p>
-	Yarlung Tashi Chode is a Sakya monastery in the Yarlung valley.</p>"""@en ;
+	gist:containedText '''<p>
+	Yarlung Tashi Chode is a Sakya monastery in the Yarlung valley. It was founded in 1590 by <a href="/biographies/view/Yolwa-Khenchen-Zhonnu-Lodro/TBRC_P788">Yolwa Khenchen Zhonnu Lodro</a>. It was the seat of Nesarwa <a href="/biographies/view/Jamyang-Khyentse-Wangchuk/TBRC_P1089">Jamyang Khyentse Wangchuk</a>.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1610 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -4558,7 +4582,7 @@ told:_FormattedContent_Description_Place_1630
 told:_FormattedContent_Description_Place_1631
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Diphu Monastery in the Ngawa region of southern Amdo is the largest branch of <a href="/geographies/view/Nalendra-Monastery/TBRC_G233">Nalendra Monastery</a> in eastern Tibet.</p>'''@en ;
+	Dhīpu Monastery in the Ngawa region of southern Amdo is the largest branch of <a href="/geographies/view/Nalendra-Monastery/TBRC_G233">Nalendra Monastery</a> in eastern Tibet.</p>'''@en ;
 	gist:isAbout told:_Place_1631 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -4899,12 +4923,6 @@ told:_FormattedContent_Description_Place_1683
 	gist:isExpressedIn media-txt:html ;
 	.
 
-told:_FormattedContent_Description_Place_1684
-	a gist:FormattedContent ;
-	gist:isAbout told:_Place_1684 ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
 told:_FormattedContent_Description_Place_1685
 	a gist:FormattedContent ;
 	gist:containedText """<p>
@@ -5102,7 +5120,7 @@ told:_FormattedContent_Description_Place_1709
 told:_FormattedContent_Description_Place_1710
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Draklha Gampo is a pilgrimage site in Gyarong.</p>"""@en ;
+	Draklha Gampo, also known as Drongri Mukpo, is a pilgrimage site in Serta.</p>"""@en ;
 	gist:isAbout told:_Place_1710 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5166,7 +5184,7 @@ told:_FormattedContent_Description_Place_1717
 told:_FormattedContent_Description_Place_1718
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Dudjom Gonpa,&nbsp;Orgyan Do-ngak Chokorling, is a Nyingma monastery in Boudhanath, Nepal. <a href="/biographies/view/Dudjom-Rinpoche/TBRC_P736">Dudjom Rinpoche</a> built it in the early 1970s and gave the empowerments for the Dudjom Tersar there in 1977-1978. His reliquary is housed there.&nbsp;&nbsp;</p>'''@en ;
+	Dudjom Gonpa,&nbsp;Orgyan Do-ngak Chokorling, is a Nyingma monastery in Boudha, Nepal. <a href="/biographies/view/Dudjom-Rinpoche/TBRC_P736">Dudjom Rinpoche</a> built it in the early 1970s and gave the empowerments for the Dudjom Tersar there in 1977-1978. His reliquary is housed there.&nbsp;&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1718 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5262,7 +5280,7 @@ told:_FormattedContent_Description_Place_1729
 told:_FormattedContent_Description_Place_173
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Boudhanath or Jarung Kashor, is a famous stupa in Kathmandu, Nepal. One of the world&#39;s largest stupas, Boudhanath is one of the most important Tibetan Buddhist monuments outside Tibet. Many Tibetans famously visited the stupa, including <a href="/biographies/view/Katok-Rigdzin-Tsewang-Norbu/TBRC_P676">Katok Rigdzin Tsewang Norbu</a>, who is credited with the restoration of the Boudhanath and <a href="/geographies/view/Swayambhunath/TBRC_G3156">Swayambhunath</a> Stupas during the eighteenth century.</p>'''@en ;
+	The Boudha stupa or Jarung Kashor, is a famous stupa in Kathmandu, Nepal. One of the world&#39;s largest stupas, Boudha is one of the most important Tibetan Buddhist monuments outside Tibet. Many Tibetans famously visited the stupa, including <a href="/biographies/view/Katok-Rigdzin-Tsewang-Norbu/TBRC_P676">Katok Rigdzin Tsewang Norbu</a>, who is credited with the restoration of the Boudha and <a href="/geographies/view/Swayambhunath/TBRC_G3156">Swayambhu</a>&nbsp;Stupas during the eighteenth century.</p>'''@en ;
 	gist:isAbout told:_Place_173 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5294,7 +5312,7 @@ told:_FormattedContent_Description_Place_1732
 told:_FormattedContent_Description_Place_1733
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tsinta Mani Choling was a dharma center in Spokane Washington, no longer active, established by Lama Lakshey Zangpo, a disciple of <a href="/biographies/view/Khenpo-Jigme-Puntsok/TBRC_P7774">Khenpo Jigme Puntsok</a>.&nbsp;</p>'''@en ;
+	Tsinta Mani Choling is a dharma center in Spokane Washington that was established by Lama Lakshey Zangpo, a disciple of <a href="/biographies/view/Khenpo-Jigme-Puntsok/TBRC_P7774">Khenpo Jigme Puntsok</a>. The center has a second branch in Aptos, California.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1733 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5478,7 +5496,7 @@ told:_FormattedContent_Description_Place_1761
 told:_FormattedContent_Description_Place_1762
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Lung-ngon is a Nyingma monastery in Golok that was established in 1958 by the <a href="/biographies/view/Tenth-Paṇchen-Lama/TBRC_P1630">Tenth Paṇchen Lama</a>.&nbsp;</p>'''@en ;
+	Lung Ngon is a Nyingma monastery in Golok that was established in 1958 by the <a href="/biographies/view/Tenth-Paṇchen-Lama/TBRC_P1630">Tenth Paṇchen Lama</a>.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_1762 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5494,8 +5512,105 @@ told:_FormattedContent_Description_Place_1763
 told:_FormattedContent_Description_Place_1766
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Go-ngon was a monastery established in the seventh century and converted to the Kadam tradition in the twelfth century.</p>"""@en ;
+	Go Ngon was a monastery established in the seventh century and absorbed into the Kadam tradition in the twelfth century.</p>"""@en ;
 	gist:isAbout told:_Place_1766 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1767
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Chuchikzhal&nbsp;is a nunnery affiliated with&nbsp;<a href="/geographies/view/Karsha-Monastery/TBRC_TOL1423">Karsha Monastery</a>. It is located near Karsha, in the same village but on the opposite side of a small valley. The temple of Karsha, one of the monastery&rsquo;s oldest structures is believed to have been built around the eleventh century. The main temple building housed a 2-story statue of Avalokitesvara, the namesake of the nunnery. This statue is said to be over one thousand years old, built by Zanskar translator, <a href="/biographies/view/Pakpa-Sherab/TBRC_P3709">Pakpa Sherab</a>, a student of <a href="/biographies/view/Lotsawa-Rinchen-Zangpo/TBRC_P753">Lotsawa Rinchen Zangpo</a>. The temple&rsquo;s uniquely well-preserved wall murals in the Kashmiri style, connecting the structure to the era of Lotsawa Rinchen Zangpo.</p>
+<p>
+	Chuchikzhal&rsquo;s newer section, the eastern block of structures, was built in the 1950s, as Karsha Monastery began converting the area into a nunnery. The eastern block contains a Choekhang, Tsokkhang, guest room, lobby, kitchen, and storeroom, much of which was hand-built by the 16 founding nuns themselves. Chuchikzhal was officially established in 1976, by Karsha village&rsquo;s <a href="/biographies/view/Kachen-Lobzang-Zotpa/TBRC_P5617">Kachen Lobzang Zotpa</a>, a well-known Buddhist teacher in Ladakh. As of 2024 it is home to over 30 nuns, 21 of whom attend the nunnery&rsquo;s school.</p>'''@en ;
+	gist:isAbout told:_Place_1767 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1768
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Baling Taṃ Tsopu is a Karma Kagyu monastery in Batang.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1768 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1769
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Dorka is a Nyingma monastery in Golok.</p>"""@en ;
+	gist:isAbout told:_Place_1769 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1770
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Sengti is a Nyingma monastery in northern Golok. It was the seat of the <a href="/biographies/view/Khenchen-Tsewang-Rigdzin/TBRC_P6306">Khenchen Tsewang Rigdzin</a>, who attained the rainbow body.</p>'''@en ;
+	gist:isAbout told:_Place_1770 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1771
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Garchen is a Drigung monastery in Nangchen. It is the seat of the <a href="/incarnation/view/Garchen/TBRC_R8LS13273">Garchen</a> incarnation line.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1771 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1772
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Wogmin Thubten Shedrub Ling is a Drigung Kagyu monastery at Tso Pema in northern India. It was established in 1975 by the <a href="/biographies/view/Fourth-Lho-Ontrul-Rinpoche/TBRC_P3KG50">Third Lho Ontrul Rinpoche</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1772 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1773
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Shashur Gompa is a Drukpa Kagyu monastery in Lahaul, India. It was founded by Deva Gyatso in the seventeenth century.</p>"""@en ;
+	gist:isAbout told:_Place_1773 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1774
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Zuru Tubten Tashi Chokhor Ling is a Karma Kagyu monastery in Dzato, Kham.</p>"""@en ;
+	gist:isAbout told:_Place_1774 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1775
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Great White Pagoda (大白塔) also known as the Śarīra Stūpa, at Tayuan Temple on Wutai Shan in Shanxi, China, was constructed in the sixteenth century. Its name suggests it was constructed to house a relic of the Buddha.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1775 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1776
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Gyiling is a Nyingma monastery in Golok. It was established in 1840 by <a href="/biographies/view/Gyiling-Tukchok-Dorje/TBRC_P6007">Gyiling Tukchok Dorje</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1776 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1778
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Shinglung is a Geluk monastery in Amdo that was founded by <a href="/biographies/view/Bari-Kachu-Drakpa/TBRC_P9238">Bari Kachu Drakpa</a> around 1644 or 1669</p>'''@en ;
+	gist:isAbout told:_Place_1778 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1779
+	a gist:FormattedContent ;
+	gist:containedText "Jakrung Yarlung is a Geluk monastery in Amdo, in the Wuwei region of Gansu."@en ;
+	gist:isAbout told:_Place_1779 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -5507,11 +5622,145 @@ told:_FormattedContent_Description_Place_178
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_1780
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Mahakaal is an ancient Hindu and Buddhist temple in Kathmandu. According to Buddhists, it is dedicated to the deity Mahākāla, and is known as Botang Temple.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1780 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1781
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Ratnagupta was a Buddhist temple in Pravarapura, modern-day Shrinigar. It may also have been named Ratnaraśmi, apparently after a Paṇḍita Ratnaraśmi who built the temple. It was a center of activity of Tibetan translators for many decades in the eleventh century, including&nbsp;<a href="/biographies/view/Ngok-Lotsāwa-Loden-Sherab/TBRC_P2551">Ngok Lotsāwa Loden Sherab</a>&nbsp;and <a href="/biographies/view/Patsab-Lotsāwa-Nyima-Drak/TBRC_P5651">Patsab Lotsāwa Nyima Drak</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1781 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1782
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Lotsā Monastery, also known as Patsab Gon, is a Kadam monastery in Penbo that dates to the eleventh century. <a href="/biographies/view/Patsab-Lotsāwa/TBRC_P5651">Patsab Lotsāwa</a>&#39;s relics are said to be contained in a stūpa there.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1782 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1783
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Dzongkar Chode is a monastery in Kyirong. It was established in 1392 as a Sakya monastery by <a href="/geographies/view/Drakpa-Gyeltsen/TBRC_P10MS19659">Drakpa Gyeltsen</a>, under the sponsorship of Tri Sonam De. The location was apparently the site of an earlier Nyingma community. It was converted to the Geluk tradition in the seventeenth century.</p>
+<p>
+	&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1783 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1784
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Tibet University was founded in 1985, having been initially established as a teachers college under the advisement of the <a href="/biographies/view/Tenth-Panchen-Lama/TBRC_P1650">Tenth Panchen Lama</a>&nbsp;in the seventies. It is located in Lhasa and is the largest university in the Tibetan Autonomous Region comprised of multiple campuses.</p>'''@en ;
+	gist:isAbout told:_Place_1784 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1785
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Gau Monastery is a Karma Kagyu institution in the Dzachuka region of Kham.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1785 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1786
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Teura is a Geluk monastery in Nyel that dates to the eleventh century. Originally a Kadam monastery established by Kor Dulwa Chenpo, it was converted to the Sakya tradition in the thirteenth century, and the to Geluk tradition in the fifteenth century.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1786 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1788
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Yangdok was a Kadam monastery in Kyirong. It was the seat of the eleventh-century translator <a href="/biographies/view/Naktso-Lotsāwa-Tsultrim-Gyelwa/TBRC_P3456">Naktso Lotsāwa Tsultrim Gyelwa</a>. The thirteenth-century translator <a href="/biographies/view/Chak-Lotsāwa-Choje-Pel/TBRC_P1025">Chak Lotsāwa Choje Pel</a>, who was based there for several years on his return from India, famously corresponded with <a href="/biographies/view/Sakya-Paṇḍita/TBRC_P1056 ">Sakya Paṇḍita</a> on the topic of monastic education while at the monastery.</p>
+<p>
+	&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1788 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1789
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	The Dhogon Palace was located in Nyemo. Before its destruction in about 1967, the building was home to the aristocratic Dhogon family, also known as Gonpawa,&nbsp;which is descended from the Yarlung kings, and had ruled the region for centuries. The fortress-like building was built into the rock beneath it, enabling it to withstand natural disasters such as earthquakes. It contained many ornate details, as well as library with a wooden door scarred by Dzungar Mongol swords in the early 1700&#39;s. It was the childhood home of scholar and artist <a href="/biographies/view/Dhogon-Sangda-Dorji/TBRC_P4941">Dhogon Sangda Dorji</a>. A shrine to protector deity Pehar Gyelpo was built upon the ruins.</p>'''@en ;
+	gist:isAbout told:_Place_1789 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_179
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
 	Dezhung Dratsang Shedrub Dargye Ling is a Sakya monastery in Litang, Kham. It was the seat of <a href="/biographies/view/Dezhung-Lungrik-Nyim/TBRC_P11MS232">Dezhung Lungrik Nyima</a>. It was a branch of <a href="/geographies/view/Nalendra-Monastery/TBRC_G233">Nalendra Monastery</a>.</p>'''@en ;
 	gist:isAbout told:_Place_179 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1790
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Budta Monastery was established by the Drukpa Kagyu lama <a href="/biographies/view/Gotsanpa/TBRC_P2090">Gotsangpa</a> in the thirteenth century. It became the main seat of <a href="/biographies/view/Orgyenpa-Rinchen-Pel/TBRC_P1448">Orgyenpa Rinchen Pel</a> and his brother <a href="/biographies/view/Golungpa-Dode-Pel/TBRC_P0RK1531">Golungpa Dode Pel</a>. It is located on Nyen Mountain across a mountain range known as &quot;the seven brothers of Budta&quot; in Zurtso, Nyalam.</p>'''@en ;
+	gist:isAbout told:_Place_1790 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1791
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Tsana Monastery, on the bank of the Dok River in Ngamring, was in existence at least by the thirteenth century, when <a href="/biographies/view/Shong-Lotsāwa-Dorje-Gyeltsen/TBRC_P1046">Shong Lotsāwa Dorje Gyeltsen</a> studied there under <a href="/biographies/view/Takdepa-Senge-Gyeltsen/TBRC_P2374">Takdepa Senge Gyeltsen</a>. The monastery is in Bukhang Village in Chuok County, Ngamring Prefecture.</p>'''@en ;
+	gist:isAbout told:_Place_1791 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1792
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Shangdu was the summer capital of the early Yuan dynasty. Originally named Kaiping (開平), Khubilai Khan built it in the mid-1250s, with the religious participation of <a href="/biographies/view/Pakpa-Lodro-Gyeltsen/TBRC_P1048">Pakpa Lodro Gyeltsen</a>. It was laid out with a classical imperial design&mdash;an outer city, inner city, and central palace. The name changed to Shangdu (上都), meaning &quot;upper capital,&quot; in 1264. At its height it had a population of over 100,000. Marco Polo visited in 1275, providing descriptions that inspired later Western fantasies of Xanadu. It was destroyed at the end of the Yuan dynasty, in 1369.</p>'''@en ;
+	gist:isAbout told:_Place_1792 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1793
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Pakpawati is a temple in Kyirong built in the seventh century to house one of the sandalwood images of the Buddha of the same name.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1793 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1795
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Puri was a monastery located in Nyalam that was in existence by at least the thirteenth century. In 2002, a significant corpus of texts was unearthed in Puri village and is now preserved at Tibet University Library.</p>
+<p>
+	Puri was where <a href="/biographies/view/Shong-Lodro-Tenpa/TBRC_P1052">Shong Lodro Tenpa</a> translated the <em>Śrīsaṃvarodayamahātantrarājapadminī-nāma-pa&ntilde;jikā</em> (Toh. 1420), a commentary by Paṇḍita Ratnarakṣita. It was initially translated into Tibetan by Paṇḍita Sarvaj&ntilde;aśrībhadra, and then on the orders of Pakpa Lodro Gyeltsen, Shong undertook a new translation.</p>'''@en ;
+	gist:isAbout told:_Place_1795 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1796
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Chepu Sengge Ling was a monastery located just north of Zurtso village that was established by <a href="/biographies/view/Pang-Lodro-Tenpa/TBRC_P2085">Pang Lodro Tenpa</a>&nbsp;in the birth place of the brothers <a href="/biographies/view/Shong-Lodro-Tenpa/TBRC_P1052">Shong Lodro Tenpa</a> and <a href="/biographies/view/Shongton-Dorje-Gyeltsen./TBRC_P1046">Shongton Dorje Gyeltsen</a>. A stupa stands at the location of the monastery.</p>'''@en ;
+	gist:isAbout told:_Place_1796 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1797
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Tsere is a Drigung Kagyu monastery in Dzachuka, built on the site of a Nyingma monastery in the eighteenth century.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1797 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -5525,6 +5774,86 @@ told:_FormattedContent_Description_Place_180
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_1800
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	&Uuml;s&uuml;t&uuml; Zuu, known in Tibetan as Gatunling, is a Geluk monastery in Southern Mongolia that dates to the late sixteenth century. Until the 1960&#39;s the woodblocks of Sumpa Khenpo&#39;s Collected Works were preserved there.</p>"""@en ;
+	gist:isAbout told:_Place_1800 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1801
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Samlo Khamtsen was a monastic residence house at <a href="/geographies/view/Gomang-College/TBRC_G109">Gomang College</a> of <a href="/geographies/view/Drepung-Monastery/TBRC_G108">Drepung Monastery</a>. <a href="/biographies/view/Sumpa-Khenpo/TBRC_P339">Sumpa Khenpo</a> resided there while studying in the early eighteenth century.</p>'''@en ;
+	gist:isAbout told:_Place_1801 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1802
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Gyelse was a Geluk hermitage in Amdo, not far from <a href="/geographies/view/Gonlung/TBRC_G165">Gonlung</a>.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1802 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1803
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Gongwa was a Geluk monastery in Amdo.</p>"""@en ;
+	gist:isAbout told:_Place_1803 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1804
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Seralung Ganden Damcho Ling was a Geluk monastery in Amdo. It was originally a Sakya monastery founded in the fifteenth century, and converted in the eighteenth.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1804 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1805
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Sokkha Drubde was a Geluk monastery in Amdo that was founded in the fourteenth century.</p>"""@en ;
+	gist:isAbout told:_Place_1805 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1806
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Tashitse was a Geluk hermitage in Amdo established in 1756 by <a href="/biographies/view/Sumpa-Khenpo/TBRC_P339">Sumpa Khenpo</a>. It was destroyed in the twentieth century and has not been rebuilt.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1806 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1807
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Melong, a Geluk monastery in present-day Trika county, Amdo, was founded in 1865 by <a href="/biographies/view/Drakkar-Ngakrampa-Lobsang-Tenpa-Rabgye/TBRC_P3308">Drakkar Ngakrampa Lobsang Tenpa Rabgye</a>.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1807 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1808
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Mebar Tsuklakhang, or Temple That Caught Fire, is a temple dedicated to Mhākāla in Khau Kyelhe, in Sakya, built by <a href="/biographies/view/Nyen-Lotsāwa-Darma-Drak/TBRC_P2614">Nyen Lotsāwa Darma Drak</a> in the fourteenth century. It received its name after a fire ignited during construction.</p>'''@en ;
+	gist:isAbout told:_Place_1808 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1809
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	The Jowo Dzamling Karpo in Kathmandu, known by its Hindu name as Seto Macchindranath, is a temple to Avalokiteśvara that houses one of the five self-arised&nbsp;Avalokiteśvara brothers known as Ārya Jamali.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1809 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_181
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
@@ -5533,11 +5862,139 @@ told:_FormattedContent_Description_Place_181
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_1810
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Jowo Zegyel, also known as Chigyal Mukmo and Zeyi Mayo Chesum, is a sacred mountain in Nangchen between Chi (lci) and Ngul (dngul).</p>"""@en ;
+	gist:isAbout told:_Place_1810 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1811
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Tsomey is an ancient monastery in the Tsomey region of Tolung, central Tibet, dating possibly to the seventh century. It has been administered by the Kadam and Sakya traditions.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1811 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1812
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Gyam Samten Ling, or Puru Gyam, was a monastery in Zurtso, in the Nyalam region of Tsang. It was controlled by the family that inluded <a href="/biographies/view/Pang-Lotsāwa/TBRC_P2085">Pang Lotsāwa</a>, <a href="/biographies/view/Jangchub-Tsemo/TBRC_P2388">Jangchub Tsemo</a>, and <a href="/biographies/view/Drakpa-Gyeltsen/TBRC_P10MS19659">Drakpa Gyeltsen</a>, who passed away there in 1405.</p>'''@en ;
+	gist:isAbout told:_Place_1812 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1813
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Orgyen Drodul Ling is a Nyingma monastery in central Tibet. It was founded by <a href="/biographies/view/Pema-Shenyen/TBRC_P10267">Pema Shenyen</a>, an incarnation of the Third Yolmo Tulku.</p>'''@en ;
+	gist:isAbout told:_Place_1813 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1814
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Chaktsa is a Nyingma monastery in Dzachuka, Kham.</p>"""@en ;
+	gist:isAbout told:_Place_1814 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1815
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Tsakho Ganden Dargyeling is a Geluk monastery that was founded between 1400 and 1414 by <a href="/biographies/view/Tsakho-Ngawang-Drakpa/TBRC_P3477">Tsakho Ngawang Drakpa</a>&nbsp;in Gyarong. It is the seat of the Rebtsha/e incarnation lineage.</p>'''@en ;
+	gist:isAbout told:_Place_1815 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1816
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Dorje Dzong is a Geluk monastery in Tsekok Dzong, Amdo.</p>"""@en ;
+	gist:isAbout told:_Place_1816 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1817
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Dongdzong is a Nyingma monastery in Golok affiliated with <a href="/geographies/view/Pelyul-Monastery/TBRC_G18">Pelyul Monastery</a>. It was founded 1821 by <a href="/biographies/view/Do-Khyentse-Yeshe-Dorje/TBRC_P698">Do Khyentse Yeshe Dorje</a>.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1817 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1819
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Kyilkhang Dratsang is a monastic college at <a href="/geographies/view/Tashilhunpo-Monastery/TBRC_G104">Tashilhunpo Monastery</a> in Shigatse, established in the early days of the monastery.</p>'''@en ;
+	gist:isAbout told:_Place_1819 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1820
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Zangyak is a Sakya monastery in central Tibet built around cave that is said to have been a treasure site of <a href="/biographies/view/Guru-Jotse/TBRC_P10507">Guru Jotse</a>, a thirteenth-century Nyingma terton.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1820 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1821
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Mardo Tashi Gakyil, also known as Dotok Monastery, is a branch of Katok Monastery in Golok that was founded in 1760 by <a href="/biographies/view/Drime-Zhinkyong/TBRC_P5972">Drime Zhinkyong</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1821 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1824
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Rātī is a monastery near Dartsedo that was founded in the 1360s by <a href="/biographies/view/Mase-Tonpa-Rinchen-Zangpo/TBRC_P1824">Mase Tonpa Rinchen Zangpo</a>.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1824 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1826
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Pema Woling is a hermitage above <a href="/geographies/view/Shechen-Monastery/TBRC_G20">Shechen Monastery</a> that was established in 1796 by the <a href="/geographies/view/Third-Shechen-Rabjam,-Peljor-Gyats/TBRC_P2JM436">Third Shechen Rabjam, Peljor Gyats</a>o.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1826 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1827
+	a gist:FormattedContent ;
+	gist:containedText """<p>
+	Gangkar is a mountain in Minyak, Kham.&nbsp;</p>"""@en ;
+	gist:isAbout told:_Place_1827 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1828
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Jakchung is a Shangpa Kagyu monastery in Tsang. It was founded in the late thirteenth or early fourteenth century by <a href="/biographies/view/Khedrub-Shangton/TBRC_P88">Khedrub Shangton</a>.</p>'''@en ;
+	gist:isAbout told:_Place_1828 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_183
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Rong Ngurmik was monastery in Rong in existence from at least the eleventh century when it was established by students of <a href="/biographies/view/Tongstun-Sherab-Sengg/TBRC_P4541">Tongstun Sherab Sengg</a>e. Local history holds that a Vairocana temple at Ngurmik existed since the imperial era.&nbsp;&nbsp;<a href="/biographies/view/Sachen-Kunga-Nyingpo/TBRC_P1615">Sachen Kunga Nyingpo</a> studied Abhidharmakośa at the age of twelve under <a href="/biographies/view/Darma-Nyingpo/TBRC_P10011">Darma Nyingpo</a>. In the twelfth century it was the largest monastic complex in the area, a college having been established by Che Duldzin (gtsang rong pa lce &#39;dul &#39;dzin). It later became a branch of <a href="/geographies/view/Rong-Jamchen/TBRC_G1KR1614">Rong Jamchen</a>. The Tara statue for which it is named was moved to Tashilunpo by the <a href="/biographies/view/Fourth-Panchen-Lama/TBRC_P719">Fourth Panchen Lama</a>. In 1969 the complex was destroyed though a stupa and ruins remain</p>'''@en ;
+	Rong Ngurmik was monastery in Rong established by students of <a href="/biographies/view/Tongstun-Sherab-Sengg/TBRC_P4541">Tongstun Sherab Sengg</a>e in the eleventh century. Local history holds that a Vairocana temple at Ngurmik existed since the imperial era.&nbsp;<a href="/biographies/view/Sachen-Kunga-Nyingpo/TBRC_P1615">Sachen Kunga Nyingpo</a> studied Abhidharmakośa at the age of twelve under <a href="/biographies/view/Darma-Nyingpo/TBRC_P10011">Darma Nyingpo</a>. In the twelfth century it was the largest monastic complex in the area, a college having been established by Che Duldzin (gtsang rong pa lce &#39;dul &#39;dzin). It later became a branch of <a href="/geographies/view/Rong-Jamchen/TBRC_G1KR1614">Rong Jamchen</a>. The Tara statue for which it is named was moved to <a href="/geographies/view/Tashilunpo/TBRC_G104">Tashilunpo</a> by the <a href="/biographies/view/Fourth-Panchen-Lama/TBRC_P719">Fourth Panchen Lama</a>. The complex was destroyed in 1969.</p>'''@en ;
 	gist:isAbout told:_Place_183 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_1830
+	a gist:FormattedContent ;
+	gist:containedText '''<p>
+	Lhamo Tse is a Geluk monastery near Dartsedo, Kham. It was initially a Karma Kagyu monastery and then converted to the Geluk tradition in 1646 by <a href="/biographies/view/Jangchub-Lhundrub/TBRC_P9535">Jangchub Lhundrub</a>.&nbsp;</p>'''@en ;
+	gist:isAbout told:_Place_1830 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -5586,7 +6043,7 @@ told:_FormattedContent_Description_Place_189
 told:_FormattedContent_Description_Place_190
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Gyume, the Lower Tantric College, is one of the two main Geluk tantric colleges in central Tibet. It was established in 1433 by the heir of Tsongkhapa&#39;s tantric teachings, <a href="/biographies/view/Sherab-Sengge/TBRC_P2093">Sherab Sengge</a><span class="biog-name-large"> </span><span class="biog-date-small">(b.1383 - d.1445</span>), in the southern district of Lhasa known as Nordzin Gyeltsen (nor &#39;dzin rgyal mtshan). Later Gyume was moved to the Changlochen district in the northern section of the city. The main study at Gyume is of the tantric systems of the Akshobhya form of Guhyasamaja (gsang &lsquo;dus mi skyod pa), the Luipa tradition of Chakrasamvara (bde mchog lu&rsquo;i pa), and Thirteen-Couple Vajrabhairava (&lsquo;jigs byed lha bcugsum). The tantric colleges at <a href="/geographies/view/Sera/TBRC_G154">Sera</a> and <a href="/geographies/view/Drepung/TBRC_G108">Drepung</a> have a historical relationship with Gyume.&nbsp;</p>
+	Gyume, the Lower Tantric College, is one of the two main Geluk tantric colleges in central Tibet. It was established in 1433 by the heir of Tsongkhapa&#39;s tantric teachings, <a href="/biographies/view/Sherab-Sengge/TBRC_P2093">Sherab Sengge</a>,&nbsp;in the southern district of Lhasa known as Nordzin Gyeltsen. Later Gyume was moved to the Changlochen district in the northern section of the city. The main study at Gyume is of the tantric systems of the Akshobhya form of Guhyasamaja, the Luipa tradition of Chakrasamvara, and Thirteen-Couple Vajrabhairava. The tantric colleges at <a href="/geographies/view/Sera/TBRC_G154">Sera</a> and <a href="/geographies/view/Drepung/TBRC_G108">Drepung</a> have a historical relationship with Gyume.&nbsp;</p>
 <p>
 	&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_190 ;
@@ -5876,7 +6333,7 @@ told:_FormattedContent_Description_Place_236
 told:_FormattedContent_Description_Place_237
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Chamdo Chokhor Kelden Jampa Ling is an important Geluk monastery that was founded by <a href="/biographies/view/Jangsem-Sherab-Zangpo/TBRC_P2CZ9156">Jangsem Sherab Zangpo</a>, a disciple of <a href="/biographies/view/Tsongkhapa/TBRC_P64">Tsongkhapa</a>&#39;s, in 1437 in Chamdo, Kham. The monastery, the largest Geluk monastery in Kham, is the seat of the <a href="/incarnation/view/Pakpa-Lha/TBRC_R8LS12860">Pakpa Lha</a> and <a href="/incarnation/view/Zhiwa-Lha/TBRC_R8LS12813">Zhiwa Lha</a> incarnations. It has several monastic colleges, including <a href="/geographies/view/Lingto/TBRC_G1AG96">Lingto</a>.</p>'''@en ;
+	Chamdo Chokhor Kelden Jampa Ling is an important Geluk monastery that was founded by <a href="/biographies/view/Jangsem-Sherab-Zangpo/TBRC_P2CZ9156">Jangsem Sherab Zangpo</a>, a disciple of <a href="/biographies/view/Tsongkhapa/TBRC_P64">Tsongkhapa</a>, in 1437 in Chamdo, Kham. The monastery, the largest Geluk monastery in Kham, is the seat of the <a href="/incarnation/view/Pakpa-Lha/TBRC_R8LS12860">Pakpa Lha</a> and <a href="/incarnation/view/Zhiwa-Lha/TBRC_R8LS12813">Zhiwa Lha</a> incarnations. It has several monastic colleges, including <a href="/geographies/view/Lingto/TBRC_G1AG96">Lingto</a>.</p>'''@en ;
 	gist:isAbout told:_Place_237 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -5996,7 +6453,7 @@ told:_FormattedContent_Description_Place_255
 told:_FormattedContent_Description_Place_256
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Den Chokhor in Kham was in existence by the mid-fifteenth century when <a href="/biographies/view/Kunga-Pelden/TBRC_p5552">Kunga Pelden</a> served as its abbot.</p>'''@en ;
+	Den Chokhor, also known as Denma Chode and Tubten Chokhor, was a royal temple in the Denma region of Derge, on the Drichu (Yangze) River.&nbsp;<a href="/biographies/view/Kunga-Pelden/TBRC_p5552">Kunga Pelden</a> served as its abbot in the fifteenth century. In 1752 <a href="/biographies/view/Zhuchen-Tsultrim-Rinchen/TBRC_P801">Zhuchen Tsultrim Rinchen</a> rennovated it. The <a href="/biographies/view/Ninth-Dalai-Lama/TBRC_P274">Ninth Dalai Lama</a>&nbsp;was born there in 1801, and <a href="/biographies/view/Jamgon-Kongtrul/TBRC_P264">Jamgon Kongtrul</a> spent time there as a young boy.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_256 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6110,7 +6567,7 @@ told:_FormattedContent_Description_Place_276
 told:_FormattedContent_Description_Place_277
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Chokhor Lhunpo is a Sakya monastery near the main monastery of Sakya that was established by <a href="/biographies/view/Panchen-Ngodrup-Pelwar/TBRC_P986">Panchen Ngodrup Pelwar</a>.</p>'''@en ;
+	Chokhor Lhunpo is a Sakya monastery near the main monastery of Sakya that was established by <a href="/biographies/view/Panchen-Ngodrup-Pelwar/TBRC_P986">Panchen Ngodrub Pelwar</a>.</p>'''@en ;
 	gist:isAbout told:_Place_277 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6128,12 +6585,6 @@ told:_FormattedContent_Description_Place_279
 	gist:containedText '''<p>
 	Demola Monastery, a Geluk institution in Kongpo, was founded in the fifteenth century by the <a href="/biographies/view/First-Pakpa-Lha,-Pakpa-Dechen-Dorje/TBRC_P427">First Pakpa Lha, Pakpa Dechen Dorje</a>.</p>'''@en ;
 	gist:isAbout told:_Place_279 ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
-told:_FormattedContent_Description_Place_28
-	a gist:FormattedContent ;
-	gist:isAbout told:_Place_28 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -6572,7 +7023,7 @@ told:_FormattedContent_Description_Place_346
 told:_FormattedContent_Description_Place_347
 	a gist:FormattedContent ;
 	gist:containedText """<p>
-	Serlung is a Kagyu monastery in central Tibet.&nbsp;</p>"""@en ;
+	Serlung is a Kagyu monastery in Ngari, western Tibet.</p>"""@en ;
 	gist:isAbout told:_Place_347 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6588,7 +7039,7 @@ told:_FormattedContent_Description_Place_348
 told:_FormattedContent_Description_Place_349
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Sera Me, built in 1419, is one of three monastic colleges of <a href="/geographies/view/Sera-monastery/TBRC_G154">Sera Monastery</a>, a major Geluk monastery in central Tibet. <span class="popular">A monk named Kunkhyen Jangchub Bumpa</span> is regarded as the founder. Most activities of Sera Me and <a href="/geographies/view/Sera-Je/TBRC_G155">Sera Je</a>, the other of the philosophical colleges of Sera, were consolidated in the 1990&#39;s.</p>'''@en ;
+	Sera Me, built in 1419, is one of three monastic colleges of <a href="/geographies/view/Sera-monastery/TBRC_G154">Sera Monastery</a>, a major Geluk monastery in central Tibet. <span class="popular">Kunkhyen Jangchub Bumpa, a disciple of <a href="/biographies/view/Tsongkhapa/TBRC_P64">Tsongkhapa</a>,</span> is regarded as the founder. Most activities of Sera Me and <a href="/geographies/view/Sera-Je/TBRC_G155">Sera Je</a>, the other of the philosophical colleges of Sera, were consolidated in the 1990&#39;s.</p>'''@en ;
 	gist:isAbout told:_Place_349 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6622,7 +7073,7 @@ told:_FormattedContent_Description_Place_351
 told:_FormattedContent_Description_Place_352
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Toling Monastery in Ngari was founded by <a href="/biographies/view/Rinchen-Zangpo/TBRC_P753">Rinchen Zangpo</a> around 996 under the patronage of <a href="/biographies/view/Lha-Lama-Yeshe-O/TBRC_P8344">Lha Lama Yeshe O</a>. It was later converted to the Geluk tradition and affiliated with Sera Monastery.</p>'''@en ;
+	Toling Monastery in Ngari was founded by <a href="/biographies/view/Rinchen-Zangpo/TBRC_P753">Rinchen Zangpo</a> around 996 under the patronage of <a href="/biographies/view/Lha-Lama-Yeshe-O/TBRC_P8344">Lha Lama Yeshe Wo</a>. It was later converted to the Geluk tradition and affiliated with Sera Monastery.</p>'''@en ;
 	gist:isAbout told:_Place_352 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6814,7 +7265,7 @@ told:_FormattedContent_Description_Place_373
 told:_FormattedContent_Description_Place_374
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Rongwo Tosam Namgyel Ling, in the Rebkong region of Amdo, was founded in 1301 by the Sakya master <a href="/biographies/view/Samten-Rinchen/TBRC_P9429">Samten Rinchen</a>&nbsp;who was the eldest son of Dodebum (mdo sde &#39;bum), the ruler of Rebkong. Originally a Sakya monastery, it was converted to the Geluk tradition in 1630 by <a href="/biographies/view/Shar-Kelden-Gyatso/TBRC_P711">Shar Kelden Gyatso</a>. It has three colleges: the <a href="/geographies/view/Kālacakra-College/TBRC_G8LS12318">Kālacakra College</a>, the <a href="/geographies/view/Tantric-College/TBRC_G8LS12302">Tantric College</a>, and the Dialectic College.</p>'''@en ;
+	Rongwo Tosam Namgyel Ling, in the Rebkong region of Amdo, was founded in 1301 by the Sakya master <a href="/biographies/view/Samten-Rinchen/TBRC_P9429">Samten Rinchen</a>&nbsp;who was the eldest son of Dodebum, the ruler of Rebkong. It was converted to the Geluk tradition in 1630 by <a href="/biographies/view/Shar-Kelden-Gyatso/TBRC_P711">Shar Kelden Gyatso</a>. It has three colleges: the <a href="/geographies/view/Kālacakra-College/TBRC_G8LS12318">Kālacakra College</a>, the <a href="/geographies/view/Tantric-College/TBRC_G8LS12302">Tantric College</a>, and the Dialectic College.</p>'''@en ;
 	gist:isAbout told:_Place_374 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -6906,6 +7357,12 @@ told:_FormattedContent_Description_Place_385
 	gist:containedText '''<p>
 	Tsamdrak, the seat of the Tsamdrak incarnation lineage, is a Nyingma monastery in Bhutan. It was in existence by at least the eighteenth century when the&nbsp;<a href="/biographies/view/The-First-Petseling-Tulku-Drubtob-Namgyel-Lhundrub/TBRC_P2AG28">First Petseling Tulku, Drubtob Namgyel Lhundrub,</a> went to live there.&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_385 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
+told:_FormattedContent_Description_Place_386
+	a gist:FormattedContent ;
+	gist:isAbout told:_Place_386 ;
 	gist:isExpressedIn media-txt:html ;
 	.
 
@@ -7010,7 +7467,7 @@ told:_FormattedContent_Description_Place_399
 told:_FormattedContent_Description_Place_40
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Kumbum Jampa Ling is a major Geluk monastery in Amdo built on the site of <a href="/biographies/view/Tsongkhapa/TBRC_p64">Tsongkhapa</a>&#39;s birth. The monastery was built around the tree that marked this site. Construction began in 1560 by a monk named Rinchen Tsondru Gyeltsen around a stupa that Tsongkhapa&#39;s mother is said to have built in 1379. In 1583 the <a href="/biographies/view/Third-Dalai-Lama,-Sonam-Gyatso/TBRC_P999">Third Dalai Lama, Sonam Gyatso</a>, stayed there and requested the monk to expand it. Over the subsequent centuries, the monastic complex developed and expanded into one of Tibet&#39;s great monasteries. The <a href="/incarnation/view/Cheso/TBRC_R8LS13109">Cheso</a>, <a href="/incarnation/view/Ngago/TBRC_R8LS13132">Ngago</a> and Taktser incarnation lines all have seats there. Kumbum has four colleges: the <a href="/geographies/view/Tantric-College/TBRC_G1951">Tantric College</a>, which was built by <a href="/biographies/view/Choje-Lekpa-Gyatso/TBRC_P4391">Choje Lekpa Gyatso</a> in 1649; the Debate College, built in 1612 by <a href="/biographies/view/Duldzin-Ozer-Gyatso/TBRC_P8LS12076">Duldzin Ozer Gyatso</a>; the <a href="/geographies/view/Medical-College/TBRC_G1945">Medical College</a>, which opened in 1725; and the <a href="/geographies/view/Kālacakra-College/TBRC_G1710">Kālacakra College</a>, established in 1820. &nbsp;The monastery has been sacked and rebuilt several times in its history.&nbsp;</p>
+	Kumbum Jampa Ling is a major Geluk monastery in Amdo built on the site of <a href="/biographies/view/Tsongkhapa/TBRC_p64">Tsongkhapa</a>&#39;s birth. The monastery was built around the tree that marked this site. Construction began in 1560 by a monk named Rinchen Tsondru Gyeltsen around a stupa that Tsongkhapa&#39;s mother is said to have built in 1379. In 1583 the <a href="/biographies/view/Third-Dalai-Lama,-Sonam-Gyatso/TBRC_P999">Third Dalai Lama, Sonam Gyatso</a>, stayed there and requested the monk to expand it. Over the subsequent centuries, the monastic complex developed and expanded into one of Tibet&#39;s great monasteries. The <a href="/incarnation/view/Cheso/TBRC_R8LS13109">Cheso</a>, <a href="/incarnation/view/Ngago/TBRC_R8LS13132">Ngago</a> and Taktser incarnation lines all have seats there. Kumbum has four colleges: the <a href="/geographies/view/Tantric-College/TBRC_G1951">Tantric College</a>, which was built by <a href="/biographies/view/Choje-Lekpa-Gyatso/TBRC_P4391">Choje Lekpa Gyatso</a> in 1649; the Debate College, built in 1612 by <a href="/biographies/view/Duldzin-Wozer-Gyatso/TBRC_P4085">Duldzin Wozer Gyatso</a>; the <a href="/geographies/view/Medical-College/TBRC_G1945">Medical College</a>, which opened in 1725; and the <a href="/geographies/view/Kālacakra-College/TBRC_G1710">Kālacakra College</a>, established in 1820. &nbsp;The monastery has been sacked and rebuilt several times in its history.&nbsp;</p>
 <p>
 	&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_40 ;
@@ -7230,7 +7687,7 @@ told:_FormattedContent_Description_Place_425
 told:_FormattedContent_Description_Place_426
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Chakri Nyidrak, also known as Sindzong Osel Drubde, is a Nyingma monastery in Kham that was founded in 1703 by <a href="/biographies/view/Terchen-Rigzin-Nyima-Drakpa/TBRC_P425">Terchen Rigzin Nyima Drakpa</a>, the First Chakri Nyidrak. It is the seat of the <a href="/incarnation/view/Nyitrul/TBRC_R8LS13249">Nyitrul</a> or Chakri Nyidrak line.</p>'''@en ;
+	Chakri Nyidrak, also known as Sindzong Wosel Drubde, is a Nyingma monastery in Kham that was founded in 1703 by <a href="/biographies/view/Terchen-Rigzin-Nyima-Drakpa/TBRC_P425">Terchen Rigzin Nyima Drakpa</a>, the First Chakri Nyidrak. It is the seat of the <a href="/incarnation/view/Nyitrul/TBRC_R8LS13249">Nyitrul</a> or Chakri Nyidrak line.</p>'''@en ;
 	gist:isAbout told:_Place_426 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7238,7 +7695,7 @@ told:_FormattedContent_Description_Place_426
 told:_FormattedContent_Description_Place_427
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Takmogang Kelzang Puntsok Ling is a Nyingma monastery in Kham that was founded in 1693 by <a href="/biographies/view/Terton-Nyima-Drakpa/TBRC_P425">Terton Nyima Drakpa</a>.</p>'''@en ;
+	Takmogang Kelzang Puntsok Ling, also known as Takten Drubde, is a Nyingma monastery in the Yilhung region of Derge that was founded in 1693 by <a href="/biographies/view/Terton-Nyima-Drakpa/TBRC_P425">Terton Nyima Drakpa</a>.</p>'''@en ;
 	gist:isAbout told:_Place_427 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7270,7 +7727,7 @@ told:_FormattedContent_Description_Place_432
 told:_FormattedContent_Description_Place_434
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Magur Namgyel Ling is a Geluk monastery in Amdo that was founded in 1646 by the <a href="/biographies/view/Second-Zhabdrung-Karpo/TBRC_p4249">Second Zhabdrung Karpo</a>, Lodro Gyatso.&nbsp;</p>'''@en ;
+	Magur Namgyel Ling is a Geluk monastery in Amdo that was founded in 1646 by the <a href="/biographies/view/Second-Zhabdrung-Karpo/TBRC_p4249">Second Zhabdrung Karpo</a>, Lodro Gyatso, and has since served as the seat of his incarnation line.</p>'''@en ;
 	gist:isAbout told:_Place_434 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7358,7 +7815,7 @@ told:_FormattedContent_Description_Place_445
 told:_FormattedContent_Description_Place_446
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tarpa Ling is a monastery in the Nyang Valley in Tsang just south of Zhalu. Originally associated with the Chel (dpyal) lineage and was a seat of the Chel Sarmapa masters.&nbsp;It was formally founded by&nbsp;<a href="/biographies/view/Tarpa-Lotsāwa-Nyima-Gyeltsen/TBRC_P2147">Tarpa Lotsāwa Nyima Gyeltsen</a>&nbsp;in the fourteenth century, later becoming a Geluk institution in the mid seventeenth century. <a href="/biographies/view/Buton-Rinchen-Drub/TBRC_p155">Buton Rinchen Drub</a> studied Sanskrit poetry and grammar here for about four years with Tarpa Lotsāwa.</p>'''@en ;
+	Tarpaling is a monastery in the Nyang Valley in Tsang just south of Zhalu. Originally a retreat hermitage of&nbsp;<a href="/biographies/view/Chel-Lotsāwa/TBRC_P3939">Chel Lotsāwa</a>, the name was given by his Kashmiri teacher <a href="/biographies/view/Śākyaśrībhadra/TBRC_P1518">Śākyaśrībhadra</a>, who declared that his student should practice in a &quot;land of liberation.&quot; It was expanded as a monastery by&nbsp;<a href="/biographies/view/Tarpa-Lotsāwa-Nyima-Gyeltsen/TBRC_P2147">Tarpa Lotsāwa Nyima Gyeltsen</a>&nbsp;in the fourteenth century, later becoming a Geluk institution in the mid seventeenth century. <a href="/biographies/view/Buton-Rinchen-Drub/TBRC_p155">Buton Rinchen Drub</a> studied Sanskrit poetry and grammar here for about four years with Tarpa Lotsāwa.</p>'''@en ;
 	gist:isAbout told:_Place_446 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7432,7 +7889,7 @@ told:_FormattedContent_Description_Place_453
 told:_FormattedContent_Description_Place_454
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	A Geluk monastery in Dzakhok (rdza khog), eastern Tibet, where Amdo Geshe <a href="/biographies/view/Jampel-Rolpai-Lodro/TBRC_P3546">Jampel Rolpai Lodro</a> (1888&ndash;1936) established a teaching center in the early twentieth century.</p>'''@en ;
+	A Geluk monastery in Dzakhok, eastern Tibet, where Amdo Geshe <a href="/biographies/view/Jampel-Rolpai-Lodro/TBRC_P3546">Jampel Rolpai Lodro</a>&nbsp;established a teaching center in the early twentieth century.</p>'''@en ;
 	gist:isAbout told:_Place_454 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7536,7 +7993,7 @@ told:_FormattedContent_Description_Place_472
 told:_FormattedContent_Description_Place_473
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Kaṁpo Nenang is a Karma Kamtsang monastery in Kham that was founded in 1164 by the First Karmapa, <span class="biog-name-large"><a href="/biographies/view/Dusum-Khyenpa/TBRC_P1400">Dusum Khyenpa</a>. </span>It is a branch of <a href="/geographies/view/Tsurpu-Monastery/TBRC_G33">Tsurpu Monastery</a>.</p>'''@en ;
+	Baney, also known as Kaṁpo Nenang, is a Karma Kamtsang monastery in Kham that was founded in 1164 by the First Karmapa, <span class="biog-name-large"><a href="/biographies/view/Dusum-Khyenpa/TBRC_P1400">Dusum Khyenpa</a>. </span>It is a branch of <a href="/geographies/view/Tsurpu-Monastery/TBRC_G33">Tsurpu Monastery</a>.</p>'''@en ;
 	gist:isAbout told:_Place_473 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7560,7 +8017,7 @@ told:_FormattedContent_Description_Place_475
 told:_FormattedContent_Description_Place_476
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Gartar monastery was built in the first half of the eighteenth century by the Qianlong Emperor for the Seventh Dalai Lama, <a href="/biographies/view/Kelsang-Gyatso/TBRC_P179">Kelsang Gyatso</a>, who spent seven years in exile here while Polhane ruled central Tibet. Gartar is in Kham Minyak, in far eastern Tibet.</p>
+	Gartar Monastery in Minyak, Kham, was built in the first half of the eighteenth century by the Qianlong emperor for the Seventh Dalai Lama, <a href="/biographies/view/Kelsang-Gyatso/TBRC_P179">Kelzang Gyatso</a>, who spent seven years in exile there.</p>
 <p>
 	&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_476 ;
@@ -7844,9 +8301,7 @@ told:_FormattedContent_Description_Place_512
 told:_FormattedContent_Description_Place_514
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Se Trabzang is a Nyingma monastery and one-time seat of the Northern Treasures tradition. It is located in the Lato region of Tsang in western Tibet. It was founded as early as 1366 by <a href="/biographies/view/First-Dorje-Drak-Rigdzin,-Rigdzin-Godemchen-Ngodrub-Gyeltsen/TBRC_P5254">Rigdzin Godemchen</a>. It is the seat of the Seton incarnation lineage. According to tradition, <a href="/biographies/view/Padmasambhava/TBRC_P4956">Padmasambhava</a> passed through the area on his way out of Tibet.</p>
-<p>
-	Note: the GIS coordinates appear to be incorrect.</p>'''@en ;
+	Se Trabzang is a Nyingma monastery and one-time seat of the Northern Treasures tradition. It is located in the Lato region of Tsang in western Tibet. It was founded as early as 1366 by <a href="/biographies/view/First-Dorje-Drak-Rigdzin,-Rigdzin-Godemchen-Ngodrub-Gyeltsen/TBRC_P5254">Rigdzin Godemchen</a>, who was born nearby. According to tradition, <a href="/biographies/view/Padmasambhava/TBRC_P4956">Padmasambhava</a> passed through the area on his way out of Tibet.</p>'''@en ;
 	gist:isAbout told:_Place_514 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -7992,7 +8447,7 @@ told:_FormattedContent_Description_Place_531
 told:_FormattedContent_Description_Place_532
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tsenpo Gon, also known as Serkhok, is an important Geluk monastery in Amdo that was founded in 1649/1650 by <a href="/biographies/view/Tsenpo-Dondru-Gyatso/TBRC_P3605">Tsenpo Dondru Gyatso</a>. It is the seat of the Mindrol, or Tsenpo Nominhan incarnation linegage.&nbsp;It was destroyed in 1724 by Chinese forces because it had supported the Mongolian rebellion of Lobsang Tendzin, but the restoration was completed within the next decade.</p>'''@en ;
+	Tsenpo Gon, also known as Serkhok, is an important Geluk monastery in Amdo that was founded in 1649/1650 by <a href="/biographies/view/Tsenpo-Dondru-Gyatso/TBRC_P3605">Tsenpo Dondrub Gyatso</a>. It is the seat of the Mindrol, or Tsenpo Nominhan incarnation linegage.&nbsp;It was destroyed in 1724 by Chinese forces because it had supported the Mongolian rebellion of Lobsang Tendzin, but the restoration was completed within the next decade.</p>'''@en ;
 	gist:isAbout told:_Place_532 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -8364,7 +8819,7 @@ told:_FormattedContent_Description_Place_603
 told:_FormattedContent_Description_Place_612
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Bodong E was founded in 1049 by Geshe Mudrapa Chenpo in Nyingtri in central Tibet. It was the residence of <a href="/biographies/view/Bodong-Panchen-Chokle-Namgyel/TBRC_P2627">Bodong Panchen Chokle Namgyel</a> and gave rise to the Bodong tradition.</p>'''@en ;
+	Bodong E was founded in 1049 by Geshe Mudrapa Chenpo in Nyingtri in central Tibet. The second throne holder was the Indian paṇḍita <a href="/biographies/view/Dhirapāla/TBRC_P4CZ15638">Dhirapāla</a>. It was the residence of <a href="/biographies/view/Bodong-Panchen-Chokle-Namgyel/TBRC_P2627">Bodong Panchen Chokle Namgyel</a> and gave rise to the Bodong tradition.</p>'''@en ;
 	gist:isAbout told:_Place_612 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -8605,6 +9060,12 @@ told:_FormattedContent_Description_Place_707
 	gist:isExpressedIn media-txt:html ;
 	.
 
+told:_FormattedContent_Description_Place_710
+	a gist:FormattedContent ;
+	gist:isAbout told:_Place_710 ;
+	gist:isExpressedIn media-txt:html ;
+	.
+
 told:_FormattedContent_Description_Place_711
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
@@ -8640,7 +9101,7 @@ told:_FormattedContent_Description_Place_717
 told:_FormattedContent_Description_Place_718
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Amchok Tsenyi, an important Geluk monastery located in southeastern Ngawa, Amdo, was founded in 1823 (there is a different Amchok Gon in Gansu), was founded in 1823. The people in the region were Bon practitioners until the eighteenth century when a Ganden educated monk by the name of <a href="/biographies/view/Sonam-Chopel/TBRC_P8LS12849">Sonam Chopel</a> began to convert people to Buddhism. His reincarnations are known as the <a href="/incarnation/view/Amchok-Rinpoche/TBRC_R8LS13083">Amchok Rinpoche</a>, and are based at the monastery.</p>
+	Amchok Tsenyi, an important Geluk monastery located in southeastern Ngawa, Amdo, was founded in 1823. The people in the region were Bon practitioners until the eighteenth century when a Ganden-educated monk by the name of <a href="/biographies/view/Sonam-Chopel/TBRC_P8LS12849">Sonam Chopel</a> began to convert people to Buddhism. His reincarnations are known as the <a href="/incarnation/view/Amchok-Rinpoche/TBRC_R8LS13083">Amchok Rinpoche</a>, and are based at the monastery.&nbsp;</p>
 <p>
 	&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_718 ;
@@ -8947,7 +9408,7 @@ told:_FormattedContent_Description_Place_826
 told:_FormattedContent_Description_Place_827
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tarpa Ling is a Geluk monastery that was founded by the <a href="/biographies/view/Fifth-Dalai-Lama/TBRC_P37">Fifth Dalai Lama</a> in the seventeenth century. Possibly it was founded on a site where a Nyingma institution used to exist. Tarpa Ling is a branch of the Dalai Lamas&#39;s personal monastery, <a href="/geographies/view/Namgyel-Dratsang/TBRC_G4249">Namgyel Dratsang</a>.</p>'''@en ;
+	Tarpaling is a Geluk monastery that was founded by the <a href="/biographies/view/Fifth-Dalai-Lama/TBRC_P37">Fifth Dalai Lama</a> in the seventeenth century. Possibly it was founded on a site where a Nyingma institution used to exist. Tarpa Ling is a branch of the Dalai Lamas&#39;s personal monastery, <a href="/geographies/view/Namgyel-Dratsang/TBRC_G4249">Namgyel Dratsang</a>.</p>'''@en ;
 	gist:isAbout told:_Place_827 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -8979,7 +9440,7 @@ told:_FormattedContent_Description_Place_831
 told:_FormattedContent_Description_Place_834
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Tarpa Ling Monastery grew out of a small temple erected by <a href="/biographies/view/Machig-Zhama/TBRC_P1238">Machik Zhama</a> in the eleventh or twelfth century in the Kharta Valley, southern Tibet.</p>'''@en ;
+	Tarpaling Monastery grew out of a small temple erected by <a href="/biographies/view/Machig-Zhama/TBRC_P1238">Machik Zhama</a> in the eleventh or twelfth century in the Kharta Valley, southern Tibet.</p>'''@en ;
 	gist:isAbout told:_Place_834 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -9487,14 +9948,6 @@ told:_FormattedContent_Description_Place_899
 	gist:isExpressedIn media-txt:html ;
 	.
 
-told:_FormattedContent_Description_Place_9
-	a gist:FormattedContent ;
-	gist:containedText '''<p>
-	Katok is a major Nyingma monastery in Derge that was founded in 1159 by <a href="/biographies/view/Dampa-Deshek/TBRC_p1314">Dampa Deshek</a>. Said to be the oldest Nyingma monastery, it is known for its preservation of the <em>Kama</em>, or Spoken Word, tradition.</p>'''@en ;
-	gist:isAbout told:_Place_9 ;
-	gist:isExpressedIn media-txt:html ;
-	.
-
 told:_FormattedContent_Description_Place_90
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
@@ -9572,7 +10025,7 @@ told:_FormattedContent_Description_Place_907
 told:_FormattedContent_Description_Place_908
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	One of only four colleges of <a href="/geographies/view/Drepung/TBRC_G108">Drepung</a> still functioning, albeit only partially, Deyang Dratsang was founded in in 1440 by&nbsp;Chokpa Jangchup Penden. &nbsp;</p>'''@en ;
+	One of only four colleges of <a href="/geographies/view/Drepung/TBRC_G108">Drepung</a> still functioning, albeit only partially, Deyang Dratsang was founded in in 1440 by&nbsp;Chokpa Jangchub Pelden. &nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_908 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -9588,7 +10041,7 @@ told:_FormattedContent_Description_Place_909
 told:_FormattedContent_Description_Place_91
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Sangpu Neutok is an important monastery in central Tibet, just south of Lhasa, that was founded in 1072 by&nbsp;<a href="/biographies/view/Ngok-Lekpai-Sherab/TBRC_P3389">Ngok Lekpai Sherab</a>, a disciple of <a href="/biographies/view/Atisha/TBRC_P3379">Atiśa</a>, and developed by his nephew, <a href="/biographies/view/Ngok-Lotsāwa-Loden-Sherab/TBRC_P2551">Ngok Lotsāwa Loden Sherab</a>. Originally a Kadam monastery with two colleges, it evolved into a monastery that includes both Sakya and Geluk traditions.</p>'''@en ;
+	Sangpu Neutok is an important monastery in central Tibet, just south of Lhasa, that was founded in 1072 by&nbsp;<a href="/biographies/view/Ngok-Lekpai-Sherab/TBRC_P3389">Ngok Lekpai Sherab</a>, a disciple of <a href="/biographies/view/Atisha/TBRC_P3379">Atiśa</a>, and developed by his nephew, <a href="/biographies/view/Ngok-Lotsāwa-Loden-Sherab/TBRC_P2551">Ngok Lotsāwa Loden Sherab</a>. It was divided in its first decades into an upper and lower monastery, each headed by its own abbot. At its height it had seven colleges, both in the Sakya and Geluk traditions, but by the mid eighteenth century, despite its fabled past, it had fallen into decline and ruin.</p>'''@en ;
 	gist:isAbout told:_Place_91 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -9694,9 +10147,7 @@ told:_FormattedContent_Description_Place_922
 told:_FormattedContent_Description_Place_923
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Mejung Tosam Ling (rmad byung thos bsam gling), more popularly known as Tsenyi Dratsang (mtshan nyid grwa tshang), meaning &lsquo;Philosophy College,&rsquo; is one of the six monastic colleges of Labrang Tashikhyil (G162 bla brang bkra shis &#39;khyil) Monastery. The others include a college for medical studies&mdash;<a href="/geographies/view/Menpa-Dratsang/TBRC_G1716">Menpa Dratsang</a> (sman pa grwa tshang)&mdash;and four monastic colleges for tantric studies&mdash;Gyume Dratsang (rgyud smad grwa tshang), Gyuto Dratsang (rgyud stod grwa tshang), <a href="/geographies/view/Dukhor-Dratsang/TBRC_G8LS12072">Dukhor Dratsang</a> (dus &#39;khor grwa tshang) and <a href="/geographies/view/Kyedor-Dratsang/TBRC_G3212">Kyedor Dratsang</a> (kya&#39;i rdor grwa tshang).</p>
-<p>
-	The <a href="/biographies/view/First-Jamyang-Zhepa,-Jamyang-Zhepai-Dorje-/TBRC_P423">First Jamyang Zhepa, Jamyang Zhepai Dorje </a>(&#39;jam dbyangs bzhad pa 01 &#39;jam dbyangs bzhad pa&#39;i rdo rje, 1648&ndash;1721/1722) founded Labrang Monastery in 1710 and introduced academic and religious curriculum drawn from the three central Gelukpa monasteries in Central Tibet, in particular, the <a href="/geographies/view/Gomang-College/TBRC_G109">Gomang College</a> (sgo mang grwa tshang) of <a href="/geographies/view/Drepung/TBRC_G108">Drepung</a> (&#39;bras psungs) Monastery. In 1716, he founded Gyupa Dratsang (rgyud pa grwa tshang), a college for tantric studies.&nbsp; After that, the non-tantric monastic academia at Labrang Monastery came to be known as Tsenyi Dratsang or the Philosophy School. Administration and infrastructure of Tsennyi was further developed under the <a href="/biographies/view/Second-Jamyang-Zhepa,-Konchok-Jigme-Wangpo/TBRC_P169">Second Jamyang Zhepa, Konchok Jigme Wangpo</a> (&#39;jam dbyangs bzhad pa 02 dkon mchog &#39;jigs med dbang po 1728&ndash;1791).</p>'''@en ;
+	Mejung Tosam Ling, more popularly known as Tsenyi Dratsang, is one of the six monastic colleges of <a href="/geographies/view/Labrang-Tashikhyil/TBRC_G162">Labrang Tashikhyil</a>.</p>'''@en ;
 	gist:isAbout told:_Place_923 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -9728,7 +10179,7 @@ told:_FormattedContent_Description_Place_926
 told:_FormattedContent_Description_Place_927
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	The Kumbum Debate College, one of four colleges at <a href="/geographies/view/Kumbum-Jampa-Ling/TBRC_G160">Kumbum Jampa Ling</a>, was built in 1612 by <a href="/biographies/view/Duldzin-Ozer-Gyatso/TBRC_P8LS12076">Duldzin Ozer Gyatso</a>.</p>
+	The Kumbum Debate College, one of four colleges at <a href="/geographies/view/Kumbum-Jampa-Ling/TBRC_G160">Kumbum Jampa Ling</a>, was built in 1612 by <a href="/biographies/view/Duldzin-Wozer-Gyatso/TBRC_P4085">Duldzin Wozer Gyatso</a>.</p>
 <p>
 	&nbsp;</p>'''@en ;
 	gist:isAbout told:_Place_927 ;
@@ -10118,7 +10569,7 @@ told:_FormattedContent_Description_Place_988
 told:_FormattedContent_Description_Place_989
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	Dzongsho, located in Pelyul county, Kham, was the second of <a href="/biographies/view/Jamgon-Kongtrul/TBRC_p264">Jamgon Kongtrul</a>&#39;s hermitages, after <a href="/geographies/view/Tsadra-Rinchen-Drak/TBRC_G37">Tsadra Rinchen Drak</a>. He opened the site in 1857 and formally consecrated it in 1867, with <a href="/biographies/view/Jamyang-Khyentse-Wangpo/TBRC_P258">Jamyang Khyentse Wangpo</a> and <a href="/biographies/view/Chokgyur-Lingpa/TBRC_P564">Chokgyur Lingpa</a>. It one of the 25 power places of Kham and Amdo containing numerous caves as well as a pilgrimage circuit. It is a Shangpa Kagyu institution.</p>'''@en ;
+	Dzongsho, located in Pelyul county, Kham, was the second of <a href="/biographies/view/Jamgon-Kongtrul/TBRC_p264">Jamgon Kongtrul</a>&#39;s hermitages, after <a href="/geographies/view/Tsadra-Rinchen-Drak/TBRC_G37">Tsadra Rinchen Drak</a>. He opened the site in 1857 and formally consecrated it in 1867, with <a href="/biographies/view/Jamyang-Khyentse-Wangpo/TBRC_P258">Jamyang Khyentse Wangpo</a> and <a href="/biographies/view/Chokgyur-Lingpa/TBRC_P564">Chokgyur Lingpa</a>. One of the 25 power places of Kham and Amdo, it encompases several caves as well as a pilgrimage circuit. It is a Shangpa Kagyu institution.</p>'''@en ;
 	gist:isAbout told:_Place_989 ;
 	gist:isExpressedIn media-txt:html ;
 	.
@@ -10265,6 +10716,10 @@ told:_Place_1024
 
 told:_Place_1025
 	owl:sameAs bdr:G1AG68 ;
+	.
+
+told:_Place_1034
+	owl:sameAs bdr:T2MS13225 ;
 	.
 
 told:_Place_1036
@@ -10484,7 +10939,7 @@ told:_Place_1109
 	.
 
 told:_Place_1110
-	owl:sameAs bdr:G3898 ;
+	owl:sameAs bdr:G3839 ;
 	.
 
 told:_Place_1111
@@ -10667,6 +11122,10 @@ told:_Place_117
 	owl:sameAs bdr:G3055 ;
 	.
 
+told:_Place_1170
+	owl:sameAs bdr:G432 ;
+	.
+
 told:_Place_1171
 	owl:sameAs bdr:G3933 ;
 	.
@@ -10685,6 +11144,10 @@ told:_Place_1174
 
 told:_Place_1175
 	owl:sameAs bdr:G2610 ;
+	.
+
+told:_Place_1176
+	owl:sameAs bdr:G2GS1268 ;
 	.
 
 told:_Place_1178
@@ -10745,6 +11208,10 @@ told:_Place_1192
 
 told:_Place_1196
 	owl:sameAs bdr:G2821 ;
+	.
+
+told:_Place_1197
+	owl:sameAs bdr:G321 ;
 	.
 
 told:_Place_1198
@@ -11419,6 +11886,10 @@ told:_Place_1415
 	owl:sameAs bdr:G1574 ;
 	.
 
+told:_Place_1423
+	owl:sameAs bdr:G1BL2 ;
+	.
+
 told:_Place_1426
 	owl:sameAs bdr:G1KR217 ;
 	.
@@ -11871,28 +12342,152 @@ told:_Place_1761
 	owl:sameAs bdr:G1KR248 ;
 	.
 
+told:_Place_1762
+	owl:sameAs bdr:G1737 ;
+	.
+
 told:_Place_1766
 	owl:sameAs bdr:G1KR1527 ;
+	.
+
+told:_Place_1768
+	owl:sameAs bdr:G4013 ;
+	.
+
+told:_Place_1770
+	owl:sameAs bdr:G3779 ;
+	.
+
+told:_Place_1778
+	owl:sameAs bdr:G4481 ;
+	.
+
+told:_Place_1779
+	owl:sameAs bdr:G4CZ369251 ;
 	.
 
 told:_Place_178
 	owl:sameAs bdr:G2552 ;
 	.
 
+told:_Place_1782
+	owl:sameAs bdr:G4580 ;
+	.
+
+told:_Place_1783
+	owl:sameAs bdr:G00EGS1017104 ;
+	.
+
+told:_Place_1785
+	owl:sameAs bdr:G3965 ;
+	.
+
+told:_Place_1786
+	owl:sameAs bdr:G3474 ;
+	.
+
 told:_Place_179
 	owl:sameAs bdr:G3268 ;
+	.
+
+told:_Place_1790
+	owl:sameAs bdr:G2CN578 ;
+	.
+
+told:_Place_1793
+	owl:sameAs bdr:G1KR1640 ;
+	.
+
+told:_Place_1797
+	owl:sameAs bdr:G4149 ;
 	.
 
 told:_Place_180
 	owl:sameAs bdr:G213 ;
 	.
 
+told:_Place_1800
+	owl:sameAs bdr:G2KR32 ;
+	.
+
+told:_Place_1801
+	owl:sameAs bdr:G111 ;
+	.
+
+told:_Place_1802
+	owl:sameAs bdr:G1PD96102 ;
+	.
+
+told:_Place_1803
+	owl:sameAs bdr:G1837 ;
+	.
+
+told:_Place_1804
+	owl:sameAs bdr:G1KR1909 ;
+	.
+
+told:_Place_1805
+	owl:sameAs bdr:G1PD96092 ;
+	.
+
+told:_Place_1806
+	owl:sameAs bdr:G1PD95982 ;
+	.
+
+told:_Place_1807
+	owl:sameAs bdr:G1879 ;
+	.
+
 told:_Place_181
 	owl:sameAs bdr:G3946 ;
 	.
 
+told:_Place_1811
+	owl:sameAs bdr:G4616 ;
+	.
+
+told:_Place_1813
+	owl:sameAs bdr:G00AG01697 ;
+	.
+
+told:_Place_1814
+	owl:sameAs bdr:G3956 ;
+	.
+
+told:_Place_1816
+	owl:sameAs bdr:G1KR2470 ;
+	.
+
+told:_Place_1817
+	owl:sameAs bdr:G1815 ;
+	.
+
+told:_Place_1819
+	owl:sameAs bdr:G106 ;
+	.
+
+told:_Place_1820
+	owl:sameAs bdr:G2444 ;
+	.
+
+told:_Place_1821
+	owl:sameAs bdr:G1792 ;
+	.
+
+told:_Place_1827
+	owl:sameAs bdr:G1232 ;
+	.
+
+told:_Place_1828
+	owl:sameAs bdr:G204 ;
+	.
+
 told:_Place_183
 	owl:sameAs bdr:G2CN11074 ;
+	.
+
+told:_Place_1830
+	owl:sameAs bdr:G3800 ;
 	.
 
 told:_Place_185
@@ -12313,6 +12908,10 @@ told:_Place_344
 
 told:_Place_345
 	owl:sameAs bdr:G1PD95975 ;
+	.
+
+told:_Place_347
+	owl:sameAs bdr:G2259 ;
 	.
 
 told:_Place_348
@@ -13051,6 +13650,10 @@ told:_Place_704
 	owl:sameAs bdr:G2600 ;
 	.
 
+told:_Place_710
+	owl:sameAs bdr:T194 ;
+	.
+
 told:_Place_711
 	owl:sameAs bdr:G3125 ;
 	.
@@ -13329,10 +13932,6 @@ told:_Place_898
 
 told:_Place_899
 	owl:sameAs bdr:G4552 ;
-	.
-
-told:_Place_9
-	owl:sameAs bdr:G17 ;
 	.
 
 told:_Place_90

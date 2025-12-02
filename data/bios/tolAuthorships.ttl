@@ -1904,6 +1904,15 @@ told:_Authorship_13070_5
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_13071_5
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_5 ,
+		told:_Biography_13071
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_13072_5
 	a tolo:Authorship ;
 	gist:hasParticipant
@@ -5342,6 +5351,15 @@ told:_Authorship_13904_153
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_13922_136
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_136 ,
+		told:_Biography_13922
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_1564_26
 	a tolo:Authorship ;
 	gist:hasParticipant
@@ -6575,6 +6593,15 @@ told:_Authorship_2823_29
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
 
+told:_Authorship_2834_150
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_150 ,
+		told:_Biography_2834
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
 told:_Authorship_2845_32
 	a tolo:Authorship ;
 	gist:hasParticipant
@@ -7084,6 +7111,15 @@ told:_Authorship_3141_30
 	gist:hasParticipant
 		told:_Author_30 ,
 		told:_Biography_3141
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_3146_156
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_156 ,
+		told:_Biography_3146
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -7660,6 +7696,15 @@ told:_Authorship_3795_19
 	gist:hasParticipant
 		told:_Author_19 ,
 		told:_Biography_3795
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_3819_150
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_150 ,
+		told:_Biography_3819
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -8362,6 +8407,15 @@ told:_Authorship_4291_5
 	gist:hasParticipant
 		told:_Author_5 ,
 		told:_Biography_4291
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_4297_154
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_154 ,
+		told:_Biography_4297
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -9379,6 +9433,15 @@ told:_Authorship_5485_19
 	gist:hasParticipant
 		told:_Author_19 ,
 		told:_Biography_5485
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_5489_136
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_136 ,
+		told:_Biography_5489
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.
@@ -13438,6 +13501,15 @@ told:_Authorship_9703_47
 	gist:hasParticipant
 		told:_Author_47 ,
 		told:_Biography_9703
+		;
+	tolo:displayOrder "1"^^xsd:integer ;
+	.
+
+told:_Authorship_9709_136
+	a tolo:Authorship ;
+	gist:hasParticipant
+		told:_Author_136 ,
+		told:_Biography_9709
 		;
 	tolo:displayOrder "1"^^xsd:integer ;
 	.

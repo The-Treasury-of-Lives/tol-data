@@ -482,6 +482,18 @@ told:_GeoPoint_27.7025_88.146667
 	gist:longitude "88.146667"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_27.70399_85.31389
+	a gist:GeoPoint ;
+	gist:latitude "27.70399"^^xsd:decimal ;
+	gist:longitude "85.31389"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_27.7070744_85.3097743
+	a gist:GeoPoint ;
+	gist:latitude "27.7070744"^^xsd:decimal ;
+	gist:longitude "85.3097743"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_27.711070051765198_85.28913201164133
 	a gist:GeoPoint ;
 	gist:latitude "27.711070051765198"^^xsd:decimal ;
@@ -668,6 +680,12 @@ told:_GeoPoint_28.39562_92.35266
 	gist:longitude "92.35266"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_28.40000_85.33334
+	a gist:GeoPoint ;
+	gist:latitude "28.40000"^^xsd:decimal ;
+	gist:longitude "85.33334"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_28.415330_98.711373
 	a gist:GeoPoint ;
 	gist:latitude "28.415330"^^xsd:decimal ;
@@ -678,6 +696,12 @@ told:_GeoPoint_28.423339_85.294465
 	a gist:GeoPoint ;
 	gist:latitude "28.423339"^^xsd:decimal ;
 	gist:longitude "85.294465"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_28.42902_92.41851
+	a gist:GeoPoint ;
+	gist:latitude "28.42902"^^xsd:decimal ;
+	gist:longitude "92.41851"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_28.43163_91.47381
@@ -746,16 +770,16 @@ told:_GeoPoint_28.801011_91.950907
 	gist:longitude "91.950907"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_28.81016_86.26242
+	a gist:GeoPoint ;
+	gist:latitude "28.81016"^^xsd:decimal ;
+	gist:longitude "86.26242"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_28.81215_90.44607
 	a gist:GeoPoint ;
 	gist:latitude "28.81215"^^xsd:decimal ;
 	gist:longitude "90.44607"^^xsd:decimal ;
-	.
-
-told:_GeoPoint_28.81667_89.65000
-	a gist:GeoPoint ;
-	gist:latitude "28.81667"^^xsd:decimal ;
-	gist:longitude "89.65000"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_28.81676_83.87137
@@ -764,10 +788,22 @@ told:_GeoPoint_28.81676_83.87137
 	gist:longitude "83.87137"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_28.8240759_89.6472894
+	a gist:GeoPoint ;
+	gist:latitude "28.8240759"^^xsd:decimal ;
+	gist:longitude "89.6472894"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_28.832443_90.096072
 	a gist:GeoPoint ;
 	gist:latitude "28.832443"^^xsd:decimal ;
 	gist:longitude "90.096072"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_28.85000_85.30000
+	a gist:GeoPoint ;
+	gist:latitude "28.85000"^^xsd:decimal ;
+	gist:longitude "85.30000"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_28.85000_85.73333
@@ -888,6 +924,12 @@ told:_GeoPoint_28.97897_91.51028
 	a gist:GeoPoint ;
 	gist:latitude "28.97897"^^xsd:decimal ;
 	gist:longitude "91.51028"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.008794171535246_86.3610900806261
+	a gist:GeoPoint ;
+	gist:latitude "29.008794171535246"^^xsd:decimal ;
+	gist:longitude "86.3610900806261"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.00997_91.66037
@@ -1020,6 +1062,12 @@ told:_GeoPoint_29.16005_91.74668
 	a gist:GeoPoint ;
 	gist:latitude "29.16005"^^xsd:decimal ;
 	gist:longitude "91.74668"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.16073_91.77412
+	a gist:GeoPoint ;
+	gist:latitude "29.16073"^^xsd:decimal ;
+	gist:longitude "91.77412"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.16123_91.27114
@@ -1166,6 +1214,12 @@ told:_GeoPoint_29.2469_90.3156
 	gist:longitude "90.3156"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_29.2473877_88.1271755
+	a gist:GeoPoint ;
+	gist:latitude "29.2473877"^^xsd:decimal ;
+	gist:longitude "88.1271755"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_29.24915_91.79376
 	a gist:GeoPoint ;
 	gist:latitude "29.24915"^^xsd:decimal ;
@@ -1232,12 +1286,6 @@ told:_GeoPoint_29.30000_87.23333
 	gist:longitude "87.23333"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_29.30000_88.20000
-	a gist:GeoPoint ;
-	gist:latitude "29.30000"^^xsd:decimal ;
-	gist:longitude "88.20000"^^xsd:decimal ;
-	.
-
 told:_GeoPoint_29.30000_89.05000
 	a gist:GeoPoint ;
 	gist:latitude "29.30000"^^xsd:decimal ;
@@ -1290,6 +1338,18 @@ told:_GeoPoint_29.33975_89.3291
 	a gist:GeoPoint ;
 	gist:latitude "29.33975"^^xsd:decimal ;
 	gist:longitude "89.3291"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.3423082_86.9533596
+	a gist:GeoPoint ;
+	gist:latitude "29.3423082"^^xsd:decimal ;
+	gist:longitude "86.9533596"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.3488642_91.2779196
+	a gist:GeoPoint ;
+	gist:latitude "29.3488642"^^xsd:decimal ;
+	gist:longitude "91.2779196"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.35000_88.00000
@@ -1376,16 +1436,28 @@ told:_GeoPoint_29.40923_92.42286
 	gist:longitude "92.42286"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_29.41233_90.97745
+	a gist:GeoPoint ;
+	gist:latitude "29.41233"^^xsd:decimal ;
+	gist:longitude "90.97745"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_29.413360_90.191515
 	a gist:GeoPoint ;
 	gist:latitude "29.413360"^^xsd:decimal ;
 	gist:longitude "90.191515"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_29.41667_86.88333
+told:_GeoPoint_29.4212847_90.1475082
 	a gist:GeoPoint ;
-	gist:latitude "29.41667"^^xsd:decimal ;
-	gist:longitude "86.88333"^^xsd:decimal ;
+	gist:latitude "29.4212847"^^xsd:decimal ;
+	gist:longitude "90.1475082"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.423331_86.728958
+	a gist:GeoPoint ;
+	gist:latitude "29.423331"^^xsd:decimal ;
+	gist:longitude "86.728958"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.425068_88.296453
@@ -1422,12 +1494,6 @@ told:_GeoPoint_29.44823_92.35815
 	a gist:GeoPoint ;
 	gist:latitude "29.44823"^^xsd:decimal ;
 	gist:longitude "92.35815"^^xsd:decimal ;
-	.
-
-told:_GeoPoint_29.45000_86.60000
-	a gist:GeoPoint ;
-	gist:latitude "29.45000"^^xsd:decimal ;
-	gist:longitude "86.60000"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.45000_88.25000
@@ -1584,6 +1650,12 @@ told:_GeoPoint_29.64535_90.93782
 	a gist:GeoPoint ;
 	gist:latitude "29.64535"^^xsd:decimal ;
 	gist:longitude "90.93782"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.6458365_91.1456341
+	a gist:GeoPoint ;
+	gist:latitude "29.6458365"^^xsd:decimal ;
+	gist:longitude "91.1456341"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.65000_89.06667
@@ -2270,6 +2342,12 @@ told:_GeoPoint_29.80705_91.82544
 	gist:longitude "91.82544"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_29.82057_90.73303
+	a gist:GeoPoint ;
+	gist:latitude "29.82057"^^xsd:decimal ;
+	gist:longitude "90.73303"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_29.82363_91.86028
 	a gist:GeoPoint ;
 	gist:latitude "29.82363"^^xsd:decimal ;
@@ -2342,16 +2420,22 @@ told:_GeoPoint_29.92658_91.60416
 	gist:longitude "91.60416"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_29.938_91.4626
+told:_GeoPoint_29.9360583_91.0448957
 	a gist:GeoPoint ;
-	gist:latitude "29.938"^^xsd:decimal ;
-	gist:longitude "91.4626"^^xsd:decimal ;
+	gist:latitude "29.9360583"^^xsd:decimal ;
+	gist:longitude "91.0448957"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.95000_87.61667
 	a gist:GeoPoint ;
 	gist:latitude "29.95000"^^xsd:decimal ;
 	gist:longitude "87.61667"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_29.96667_101.58334
+	a gist:GeoPoint ;
+	gist:latitude "29.96667"^^xsd:decimal ;
+	gist:longitude "101.58334"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_29.97151_91.94550
@@ -2432,10 +2516,10 @@ told:_GeoPoint_30.01807_90.71814
 	gist:longitude "90.71814"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_30.05000_101.96667
+told:_GeoPoint_30.041315_101.956165
 	a gist:GeoPoint ;
-	gist:latitude "30.05000"^^xsd:decimal ;
-	gist:longitude "101.96667"^^xsd:decimal ;
+	gist:latitude "30.041315"^^xsd:decimal ;
+	gist:longitude "101.956165"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_30.05281_90.44358
@@ -2648,12 +2732,6 @@ told:_GeoPoint_30.845815_77.149371
 	gist:longitude "77.149371"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_30.85000_99.85000
-	a gist:GeoPoint ;
-	gist:latitude "30.85000"^^xsd:decimal ;
-	gist:longitude "99.85000"^^xsd:decimal ;
-	.
-
 told:_GeoPoint_30.86667_101.25000
 	a gist:GeoPoint ;
 	gist:latitude "30.86667"^^xsd:decimal ;
@@ -2694,6 +2772,18 @@ told:_GeoPoint_30.96667_100.31667
 	a gist:GeoPoint ;
 	gist:latitude "30.96667"^^xsd:decimal ;
 	gist:longitude "100.31667"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_30.972240_99.808248
+	a gist:GeoPoint ;
+	gist:latitude "30.972240"^^xsd:decimal ;
+	gist:longitude "99.808248"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_30.9861024_101.9526257
+	a gist:GeoPoint ;
+	gist:latitude "30.9861024"^^xsd:decimal ;
+	gist:longitude "101.9526257"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_31.00000_100.31667
@@ -2760,6 +2850,12 @@ told:_GeoPoint_31.20000_94.03333
 	a gist:GeoPoint ;
 	gist:latitude "31.20000"^^xsd:decimal ;
 	gist:longitude "94.03333"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_31.204436_100.827996
+	a gist:GeoPoint ;
+	gist:latitude "31.204436"^^xsd:decimal ;
+	gist:longitude "100.827996"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_31.21570_98.82179
@@ -2924,6 +3020,12 @@ told:_GeoPoint_31.633889_76.833333
 	gist:longitude "76.833333"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_31.6339465_76.8339033
+	a gist:GeoPoint ;
+	gist:latitude "31.6339465"^^xsd:decimal ;
+	gist:longitude "76.8339033"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_31.633_76.8325975
 	a gist:GeoPoint ;
 	gist:latitude "31.633"^^xsd:decimal ;
@@ -3048,6 +3150,12 @@ told:_GeoPoint_31.70842_98.575296
 	a gist:GeoPoint ;
 	gist:latitude "31.70842"^^xsd:decimal ;
 	gist:longitude "98.575296"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_31.715301_96.369073
+	a gist:GeoPoint ;
+	gist:latitude "31.715301"^^xsd:decimal ;
+	gist:longitude "96.369073"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_31.722109_98.911893
@@ -3248,10 +3356,10 @@ told:_GeoPoint_32.034287_95.798370
 	gist:longitude "95.798370"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_32.0395_96.9928
+told:_GeoPoint_32.038585_96.996361
 	a gist:GeoPoint ;
-	gist:latitude "32.0395"^^xsd:decimal ;
-	gist:longitude "96.9928"^^xsd:decimal ;
+	gist:latitude "32.038585"^^xsd:decimal ;
+	gist:longitude "96.996361"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_32.0520169_76.69007
@@ -3294,6 +3402,12 @@ told:_GeoPoint_32.093798_78.382473
 	a gist:GeoPoint ;
 	gist:latitude "32.093798"^^xsd:decimal ;
 	gist:longitude "78.382473"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_32.106218_98.8509491
+	a gist:GeoPoint ;
+	gist:latitude "32.106218"^^xsd:decimal ;
+	gist:longitude "98.8509491"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_32.116078_77.167735
@@ -3524,6 +3638,12 @@ told:_GeoPoint_32.45445_96.03696
 	gist:longitude "96.03696"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.463631_97.982447
+	a gist:GeoPoint ;
+	gist:latitude "32.463631"^^xsd:decimal ;
+	gist:longitude "97.982447"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.474838_99.841551
 	a gist:GeoPoint ;
 	gist:latitude "32.474838"^^xsd:decimal ;
@@ -3566,6 +3686,12 @@ told:_GeoPoint_32.56698_96.15549
 	gist:longitude "96.15549"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.579167_77.025556
+	a gist:GeoPoint ;
+	gist:latitude "32.579167"^^xsd:decimal ;
+	gist:longitude "77.025556"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.58333_100.53333
 	a gist:GeoPoint ;
 	gist:latitude "32.58333"^^xsd:decimal ;
@@ -3590,6 +3716,12 @@ told:_GeoPoint_32.68000_100.93000
 	gist:longitude "100.93000"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.71667_98.38333
+	a gist:GeoPoint ;
+	gist:latitude "32.71667"^^xsd:decimal ;
+	gist:longitude "98.38333"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.73787_102.04771
 	a gist:GeoPoint ;
 	gist:latitude "32.73787"^^xsd:decimal ;
@@ -3608,6 +3740,12 @@ told:_GeoPoint_32.76000_100.80000
 	gist:longitude "100.80000"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.78333_100.05
+	a gist:GeoPoint ;
+	gist:latitude "32.78333"^^xsd:decimal ;
+	gist:longitude "100.05"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.78402_103.90570
 	a gist:GeoPoint ;
 	gist:latitude "32.78402"^^xsd:decimal ;
@@ -3618,12 +3756,6 @@ told:_GeoPoint_32.790873_79.002056
 	a gist:GeoPoint ;
 	gist:latitude "32.790873"^^xsd:decimal ;
 	gist:longitude "79.002056"^^xsd:decimal ;
-	.
-
-told:_GeoPoint_32.7912688_100.0581569
-	a gist:GeoPoint ;
-	gist:latitude "32.7912688"^^xsd:decimal ;
-	gist:longitude "100.0581569"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_32.80302_101.85788
@@ -3656,10 +3788,22 @@ told:_GeoPoint_32.84673_97.14666
 	gist:longitude "97.14666"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.86666_97.41666
+	a gist:GeoPoint ;
+	gist:latitude "32.86666"^^xsd:decimal ;
+	gist:longitude "97.41666"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.88966_101.72959
 	a gist:GeoPoint ;
 	gist:latitude "32.88966"^^xsd:decimal ;
 	gist:longitude "101.72959"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_32.907597_95.266877
+	a gist:GeoPoint ;
+	gist:latitude "32.907597"^^xsd:decimal ;
+	gist:longitude "95.266877"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_32.91434_101.69242
@@ -3668,16 +3812,16 @@ told:_GeoPoint_32.91434_101.69242
 	gist:longitude "101.69242"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_32.918677_102.692715
+	a gist:GeoPoint ;
+	gist:latitude "32.918677"^^xsd:decimal ;
+	gist:longitude "102.692715"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_32.91966_101.72959
 	a gist:GeoPoint ;
 	gist:latitude "32.91966"^^xsd:decimal ;
 	gist:longitude "101.72959"^^xsd:decimal ;
-	.
-
-told:_GeoPoint_32.92582_102.62011
-	a gist:GeoPoint ;
-	gist:latitude "32.92582"^^xsd:decimal ;
-	gist:longitude "102.62011"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_32.93819_101.59311
@@ -3716,16 +3860,22 @@ told:_GeoPoint_33.01667_98.15000
 	gist:longitude "98.15000"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_33.1364361_98.1365361
+told:_GeoPoint_33.128926_98.133486
 	a gist:GeoPoint ;
-	gist:latitude "33.1364361"^^xsd:decimal ;
-	gist:longitude "98.1365361"^^xsd:decimal ;
+	gist:latitude "33.128926"^^xsd:decimal ;
+	gist:longitude "98.133486"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.140498_97.923975
 	a gist:GeoPoint ;
 	gist:latitude "33.140498"^^xsd:decimal ;
 	gist:longitude "97.923975"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_33.14433_98.04146
+	a gist:GeoPoint ;
+	gist:latitude "33.14433"^^xsd:decimal ;
+	gist:longitude "98.04146"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.1518_96.4439
@@ -3740,10 +3890,10 @@ told:_GeoPoint_33.15463_96.92091
 	gist:longitude "96.92091"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_33.2248_98.0686
+told:_GeoPoint_33.213512_97.956107
 	a gist:GeoPoint ;
-	gist:latitude "33.2248"^^xsd:decimal ;
-	gist:longitude "98.0686"^^xsd:decimal ;
+	gist:latitude "33.213512"^^xsd:decimal ;
+	gist:longitude "97.956107"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.23333_98.06667
@@ -3818,12 +3968,6 @@ told:_GeoPoint_33.4028_96.4152
 	gist:longitude "96.4152"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_33.41667_98.01667
-	a gist:GeoPoint ;
-	gist:latitude "33.41667"^^xsd:decimal ;
-	gist:longitude "98.01667"^^xsd:decimal ;
-	.
-
 told:_GeoPoint_33.42878_103.36401
 	a gist:GeoPoint ;
 	gist:latitude "33.42878"^^xsd:decimal ;
@@ -3852,6 +3996,12 @@ told:_GeoPoint_33.532911_76.905081
 	a gist:GeoPoint ;
 	gist:latitude "33.532911"^^xsd:decimal ;
 	gist:longitude "76.905081"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_33.533411_76.9014
+	a gist:GeoPoint ;
+	gist:latitude "33.533411"^^xsd:decimal ;
+	gist:longitude "76.9014"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.587202_102.949819
@@ -3884,10 +4034,10 @@ told:_GeoPoint_33.83872_103.77520
 	gist:longitude "103.77520"^^xsd:decimal ;
 	.
 
-told:_GeoPoint_33.86000_99.66000
+told:_GeoPoint_33.855333_100.052467
 	a gist:GeoPoint ;
-	gist:latitude "33.86000"^^xsd:decimal ;
-	gist:longitude "99.66000"^^xsd:decimal ;
+	gist:latitude "33.855333"^^xsd:decimal ;
+	gist:longitude "100.052467"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.89773_96.52142
@@ -3906,6 +4056,12 @@ told:_GeoPoint_33.912676_77.702969
 	a gist:GeoPoint ;
 	gist:latitude "33.912676"^^xsd:decimal ;
 	gist:longitude "77.702969"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_33.94195_99.81004
+	a gist:GeoPoint ;
+	gist:latitude "33.94195"^^xsd:decimal ;
+	gist:longitude "99.81004"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_33.95905_77.78915
@@ -4184,6 +4340,12 @@ told:_GeoPoint_35.06531_102.88647
 	gist:longitude "102.88647"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_35.163202_100.677423
+	a gist:GeoPoint ;
+	gist:latitude "35.163202"^^xsd:decimal ;
+	gist:longitude "100.677423"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_35.19284_102.50494
 	a gist:GeoPoint ;
 	gist:latitude "35.19284"^^xsd:decimal ;
@@ -4236,6 +4398,12 @@ told:_GeoPoint_35.22746_102.65970
 	a gist:GeoPoint ;
 	gist:latitude "35.22746"^^xsd:decimal ;
 	gist:longitude "102.65970"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_35.24027_101.81000
+	a gist:GeoPoint ;
+	gist:latitude "35.24027"^^xsd:decimal ;
+	gist:longitude "101.81000"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_35.350908_101.885348
@@ -4412,6 +4580,12 @@ told:_GeoPoint_35.91823_102.77701
 	gist:longitude "102.77701"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_35.947758_-93.308857
+	a gist:GeoPoint ;
+	gist:latitude "35.947758"^^xsd:decimal ;
+	gist:longitude "-93.308857"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_35.95000_101.96000
 	a gist:GeoPoint ;
 	gist:latitude "35.95000"^^xsd:decimal ;
@@ -4434,6 +4608,18 @@ told:_GeoPoint_36.003092_100.221358
 	a gist:GeoPoint ;
 	gist:latitude "36.003092"^^xsd:decimal ;
 	gist:longitude "100.221358"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_36.0271_101.6047
+	a gist:GeoPoint ;
+	gist:latitude "36.0271"^^xsd:decimal ;
+	gist:longitude "101.6047"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_36.05000_101.47665
+	a gist:GeoPoint ;
+	gist:latitude "36.05000"^^xsd:decimal ;
+	gist:longitude "101.47665"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_36.052959_102.505148
@@ -4550,6 +4736,12 @@ told:_GeoPoint_36.53000_101.15000
 	gist:longitude "101.15000"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_36.574193_102.721007
+	a gist:GeoPoint ;
+	gist:latitude "36.574193"^^xsd:decimal ;
+	gist:longitude "102.721007"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_36.57999_102.48028
 	a gist:GeoPoint ;
 	gist:latitude "36.57999"^^xsd:decimal ;
@@ -4566,6 +4758,12 @@ told:_GeoPoint_36.60_102.2059
 	a gist:GeoPoint ;
 	gist:latitude "36.60"^^xsd:decimal ;
 	gist:longitude "102.2059"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_36.628833_102.754525
+	a gist:GeoPoint ;
+	gist:latitude "36.628833"^^xsd:decimal ;
+	gist:longitude "102.754525"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_36.68239_102.21172
@@ -4596,6 +4794,12 @@ told:_GeoPoint_36.8845361_100.2004803
 	a gist:GeoPoint ;
 	gist:latitude "36.8845361"^^xsd:decimal ;
 	gist:longitude "100.2004803"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_36.92911_102.10381
+	a gist:GeoPoint ;
+	gist:latitude "36.92911"^^xsd:decimal ;
+	gist:longitude "102.10381"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_36.95000_102.50000
@@ -4632,6 +4836,12 @@ told:_GeoPoint_37.11667_103.48333
 	a gist:GeoPoint ;
 	gist:latitude "37.11667"^^xsd:decimal ;
 	gist:longitude "103.48333"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_37.123011_101.534372
+	a gist:GeoPoint ;
+	gist:latitude "37.123011"^^xsd:decimal ;
+	gist:longitude "101.534372"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_37.191944_103.384214
@@ -4706,6 +4916,12 @@ told:_GeoPoint_38.663012_105.799951
 	gist:longitude "105.799951"^^xsd:decimal ;
 	.
 
+told:_GeoPoint_39.008_113.5894
+	a gist:GeoPoint ;
+	gist:latitude "39.008"^^xsd:decimal ;
+	gist:longitude "113.5894"^^xsd:decimal ;
+	.
+
 told:_GeoPoint_39.0792_113.5647
 	a gist:GeoPoint ;
 	gist:latitude "39.0792"^^xsd:decimal ;
@@ -4746,6 +4962,12 @@ told:_GeoPoint_40.0197518_-105.2781
 	a gist:GeoPoint ;
 	gist:latitude "40.0197518"^^xsd:decimal ;
 	gist:longitude "-105.2781"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_40.4938_111.3333
+	a gist:GeoPoint ;
+	gist:latitude "40.4938"^^xsd:decimal ;
+	gist:longitude "111.3333"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_40.722194_-73.993484
@@ -4824,6 +5046,12 @@ told:_GeoPoint_42.1822134_-122.6762977
 	a gist:GeoPoint ;
 	gist:latitude "42.1822134"^^xsd:decimal ;
 	gist:longitude "-122.6762977"^^xsd:decimal ;
+	.
+
+told:_GeoPoint_42.358409_116.183875
+	a gist:GeoPoint ;
+	gist:latitude "42.358409"^^xsd:decimal ;
+	gist:longitude "116.183875"^^xsd:decimal ;
 	.
 
 told:_GeoPoint_42.412738650722375_-74.04110883781743
@@ -5090,14 +5318,6 @@ told:_Place_1000
 	tolo:isRenderedAt told:_GeoPoint_29.16667_89.60000 ;
 	.
 
-told:_Place_1001
-	tolo:displayLabel
-		"Nekhar Monastery"@en ,
-		"གནས་མཁར་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1002
 	tolo:displayLabel
 		"Raknyak"@en ,
@@ -5105,14 +5325,6 @@ told:_Place_1002
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_33.15463_96.92091 ;
-	.
-
-told:_Place_1005
-	tolo:displayLabel
-		"Jakrong"@en ,
-		"ཇག་རོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_101
@@ -5130,15 +5342,7 @@ told:_Place_1010
 		"མཚོ་ཕུ་དགོན།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_30.85000_99.85000 ;
-	.
-
-told:_Place_1012
-	tolo:displayLabel
-		"Nyamyo Jashong Monastery"@en ,
-		"མཉམ་ཡོད་བྱ་གཤོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_30.972240_99.808248 ;
 	.
 
 told:_Place_1013
@@ -5168,14 +5372,6 @@ told:_Place_1017
 	tolo:isRenderedAt told:_GeoPoint_31.28333_97.51667 ;
 	.
 
-told:_Place_1018
-	tolo:displayLabel
-		"Langling Monastery"@en ,
-		"གླང་གླིང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_102
 	tolo:displayLabel
 		"Pelkhor Chode"@en ,
@@ -5183,14 +5379,6 @@ told:_Place_102
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_28.93333_89.60000 ;
-	.
-
-told:_Place_1020
-	tolo:displayLabel
-		"Tashi Choling Hermitage"@en ,
-		"བཀྲ་ཤིས་ཆོས་གླིང་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1021
@@ -5218,22 +5406,6 @@ told:_Place_1024
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_36.48923_101.56659 ;
-	.
-
-told:_Place_1025
-	tolo:displayLabel
-		"Nalatse Nepoche"@en ,
-		"ན་ལ་ཙེ་གནས་པོ་ཆེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1036
-	tolo:displayLabel
-		"Menkhar Pende Ling"@en ,
-		"སྨན་མཁར་ཕན་བདེ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1038
@@ -5299,14 +5471,6 @@ told:_Place_1046
 	tolo:isRenderedAt told:_GeoPoint_31.68915_99.00742 ;
 	.
 
-told:_Place_1047
-	tolo:displayLabel
-		"Surkhang"@en ,
-		"ཟུར་ཁང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1049
 	tolo:displayLabel
 		"Atsagat Datsan"@en ,
@@ -5334,22 +5498,6 @@ told:_Place_1051
 	tolo:isRenderedAt told:_GeoPoint_29.984113_91.902965 ;
 	.
 
-told:_Place_1052
-	tolo:displayLabel
-		"Kalapa"@en ,
-		"ཀ་ལ་པ་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1053
-	tolo:displayLabel
-		"Namkha Dzod"@en ,
-		"ནམ་མཁའ་མཛོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1054
 	tolo:displayLabel
 		"Chepa Darge Gon"@en ,
@@ -5374,14 +5522,6 @@ told:_Place_1056
 	tolo:isRenderedAt told:_GeoPoint_32.30000_98.93333 ;
 	.
 
-told:_Place_1063
-	tolo:displayLabel
-		"Sadutshang"@en ,
-		"ས་འདུ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1065
 	tolo:displayLabel
 		"Nālandā"@en ,
@@ -5398,22 +5538,6 @@ told:_Place_1066
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_27.530631_90.687253 ;
-	.
-
-told:_Place_1068
-	tolo:displayLabel
-		"Chubar Hermitage"@en ,
-		"ཆུ་བར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1069
-	tolo:displayLabel
-		"Ngodu Monastery"@en ,
-		"ངོ་འདུ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_107
@@ -5459,22 +5583,6 @@ told:_Place_1073
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_27.193971_86.634624 ;
-	.
-
-told:_Place_1077
-	tolo:displayLabel
-		"Rigo Tashi Chodzong Castle"@en ,
-		"རི་སྒོ་བཀྲ་ཤིས་ཆོས་རྫོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1078
-	tolo:displayLabel
-		"Kheme"@en ,
-		"ཁེ་སྨད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1081
@@ -5540,14 +5648,6 @@ told:_Place_1087
 	tolo:isRenderedAt told:_GeoPoint_31.776732_95.037260 ;
 	.
 
-told:_Place_1088
-	tolo:displayLabel
-		"Trewel Ude"@en ,
-		"ཀྲེ་ཝེལ་དུ་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1089
 	tolo:displayLabel
 		"Dungkar"@en ,
@@ -5555,14 +5655,6 @@ told:_Place_1089
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.67092_79.831478 ;
-	.
-
-told:_Place_1090
-	tolo:displayLabel
-		"Nya"@en ,
-		"གཉའ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1091
@@ -5574,14 +5666,6 @@ told:_Place_1091
 	tolo:isRenderedAt told:_GeoPoint_34.85179_103.41585 ;
 	.
 
-told:_Place_1092
-	tolo:displayLabel
-		"Sadutshang Manor House"@en ,
-		"གཟིམས་ཤག་ས་འདུ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1093
 	tolo:displayLabel
 		"Ongsum"@en ,
@@ -5589,30 +5673,6 @@ told:_Place_1093
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_33.60744_104.51360 ;
-	.
-
-told:_Place_1094
-	tolo:displayLabel
-		"Tashi Yanggon"@en ,
-		"བཀྲ་ཤིས་ཡང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1095
-	tolo:displayLabel
-		"Tosam Norbu Lhunpo"@en ,
-		"ཐོས་བསམ་ནོར་བུ་ལྷུན་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1096
-	tolo:displayLabel
-		"Muksang"@en ,
-		"རྨུགས་སངས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1099
@@ -5640,14 +5700,6 @@ told:_Place_110
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.368129_88.002188 ;
-	.
-
-told:_Place_1100
-	tolo:displayLabel
-		"Tashi Gepel Ling"@en ,
-		"བཀྲ་ཤིས་དགེ་འཕེལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1101
@@ -5702,14 +5754,6 @@ told:_Place_1106
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.55000_100.90000 ;
-	.
-
-told:_Place_1107
-	tolo:displayLabel
-		"Tsangda Monastery"@en ,
-		"གཙང་མདའ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1108
@@ -5773,14 +5817,6 @@ told:_Place_1114
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.61207_97.98663 ;
-	.
-
-told:_Place_1115
-	tolo:displayLabel
-		"Mersho Monastery"@en ,
-		"སྨར་ཤོད་དེའུ་དམར་ཟབ་རྒྱས་ཆོས་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1118
@@ -5864,38 +5900,6 @@ told:_Place_1125
 	tolo:isRenderedAt told:_GeoPoint_28.423339_85.294465 ;
 	.
 
-told:_Place_1126
-	tolo:displayLabel
-		"Menlung Trengpachen"@en ,
-		"སྨན་ལུང་ཕྲེང་བ་ཅན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1128
-	tolo:displayLabel
-		"Sakya Mendrong"@en ,
-		"ས་སྐྱ་སྨན་གྲོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1131
-	tolo:displayLabel
-		"Zara Monastery"@en ,
-		"ཟྭ་ར་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1132
-	tolo:displayLabel
-		"Tsarong"@en ,
-		"ཚ་རོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1133
 	tolo:displayLabel
 		"Kharak"@en ,
@@ -5914,14 +5918,6 @@ told:_Place_1134
 	tolo:isRenderedAt told:_GeoPoint_28.600552_86.735879 ;
 	.
 
-told:_Place_1135
-	tolo:displayLabel
-		"Barom Kagyu"@en ,
-		"འབའ་རོམ་བཀའ་བརྒྱུད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1136
 	tolo:displayLabel
 		"Kharak"@en ,
@@ -5929,30 +5925,6 @@ told:_Place_1136
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.2469_90.3156 ;
-	.
-
-told:_Place_1137
-	tolo:displayLabel
-		"Draksum Puri"@en ,
-		"བྲག་གསུམ་སྤུ་རིའི་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1138
-	tolo:displayLabel
-		"Hangri Drubde"@en ,
-		"ཧང་རི་སྒྲུབ་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_114
-	tolo:displayLabel
-		"Kyangdur"@en ,
-		"རྐྱང་འདུར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1140
@@ -5980,14 +5952,6 @@ told:_Place_1142
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_36.8845361_100.2004803 ;
-	.
-
-told:_Place_1143
-	tolo:displayLabel
-		"Tosamling College"@en ,
-		"ཐོས་བསམ་གླིང་གྲྭ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1144
@@ -6062,14 +6026,6 @@ told:_Place_1152
 	tolo:isRenderedAt told:_GeoPoint_36.68239_102.21172 ;
 	.
 
-told:_Place_1154
-	tolo:displayLabel
-		"Drakteng Monastery"@en ,
-		"བྲག་སྟེང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1157
 	tolo:displayLabel
 		"Dingpoche"@en ,
@@ -6086,22 +6042,6 @@ told:_Place_1158
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_1 ;
 	tolo:isRenderedAt told:_GeoPoint_24.695102_84.991275 ;
-	.
-
-told:_Place_116
-	tolo:displayLabel
-		"Mending"@en ,
-		"སྨན་སྡིངས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1161
-	tolo:displayLabel
-		"Tsang Chubzang"@en ,
-		"ཙང་ཆུ་བཟང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1162
@@ -6158,29 +6098,13 @@ told:_Place_1169
 	tolo:isRenderedAt told:_GeoPoint_25.9425_100.3975 ;
 	.
 
-told:_Place_117
-	tolo:displayLabel
-		"Menchu"@en ,
-		"སྨན་ཆུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1170
-	tolo:displayLabel
-		"Pelge Samten Ling"@en ,
-		"དཔལ་དགེ་བསམ་གཏན་གླིན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1171
 	tolo:displayLabel
 		"Dza Gyelgon"@en ,
 		"རྫ་རྒྱལ་དགོན།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_33.41667_98.01667 ;
+	tolo:isRenderedAt told:_GeoPoint_33.213512_97.956107 ;
 	.
 
 told:_Place_1172
@@ -6210,16 +6134,6 @@ told:_Place_1174
 	tolo:isRenderedAt told:_GeoPoint_33.01667_98.15000 ;
 	.
 
-told:_Place_1175
-	tolo:displayLabel "Kumbum Monastery"@en ;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1176
-	tolo:displayLabel "Ne Chode"@en ;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1178
 	tolo:displayLabel
 		"Beshing"@en ,
@@ -6245,14 +6159,6 @@ told:_Place_1180
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_36.84459_102.16550 ;
-	.
-
-told:_Place_1182
-	tolo:displayLabel
-		"Gemang Ritro"@en ,
-		"དགེ་མང་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1183
@@ -6282,14 +6188,6 @@ told:_Place_1185
 	tolo:isRenderedAt told:_GeoPoint_35.19399_102.50572 ;
 	.
 
-told:_Place_1186
-	tolo:displayLabel
-		"Lingto College"@en ,
-		"གླིང་སྟོད་གྲྭ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1187
 	tolo:displayLabel
 		"Benchen"@en ,
@@ -6297,14 +6195,6 @@ told:_Place_1187
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_32.84455_97.14682 ;
-	.
-
-told:_Place_1188
-	tolo:displayLabel
-		"Sakar Samdrub Ling"@en ,
-		"ས་དཀར་བསམ་འགྲུབ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1189
@@ -6329,14 +6219,6 @@ told:_Place_1190
 	tolo:displayLabel "Khamarin Khiid"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_44.597384_110.273608 ;
-	.
-
-told:_Place_1191
-	tolo:displayLabel
-		"Riwo Gegye Ganden Shedrubling"@en ,
-		"རི་བོ་དགེ་རྒྱས་དགའ་ལྡན་བཤད་སྒྲུབ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1192
@@ -6372,19 +6254,6 @@ told:_Place_1196
 	tolo:isRenderedAt told:_GeoPoint_29.22846_91.78480 ;
 	.
 
-told:_Place_1197
-	tolo:displayLabel "Chokhor Gang"@en ;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1198
-	tolo:displayLabel
-		"Gyel Kartse Palace"@en ,
-		"ཕོ་གྲང་རྒྱལ་མཁར་རྩེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1199
 	tolo:displayLabel
 		"Tarde"@en ,
@@ -6409,7 +6278,7 @@ told:_Place_120
 		"གནས་རྙིང་།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_28.81667_89.65000 ;
+	tolo:isRenderedAt told:_GeoPoint_28.8240759_89.6472894 ;
 	.
 
 told:_Place_1200
@@ -6427,14 +6296,6 @@ told:_Place_1201
 	tolo:isRenderedAt told:_GeoPoint_40.792274_110.314185 ;
 	.
 
-told:_Place_1203
-	tolo:displayLabel
-		"Rinpungpa"@en ,
-		"རིན་སྤུངས་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1204
 	tolo:displayLabel
 		"Erdene Zuu"@en ,
@@ -6444,46 +6305,6 @@ told:_Place_1204
 	tolo:isRenderedAt told:_GeoPoint_47.201711_102.843129 ;
 	.
 
-told:_Place_1205
-	tolo:displayLabel
-		"Lhateng"@en ,
-		"ལྷ་སྟེང་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1206
-	tolo:displayLabel
-		"Ganden Mamo"@en ,
-		"དགའ་ལྡན་མ་མོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1212
-	tolo:displayLabel
-		"Dago Monastery"@en ,
-		"བརྡ་གོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1213
-	tolo:displayLabel
-		"Zingpa Takgo"@en ,
-		"ཟིང་པ་སྟག་མགོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1215
-	tolo:displayLabel
-		"Tashi Tse"@en ,
-		"བཀྲ་ཤིས་རྩེ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1216
 	tolo:displayLabel
 		"Ringu"@en ,
@@ -6491,14 +6312,6 @@ told:_Place_1216
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_32.23333_99.26667 ;
-	.
-
-told:_Place_1217
-	tolo:displayLabel
-		"Chakhyi Lhakhang"@en ,
-		"བྱ་ཁྱི་ལྷ་ཁང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1218
@@ -6517,22 +6330,6 @@ told:_Place_1219
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.61667_99.86667 ;
-	.
-
-told:_Place_122
-	tolo:displayLabel
-		"Sabzang Ganden"@en ,
-		"ས་བཟང་དགའ་ལྡན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1220
-	tolo:displayLabel
-		"Labrang Shar"@en ,
-		"ས་སྐྱ་བླ་བྲང་ཤར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1221
@@ -6571,14 +6368,6 @@ told:_Place_1226
 	tolo:isRenderedAt told:_GeoPoint_30.490146_100.096570 ;
 	.
 
-told:_Place_1227
-	tolo:displayLabel
-		"Namchen Drakkar"@en ,
-		"གནམ་ཆེན་བྲག་དཀར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1229
 	tolo:displayLabel
 		"Hardong Khamtsen"@en ,
@@ -6597,14 +6386,6 @@ told:_Place_1230
 	tolo:isRenderedAt told:_GeoPoint_29.63604_90.95711 ;
 	.
 
-told:_Place_1231
-	tolo:displayLabel
-		"Ling Khamtsen"@en ,
-		"གླིང་ཁམས་ཚན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1232
 	tolo:displayLabel
 		"Drakkar Taso"@en ,
@@ -6621,14 +6402,6 @@ told:_Place_1233
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.18543_91.24723 ;
-	.
-
-told:_Place_1234
-	tolo:displayLabel
-		"Khachar"@en ,
-		"ཁྭ་ཆར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1235
@@ -6667,30 +6440,6 @@ told:_Place_1238
 	tolo:isRenderedAt told:_GeoPoint_31.920945_98.428499 ;
 	.
 
-told:_Place_124
-	tolo:displayLabel
-		"Pelteng"@en ,
-		"དཔལ་སྟེང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1240
-	tolo:displayLabel
-		"Tanak Pu Monastery"@en ,
-		"རྟ་ནག་ཕུ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1241
-	tolo:displayLabel
-		"Ya Nga Chamda Ganden Khacho Ling Nunnery"@en ,
-		"ཡ་ང་བྱ་མདའ་དགའ་ལྡན་མཁའ་སྤྱོད་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1242
 	tolo:displayLabel
 		"Khangmar"@en ,
@@ -6707,14 +6456,6 @@ told:_Place_1243
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.55000_99.15000 ;
-	.
-
-told:_Place_1244
-	tolo:displayLabel
-		"Khemar Monastery"@en ,
-		"ཁས་དམར་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1245
@@ -6780,14 +6521,6 @@ told:_Place_1251
 	tolo:isRenderedAt told:_GeoPoint_28.29468_92.73174 ;
 	.
 
-told:_Place_1254
-	tolo:displayLabel
-		"Gyakhar Gar"@en ,
-		"རྒྱ་མཁར་སྒར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1255
 	tolo:displayLabel
 		"Dzogon"@en ,
@@ -6822,14 +6555,6 @@ told:_Place_1258
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.489742_94.498478 ;
-	.
-
-told:_Place_1259
-	tolo:displayLabel
-		"Penyul Drosa"@en ,
-		"འཕན་ཡུལ་གྲོ་ས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1261
@@ -6868,14 +6593,6 @@ told:_Place_1264
 	tolo:isRenderedAt told:_GeoPoint_30.50000_101.43333 ;
 	.
 
-told:_Place_1265
-	tolo:displayLabel
-		"Khyunggon Monastery"@en ,
-		"khyung dgon mi 'gyur rdo rje gling"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1266
 	tolo:displayLabel
 		"Menri"@en ,
@@ -6892,14 +6609,6 @@ told:_Place_1267
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_33.67397_103.23426 ;
-	.
-
-told:_Place_1268
-	tolo:displayLabel
-		"Drati House"@en ,
-		"སྦྲ་ཏི་ཁང་ཚན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_127
@@ -6920,14 +6629,6 @@ told:_Place_1270
 	tolo:isRenderedAt told:_GeoPoint_27.542676_89.625086 ;
 	.
 
-told:_Place_1271
-	tolo:displayLabel
-		"Tarpeling"@en ,
-		"ཐར་པའི་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1272
 	tolo:displayLabel
 		"Namtso"@en ,
@@ -6937,14 +6638,6 @@ told:_Place_1272
 	tolo:isRenderedAt told:_GeoPoint_30.7000_90.5500 ;
 	.
 
-told:_Place_1273
-	tolo:displayLabel
-		"Pomda Sangngak Dechen Monastery"@en ,
-		"སྤོམ་མདའ་གསང་སྔགས་བདེ་ཆེན་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1274
 	tolo:displayLabel
 		"Zhamar"@en ,
@@ -6952,6 +6645,15 @@ told:_Place_1274
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_37.28333_103.16666 ;
+	.
+
+told:_Place_1275
+	tolo:displayLabel
+		"Tsogyel Latso"@en ,
+		"མཚོ་རྒྱལ་བླ་མཚོ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.3488642_91.2779196 ;
 	.
 
 told:_Place_1276
@@ -6979,14 +6681,6 @@ told:_Place_1278
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.587825_93.262851 ;
-	.
-
-told:_Place_1279
-	tolo:displayLabel
-		"Shabme Gomne"@en ,
-		"ཤབ་སྨད་སྒོམ་གནས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_128
@@ -7034,22 +6728,6 @@ told:_Place_1283
 	tolo:isRenderedAt told:_GeoPoint_34.055931_77.666616 ;
 	.
 
-told:_Place_1284
-	tolo:displayLabel
-		"Dzato Changmai Monastery"@en ,
-		"རྫ་སྟོད་ལྕང་མའི་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1285
-	tolo:displayLabel
-		"Dongkar Dzong"@en ,
-		"གདོང་དཀར་རྫོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1286
 	tolo:displayLabel
 		"Zangri"@en ,
@@ -7075,22 +6753,6 @@ told:_Place_1288
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.48500_92.29427 ;
-	.
-
-told:_Place_129
-	tolo:displayLabel
-		"Lhatel Rinchen Ling"@en ,
-		"ལྷ་ཐེལ་རིན་ཆེན་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1291
-	tolo:displayLabel
-		"Khawa Lungri"@en ,
-		"ཁ་བ་ལུང་རི།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1292
@@ -7120,22 +6782,6 @@ told:_Place_1295
 	tolo:isRenderedAt told:_GeoPoint_47.98255_106.9377167 ;
 	.
 
-told:_Place_1296
-	tolo:displayLabel
-		"Chungchen Peldzong"@en ,
-		"ཁྱུང་ཆེན་དཔལ་རྫོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1297
-	tolo:displayLabel
-		"Namtseding Monastery"@en ,
-		"གནམ་རྩེ་ལྡིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1298
 	tolo:displayLabel
 		"Surkhang Printery"@en ,
@@ -7143,14 +6789,6 @@ told:_Place_1298
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.65194_91.13318 ;
-	.
-
-told:_Place_1299
-	tolo:displayLabel
-		"Taktsang Monastery"@en ,
-		"སྟག་ཚང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_13
@@ -7207,38 +6845,6 @@ told:_Place_1305
 	tolo:isRenderedAt told:_GeoPoint_33.50504_76.81025 ;
 	.
 
-told:_Place_1308
-	tolo:displayLabel
-		"Karchung Doring"@en ,
-		"དཀར་ཆུང་རྡོ་རིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1309
-	tolo:displayLabel
-		"Shukchung"@en ,
-		"ཤུག་ཆུང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_131
-	tolo:displayLabel
-		"Dong"@en ,
-		"ལྡོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1311
-	tolo:displayLabel
-		"Zambulung"@en ,
-		"ཟམ་བུ་ལུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1312
 	tolo:displayLabel
 		"Roerich House"@en ,
@@ -7293,14 +6899,6 @@ told:_Place_1318
 	tolo:isRenderedAt told:_GeoPoint_31.95000_100.26667 ;
 	.
 
-told:_Place_132
-	tolo:displayLabel
-		"Kodrak Hermitage"@en ,
-		"ཀོ་བྲག་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1320
 	tolo:displayLabel
 		"Shukjung"@en ,
@@ -7316,6 +6914,7 @@ told:_Place_1321
 		"བཿ་གནས་བསམ་གཏན་བཤད་སྒྲུབ་བསཏ།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_31.204436_100.827996 ;
 	.
 
 told:_Place_1322
@@ -7333,7 +6932,7 @@ told:_Place_1323
 		"མདོ་རྡོ་རྗེ་བྲག།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_30.05000_101.96667 ;
+	tolo:isRenderedAt told:_GeoPoint_30.041315_101.956165 ;
 	.
 
 told:_Place_1324
@@ -7361,14 +6960,6 @@ told:_Place_1327
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.65146_91.13383 ;
-	.
-
-told:_Place_1328
-	tolo:displayLabel
-		"Kyitopa"@en ,
-		"སྐྱིད་སྟོད་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1329
@@ -7632,14 +7223,6 @@ told:_Place_1359
 	tolo:isRenderedAt told:_GeoPoint_29.6538646_91.1122623 ;
 	.
 
-told:_Place_136
-	tolo:displayLabel
-		"Jangchen"@en ,
-		"བྱང་ཆེན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1361
 	tolo:displayLabel
 		"Shardza Hermitage"@en ,
@@ -7658,14 +7241,6 @@ told:_Place_1362
 	tolo:isRenderedAt told:_GeoPoint_32.78402_103.90570 ;
 	.
 
-told:_Place_1364
-	tolo:displayLabel
-		"Khyunglung Ngulkhar"@en ,
-		"ཁྱུང་ལུང་དངུལ་མཁར་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1365
 	tolo:displayLabel
 		"Dachen"@en ,
@@ -7682,14 +7257,6 @@ told:_Place_1368
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_32.81350_103.64088 ;
-	.
-
-told:_Place_1369
-	tolo:displayLabel
-		"Gyarong Khamtsen"@en ,
-		"རྒྱལ་རོང་ཁམ་ཚེན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_137
@@ -7731,31 +7298,7 @@ told:_Place_1380
 		"ཀི་ལུང་།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	tolo:isRenderedAt told:_GeoPoint_33.1364361_98.1365361 ;
-	.
-
-told:_Place_1387
-	tolo:displayLabel
-		"Wosel Monastery"@en ,
-		"འོད་གསལ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1388
-	tolo:displayLabel
-		"Tolung Tsendro"@en ,
-		"བཙན་གྲོ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1390
-	tolo:displayLabel
-		"Zhok Gurmon"@en ,
-		"ཞོགས་གུར་སྨོན་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_33.128926_98.133486 ;
 	.
 
 told:_Place_1391
@@ -7861,14 +7404,6 @@ told:_Place_1400
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_28.96667_89.18333 ;
-	.
-
-told:_Place_1401
-	tolo:displayLabel
-		"Kam Monastery"@en ,
-		"སྐམ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1402
@@ -8126,22 +7661,6 @@ told:_Place_1432
 	tolo:isRenderedAt told:_GeoPoint_31.86911_102.46491 ;
 	.
 
-told:_Place_1433
-	tolo:displayLabel
-		"Minyak Kyernang"@en ,
-		"མི་ཉག་སྐེར་ནང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1434
-	tolo:displayLabel
-		"Kardza"@en ,
-		"དཀར་མཛའ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1435
 	tolo:displayLabel
 		"Lautang"@en ,
@@ -8149,30 +7668,6 @@ told:_Place_1435
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_30.61667_101.40000 ;
-	.
-
-told:_Place_1436
-	tolo:displayLabel
-		"Pema Ritro"@en ,
-		"པདམ་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1437
-	tolo:displayLabel
-		"Tabka"@en ,
-		"སྟབས་ཀ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1439
-	tolo:displayLabel
-		"Tangsak"@en ,
-		"ཐང་སག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1442
@@ -8203,22 +7698,6 @@ told:_Place_1448
 	tolo:displayLabel "Shambhala Mountain Center"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_40.7353776_-105.5419823 ;
-	.
-
-told:_Place_145
-	tolo:displayLabel
-		"Druk Monastery"@en ,
-		"འབྲུག་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1450
-	tolo:displayLabel
-		"Mokchok"@en ,
-		"ལྷ་ཕུ་རྨོག་ལྕོག་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1452
@@ -8431,14 +7910,6 @@ told:_Place_1479
 	tolo:isRenderedAt told:_GeoPoint_40.761388_-75.037401 ;
 	.
 
-told:_Place_1480
-	tolo:displayLabel
-		"Pombora Khamtsen"@en ,
-		"སྤོམ་འབོ་ར་ཁམས་ཚན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1481
 	tolo:displayLabel
 		"Ngopu Yangchen Puntsok Ling"@en ,
@@ -8457,14 +7928,6 @@ told:_Place_1482
 	tolo:isRenderedAt told:_GeoPoint_28.26667_99.20000 ;
 	.
 
-told:_Place_1486
-	tolo:displayLabel
-		"Adu Yakgo"@en ,
-		"ཨ་འདུས་ཡག་མགོ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1487
 	tolo:displayLabel
 		"Datsang"@en ,
@@ -8481,22 +7944,6 @@ told:_Place_1488
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_32.84673_97.14666 ;
-	.
-
-told:_Place_1489
-	tolo:displayLabel
-		"Tridu Kelzang"@en ,
-		"ཁྲི་འདུ་སྐལ་བཟང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1490
-	tolo:displayLabel
-		"Serjong"@en ,
-		"ཀུ་སེ་གསེར་ལྗོངས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1491
@@ -8530,22 +7977,6 @@ told:_Place_1494
 	tolo:displayLabel "Lumbini"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_27.469397_83.275519 ;
-	.
-
-told:_Place_1496
-	tolo:displayLabel
-		"Dzinda Neseb"@en ,
-		"འཛིན་མདའ་གནས་གསེབ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1497
-	tolo:displayLabel
-		"Dzonyak Samdrub"@en ,
-		"མཛོ་ཉག་བསམ་གྲུབ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1498
@@ -8686,14 +8117,6 @@ told:_Place_1513
 	tolo:isRenderedAt told:_GeoPoint_27.7151461_85.2907484 ;
 	.
 
-told:_Place_1515
-	tolo:displayLabel
-		"Tawu Sangngak Chokdrub Ling"@en ,
-		"རྟའུ་གསང་སྔགས་མཆོག་གྲུབ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1516
 	tolo:displayLabel
 		"Lhalam"@en ,
@@ -8719,38 +8142,6 @@ told:_Place_1518
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_28.53504_92.88560 ;
-	.
-
-told:_Place_1519
-	tolo:displayLabel
-		"Drumpa"@en ,
-		"བྷྲུམ་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_152
-	tolo:displayLabel
-		"Ngen"@en ,
-		"རྔན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_1520
-	tolo:displayLabel
-		"Taser"@en ,
-		"མཐའ་སེར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_4 ;
-	.
-
-told:_Place_1521
-	tolo:displayLabel
-		"Ru Gonsar"@en ,
-		"རུ་དགོན་གསར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_4 ;
 	.
 
 told:_Place_1522
@@ -8825,14 +8216,6 @@ told:_Place_1530
 	tolo:isRenderedAt told:_GeoPoint_32.239289_76.3250879 ;
 	.
 
-told:_Place_1532
-	tolo:displayLabel
-		"Dranggyekha"@en ,
-		"འབྲང་རྒྱས་ཁ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1534
 	tolo:displayLabel
 		"Tsangsar Namgon"@en ,
@@ -8875,14 +8258,6 @@ told:_Place_1539
 	tolo:isRenderedAt told:_GeoPoint_27.675333_85.324667 ;
 	.
 
-told:_Place_154
-	tolo:displayLabel
-		"Kharak"@en ,
-		"ཁ་རག་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1541
 	tolo:displayLabel "Pema Khyung Dzong"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
@@ -8916,14 +8291,6 @@ told:_Place_1544
 	tolo:isRenderedAt told:_GeoPoint_28.5887139_84.639508 ;
 	.
 
-told:_Place_1545
-	tolo:displayLabel
-		"Jekhar Chode Gon"@en ,
-		"བྱེ་མཁར་ཆོས་སྡེ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1546
 	tolo:displayLabel
 		"Drapu Choling"@en ,
@@ -8955,14 +8322,6 @@ told:_Place_1552
 	tolo:displayLabel "Chungtang"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_27.60592556300457_88.64577614510144 ;
-	.
-
-told:_Place_1554
-	tolo:displayLabel
-		"Jangchub Chokhor Ling"@en ,
-		"བྱང་ཆུབ་ཆོས་འཁོར་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1556
@@ -9008,14 +8367,6 @@ told:_Place_1561
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_29.6505178_91.130693 ;
-	.
-
-told:_Place_1568
-	tolo:displayLabel
-		"Wara"@en ,
-		"ཝ་ར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_157
@@ -9096,22 +8447,6 @@ told:_Place_158
 	tolo:isRenderedAt told:_GeoPoint_31.95431_95.75779 ;
 	.
 
-told:_Place_1580
-	tolo:displayLabel
-		"Dome Chikyab"@en ,
-		"མདོ་སྨད་སྤྱི་ཁྱབ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1583
-	tolo:displayLabel
-		"Dekhar"@en ,
-		"བདེ་མཁར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1585
 	tolo:displayLabel
 		"Sera"@en ,
@@ -9157,14 +8492,6 @@ told:_Place_159
 	tolo:isRenderedAt told:_GeoPoint_30.6997_98.3555 ;
 	.
 
-told:_Place_1590
-	tolo:displayLabel
-		"Dokhar"@en ,
-		"མདོ་མཁར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1591
 	tolo:displayLabel
 		"Jamchen Lhakhang"@en ,
@@ -9172,14 +8499,6 @@ told:_Place_1591
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_27.7214185_85.3616598 ;
-	.
-
-told:_Place_1596
-	tolo:displayLabel
-		"Namgyel Chode"@en ,
-		"རྣམ་རྒྱལ་ཆོས་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1597
@@ -9248,21 +8567,13 @@ told:_Place_1609
 	tolo:isRenderedAt told:_GeoPoint_30.242778_120.096667 ;
 	.
 
-told:_Place_161
-	tolo:displayLabel
-		"Janak"@en ,
-		"བྱ་ནག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1610
 	tolo:displayLabel
 		"Yarlung Tashi Chode"@en ,
 		"ཡར་ཀླུང་བཀྲ་ཤིས་ཆོས་སྡེ།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	tolo:isRenderedAt told:_GeoPoint_29.938_91.4626 ;
+	tolo:isRenderedAt told:_GeoPoint_29.16073_91.77412 ;
 	.
 
 told:_Place_1611
@@ -9316,6 +8627,15 @@ told:_Place_1620
 	tolo:isRenderedAt told:_GeoPoint_29.1189812_88.8247631 ;
 	.
 
+told:_Place_1621
+	tolo:displayLabel
+		"Gyelmo Murdo"@en ,
+		"རྒྱལ་མོ་དམུ་རྡོ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_30.9861024_101.9526257 ;
+	.
+
 told:_Place_1624
 	tolo:displayLabel
 		"Yutsa"@en ,
@@ -9323,14 +8643,6 @@ told:_Place_1624
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_36.60_102.2059 ;
-	.
-
-told:_Place_1625
-	tolo:displayLabel
-		"Ditsa Parkhang"@en ,
-		"བཀྲ་ཤིས་ཆོས་སྡིངས་ཀྱི་པར་ཁང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1627
@@ -9367,14 +8679,6 @@ told:_Place_1632
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_31.93333_99.21667 ;
-	.
-
-told:_Place_1633
-	tolo:displayLabel
-		"Khyungdrak"@en ,
-		"ཁྱུང་ལྟག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1634
@@ -9423,22 +8727,6 @@ told:_Place_1641
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_40.732444385285326_-123.06649550968343 ;
-	.
-
-told:_Place_1643
-	tolo:displayLabel
-		"Horkhang"@en ,
-		"ཧོར་ཁང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
-told:_Place_1645
-	tolo:displayLabel
-		"Sarwahai"@en ,
-		"སར་བ་ཧའི་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1649
@@ -9496,14 +8784,6 @@ told:_Place_1659
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_15.0286195_75.0031857 ;
-	.
-
-told:_Place_166
-	tolo:displayLabel
-		"Drokmi"@en ,
-		"འབྲོག་མི།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_1660
@@ -9576,14 +8856,6 @@ told:_Place_1673
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_30.33333_99.35000 ;
-	.
-
-told:_Place_1674
-	tolo:displayLabel
-		"Yaso Monastery"@en ,
-		"ཡ་སོ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1676
@@ -9676,14 +8948,6 @@ told:_Place_1689
 	tolo:isRenderedAt told:_GeoPoint_37.92223008640857_-105.63826042815721 ;
 	.
 
-told:_Place_169
-	tolo:displayLabel
-		"Nyang"@en ,
-		"མྱང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_1690
 	tolo:displayLabel
 		"Tibet House"@en ,
@@ -9735,14 +8999,6 @@ told:_Place_1696
 	tolo:isRenderedAt told:_GeoPoint_27.29897_88.627532 ;
 	.
 
-told:_Place_1697
-	tolo:displayLabel
-		"Zhakdra Lhatse"@en ,
-		"བཞག་བྲ་ལྷ་རྩེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1698
 	tolo:displayLabel
 		"Namgyelteng"@en ,
@@ -9776,14 +9032,6 @@ told:_Place_1703
 	tolo:isRenderedAt told:_GeoPoint_36.13045_98.38606 ;
 	.
 
-told:_Place_1704
-	tolo:displayLabel
-		"Ke Mingyur Dorje Drak"@en ,
-		"ཁེ་མི་འགྱུར་རྡོ་རྗེ་བྲག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1705
 	tolo:displayLabel
 		"Kolri"@en ,
@@ -9791,14 +9039,6 @@ told:_Place_1705
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_29.83333_99.81667 ;
-	.
-
-told:_Place_1706
-	tolo:displayLabel
-		"Geri"@en ,
-		"དགེ་རི།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1707
@@ -9825,14 +9065,6 @@ told:_Place_1709
 	tolo:isRenderedAt told:_GeoPoint_29.91667_89.48333 ;
 	.
 
-told:_Place_1710
-	tolo:displayLabel
-		"Draklha Gampo"@en ,
-		"བྲག་ལྷ་མགོན་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1711
 	tolo:displayLabel
 		"Drakkar Treldzong"@en ,
@@ -9840,14 +9072,6 @@ told:_Place_1711
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_35.509293_99.800546 ;
-	.
-
-told:_Place_1712
-	tolo:displayLabel
-		"Kuso Togyel"@en ,
-		"སྐུ་བསོ་ཐོག་རྒྱལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1713
@@ -9937,7 +9161,7 @@ told:_Place_1724
 		"ཟང་ཟང་ལྷ་བྲག།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	tolo:isRenderedAt told:_GeoPoint_29.45000_86.60000 ;
+	tolo:isRenderedAt told:_GeoPoint_29.423331_86.728958 ;
 	.
 
 told:_Place_1725
@@ -10001,6 +9225,12 @@ told:_Place_1734
 	tolo:displayLabel "Katog Tingdzin Ling"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_25.75063_-80.23306 ;
+	.
+
+told:_Place_1735
+	tolo:displayLabel "Katog Rit'hröd"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_35.947758_-93.308857 ;
 	.
 
 told:_Place_1736
@@ -10075,14 +9305,6 @@ told:_Place_1748
 	tolo:isRenderedAt told:_GeoPoint_30.9424593_99.6057897 ;
 	.
 
-told:_Place_1750
-	tolo:displayLabel
-		"Labrang Tantric College"@en ,
-		"བླ་བྲང་བཀྲ་ཤིས་འཁྱིལ་རྒྱུད་པ་གྲྭ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	.
-
 told:_Place_1752
 	tolo:displayLabel
 		"Gotsa"@en ,
@@ -10090,14 +9312,6 @@ told:_Place_1752
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_32.58333_98.88333 ;
-	.
-
-told:_Place_1753
-	tolo:displayLabel
-		"Danyin Khala Ronggo"@en ,
-		"ཟླ་ཉིན་ཁ་ལ་རོང་སྒོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	.
 
 told:_Place_1755
@@ -10118,7 +9332,7 @@ told:_Place_1761
 		"རྨེ་བ།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	tolo:isRenderedAt told:_GeoPoint_32.92582_102.62011 ;
+	tolo:isRenderedAt told:_GeoPoint_32.918677_102.692715 ;
 	.
 
 told:_Place_1762
@@ -10127,7 +9341,7 @@ told:_Place_1762
 		"ལུང་སྔོན་དགོན།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
-	tolo:isRenderedAt told:_GeoPoint_33.86000_99.66000 ;
+	tolo:isRenderedAt told:_GeoPoint_33.855333_100.052467 ;
 	.
 
 told:_Place_1766
@@ -10139,6 +9353,78 @@ told:_Place_1766
 	tolo:isRenderedAt told:_GeoPoint_29.51667_89.58334 ;
 	.
 
+told:_Place_1767
+	tolo:displayLabel
+		"Chukchikzhal"@en ,
+		"བཅུ་གཅིག་ཞལ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_33.533411_76.9014 ;
+	.
+
+told:_Place_1769
+	tolo:displayLabel
+		"Dorka"@en ,
+		"དོར་ཀ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_33.94195_99.81004 ;
+	.
+
+told:_Place_1770
+	tolo:displayLabel "Sengti"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_35.163202_100.677423 ;
+	.
+
+told:_Place_1771
+	tolo:displayLabel "Garchen Monastery"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_31.715301_96.369073 ;
+	.
+
+told:_Place_1772
+	tolo:displayLabel
+		"Wogmin Thubten Shedrub Ling"@en ,
+		"འོག་མིན་ཐུབ་བསྟན་ཤེས་གྲུབ་གླིང་།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_31.6339465_76.8339033 ;
+	.
+
+told:_Place_1773
+	tolo:displayLabel "Shashur Gompa"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.579167_77.025556 ;
+	.
+
+told:_Place_1774
+	tolo:displayLabel
+		"Zuru Monastery"@en ,
+		"གཟུ་རུ་དགོན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.907597_95.266877 ;
+	.
+
+told:_Place_1775
+	tolo:displayLabel
+		"Great White Pagoda"@en ,
+		"རིང་བསྲེལ་མཆོད་བརྟན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_39.008_113.5894 ;
+	.
+
+told:_Place_1778
+	tolo:displayLabel
+		"Shinglung Monastery"@en ,
+		"ཤིང་ལུང་རབ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_36.92911_102.10381 ;
+	.
+
 told:_Place_178
 	tolo:displayLabel
 		"Tarlam"@en ,
@@ -10148,12 +9434,109 @@ told:_Place_178
 	tolo:isRenderedAt told:_GeoPoint_33.264290_96.972114 ;
 	.
 
-told:_Place_179
+told:_Place_1780
+	tolo:displayLabel "Mahakaal"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_27.70399_85.31389 ;
+	.
+
+told:_Place_1782
 	tolo:displayLabel
-		"Dezhung Monastery"@en ,
-		"སྡེ་གཞུང་དགོན།"@bo
+		"Lotsa Monastery"@en ,
+		"ལོ་ཙཱ་དགོན།"@bo
 		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.9360583_91.0448957 ;
+	.
+
+told:_Place_1783
+	tolo:displayLabel
+		"Dzongkar Chode"@en ,
+		"རྫོང་ཀར་ཆོས་སྡེ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_28.85000_85.30000 ;
+	.
+
+told:_Place_1784
+	tolo:displayLabel
+		"Tibet University"@en ,
+		"བོད་ལྗོངས་སློབ་གྲྭ་ཆེན་མོ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.6458365_91.1456341 ;
+	.
+
+told:_Place_1785
+	tolo:displayLabel
+		"Gau Monastery"@en ,
+		"གའུ་དགོན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.86666_97.41666 ;
+	.
+
+told:_Place_1786
+	tolo:displayLabel
+		"Teura"@en ,
+		"རྟེའུ་ར་དགོན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_28.42902_92.41851 ;
+	.
+
+told:_Place_1789
+	tolo:displayLabel
+		"Dhogon Palace"@en ,
+		"རྡོ་དགོན་ཕོ་བྲང་།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.4212847_90.1475082 ;
+	.
+
+told:_Place_1792
+	tolo:displayLabel
+		"Shangdu"@en ,
+		"ཤང་དུ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_42.358409_116.183875 ;
+	.
+
+told:_Place_1793
+	tolo:displayLabel
+		"Pakpawati"@en ,
+		"འཕགས་པ་དགོན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_28.40000_85.33334 ;
+	.
+
+told:_Place_1795
+	tolo:displayLabel
+		"Puri"@en ,
+		"ཕུ་རི།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_28.81016_86.26242 ;
+	.
+
+told:_Place_1796
+	tolo:displayLabel
+		"Chepu Sengge Ling"@en ,
+		"དཔྱད་ཕུ་སེང་གེ་གླིང་།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.008794171535246_86.3610900806261 ;
+	.
+
+told:_Place_1797
+	tolo:displayLabel
+		"Tsere Monastery"@en ,
+		"རྩེ་རེ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.86666_97.41666 ;
 	.
 
 told:_Place_180
@@ -10165,6 +9548,69 @@ told:_Place_180
 	tolo:isRenderedAt told:_GeoPoint_31.64298_98.96288 ;
 	.
 
+told:_Place_1800
+	tolo:displayLabel
+		"Üsütü Zuu"@en ,
+		"དགའ་མཐུན་གླིང་།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_40.4938_111.3333 ;
+	.
+
+told:_Place_1803
+	tolo:displayLabel
+		"Gongwa"@en ,
+		"གོང་བ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_36.05000_101.47665 ;
+	.
+
+told:_Place_1804
+	tolo:displayLabel
+		"Seralung Ganden Damcholing"@en ,
+		"སེ་ར་ལུང་དགའ་ལྡན་དམ་ཆོས་གླིང་།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_36.628833_102.754525 ;
+	.
+
+told:_Place_1805
+	tolo:displayLabel
+		"Sokkhar Drubde"@en ,
+		"སྲོག་མཁར་གྲུབ་སྡེ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_36.574193_102.721007 ;
+	.
+
+told:_Place_1806
+	tolo:displayLabel
+		"Tashitse"@en ,
+		"བཀྲ་ཤིས་རྩེ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_37.123011_101.534372 ;
+	.
+
+told:_Place_1807
+	tolo:displayLabel
+		"Melong Monastery"@en ,
+		"མེ་ལོང་དགོན།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_36.0271_101.6047 ;
+	.
+
+told:_Place_1809
+	tolo:displayLabel
+		"Jowo Dzamling Karpo"@en ,
+		"ཇོ་བོ་འཛམ་གླིང་དཀར་པོ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_27.7070744_85.3097743 ;
+	.
+
 told:_Place_181
 	tolo:displayLabel
 		"Longtang Dolma"@en ,
@@ -10172,6 +9618,57 @@ told:_Place_181
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_32.48333_98.01667 ;
+	.
+
+told:_Place_1811
+	tolo:displayLabel
+		"Tsomey"@en ,
+		"མཚོ་སྨད།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.82057_90.73303 ;
+	.
+
+told:_Place_1814
+	tolo:displayLabel
+		"Chaktsa"@en ,
+		"ཕྱག་ཚ།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.71667_98.38333 ;
+	.
+
+told:_Place_1816
+	tolo:displayLabel "Dorje Dzong"@en ;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_35.24027_101.81000 ;
+	.
+
+told:_Place_1820
+	tolo:displayLabel
+		"Zangyak"@en ,
+		"ཟངས་ཡག་ནམ་མཁའ་བྲག།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.41233_90.97745 ;
+	.
+
+told:_Place_1824
+	tolo:displayLabel
+		"Rātī"@en ,
+		"རཱ་ཏཱི།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_29.96667_101.58334 ;
+	.
+
+told:_Place_1825
+	tolo:displayLabel
+		"Mipam Cave"@en ,
+		"མི་ཕམ་སྒྲུབ་ཕུག།"@bo
+		;
+	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
+	tolo:isRenderedAt told:_GeoPoint_32.106218_98.8509491 ;
 	.
 
 told:_Place_183
@@ -10192,14 +9689,6 @@ told:_Place_185
 	tolo:isRenderedAt told:_GeoPoint_29.28333_89.21667 ;
 	.
 
-told:_Place_188
-	tolo:displayLabel
-		"Garmo Chodzong"@en ,
-		"མགར་མོ་ཆོས་རྫོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_190
 	tolo:displayLabel
 		"Gyume"@en ,
@@ -10207,22 +9696,6 @@ told:_Place_190
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_29.65594_91.13431 ;
-	.
-
-told:_Place_191
-	tolo:displayLabel
-		"Riwo Gepel"@en ,
-		"རི་བོ་དགེ་འཕེལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_192
-	tolo:displayLabel
-		"Gangchen Chopel"@en ,
-		"གངས་ཅན་ཆོས་འཕེལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_195
@@ -10259,38 +9732,6 @@ told:_Place_199
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.881093_91.211952 ;
-	.
-
-told:_Place_200
-	tolo:displayLabel
-		"Khyungpo"@en ,
-		"ཁྱུང་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_201
-	tolo:displayLabel
-		"Gyu"@en ,
-		"རྒྱུས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_203
-	tolo:displayLabel
-		"Zira"@en ,
-		"བཟི་ར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_205
-	tolo:displayLabel
-		"Rashuk"@en ,
-		"ར་ཤུག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_206
@@ -10392,14 +9833,6 @@ told:_Place_218
 	tolo:isRenderedAt told:_GeoPoint_31.37117_96.50273 ;
 	.
 
-told:_Place_219
-	tolo:displayLabel
-		"Riwoche Yanggon"@en ,
-		"རི་བོ་ཆེ་ཡང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_224
 	tolo:displayLabel
 		"Poto"@en ,
@@ -10416,14 +9849,6 @@ told:_Place_225
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.15336_91.76162 ;
-	.
-
-told:_Place_226
-	tolo:displayLabel
-		"Puchung"@en ,
-		"ཕུ་ཆུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_228
@@ -10489,22 +9914,6 @@ told:_Place_237
 	tolo:isRenderedAt told:_GeoPoint_31.14336_97.17725 ;
 	.
 
-told:_Place_239
-	tolo:displayLabel
-		"Ja"@en ,
-		"བྱ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_240
-	tolo:displayLabel
-		"Bon"@en ,
-		"བོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_241
 	tolo:displayLabel
 		"Patsang"@en ,
@@ -10568,30 +9977,6 @@ told:_Place_247
 	tolo:isRenderedAt told:_GeoPoint_32.19614_96.42992 ;
 	.
 
-told:_Place_248
-	tolo:displayLabel
-		"Nangchen Gar"@en ,
-		"ནང་ཆེན་གར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_249
-	tolo:displayLabel
-		"Lingga Dewachen"@en ,
-		"གླིང་དགའ་བདེ་བ་ཅན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_250
-	tolo:displayLabel
-		"Musu Yama Monastery"@en ,
-		"མུས་སུ་ཡ་མ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_251
 	tolo:displayLabel
 		"Dingma"@en ,
@@ -10628,20 +10013,13 @@ told:_Place_255
 	tolo:isRenderedAt told:_GeoPoint_31.20000_94.03333 ;
 	.
 
-told:_Place_259
+told:_Place_256
 	tolo:displayLabel
-		"Sinmo Dzong"@en ,
-		"སྲིན་མོ་རྫོང་།"@bo
+		"Den Chokhor"@en ,
+		"ལྡན་ཆོས་འཁོར།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_264
-	tolo:displayLabel
-		"Dro"@en ,
-		"གྲོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_32.463631_97.982447 ;
 	.
 
 told:_Place_266
@@ -10653,14 +10031,6 @@ told:_Place_266
 	tolo:isRenderedAt told:_GeoPoint_31.66667_99.73333 ;
 	.
 
-told:_Place_269
-	tolo:displayLabel
-		"Tanak Serling"@en ,
-		"རྟ་ནག་གསེར་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_270
 	tolo:displayLabel
 		"Tanak Tubten Namgyel"@en ,
@@ -10668,14 +10038,6 @@ told:_Place_270
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.46667_88.21667 ;
-	.
-
-told:_Place_271
-	tolo:displayLabel
-		"Japuk Dongak Dargye Ling"@en ,
-		"བྱ་ཕུག་མདོ་སྔགས་དར་རྒྱས་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_273
@@ -10714,22 +10076,6 @@ told:_Place_276
 	tolo:isRenderedAt told:_GeoPoint_29.26667_88.33334 ;
 	.
 
-told:_Place_277
-	tolo:displayLabel
-		"Chokhor Lhunpo"@en ,
-		"ཆོས་འཁོར་ལྷུན་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_278
-	tolo:displayLabel
-		"Tashi Pende"@en ,
-		"བཀྲ་ཤིས་ཕན་བདེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_280
 	tolo:displayLabel
 		"Chakra"@en ,
@@ -10739,14 +10085,6 @@ told:_Place_280
 	tolo:isRenderedAt told:_GeoPoint_31.707441_98.574394 ;
 	.
 
-told:_Place_281
-	tolo:displayLabel
-		"Dak"@en ,
-		"དྭགས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_282
 	tolo:displayLabel
 		"Pewar"@en ,
@@ -10754,30 +10092,6 @@ told:_Place_282
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.52646_98.84868 ;
-	.
-
-told:_Place_284
-	tolo:displayLabel
-		"Tsedong"@en ,
-		"རྩེ་གདོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_285
-	tolo:displayLabel
-		"Tashi Cholung"@en ,
-		"བཀྲ་ཤིས་ཆོས་ལུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_286
-	tolo:displayLabel
-		"Lho Chotritang"@en ,
-		"ལྷོ་ཆོས་ཁྲི་ཐང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_287
@@ -10823,14 +10137,6 @@ told:_Place_291
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_30.00733_91.26695 ;
-	.
-
-told:_Place_293
-	tolo:displayLabel
-		"Lhodrak Drowa Gon"@en ,
-		"ལྷོ་བྲག་སྒྲོ་བ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_294
@@ -10887,14 +10193,6 @@ told:_Place_305
 	tolo:isRenderedAt told:_GeoPoint_29.53252_90.91482 ;
 	.
 
-told:_Place_306
-	tolo:displayLabel
-		"Nyetang Longdol Hermitage"@en ,
-		"མཉེས་ཐང་ཀློང་རྡོལ་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_307
 	tolo:displayLabel
 		"Cheri Monastery"@en ,
@@ -10911,30 +10209,6 @@ told:_Place_308
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_27.593052_89.638776 ;
-	.
-
-told:_Place_309
-	tolo:displayLabel
-		"Bangri Jokpo"@en ,
-		"བང་རི་འཇོག་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_310
-	tolo:displayLabel
-		"Dar Chode"@en ,
-		"འདར་ཆོས་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_311
-	tolo:displayLabel
-		"Ladring Chode"@en ,
-		"བླ་འབྲིང་ཆོས་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_312
@@ -10982,14 +10256,6 @@ told:_Place_317
 	tolo:isRenderedAt told:_GeoPoint_29.880627_91.828872 ;
 	.
 
-told:_Place_318
-	tolo:displayLabel
-		"Meldro Chakar"@en ,
-		"མལ་གྲོ་ཆ་དཀར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_319
 	tolo:displayLabel
 		"Shartse College"@en ,
@@ -11026,22 +10292,6 @@ told:_Place_322
 	tolo:isRenderedAt told:_GeoPoint_29.705515_91.138730 ;
 	.
 
-told:_Place_323
-	tolo:displayLabel
-		"Drula"@en ,
-		"འབྲུ་ལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_324
-	tolo:displayLabel
-		"Taktse Rinchen Gang"@en ,
-		"སྟག་རྩེ་རིན་ཆེན་སྒང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_325
 	tolo:displayLabel
 		"Kyormolung"@en ,
@@ -11049,14 +10299,6 @@ told:_Place_325
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.64535_90.93782 ;
-	.
-
-told:_Place_326
-	tolo:displayLabel
-		"Drakwar Monastery"@en ,
-		"བྲག་དབར་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_327
@@ -11102,14 +10344,6 @@ told:_Place_334
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.00997_91.66037 ;
-	.
-
-told:_Place_335
-	tolo:displayLabel
-		"Rinchen Drak"@en ,
-		"རིན་ཆེན་བྲག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_339
@@ -11211,14 +10445,6 @@ told:_Place_352
 	tolo:isRenderedAt told:_GeoPoint_31.483_79.798 ;
 	.
 
-told:_Place_353
-	tolo:displayLabel
-		"To Jayul Monastery"@en ,
-		"སྟོད་བྱ་ཡུལ་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_354
 	tolo:displayLabel
 		"Chone"@en ,
@@ -11235,14 +10461,6 @@ told:_Place_355
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.676052_91.047650 ;
-	.
-
-told:_Place_357
-	tolo:displayLabel
-		"Pakmo Chode"@en ,
-		"ཕག་མོ་ཆོས་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_358
@@ -11353,14 +10571,6 @@ told:_Place_37
 	tolo:isRenderedAt told:_GeoPoint_29.69781_91.13272 ;
 	.
 
-told:_Place_370
-	tolo:displayLabel
-		"Evaṃ Monastery"@en ,
-		"ཨེ་ཝཾ་དགོན༏་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_371
 	tolo:displayLabel
 		"Petseling"@en ,
@@ -11413,14 +10623,6 @@ told:_Place_376
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_27.487683_89.899364 ;
-	.
-
-told:_Place_378
-	tolo:displayLabel
-		"Tubten Jago Pungpo"@en ,
-		"ཐུབ་བསྟན་བྱ་རྒོད་ཕུང་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_38
@@ -11666,14 +10868,6 @@ told:_Place_418
 	tolo:isRenderedAt told:_GeoPoint_27.4565613_89.3893131 ;
 	.
 
-told:_Place_419
-	tolo:displayLabel
-		"Tasho Pomdrak"@en ,
-		"ཁྲ་ཤོད་སྤོམ་བྲག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_420
 	tolo:displayLabel
 		"Yangri Gar"@en ,
@@ -11698,7 +10892,7 @@ told:_Place_422
 		"དགེ་མང་།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
-	tolo:isRenderedAt told:_GeoPoint_33.2248_98.0686 ;
+	tolo:isRenderedAt told:_GeoPoint_33.14433_98.04146 ;
 	.
 
 told:_Place_423
@@ -11735,14 +10929,6 @@ told:_Place_43
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_3 ;
 	tolo:isRenderedAt told:_GeoPoint_31.1818_99.5444 ;
-	.
-
-told:_Place_430
-	tolo:displayLabel
-		"Rakchab Sengri Dorje Yudzong"@en ,
-		"རཀ་ཆབ་སེང་རི་རྡོ་རྗེ་གཡུ་རྫོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_432
@@ -11943,14 +11129,6 @@ told:_Place_459
 	tolo:isRenderedAt told:_GeoPoint_35.06531_102.88647 ;
 	.
 
-told:_Place_463
-	tolo:displayLabel
-		"Yi"@en ,
-		"གཡི།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_465
 	tolo:displayLabel
 		"Gangya Drakkar Gon"@en ,
@@ -11967,14 +11145,6 @@ told:_Place_466
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.45252_92.72956 ;
-	.
-
-told:_Place_467
-	tolo:displayLabel
-		"Tsagen Peshing"@en ,
-		"ཚ་གན་པེ་ཤིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_468
@@ -11995,22 +11165,6 @@ told:_Place_469
 	tolo:isRenderedAt told:_GeoPoint_33.140498_97.923975 ;
 	.
 
-told:_Place_47
-	tolo:displayLabel
-		"Bochung"@en ,
-		"བོ་ཆུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_471
-	tolo:displayLabel
-		"Junyung Hermitage"@en ,
-		"འཇུ་ཉུང་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_472
 	tolo:displayLabel
 		"Pelpung"@en ,
@@ -12018,14 +11172,6 @@ told:_Place_472
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_31.64865_98.79584 ;
-	.
-
-told:_Place_473
-	tolo:displayLabel
-		"Kaṁpo Nenang"@en ,
-		"ཀཾ་པོ་གནས་ནང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_474
@@ -12109,30 +11255,6 @@ told:_Place_485
 	tolo:isRenderedAt told:_GeoPoint_29.24915_91.79376 ;
 	.
 
-told:_Place_488
-	tolo:displayLabel
-		"Wangda"@en ,
-		"དབང་མདའ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_489
-	tolo:displayLabel
-		"Denang Monastery"@en ,
-		"སྡེ་ནང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_490
-	tolo:displayLabel
-		"Tongkyab"@en ,
-		"སྟོང་སྐྱབས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_496
 	tolo:displayLabel
 		"Dedzom Gatsel"@en ,
@@ -12178,14 +11300,6 @@ told:_Place_504
 	tolo:isRenderedAt told:_GeoPoint_35.76000_102.28000 ;
 	.
 
-told:_Place_509
-	tolo:displayLabel
-		"Gome Oseltang"@en ,
-		"སྒོམ་མེད་འོད་གསལ་ཐང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_512
 	tolo:displayLabel
 		"Jyegu Dondrub Ling"@en ,
@@ -12195,29 +11309,13 @@ told:_Place_512
 	tolo:isRenderedAt told:_GeoPoint_33.00972_97.01750 ;
 	.
 
-told:_Place_513
-	tolo:displayLabel
-		"Tum"@en ,
-		"གཏུམ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_514
 	tolo:displayLabel
 		"Se Trazang"@en ,
 		"སེ་བཀྲ་བཟང་།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_29.41667_86.88333 ;
-	.
-
-told:_Place_515
-	tolo:displayLabel
-		"Sang Ngak Tekchokling"@en ,
-		"གསང་སྔགས་ཐེག་མཆོག་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_29.3423082_86.9533596 ;
 	.
 
 told:_Place_516
@@ -12265,14 +11363,6 @@ told:_Place_520
 	tolo:isRenderedAt told:_GeoPoint_34.61000_98.26000 ;
 	.
 
-told:_Place_522
-	tolo:displayLabel
-		"Gegyel Dzogchen"@en ,
-		"དགེ་རྒྱལ་རྫོགས་ཆེན་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_523
 	tolo:displayLabel
 		"Monkhar Namseling"@en ,
@@ -12282,14 +11372,6 @@ told:_Place_523
 	tolo:isRenderedAt told:_GeoPoint_29.258865_91.458071 ;
 	.
 
-told:_Place_524
-	tolo:displayLabel
-		"Yangcho Sangcho Pema Lhunding"@en ,
-		"ཡང་ཆོས་གསང་ཆོས་པདམ་ལྷུན་སྡིངས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_525
 	tolo:displayLabel
 		"Nubzur Gon"@en ,
@@ -12297,14 +11379,6 @@ told:_Place_525
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_32.11666_100.46667 ;
-	.
-
-told:_Place_526
-	tolo:displayLabel
-		"Changma Gar"@en ,
-		"ལྕང་མ་སྒར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_527
@@ -12323,22 +11397,6 @@ told:_Place_529
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.38112_90.71995 ;
-	.
-
-told:_Place_53
-	tolo:displayLabel
-		"Lasum"@en ,
-		"ལ་གསུམ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_530
-	tolo:displayLabel
-		"Ganden Mipam Choling"@en ,
-		"དགའ་ལྡན་མི་ཕམ་ཆོས་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_532
@@ -12386,22 +11444,6 @@ told:_Place_538
 	tolo:isRenderedAt told:_GeoPoint_28.39562_92.35266 ;
 	.
 
-told:_Place_54
-	tolo:displayLabel
-		"Dre"@en ,
-		"འབྲེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_540
-	tolo:displayLabel
-		"Ganden Shedrub Ling"@en ,
-		"དགའ་ལྡན་བཤད་སྒྲུབ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_544
 	tolo:displayLabel
 		"Gingtang Gon"@en ,
@@ -12427,38 +11469,6 @@ told:_Place_547
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_32.30000_99.75000 ;
-	.
-
-told:_Place_548
-	tolo:displayLabel
-		"Kyo"@en ,
-		"སྐྱོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_549
-	tolo:displayLabel
-		"Ram"@en ,
-		"རམ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_55
-	tolo:displayLabel
-		"Getse"@en ,
-		"དགེ་རྩེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_551
-	tolo:displayLabel
-		"Gyere"@en ,
-		"གྱེ་རེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_553
@@ -12560,70 +11570,6 @@ told:_Place_572
 	tolo:isRenderedAt told:_GeoPoint_29.698147_91.136113 ;
 	.
 
-told:_Place_573
-	tolo:displayLabel
-		"Segyu Dratsang"@en ,
-		"སྲད་རྒྱུད་གྲྭ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_574
-	tolo:displayLabel
-		"Lhunpo Tse"@en ,
-		"ལྷུན་པོ་རྩེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_576
-	tolo:displayLabel
-		"Lhadong Gon"@en ,
-		"ལྷ་གདོང་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_577
-	tolo:displayLabel
-		"Tong"@en ,
-		"སྟོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_578
-	tolo:displayLabel
-		"Yudra"@en ,
-		"གཡུ་སྒྲ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_58
-	tolo:displayLabel
-		"Odren"@en ,
-		"འོ་བྲན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_580
-	tolo:displayLabel
-		"Yungok"@en ,
-		"གཡུ་རྔོག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_582
-	tolo:displayLabel
-		"Namseling"@en ,
-		"རྣམ་སྲས་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_59
 	tolo:displayLabel
 		"Neten"@en ,
@@ -12642,22 +11588,6 @@ told:_Place_590
 	tolo:isRenderedAt told:_GeoPoint_29.5117_91.1543 ;
 	.
 
-told:_Place_591
-	tolo:displayLabel
-		"Samling Monastery"@en ,
-		"བསམ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_598
-	tolo:displayLabel
-		"Adro"@en ,
-		"ཨ་གྲོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_599
 	tolo:displayLabel
 		"Yangpachen"@en ,
@@ -12673,23 +11603,7 @@ told:_Place_60
 		"རྩི་ཀེ།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_32.0395_96.9928 ;
-	.
-
-told:_Place_600
-	tolo:displayLabel
-		"Arik"@en ,
-		"ཨ་རིག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_601
-	tolo:displayLabel
-		"Ban"@en ,
-		"བན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_32.038585_96.996361 ;
 	.
 
 told:_Place_603
@@ -12701,45 +11615,13 @@ told:_Place_603
 	tolo:isRenderedAt told:_GeoPoint_28.902856_88.017310 ;
 	.
 
-told:_Place_605
-	tolo:displayLabel
-		"Chakhung"@en ,
-		"ལྕག་ཁུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_606
-	tolo:displayLabel
-		"Depa Tonpo"@en ,
-		"སྡེ་པ་མཐོན་པོ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_607
-	tolo:displayLabel
-		"Dru ('dru)"@en ,
-		"འདྲུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_612
 	tolo:displayLabel
 		"Bodong E"@en ,
 		"བོ་དོང་ཨེ།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_29.30000_88.20000 ;
-	.
-
-told:_Place_614
-	tolo:displayLabel
-		"Akyong"@en ,
-		"ཨ་སྐྱོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
+	tolo:isRenderedAt told:_GeoPoint_29.2473877_88.1271755 ;
 	.
 
 told:_Place_615
@@ -12760,14 +11642,6 @@ told:_Place_618
 	tolo:isRenderedAt told:_GeoPoint_29.08333_87.60000 ;
 	.
 
-told:_Place_619
-	tolo:displayLabel
-		"Dra"@en ,
-		"སྦྲ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_62
 	tolo:displayLabel
 		"Nartang"@en ,
@@ -12786,46 +11660,6 @@ told:_Place_621
 	tolo:isRenderedAt told:_GeoPoint_32.68000_100.93000 ;
 	.
 
-told:_Place_622
-	tolo:displayLabel
-		"Dzeng"@en ,
-		"འཛེང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_623
-	tolo:displayLabel
-		"Ga (rgwa)"@en ,
-		"རྒྭ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_625
-	tolo:displayLabel
-		"Kyasu"@en ,
-		"སྐྱ་སུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_628
-	tolo:displayLabel
-		"Meu"@en ,
-		"རྨེའུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_629
-	tolo:displayLabel
-		"Me"@en ,
-		"མེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_63
 	tolo:displayLabel
 		"Daklha Gampo"@en ,
@@ -12833,30 +11667,6 @@ told:_Place_63
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_29.1182847_92.8016965 ;
-	.
-
-told:_Place_630
-	tolo:displayLabel
-		"Mukpo"@en ,
-		"སྨུག་པོ་ལྡོང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_635
-	tolo:displayLabel
-		"Nyakshul"@en ,
-		"ཉག་ཤུལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_636
-	tolo:displayLabel
-		"Nyo"@en ,
-		"གཉོས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_64
@@ -12868,54 +11678,6 @@ told:_Place_64
 	tolo:isRenderedAt told:_GeoPoint_29.3003585_91.9720082 ;
 	.
 
-told:_Place_640
-	tolo:displayLabel
-		"Rok"@en ,
-		"ཪོག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_643
-	tolo:displayLabel
-		"Trokho Numai Pelshul"@en ,
-		"ཁྲོ་ཁོ་ནུ་མའི་དཔལ་ཤུལ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_644
-	tolo:displayLabel
-		"Tukwan"@en ,
-		"ཐུའུ་བཀྭན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_645
-	tolo:displayLabel
-		"Zhak"@en ,
-		"བཞག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_647
-	tolo:displayLabel
-		"Ju"@en ,
-		"འཇུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_649
-	tolo:displayLabel
-		"Begu"@en ,
-		"བེ་གུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_650
 	tolo:displayLabel
 		"Khyungpo Tengchen"@en ,
@@ -12923,14 +11685,6 @@ told:_Place_650
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.4273_95.57874 ;
-	.
-
-told:_Place_653
-	tolo:displayLabel
-		"Shingkhamga"@en ,
-		"ཤིང་ཁམས་སྒ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_657
@@ -12942,14 +11696,6 @@ told:_Place_657
 	tolo:isRenderedAt told:_GeoPoint_29.1171072_88.9678218 ;
 	.
 
-told:_Place_667
-	tolo:displayLabel
-		"Mu"@en ,
-		"རྨུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_67
 	tolo:displayLabel
 		"Tropu"@en ,
@@ -12957,22 +11703,6 @@ told:_Place_67
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.2150195_88.4085378 ;
-	.
-
-told:_Place_670
-	tolo:displayLabel
-		"Zhiwatsang"@en ,
-		"ཞི་བ་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_671
-	tolo:displayLabel
-		"Doring"@en ,
-		"རྡོ་རིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_672
@@ -12993,14 +11723,6 @@ told:_Place_673
 	tolo:isRenderedAt told:_GeoPoint_34.09907_102.74087 ;
 	.
 
-told:_Place_674
-	tolo:displayLabel
-		"Kyuchok"@en ,
-		"ཁྱུ་མཆོག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_679
 	tolo:displayLabel
 		"Gyu"@en ,
@@ -13019,14 +11741,6 @@ told:_Place_68
 	tolo:isRenderedAt told:_GeoPoint_29.63984_91.22002 ;
 	.
 
-told:_Place_680
-	tolo:displayLabel
-		"Ngupa"@en ,
-		"རྔུ་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_682
 	tolo:displayLabel
 		"Tsedong"@en ,
@@ -13034,14 +11748,6 @@ told:_Place_682
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.45000_89.26667 ;
-	.
-
-told:_Place_683
-	tolo:displayLabel
-		"Bitsa"@en ,
-		"སྦི་ཚ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_687
@@ -13062,14 +11768,6 @@ told:_Place_688
 	tolo:isRenderedAt told:_GeoPoint_12.4307034_75.9663372 ;
 	.
 
-told:_Place_691
-	tolo:displayLabel
-		"Yabzhi Sampo"@en ,
-		"ཡབ་གཞིས་བསམ་ཕོ་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_697
 	tolo:displayLabel
 		"Nyenlung"@en ,
@@ -13077,14 +11775,6 @@ told:_Place_697
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_32.58333_100.53333 ;
-	.
-
-told:_Place_699
-	tolo:displayLabel
-		"Zhuchen Monastery"@en ,
-		"ཞུ་ཆེན་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_70
@@ -13130,30 +11820,6 @@ told:_Place_703
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_33.37715_97.04449 ;
-	.
-
-told:_Place_704
-	tolo:displayLabel
-		"Tashi Gang"@en ,
-		"བཀྲ་ཤིས་སྒང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_71
-	tolo:displayLabel
-		"Lingtsang"@en ,
-		"གླིང་ཚང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_710
-	tolo:displayLabel
-		"Zhije and Chod"@en ,
-		"ཞི་བྱེད་དང་གཅོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_711
@@ -13271,30 +11937,6 @@ told:_Place_729
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.6514_91.13453 ;
-	.
-
-told:_Place_73
-	tolo:displayLabel
-		"Napu Monastery"@en ,
-		"སྣ་ཕུ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_77
-	tolo:displayLabel
-		"Lomi"@en ,
-		"ལོ་མི།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_78
-	tolo:displayLabel
-		"Rokam"@en ,
-		"རོ་སྐམ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_80
@@ -13513,14 +12155,6 @@ told:_Place_829
 	tolo:isRenderedAt told:_GeoPoint_29.44823_92.35815 ;
 	.
 
-told:_Place_83
-	tolo:displayLabel
-		"Gyer"@en ,
-		"དགྱེར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_831
 	tolo:displayLabel
 		"Taklung Ganden Damcho Ling"@en ,
@@ -13528,14 +12162,6 @@ told:_Place_831
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_37.11667_103.48333 ;
-	.
-
-told:_Place_834
-	tolo:displayLabel
-		"Kharta Tarpa Ling"@en ,
-		"མཁར་རྟ་ཐར་པ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_837
@@ -13563,14 +12189,6 @@ told:_Place_839
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.211985_89.854064 ;
-	.
-
-told:_Place_84
-	tolo:displayLabel
-		"Khangsar"@en ,
-		"ཁང་གསར།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_840
@@ -13807,14 +12425,6 @@ told:_Place_868
 	tolo:isRenderedAt told:_GeoPoint_29.65354_91.13319 ;
 	.
 
-told:_Place_869
-	tolo:displayLabel
-		"Karchung Monastery"@en ,
-		"དཀར་ཆུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_87
 	tolo:displayLabel
 		"Ralung"@en ,
@@ -13912,14 +12522,6 @@ told:_Place_880
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_29.65554_91.135 ;
-	.
-
-told:_Place_881
-	tolo:displayLabel
-		"Tsokha Monastery"@en ,
-		"མཚོ་ཁ་དགོན་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_882
@@ -14324,30 +12926,6 @@ told:_Place_93
 	tolo:isRenderedAt told:_GeoPoint_28.93333_89.53333 ;
 	.
 
-told:_Place_931
-	tolo:displayLabel
-		"Yabzhi Punkhang"@en ,
-		"ཡབ་གཞི་ཕུན་ཁང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_932
-	tolo:displayLabel
-		"Yabzhi Yuthok"@en ,
-		"ཡབ་གཞིས་གཡུ་ཐོག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_933
-	tolo:displayLabel
-		"Yabzhi Lhalu (earlier)"@en ,
-		"ཡབ་གཞིས་ལྷ་ཀླུ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_934
 	tolo:displayLabel
 		"Zhitok Labrang"@en ,
@@ -14355,14 +12933,6 @@ told:_Place_934
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.90844_88.02076 ;
-	.
-
-told:_Place_935
-	tolo:displayLabel
-		"Rinchen Gang Labrang"@en ,
-		"རིན་ཆེན་སྒང་བླ་བྲང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_936
@@ -14401,14 +12971,6 @@ told:_Place_939
 	tolo:isRenderedAt told:_GeoPoint_28.90786_88.02734 ;
 	.
 
-told:_Place_94
-	tolo:displayLabel
-		"Sharkhapa"@en ,
-		"ཤར་ཁ་པ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_941
 	tolo:displayLabel
 		"Rongwo Tantric College"@en ,
@@ -14436,14 +12998,6 @@ told:_Place_943
 	tolo:isRenderedAt told:_GeoPoint_29.05000_87.63333 ;
 	.
 
-told:_Place_944
-	tolo:displayLabel
-		"Ngangkyel Chode"@en ,
-		"ངང་སྐྱལ་ཆོས་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_947
 	tolo:displayLabel
 		"Ikh Khuree"@en ,
@@ -14451,14 +13005,6 @@ told:_Place_947
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_2 ;
 	tolo:isRenderedAt told:_GeoPoint_47.9263833333_106.9171667 ;
-	.
-
-told:_Place_949
-	tolo:displayLabel
-		"Tashi Tongmon"@en ,
-		"བཀྲ་ཤིས་མཐོང་སྨོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_95
@@ -14479,14 +13025,6 @@ told:_Place_951
 	tolo:isRenderedAt told:_GeoPoint_29.37653_91.55079 ;
 	.
 
-told:_Place_952
-	tolo:displayLabel
-		"Tanak Dorjeden"@en ,
-		"རྟ་ནག་རྡོ་རྗེ་གདན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_954
 	tolo:displayLabel
 		"Dzaka"@en ,
@@ -14505,21 +13043,13 @@ told:_Place_955
 	tolo:isRenderedAt told:_GeoPoint_31.864878_99.279519 ;
 	.
 
-told:_Place_956
-	tolo:displayLabel
-		"Ngedongyi Chozhi Gonde"@en ,
-		"ངེས་དོན་གྱི་ཆོས་གཞི་དགོན་སྡེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_957
 	tolo:displayLabel
 		"Dartsang Kelzang Monastery"@en ,
 		"བརྡ་ཚང་བསྐལ་བཟང་དགོན།"@bo
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	tolo:isRenderedAt told:_GeoPoint_32.7912688_100.0581569 ;
+	tolo:isRenderedAt told:_GeoPoint_32.78333_100.05 ;
 	.
 
 told:_Place_958
@@ -14540,14 +13070,6 @@ told:_Place_959
 	tolo:isRenderedAt told:_GeoPoint_29.79600_91.91836 ;
 	.
 
-told:_Place_96
-	tolo:displayLabel
-		"Drakram"@en ,
-		"བྲག་རམ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_960
 	tolo:displayLabel
 		"Olkha Samling"@en ,
@@ -14566,14 +13088,6 @@ told:_Place_962
 	tolo:isRenderedAt told:_GeoPoint_29.35331_91.84210 ;
 	.
 
-told:_Place_964
-	tolo:displayLabel
-		"Lekshe Ling"@en ,
-		"ལེགས་བཤད་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_968
 	tolo:displayLabel
 		"Rumtek"@en ,
@@ -14583,22 +13097,6 @@ told:_Place_968
 	tolo:isRenderedAt told:_GeoPoint_27.288684_88.561993 ;
 	.
 
-told:_Place_97
-	tolo:displayLabel
-		"Gharung"@en ,
-		"གྷ་རུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_970
-	tolo:displayLabel
-		"Rudam Yangwen Sengdruk Puk"@en ,
-		"རུ་དམ་ཡང་དབེན་སེང་ཕྲུག་ཕུག།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_974
 	tolo:displayLabel
 		"Tsādra"@en ,
@@ -14606,22 +13104,6 @@ told:_Place_974
 		;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_31.658689_98.800306 ;
-	.
-
-told:_Place_976
-	tolo:displayLabel
-		"Dzamtang Gepel Hermitage"@en ,
-		"དགེ་འཕེལ་རི་ཁྲོད།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_977
-	tolo:displayLabel
-		"Yutok Monastery"@en ,
-		"གཡུ་ཐོག་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 
 told:_Place_979
@@ -14678,14 +13160,6 @@ told:_Place_985
 	tolo:isRenderedAt told:_GeoPoint_30.00458_99.10629 ;
 	.
 
-told:_Place_987
-	tolo:displayLabel
-		"Kyoda Monastery"@en ,
-		"སྐྱོ་མདའ་དགོན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
 told:_Place_988
 	tolo:displayLabel
 		"Serwo"@en ,
@@ -14708,45 +13182,5 @@ told:_Place_991
 	tolo:displayLabel "Tsongkhapa Hall"@en ;
 	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	tolo:isRenderedAt told:_GeoPoint_28.93323_99.80075 ;
-	.
-
-told:_Place_992
-	tolo:displayLabel
-		"Wenne Gurulung"@en ,
-		"དབེན་གནས་གུ་རུ་ལུང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_995
-	tolo:displayLabel
-		"Kyipuk Deden"@en ,
-		"སྐྱིད་ཕུག་བདེ་ལྡན།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_996
-	tolo:displayLabel
-		"Bardrok Dorje Ling"@en ,
-		"བར་འབྲོག་རྡོ་རྗེ་གླིང་།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_997
-	tolo:displayLabel
-		"Bamo Choding"@en ,
-		"སྦ་མོ་ཆོས་སྡིངས།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
-	.
-
-told:_Place_999
-	tolo:displayLabel
-		"Mokpa Lhatse"@en ,
-		"མོག་པ་ལྷ་རྩེ།"@bo
-		;
-	tolo:hasMappingPriority tolx:_MappingPriority_5 ;
 	.
 

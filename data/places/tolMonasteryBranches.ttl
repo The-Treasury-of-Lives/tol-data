@@ -42,6 +42,10 @@ told:_Place_110
 	tolo:isBranchOf told:_Place_39 ;
 	.
 
+told:_Place_1110
+	tolo:isBranchOf told:_Place_12 ;
+	.
+
 told:_Place_1112
 	tolo:isBranchOf told:_Place_14 ;
 	.
@@ -182,10 +186,6 @@ told:_Place_1549
 	tolo:isBranchOf told:_Place_385 ;
 	.
 
-told:_Place_1551
-	tolo:isBranchOf told:_Place_1493 ;
-	.
-
 told:_Place_1556
 	tolo:isBranchOf told:_Place_12 ;
 	.
@@ -262,10 +262,6 @@ told:_Place_1676
 	tolo:isBranchOf told:_Place_9 ;
 	.
 
-told:_Place_1686
-	tolo:isBranchOf told:_Place_1685 ;
-	.
-
 told:_Place_1694
 	tolo:isBranchOf told:_Place_1493 ;
 	.
@@ -282,8 +278,20 @@ told:_Place_1750
 	tolo:isBranchOf told:_Place_41 ;
 	.
 
+told:_Place_1767
+	tolo:isBranchOf told:_Place_1423 ;
+	.
+
 told:_Place_179
 	tolo:isBranchOf told:_Place_128 ;
+	.
+
+told:_Place_1801
+	tolo:isBranchOf told:_Place_342 ;
+	.
+
+told:_Place_1819
+	tolo:isBranchOf told:_Place_38 ;
 	.
 
 told:_Place_183
@@ -424,10 +432,6 @@ told:_Place_697
 
 told:_Place_699
 	tolo:isBranchOf told:_Place_9 ;
-	.
-
-told:_Place_702
-	tolo:isBranchOf told:_Place_174 ;
 	.
 
 told:_Place_724

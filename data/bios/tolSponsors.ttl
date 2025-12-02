@@ -354,6 +354,10 @@ told:_Biography_13901
 	tolo:isSponsoredBy told:_Organization_Jnanasukha_Foundation ;
 	.
 
+told:_Biography_13922
+	tolo:isSponsoredBy told:_Organization_Jnanasukha_Foundation ;
+	.
+
 told:_Biography_1798
 	tolo:isSponsoredBy told:_Organization_Khyentse_Foundation ;
 	.
@@ -551,7 +555,9 @@ told:_FormattedContent_Sponsor_Jnanasukha_Foundation
 told:_FormattedContent_Sponsor_Khyentse_Foundation
 	a gist:FormattedContent ;
 	gist:containedText '''<p>
-	In 2017, The Treasury of Lives received an Ashoka Grant from the <a href="https://khyentsefoundation.org/">Khyentse Foundation</a>, a nonprofit organization founded in 2001 by Dzongsar Khyentse Rinpoche to support all traditions of Buddhist study and practice. Khyentse Foundation&#39;s support enabled the publication of ten biographies of Buddhist women from the Tibetan cultural region. In 2018, ten peer-reviewed biographies were added to the site.&nbsp;</p>'''@en ;
+	In 2017, The Treasury of Lives received an Ashoka Grant from the <a href="https://khyentsefoundation.org/">Khyentse Foundation</a>, a nonprofit organization founded in 2001 by Dzongsar Khyentse Rinpoche to support all traditions of Buddhist study and practice. Khyentse Foundation&#39;s support enabled the publication of ten biographies of Buddhist women from the Tibetan cultural region. In 2018, ten peer-reviewed biographies were added to the site.&nbsp;</p>
+<p>
+	In 2025, through an Ashoka Grant, 12 peer reviewed biographies of translators were published.</p>'''@en ;
 	gist:isAbout told:_Organization_Khyentse_Foundation ;
 	gist:isExpressedIn media-txt:html ;
 	.

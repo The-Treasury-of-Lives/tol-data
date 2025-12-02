@@ -178,6 +178,14 @@ told:_Place_1750
 	gist:isPartOf told:_Place_41 ;
 	.
 
+told:_Place_1801
+	gist:isPartOf told:_Place_342 ;
+	.
+
+told:_Place_1819
+	gist:isPartOf told:_Place_39 ;
+	.
+
 told:_Place_294
 	gist:isPartOf told:_Place_37 ;
 	.
@@ -244,10 +252,6 @@ told:_Place_572
 
 told:_Place_841
 	gist:isPartOf told:_Place_37 ;
-	.
-
-told:_Place_851
-	gist:isPartOf told:_Place_727 ;
 	.
 
 told:_Place_860

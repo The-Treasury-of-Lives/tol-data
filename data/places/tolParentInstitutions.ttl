@@ -14,43 +14,335 @@
 @prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_Place_1266
-	tolo:isDerivedFrom told:_Place_244 ;
+told:_Place_1014
+	tolo:isDerivedFrom told:_Place_9 ;
 	.
 
-told:_Place_1472
-	tolo:isDerivedFrom told:_Place_38 ;
-	.
-
-told:_Place_1474
-	tolo:isDerivedFrom told:_Place_36 ;
-	.
-
-told:_Place_1477
-	tolo:isDerivedFrom told:_Place_36 ;
-	.
-
-told:_Place_1478
-	tolo:isDerivedFrom told:_Place_38 ;
-	.
-
-told:_Place_1530
-	tolo:isDerivedFrom told:_Place_915 ;
-	.
-
-told:_Place_1585
+told:_Place_1020
 	tolo:isDerivedFrom told:_Place_37 ;
 	.
 
-told:_Place_1586
+told:_Place_1021
+	tolo:isDerivedFrom told:_Place_349 ;
+	.
+
+told:_Place_1024
+	tolo:isDerivedFrom told:_Place_40 ;
+	.
+
+told:_Place_1095
+	tolo:isDerivedFrom told:_Place_14 ;
+	.
+
+told:_Place_1143
 	tolo:isDerivedFrom told:_Place_39 ;
 	.
 
-told:_Place_1615
+told:_Place_1173
+	tolo:isDerivedFrom told:_Place_9 ;
+	.
+
+told:_Place_1186
+	tolo:isDerivedFrom told:_Place_237 ;
+	.
+
+told:_Place_1191
+	tolo:isDerivedFrom told:_Place_947 ;
+	.
+
+told:_Place_1194
+	tolo:isDerivedFrom told:_Place_947 ;
+	.
+
+told:_Place_1195
+	tolo:isDerivedFrom told:_Place_947 ;
+	.
+
+told:_Place_1220
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_1229
+	tolo:isDerivedFrom told:_Place_342 ;
+	.
+
+told:_Place_1231
+	tolo:isDerivedFrom told:_Place_355 ;
+	.
+
+told:_Place_1246
+	tolo:isDerivedFrom told:_Place_349 ;
+	.
+
+told:_Place_1268
+	tolo:isDerivedFrom told:_Place_348 ;
+	.
+
+told:_Place_1276
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_1278
+	tolo:isDerivedFrom told:_Place_1085 ;
+	.
+
+told:_Place_1298
+	tolo:isDerivedFrom told:_Place_728 ;
+	.
+
+told:_Place_1300
+	tolo:isDerivedFrom told:_Place_349 ;
+	.
+
+told:_Place_1308
+	tolo:isDerivedFrom told:_Place_869 ;
+	.
+
+told:_Place_1315
+	tolo:isDerivedFrom told:_Place_348 ;
+	.
+
+told:_Place_1359
+	tolo:isDerivedFrom told:_Place_443 ;
+	.
+
+told:_Place_1369
+	tolo:isDerivedFrom told:_Place_355 ;
+	.
+
+told:_Place_1409
+	tolo:isDerivedFrom told:_Place_355 ;
+	.
+
+told:_Place_1441
+	tolo:isDerivedFrom told:_Place_13 ;
+	.
+
+told:_Place_1474
+	tolo:isDerivedFrom told:_Place_1477 ;
+	.
+
+told:_Place_1478
+	tolo:isDerivedFrom told:_Place_1472 ;
+	.
+
+told:_Place_1480
+	tolo:isDerivedFrom told:_Place_349 ;
+	.
+
+told:_Place_1522
+	tolo:isDerivedFrom told:_Place_1750 ;
+	.
+
+told:_Place_1523
+	tolo:isDerivedFrom told:_Place_1750 ;
+	.
+
+told:_Place_1541
+	tolo:isDerivedFrom told:_Place_95 ;
+	.
+
+told:_Place_1570
+	tolo:isDerivedFrom told:_Place_567 ;
+	.
+
+told:_Place_1617
+	tolo:isDerivedFrom told:_Place_32 ;
+	.
+
+told:_Place_1618
+	tolo:isDerivedFrom told:_Place_32 ;
+	.
+
+told:_Place_1619
+	tolo:isDerivedFrom told:_Place_32 ;
+	.
+
+told:_Place_1620
+	tolo:isDerivedFrom told:_Place_32 ;
+	.
+
+told:_Place_1625
+	tolo:isDerivedFrom told:_Place_375 ;
+	.
+
+told:_Place_1704
+	tolo:isDerivedFrom told:_Place_1622 ;
+	.
+
+told:_Place_1745
+	tolo:isDerivedFrom told:_Place_95 ;
+	.
+
+told:_Place_1750
+	tolo:isDerivedFrom told:_Place_41 ;
+	.
+
+told:_Place_1801
+	tolo:isDerivedFrom told:_Place_342 ;
+	.
+
+told:_Place_1819
+	tolo:isDerivedFrom told:_Place_39 ;
+	.
+
+told:_Place_294
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_315
+	tolo:isDerivedFrom told:_Place_36 ;
+	.
+
+told:_Place_319
+	tolo:isDerivedFrom told:_Place_36 ;
+	.
+
+told:_Place_322
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_342
+	tolo:isDerivedFrom told:_Place_38 ;
+	.
+
+told:_Place_344
+	tolo:isDerivedFrom told:_Place_39 ;
+	.
+
+told:_Place_348
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_349
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_355
+	tolo:isDerivedFrom told:_Place_38 ;
+	.
+
+told:_Place_412
+	tolo:isDerivedFrom told:_Place_207 ;
+	.
+
+told:_Place_423
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_439
 	tolo:isDerivedFrom told:_Place_12 ;
 	.
 
-told:_Place_1659
+told:_Place_445
+	tolo:isDerivedFrom told:_Place_180 ;
+	.
+
+told:_Place_505
+	tolo:isDerivedFrom told:_Place_374 ;
+	.
+
+told:_Place_543
+	tolo:isDerivedFrom told:_Place_32 ;
+	.
+
+told:_Place_572
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_841
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_860
+	tolo:isDerivedFrom told:_Place_37 ;
+	.
+
+told:_Place_907
+	tolo:isDerivedFrom told:_Place_349 ;
+	.
+
+told:_Place_908
 	tolo:isDerivedFrom told:_Place_38 ;
+	.
+
+told:_Place_909
+	tolo:isDerivedFrom told:_Place_38 ;
+	.
+
+told:_Place_920
+	tolo:isDerivedFrom told:_Place_41 ;
+	.
+
+told:_Place_921
+	tolo:isDerivedFrom told:_Place_41 ;
+	.
+
+told:_Place_922
+	tolo:isDerivedFrom told:_Place_41 ;
+	.
+
+told:_Place_923
+	tolo:isDerivedFrom told:_Place_41 ;
+	.
+
+told:_Place_924
+	tolo:isDerivedFrom told:_Place_40 ;
+	.
+
+told:_Place_925
+	tolo:isDerivedFrom told:_Place_40 ;
+	.
+
+told:_Place_926
+	tolo:isDerivedFrom told:_Place_40 ;
+	.
+
+told:_Place_927
+	tolo:isDerivedFrom told:_Place_40 ;
+	.
+
+told:_Place_934
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_935
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_936
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_937
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_938
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_939
+	tolo:isDerivedFrom told:_Place_603 ;
+	.
+
+told:_Place_941
+	tolo:isDerivedFrom told:_Place_374 ;
+	.
+
+told:_Place_942
+	tolo:isDerivedFrom told:_Place_374 ;
+	.
+
+told:_Place_981
+	tolo:isDerivedFrom told:_Place_369 ;
+	.
+
+told:_Place_984
+	tolo:isDerivedFrom told:_Place_947 ;
+	.
+
+told:_Place_991
+	tolo:isDerivedFrom told:_Place_809 ;
 	.
 

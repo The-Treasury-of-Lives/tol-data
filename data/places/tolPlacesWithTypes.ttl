@@ -951,8 +951,8 @@ told:_Place_1228
 	.
 
 told:_Place_1229
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1230
@@ -961,8 +961,8 @@ told:_Place_1230
 	.
 
 told:_Place_1231
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1232
@@ -1042,8 +1042,8 @@ told:_Place_1245
 	.
 
 told:_Place_1246
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1247
@@ -1313,8 +1313,8 @@ told:_Place_130
 	.
 
 told:_Place_1300
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1301
@@ -1373,8 +1373,8 @@ told:_Place_1313
 	.
 
 told:_Place_1315
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1316
@@ -1636,8 +1636,8 @@ told:_Place_1368
 	.
 
 told:_Place_1369
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_137
@@ -1663,11 +1663,6 @@ told:_Place_1373
 told:_Place_1374
 	a gist:Place ;
 	gist:isCategorizedBy tolx:_PlaceType_school ;
-	.
-
-told:_Place_1376
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_temple ;
 	.
 
 told:_Place_1377
@@ -2149,8 +2144,8 @@ told:_Place_1477
 	.
 
 told:_Place_1478
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1479
@@ -2159,8 +2154,8 @@ told:_Place_1479
 	.
 
 told:_Place_1480
-	a gist:Place ;
-	gist:isCategorizedBy tolx:_PlaceType_regional_house ;
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
 told:_Place_1481
@@ -2786,6 +2781,11 @@ told:_Place_1620
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
+told:_Place_1621
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_mountain ;
+	.
+
 told:_Place_1624
 	a tolo:Monastery ;
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
@@ -3382,12 +3382,199 @@ told:_Place_1753
 	gist:isCategorizedBy tolx:_PlaceType_cave ;
 	.
 
+told:_Place_1755
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
+	.
+
+told:_Place_1756
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_dharma_center ;
+	.
+
+told:_Place_1758
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1759
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_school ;
+	.
+
+told:_Place_1761
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1762
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1763
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_stupa ;
+	.
+
+told:_Place_1766
+	a
+		gist:Place ,
+		tolo:Monastery
+		;
+	gist:isCategorizedBy
+		tolx:_PlaceType_monastery ,
+		tolx:_PlaceType_temple
+		;
+	.
+
+told:_Place_1767
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_nunnery ;
+	.
+
+told:_Place_1768
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1769
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1770
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1771
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1772
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1773
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1774
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1775
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_stupa ;
+	.
+
+told:_Place_1776
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1778
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1779
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
 told:_Place_178
 	a tolo:Monastery ;
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
+told:_Place_1780
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_temple ;
+	.
+
+told:_Place_1781
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_temple ;
+	.
+
+told:_Place_1782
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1783
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1784
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_school ;
+	.
+
+told:_Place_1785
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1786
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1788
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1789
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_palace ;
+	.
+
 told:_Place_179
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1790
+	a
+		gist:Place ,
+		tolo:Monastery
+		;
+	gist:isCategorizedBy
+		tolx:_PlaceType_hermitage ,
+		tolx:_PlaceType_monastery
+		;
+	.
+
+told:_Place_1791
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1792
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_palace ;
+	.
+
+told:_Place_1793
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_temple ;
+	.
+
+told:_Place_1796
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1797
 	a tolo:Monastery ;
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
@@ -3397,12 +3584,147 @@ told:_Place_180
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.
 
+told:_Place_1800
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1801
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1802
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_hermitage ;
+	.
+
+told:_Place_1803
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1804
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1805
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1806
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_hermitage ;
+	.
+
+told:_Place_1807
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1808
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_temple ;
+	.
+
+told:_Place_1809
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_temple ;
+	.
+
 told:_Place_181
 	a gist:Place ;
 	gist:isCategorizedBy tolx:_PlaceType_temple ;
 	.
 
+told:_Place_1810
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_mountain ;
+	.
+
+told:_Place_1811
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1812
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1813
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1814
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1815
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1816
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1817
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1819
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_monastic_college ;
+	.
+
+told:_Place_1820
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1821
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1824
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1825
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_cave ;
+	.
+
+told:_Place_1826
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_hermitage ;
+	.
+
+told:_Place_1827
+	a gist:Place ;
+	gist:isCategorizedBy tolx:_PlaceType_mountain ;
+	.
+
+told:_Place_1828
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
 told:_Place_183
+	a tolo:Monastery ;
+	gist:isCategorizedBy tolx:_PlaceType_monastery ;
+	.
+
+told:_Place_1830
 	a tolo:Monastery ;
 	gist:isCategorizedBy tolx:_PlaceType_monastery ;
 	.

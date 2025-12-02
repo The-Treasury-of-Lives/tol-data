@@ -218,10 +218,6 @@ told:_Biography_10579
 	tolo:publicationDate "2017-06-23T16:35:27"^^xsd:dateTime ;
 	.
 
-told:_Biography_10580
-	tolo:publicationDate "2012-07-31T15:49:09"^^xsd:dateTime ;
-	.
-
 told:_Biography_10591
 	tolo:publicationDate "2011-06-14T13:41:35"^^xsd:dateTime ;
 	.
@@ -366,10 +362,6 @@ told:_Biography_10908
 	tolo:publicationDate "2019-11-07T17:08:02"^^xsd:dateTime ;
 	.
 
-told:_Biography_10909
-	tolo:publicationDate "2012-10-26T21:58:55"^^xsd:dateTime ;
-	.
-
 told:_Biography_10911
 	tolo:publicationDate "2019-11-08T20:24:55"^^xsd:dateTime ;
 	.
@@ -408,10 +400,6 @@ told:_Biography_11056
 
 told:_Biography_1108
 	tolo:publicationDate "2010-04-07T16:34:51"^^xsd:dateTime ;
-	.
-
-told:_Biography_11092
-	tolo:publicationDate "2012-11-27T20:42:01"^^xsd:dateTime ;
 	.
 
 told:_Biography_11114
@@ -606,10 +594,6 @@ told:_Biography_11632
 	tolo:publicationDate "2013-03-29T16:32:51"^^xsd:dateTime ;
 	.
 
-told:_Biography_11645
-	tolo:publicationDate "2012-11-05T20:16:33"^^xsd:dateTime ;
-	.
-
 told:_Biography_11731
 	tolo:publicationDate "2013-03-29T16:32:52"^^xsd:dateTime ;
 	.
@@ -680,10 +664,6 @@ told:_Biography_12171
 
 told:_Biography_12180
 	tolo:publicationDate "2021-02-02T20:22:10"^^xsd:dateTime ;
-	.
-
-told:_Biography_12234
-	tolo:publicationDate "2012-11-17T01:29:21"^^xsd:dateTime ;
 	.
 
 told:_Biography_12264
@@ -772,7 +752,7 @@ told:_Biography_12865
 
 told:_Biography_12883
 	tolo:publicationDate "2010-03-31T15:20:48"^^xsd:dateTime ;
-	tolo:updateDate "2015-07-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2015-07-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_12906
@@ -849,7 +829,7 @@ told:_Biography_13072
 
 told:_Biography_13073
 	tolo:publicationDate "2010-04-05T17:57:58"^^xsd:dateTime ;
-	tolo:updateDate "2015-07-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2015-07-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_13074
@@ -2348,6 +2328,10 @@ told:_Biography_13904
 	tolo:publicationDate "2025-03-28T19:57:32"^^xsd:dateTime ;
 	.
 
+told:_Biography_13922
+	tolo:publicationDate "2025-08-27T18:13:45"^^xsd:dateTime ;
+	.
+
 told:_Biography_1564
 	tolo:publicationDate "2013-03-25T20:31:34"^^xsd:dateTime ;
 	.
@@ -2358,10 +2342,6 @@ told:_Biography_1575
 
 told:_Biography_1586
 	tolo:publicationDate "2011-07-05T14:21:14"^^xsd:dateTime ;
-	.
-
-told:_Biography_1597
-	tolo:publicationDate "2012-10-22T16:59:42"^^xsd:dateTime ;
 	.
 
 told:_Biography_1628
@@ -2490,7 +2470,7 @@ told:_Biography_2094
 
 told:_Biography_2104
 	tolo:publicationDate "2010-12-23T14:54:58"^^xsd:dateTime ;
-	tolo:updateDate "2025-05-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2025-05-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_2118
@@ -2773,10 +2753,6 @@ told:_Biography_2683
 	tolo:publicationDate "2011-07-05T15:38:27"^^xsd:dateTime ;
 	.
 
-told:_Biography_2693
-	tolo:publicationDate "2012-10-22T16:59:44"^^xsd:dateTime ;
-	.
-
 told:_Biography_2696
 	tolo:publicationDate "2025-06-13T19:31:22"^^xsd:dateTime ;
 	.
@@ -2799,10 +2775,6 @@ told:_Biography_2733
 
 told:_Biography_2740
 	tolo:publicationDate "2011-11-11T16:44:23"^^xsd:dateTime ;
-	.
-
-told:_Biography_2742
-	tolo:publicationDate "2012-10-17T21:03:59"^^xsd:dateTime ;
 	.
 
 told:_Biography_2755
@@ -2899,6 +2871,10 @@ told:_Biography_2819
 
 told:_Biography_2823
 	tolo:publicationDate "2010-04-07T11:56:20"^^xsd:dateTime ;
+	.
+
+told:_Biography_2834
+	tolo:publicationDate "2025-11-06T14:39:48"^^xsd:dateTime ;
 	.
 
 told:_Biography_2845
@@ -3125,6 +3101,10 @@ told:_Biography_3141
 	tolo:publicationDate "2011-01-19T12:15:01"^^xsd:dateTime ;
 	.
 
+told:_Biography_3146
+	tolo:publicationDate "2025-11-21T21:28:58"^^xsd:dateTime ;
+	.
+
 told:_Biography_3152
 	tolo:publicationDate "2018-02-14T16:38:36"^^xsd:dateTime ;
 	.
@@ -3199,7 +3179,7 @@ told:_Biography_3208
 
 told:_Biography_3211
 	tolo:publicationDate "2011-08-04T21:51:52"^^xsd:dateTime ;
-	tolo:updateDate "2015-06-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2015-06-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_3225
@@ -3248,10 +3228,6 @@ told:_Biography_3627
 
 told:_Biography_3660
 	tolo:publicationDate "2020-01-06T20:35:42"^^xsd:dateTime ;
-	.
-
-told:_Biography_3671
-	tolo:publicationDate "2011-07-19T18:26:10"^^xsd:dateTime ;
 	.
 
 told:_Biography_3673
@@ -3378,6 +3354,10 @@ told:_Biography_3795
 	tolo:publicationDate "2011-07-05T14:21:14"^^xsd:dateTime ;
 	.
 
+told:_Biography_3819
+	tolo:publicationDate "2025-11-05T20:45:53"^^xsd:dateTime ;
+	.
+
 told:_Biography_3822
 	tolo:publicationDate "2023-03-13T20:04:10"^^xsd:dateTime ;
 	.
@@ -3400,7 +3380,7 @@ told:_Biography_3883
 
 told:_Biography_3889
 	tolo:publicationDate "2011-05-18T14:13:51"^^xsd:dateTime ;
-	tolo:updateDate "2012-04-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2012-04-01T00:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_3890
@@ -3457,7 +3437,7 @@ told:_Biography_3957
 
 told:_Biography_3977
 	tolo:publicationDate "2011-05-18T14:15:05"^^xsd:dateTime ;
-	tolo:updateDate "2012-04-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2012-04-01T00:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_3989
@@ -3676,6 +3656,10 @@ told:_Biography_4291
 	tolo:publicationDate "2011-02-17T11:13:30"^^xsd:dateTime ;
 	.
 
+told:_Biography_4297
+	tolo:publicationDate "2025-10-06T21:14:27"^^xsd:dateTime ;
+	.
+
 told:_Biography_4301
 	tolo:publicationDate "2016-04-07T14:28:29"^^xsd:dateTime ;
 	.
@@ -3832,10 +3816,6 @@ told:_Biography_4535
 	tolo:publicationDate "2011-07-05T14:21:14"^^xsd:dateTime ;
 	.
 
-told:_Biography_4543
-	tolo:publicationDate "2011-08-04T21:51:54"^^xsd:dateTime ;
-	.
-
 told:_Biography_4607
 	tolo:publicationDate "2012-10-26T21:46:14"^^xsd:dateTime ;
 	.
@@ -3934,7 +3914,7 @@ told:_Biography_494
 
 told:_Biography_495
 	tolo:publicationDate "2010-03-31T13:13:23"^^xsd:dateTime ;
-	tolo:updateDate "2015-07-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2015-07-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_4986
@@ -4127,6 +4107,10 @@ told:_Biography_5480
 
 told:_Biography_5485
 	tolo:publicationDate "2011-02-15T14:58:06"^^xsd:dateTime ;
+	.
+
+told:_Biography_5489
+	tolo:publicationDate "2025-11-21T23:06:17"^^xsd:dateTime ;
 	.
 
 told:_Biography_5490
@@ -4387,7 +4371,7 @@ told:_Biography_6110
 
 told:_Biography_6122
 	tolo:publicationDate "2015-04-28T13:56:31"^^xsd:dateTime ;
-	tolo:updateDate "2015-04-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2015-04-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_6134
@@ -4444,10 +4428,6 @@ told:_Biography_6219
 
 told:_Biography_6229
 	tolo:publicationDate "2025-07-25T15:44:22"^^xsd:dateTime ;
-	.
-
-told:_Biography_6230
-	tolo:publicationDate "2012-10-17T21:11:19"^^xsd:dateTime ;
 	.
 
 told:_Biography_6251
@@ -4828,7 +4808,7 @@ told:_Biography_6872
 
 told:_Biography_6874
 	tolo:publicationDate "2017-09-18T11:43:10"^^xsd:dateTime ;
-	tolo:updateDate "2018-05-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2018-05-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_6879
@@ -4933,7 +4913,7 @@ told:_Biography_7105
 
 told:_Biography_7107
 	tolo:publicationDate "2011-05-17T14:50:00"^^xsd:dateTime ;
-	tolo:updateDate "2011-04-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2011-04-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_7113
@@ -5042,7 +5022,7 @@ told:_Biography_7429
 
 told:_Biography_7442
 	tolo:publicationDate "2012-02-03T17:31:35"^^xsd:dateTime ;
-	tolo:updateDate "2024-10-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2024-10-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_7462
@@ -5178,10 +5158,7 @@ told:_Biography_7874
 	.
 
 told:_Biography_7876
-	tolo:publicationDate
-		"2013-12-23T09:55:27"^^xsd:dateTime ,
-		"2013-12-23T09:55:30"^^xsd:dateTime
-		;
+	tolo:publicationDate "2013-12-23T09:55:30"^^xsd:dateTime ;
 	.
 
 told:_Biography_7877
@@ -5710,7 +5687,7 @@ told:_Biography_9158
 
 told:_Biography_9169
 	tolo:publicationDate "2010-04-08T09:53:25"^^xsd:dateTime ;
-	tolo:updateDate "2012-10-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2012-10-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_9171
@@ -5763,7 +5740,7 @@ told:_Biography_9301
 
 told:_Biography_9305
 	tolo:publicationDate "2016-10-19T16:23:50"^^xsd:dateTime ;
-	tolo:updateDate "2020-10-01T00:00:00"^^xsd:dateTime ;
+	tolo:updateDate "2020-10-01T04:00:00Z"^^xsd:dateTime ;
 	.
 
 told:_Biography_9333
@@ -5904,6 +5881,10 @@ told:_Biography_9693
 
 told:_Biography_9703
 	tolo:publicationDate "2013-06-03T20:05:43"^^xsd:dateTime ;
+	.
+
+told:_Biography_9709
+	tolo:publicationDate "2025-09-30T19:04:18"^^xsd:dateTime ;
 	.
 
 told:_Biography_9712

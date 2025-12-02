@@ -1289,11 +1289,59 @@ told:_Founding_178
 		;
 	.
 
+told:_Founding_1783
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_13244 ,
+		told:_Place_1783
+		;
+	.
+
+told:_Founding_1786
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_10436 ,
+		told:_Place_1786
+		;
+	.
+
+told:_Founding_1796
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_3753 ,
+		told:_Place_1796
+		;
+	.
+
 told:_Founding_180
 	a tolo:Founding ;
 	gist:hasParticipant
 		told:_Person_2051 ,
 		told:_Place_180
+		;
+	.
+
+told:_Founding_1807
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_5639 ,
+		told:_Place_1807
+		;
+	.
+
+told:_Founding_1808
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_4330 ,
+		told:_Place_1808
+		;
+	.
+
+told:_Founding_1815
+	a tolo:Founding ;
+	gist:hasParticipant
+		told:_Person_5824 ,
+		told:_Place_1815
 		;
 	.
 
