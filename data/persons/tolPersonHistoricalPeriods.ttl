@@ -74,6 +74,10 @@ told:_Person_10203
 		;
 	.
 
+told:_Person_10253
+	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	.
+
 told:_Person_10258
 	tolo:existsDuring told:_HistoricalPeriod_45 ;
 	.
@@ -84,6 +88,10 @@ told:_Person_10280
 
 told:_Person_1029
 	tolo:existsDuring told:_HistoricalPeriod_49 ;
+	.
+
+told:_Person_10298
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
 	.
 
 told:_Person_10301
@@ -565,6 +573,14 @@ told:_Person_11290
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
 
+told:_Person_11297
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
 told:_Person_11299
 	tolo:existsDuring told:_HistoricalPeriod_49 ;
 	.
@@ -673,6 +689,13 @@ told:_Person_11490
 
 told:_Person_11491
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	.
+
+told:_Person_11508
+	tolo:existsDuring
+		told:_HistoricalPeriod_69 ,
+		told:_HistoricalPeriod_73
+		;
 	.
 
 told:_Person_11565
@@ -807,6 +830,13 @@ told:_Person_12264
 	tolo:existsDuring told:_HistoricalPeriod_65 ;
 	.
 
+told:_Person_1229
+	tolo:existsDuring
+		told:_HistoricalPeriod_41 ,
+		told:_HistoricalPeriod_45
+		;
+	.
+
 told:_Person_12340
 	tolo:existsDuring told:_HistoricalPeriod_65 ;
 	.
@@ -915,6 +945,10 @@ told:_Person_12883
 	.
 
 told:_Person_12906
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_12980
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
 
@@ -1531,6 +1565,44 @@ told:_Person_13206
 	tolo:existsDuring told:_HistoricalPeriod_61 ;
 	.
 
+told:_Person_13208
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_13209
+	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	.
+
+told:_Person_13210
+	tolo:existsDuring told:_HistoricalPeriod_69 ;
+	.
+
+told:_Person_13211
+	tolo:existsDuring told:_HistoricalPeriod_69 ;
+	.
+
+told:_Person_13212
+	tolo:existsDuring
+		told:_HistoricalPeriod_65 ,
+		told:_HistoricalPeriod_69
+		;
+	.
+
+told:_Person_13213
+	tolo:existsDuring
+		told:_HistoricalPeriod_61 ,
+		told:_HistoricalPeriod_65
+		;
+	.
+
+told:_Person_13214
+	tolo:existsDuring told:_HistoricalPeriod_61 ;
+	.
+
+told:_Person_13215
+	tolo:existsDuring told:_HistoricalPeriod_61 ;
+	.
+
 told:_Person_13217
 	tolo:existsDuring
 		told:_HistoricalPeriod_65 ,
@@ -1653,7 +1725,18 @@ told:_Person_13242
 		;
 	.
 
+told:_Person_13244
+	tolo:existsDuring
+		told:_HistoricalPeriod_53 ,
+		told:_HistoricalPeriod_57
+		;
+	.
+
 told:_Person_13246
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_13248
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
 
@@ -2375,6 +2458,10 @@ told:_Person_13722
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
 
+told:_Person_13723
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
 told:_Person_13724
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
@@ -2510,6 +2597,13 @@ told:_Person_13798
 	tolo:existsDuring
 		told:_HistoricalPeriod_73 ,
 		told:_HistoricalPeriod_77
+		;
+	.
+
+told:_Person_13799
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
 		;
 	.
 
@@ -2742,6 +2836,66 @@ told:_Person_13879
 		;
 	.
 
+told:_Person_13882
+	tolo:existsDuring told:_HistoricalPeriod_45 ;
+	.
+
+told:_Person_13883
+	tolo:existsDuring told:_HistoricalPeriod_69 ;
+	.
+
+told:_Person_13884
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
+told:_Person_13885
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_13888
+	tolo:existsDuring told:_HistoricalPeriod_29 ;
+	.
+
+told:_Person_13894
+	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	.
+
+told:_Person_13895
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
+told:_Person_13896
+	tolo:existsDuring told:_HistoricalPeriod_49 ;
+	.
+
+told:_Person_13901
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_13903
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
+told:_Person_13904
+	tolo:existsDuring told:_HistoricalPeriod_41 ;
+	.
+
+told:_Person_13922
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77
+		;
+	.
+
 told:_Person_1564
 	tolo:existsDuring told:_HistoricalPeriod_65 ;
 	.
@@ -2803,6 +2957,10 @@ told:_Person_1728
 	.
 
 told:_Person_1754
+	tolo:existsDuring told:_HistoricalPeriod_49 ;
+	.
+
+told:_Person_1798
 	tolo:existsDuring told:_HistoricalPeriod_49 ;
 	.
 
@@ -2885,6 +3043,10 @@ told:_Person_2051
 
 told:_Person_2069
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_2094
+	tolo:existsDuring told:_HistoricalPeriod_49 ;
 	.
 
 told:_Person_2104
@@ -3118,6 +3280,10 @@ told:_Person_2510
 		;
 	.
 
+told:_Person_2511
+	tolo:existsDuring told:_HistoricalPeriod_49 ;
+	.
+
 told:_Person_2521
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
@@ -3203,6 +3369,10 @@ told:_Person_2606
 		;
 	.
 
+told:_Person_2610
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
+	.
+
 told:_Person_2638
 	tolo:existsDuring told:_HistoricalPeriod_45 ;
 	.
@@ -3239,6 +3409,13 @@ told:_Person_2670
 
 told:_Person_2683
 	tolo:existsDuring told:_HistoricalPeriod_45 ;
+	.
+
+told:_Person_2696
+	tolo:existsDuring
+		told:_HistoricalPeriod_53 ,
+		told:_HistoricalPeriod_57
+		;
 	.
 
 told:_Person_2712
@@ -3399,6 +3576,10 @@ told:_Person_2823
 	tolo:existsDuring told:_HistoricalPeriod_53 ;
 	.
 
+told:_Person_2834
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
+	.
+
 told:_Person_2845
 	tolo:existsDuring
 		told:_HistoricalPeriod_49 ,
@@ -3511,6 +3692,10 @@ told:_Person_2952
 		;
 	.
 
+told:_Person_2953
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
 told:_Person_2973
 	tolo:existsDuring
 		told:_HistoricalPeriod_45 ,
@@ -3552,6 +3737,13 @@ told:_Person_2997
 	.
 
 told:_Person_3000
+	tolo:existsDuring
+		told:_HistoricalPeriod_57 ,
+		told:_HistoricalPeriod_61
+		;
+	.
+
+told:_Person_3004
 	tolo:existsDuring
 		told:_HistoricalPeriod_57 ,
 		told:_HistoricalPeriod_61
@@ -3676,6 +3868,10 @@ told:_Person_3139
 
 told:_Person_3141
 	tolo:existsDuring told:_HistoricalPeriod_69 ;
+	.
+
+told:_Person_3146
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
 	.
 
 told:_Person_3152
@@ -3895,6 +4091,13 @@ told:_Person_3744
 	tolo:existsDuring told:_HistoricalPeriod_57 ;
 	.
 
+told:_Person_3753
+	tolo:existsDuring
+		told:_HistoricalPeriod_49 ,
+		told:_HistoricalPeriod_53
+		;
+	.
+
 told:_Person_3758
 	tolo:existsDuring
 		told:_HistoricalPeriod_65 ,
@@ -3983,6 +4186,13 @@ told:_Person_3794
 
 told:_Person_3795
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_3819
+	tolo:existsDuring
+		told:_HistoricalPeriod_49 ,
+		told:_HistoricalPeriod_53
+		;
 	.
 
 told:_Person_3822
@@ -4364,6 +4574,13 @@ told:_Person_4291
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
 	.
 
+told:_Person_4297
+	tolo:existsDuring
+		told:_HistoricalPeriod_45 ,
+		told:_HistoricalPeriod_49
+		;
+	.
+
 told:_Person_4301
 	tolo:existsDuring
 		told:_HistoricalPeriod_41 ,
@@ -4395,6 +4612,10 @@ told:_Person_4327
 		told:_HistoricalPeriod_53 ,
 		told:_HistoricalPeriod_57
 		;
+	.
+
+told:_Person_4330
+	tolo:existsDuring told:_HistoricalPeriod_41 ;
 	.
 
 told:_Person_4348
@@ -4460,6 +4681,13 @@ told:_Person_4425
 
 told:_Person_4469
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	.
+
+told:_Person_4476
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77
+		;
 	.
 
 told:_Person_4478
@@ -4592,6 +4820,10 @@ told:_Person_4642
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
 	.
 
+told:_Person_4647
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
+	.
+
 told:_Person_4659
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
 	.
@@ -4655,6 +4887,14 @@ told:_Person_490
 
 told:_Person_4903
 	tolo:existsDuring told:_HistoricalPeriod_29 ;
+	.
+
+told:_Person_4909
+	tolo:existsDuring told:_HistoricalPeriod_29 ;
+	.
+
+told:_Person_4935
+	tolo:existsDuring told:_HistoricalPeriod_53 ;
 	.
 
 told:_Person_494
@@ -4903,6 +5143,13 @@ told:_Person_5485
 	tolo:existsDuring
 		told:_HistoricalPeriod_69 ,
 		told:_HistoricalPeriod_73
+		;
+	.
+
+told:_Person_5489
+	tolo:existsDuring
+		told:_HistoricalPeriod_57 ,
+		told:_HistoricalPeriod_61
 		;
 	.
 
@@ -5224,6 +5471,13 @@ told:_Person_6100
 	tolo:existsDuring told:_HistoricalPeriod_41 ;
 	.
 
+told:_Person_6101
+	tolo:existsDuring
+		told:_HistoricalPeriod_41 ,
+		told:_HistoricalPeriod_45
+		;
+	.
+
 told:_Person_6110
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
 	.
@@ -5339,6 +5593,13 @@ told:_Person_6286
 	tolo:existsDuring
 		told:_HistoricalPeriod_57 ,
 		told:_HistoricalPeriod_61
+		;
+	.
+
+told:_Person_6328
+	tolo:existsDuring
+		told:_HistoricalPeriod_45 ,
+		told:_HistoricalPeriod_49
 		;
 	.
 
@@ -5664,7 +5925,7 @@ told:_Person_6672
 	.
 
 told:_Person_6678
-	tolo:existsDuring told:_HistoricalPeriod_29 ;
+	tolo:existsDuring told:_HistoricalPeriod_33 ;
 	.
 
 told:_Person_6681
@@ -5770,6 +6031,13 @@ told:_Person_6872
 
 told:_Person_6874
 	tolo:existsDuring told:_HistoricalPeriod_65 ;
+	.
+
+told:_Person_6879
+	tolo:existsDuring
+		told:_HistoricalPeriod_45 ,
+		told:_HistoricalPeriod_49
+		;
 	.
 
 told:_Person_6892
@@ -6020,6 +6288,13 @@ told:_Person_7373
 	tolo:existsDuring told:_HistoricalPeriod_45 ;
 	.
 
+told:_Person_7427
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
 told:_Person_7429
 	tolo:existsDuring told:_HistoricalPeriod_53 ;
 	.
@@ -6233,7 +6508,10 @@ told:_Person_7945
 	.
 
 told:_Person_8
-	tolo:existsDuring told:_HistoricalPeriod_73 ;
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77
+		;
 	.
 
 told:_Person_8027
@@ -6353,6 +6631,10 @@ told:_Person_8184
 		told:_HistoricalPeriod_69 ,
 		told:_HistoricalPeriod_73
 		;
+	.
+
+told:_Person_8194
+	tolo:existsDuring told:_HistoricalPeriod_41 ;
 	.
 
 told:_Person_8342
@@ -6508,6 +6790,13 @@ told:_Person_8575
 
 told:_Person_8578
 	tolo:existsDuring told:_HistoricalPeriod_69 ;
+	.
+
+told:_Person_8579
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77
+		;
 	.
 
 told:_Person_8580
@@ -6756,6 +7045,10 @@ told:_Person_9030
 	tolo:existsDuring told:_HistoricalPeriod_65 ;
 	.
 
+told:_Person_9047
+	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
 told:_Person_9049
 	tolo:existsDuring
 		told:_HistoricalPeriod_73 ,
@@ -6892,6 +7185,13 @@ told:_Person_9254
 	tolo:existsDuring told:_HistoricalPeriod_69 ;
 	.
 
+told:_Person_9278
+	tolo:existsDuring
+		told:_HistoricalPeriod_77 ,
+		told:_HistoricalPeriod_81
+		;
+	.
+
 told:_Person_9287
 	tolo:existsDuring told:_HistoricalPeriod_73 ;
 	.
@@ -6953,6 +7253,10 @@ told:_Person_9442
 		told:_HistoricalPeriod_73 ,
 		told:_HistoricalPeriod_77
 		;
+	.
+
+told:_Person_9469
+	tolo:existsDuring told:_HistoricalPeriod_69 ;
 	.
 
 told:_Person_9482
@@ -7084,6 +7388,13 @@ told:_Person_9693
 
 told:_Person_9703
 	tolo:existsDuring told:_HistoricalPeriod_77 ;
+	.
+
+told:_Person_9709
+	tolo:existsDuring
+		told:_HistoricalPeriod_73 ,
+		told:_HistoricalPeriod_77
+		;
 	.
 
 told:_Person_9712

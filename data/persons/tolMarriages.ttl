@@ -16,8 +16,6 @@
 
 told:_Marriage_10019_13843
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
-	tolo:approximateEndYear "1944-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:approximateStartYear "1930-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:hasHusband told:_Person_10019 ;
 	tolo:hasWife told:_Person_13843 ;
@@ -37,38 +35,27 @@ told:_Marriage_10467_13869
 
 told:_Marriage_10712_13724
 	a tolo:Marriage ;
-	gist:actualEndYear "1987-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1950-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
-	gist:isMemberOf told:_KinshipGroup_1583 ;
 	tolo:hasHusband told:_Person_10712 ;
 	tolo:hasWife told:_Person_13724 ;
 	.
 
 told:_Marriage_10760_10811
 	a tolo:Marriage ;
-	gist:actualEndYear "0641-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "0641-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
-	gist:isMemberOf told:_KinshipGroup_1048 ;
 	tolo:hasHusband told:_Person_10760 ;
 	tolo:hasWife told:_Person_10811 ;
 	.
 
 told:_Marriage_11290_13703
 	a tolo:Marriage ;
-	gist:actualEndYear "1942-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1938-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
-	gist:isMemberOf told:_KinshipGroup_693 ;
 	tolo:hasHusband told:_Person_11290 ;
 	tolo:hasWife told:_Person_13703 ;
 	.
 
 told:_Marriage_11790_11796
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
-	gist:isMemberOf told:_KinshipGroup_1047 ;
 	tolo:hasHusband told:_Person_11790 ;
 	tolo:hasWife told:_Person_11796 ;
 	.
@@ -99,22 +86,18 @@ told:_Marriage_13546_13805
 
 told:_Marriage_13567_13509
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
-	gist:isMemberOf told:_KinshipGroup_1048 ;
 	tolo:hasHusband told:_Person_13567 ;
 	tolo:hasWife told:_Person_13509 ;
 	.
 
 told:_Marriage_13583_32
 	a tolo:Marriage ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_13583 ;
 	tolo:hasWife told:_Person_32 ;
 	.
 
 told:_Marriage_13709_13708
 	a tolo:Marriage ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_13709 ;
 	tolo:hasWife told:_Person_13708 ;
 	.
@@ -177,32 +160,25 @@ told:_Marriage_7296_7297
 
 told:_Marriage_7562_13187
 	a tolo:Marriage ;
-	gist:actualEndYear "1790-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1783-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
 	tolo:hasHusband told:_Person_7562 ;
 	tolo:hasWife told:_Person_13187 ;
 	.
 
 told:_Marriage_7929_10711
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_10711 ;
 	.
 
 told:_Marriage_7929_13625
 	a tolo:Marriage ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13625 ;
 	.
 
 told:_Marriage_7929_13708
 	a tolo:Marriage ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_dissolution ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13708 ;
 	.
@@ -211,6 +187,12 @@ told:_Marriage_7929_13739
 	a tolo:Marriage ;
 	tolo:hasHusband told:_Person_7929 ;
 	tolo:hasWife told:_Person_13739 ;
+	.
+
+told:_Marriage_8181_13894
+	a tolo:Marriage ;
+	tolo:hasHusband told:_Person_8181 ;
+	tolo:hasWife told:_Person_13894 ;
 	.
 
 told:_Marriage_8538_13850
@@ -222,17 +204,13 @@ told:_Marriage_8538_13850
 
 told:_Marriage_9305_7585
 	a tolo:Marriage ;
-	gist:isMemberOf told:_KinshipGroup_1132 ;
 	tolo:hasHusband told:_Person_9305 ;
 	tolo:hasWife told:_Person_7585 ;
 	.
 
 told:_Marriage_9333_11798
 	a tolo:Marriage ;
-	gist:actualEndYear "1947-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1933-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_divorce ;
-	gist:isMemberOf told:_KinshipGroup_932 ;
 	tolo:hasHusband told:_Person_9333 ;
 	tolo:hasWife told:_Person_11798 ;
 	.
@@ -245,8 +223,6 @@ told:_Marriage_9612_3628
 
 told:_Marriage_9668_13843
 	a tolo:Marriage ;
-	gist:actualEndYear "1930-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
 	tolo:approximateStartYear "1920-01-01T00:00:00"^^xsd:dateTime ;
 	tolo:hasHusband told:_Person_9668 ;
 	tolo:hasWife told:_Person_13843 ;
@@ -260,9 +236,7 @@ told:_Marriage_9688_12784
 
 told:_Marriage_9990_13697
 	a tolo:Marriage ;
-	gist:actualEndYear "1959-01-01T00:00:00"^^xsd:dateTime ;
 	gist:actualStartYear "1949-01-01T00:00:00"^^xsd:dateTime ;
-	gist:isCategorizedBy tolx:_MarriageTerminationCause_death ;
 	tolo:hasHusband told:_Person_9990 ;
 	tolo:hasWife told:_Person_13697 ;
 	.

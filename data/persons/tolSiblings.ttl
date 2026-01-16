@@ -14,38 +14,128 @@
 @prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_Person_12479
-	bdo:hasSibling told:_Person_13745 ;
+told:_Person_10203
+	bdo:hasSibling told:_Person_11158 ;
 	.
 
-told:_Person_13072
-	bdo:hasSibling told:_Person_10315 ;
+told:_Person_13170
+	bdo:hasSibling told:_Person_2992 ;
 	.
 
-told:_Person_13566
-	bdo:hasSibling told:_Person_10760 ;
+told:_Person_13545
+	bdo:hasSibling
+		told:_Person_13546 ,
+		told:_Person_13548 ,
+		told:_Person_13549
+		;
+	.
+
+told:_Person_13625
+	bdo:hasSibling told:_Person_10711 ;
+	.
+
+told:_Person_13708
+	bdo:hasSibling
+		told:_Person_2418 ,
+		told:_Person_3950
+		;
+	.
+
+told:_Person_13747
+	bdo:hasSibling told:_Person_13686 ;
+	.
+
+told:_Person_13748
+	bdo:hasSibling
+		told:_Person_13686 ,
+		told:_Person_13747 ,
+		told:_Person_13749 ,
+		told:_Person_13750
+		;
+	.
+
+told:_Person_13749
+	bdo:hasSibling
+		told:_Person_13686 ,
+		told:_Person_13747 ,
+		told:_Person_13750
+		;
+	.
+
+told:_Person_13750
+	bdo:hasSibling
+		told:_Person_13686 ,
+		told:_Person_13747
+		;
+	.
+
+told:_Person_13773
+	bdo:hasSibling told:_Person_13774 ;
+	.
+
+told:_Person_13787
+	bdo:hasSibling
+		told:_Person_10203 ,
+		told:_Person_11158
+		;
+	.
+
+told:_Person_13802
+	bdo:hasSibling
+		told:_Person_10203 ,
+		told:_Person_11158 ,
+		told:_Person_13787
+		;
+	.
+
+told:_Person_13809
+	bdo:hasSibling told:_Person_13697 ;
 	.
 
 told:_Person_13877
-	bdo:hasSibling told:_Person_13878 ;
+	bdo:hasSibling told:_Person_5805 ;
 	.
 
-told:_Person_2784
-	bdo:hasSibling told:_Person_8649 ;
-	.
-
-told:_Person_3165
-	bdo:hasSibling told:_Person_3169 ;
-	.
-
-told:_Person_6788
-	bdo:hasSibling told:_Person_7240 ;
-	.
-
-told:_Person_7882
+told:_Person_13878
 	bdo:hasSibling
-		told:_Person_2784 ,
-		told:_Person_8649
+		told:_Person_13877 ,
+		told:_Person_5805
 		;
+	.
+
+told:_Person_13915
+	bdo:hasSibling told:_Person_3753 ;
+	.
+
+told:_Person_13916
+	bdo:hasSibling told:_Person_4086 ;
+	.
+
+told:_Person_13917
+	bdo:hasSibling told:_Person_6879 ;
+	.
+
+told:_Person_13919
+	bdo:hasSibling told:_Person_12180 ;
+	.
+
+told:_Person_2094
+	bdo:hasSibling told:_Person_2029 ;
+	.
+
+told:_Person_2917
+	bdo:hasSibling told:_Person_1720 ;
+	.
+
+told:_Person_7254
+	bdo:hasSibling told:_Person_8629 ;
+	.
+
+told:_Person_7839
+	bdo:hasSibling told:_Person_13916 ;
+	.
+
+told:_Person_9612
+	bdo:hasSibling told:_Person_3436 ;
 	.
 

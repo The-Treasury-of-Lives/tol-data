@@ -14,10 +14,6 @@
 @prefix wiki: <https://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-told:_Founding_1
-	skos:prefLabel "Monastery Founding"@en ;
-	.
-
 told:_Founding_10
 	skos:prefLabel "Mindroling Founding"@en ;
 	tolo:actualYear "1676-01-01T00:00:00"^^xsd:dateTime ;
@@ -52,16 +48,12 @@ told:_Founding_1009
 	.
 
 told:_Founding_101
-	skos:prefLabel "Pokhang Founding"@en ;
+	skos:prefLabel "Pokhang  Founding"@en ;
 	tolo:actualYear "1213-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_1010
 	skos:prefLabel "Tsopu Founding"@en ;
-	.
-
-told:_Founding_1011
-	skos:prefLabel "Chakdu Nyarong Founding"@en ;
 	.
 
 told:_Founding_1012
@@ -130,32 +122,8 @@ told:_Founding_1025
 	skos:prefLabel "Nalatse Nepoche Founding"@en ;
 	.
 
-told:_Founding_1029
-	skos:prefLabel "Vocation Founding"@en ;
-	.
-
-told:_Founding_1030
-	skos:prefLabel "Artists Founding"@en ;
-	.
-
-told:_Founding_1031
-	skos:prefLabel "Translators Founding"@en ;
-	.
-
-told:_Founding_1032
-	skos:prefLabel "Doctors Founding"@en ;
-	.
-
-told:_Founding_1033
-	skos:prefLabel "Rulers of Chone Founding"@en ;
-	.
-
 told:_Founding_1034
 	skos:prefLabel "Tropu Kagyu Founding"@en ;
-	.
-
-told:_Founding_1035
-	skos:prefLabel "Treasure Revealers Founding"@en ;
 	.
 
 told:_Founding_1036
@@ -164,16 +132,11 @@ told:_Founding_1036
 
 told:_Founding_1037
 	skos:prefLabel "Kongpo Chabkar Founding"@en ;
-	tolo:occursBy told:_HistoricalPeriod_73 ;
 	.
 
 told:_Founding_1038
 	skos:prefLabel "Nakdo Monastery Founding"@en ;
 	tolo:actualYear "1767-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1040
-	skos:prefLabel "Ga (dga') Founding"@en ;
 	.
 
 told:_Founding_1041
@@ -202,14 +165,6 @@ told:_Founding_1045
 
 told:_Founding_1046
 	skos:prefLabel "Rongme Karmo Taktsang Founding"@en ;
-	.
-
-told:_Founding_1047
-	skos:prefLabel "Surkhang Founding"@en ;
-	.
-
-told:_Founding_1048
-	skos:prefLabel "Rulers of Yarlung Founding"@en ;
 	.
 
 told:_Founding_1049
@@ -253,32 +208,8 @@ told:_Founding_1056
 	tolo:actualYear "1724-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_1059
-	skos:prefLabel "Prominent Families Founding"@en ;
-	.
-
 told:_Founding_106
 	skos:prefLabel "Chokhor Tse Founding"@en ;
-	.
-
-told:_Founding_1060
-	skos:prefLabel "Women Founding"@en ;
-	.
-
-told:_Founding_1061
-	skos:prefLabel "Pangdatsang Founding"@en ;
-	.
-
-told:_Founding_1062
-	skos:prefLabel "Jangling Founding"@en ;
-	.
-
-told:_Founding_1063
-	skos:prefLabel "Sadutshang Founding"@en ;
-	.
-
-told:_Founding_1064
-	skos:prefLabel "Incarnations Founding"@en ;
 	.
 
 told:_Founding_1065
@@ -291,10 +222,6 @@ told:_Founding_1066
 	tolo:actualYear "1352-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_1067
-	skos:prefLabel "Gyanak Rawa Founding"@en ;
-	.
-
 told:_Founding_1068
 	skos:prefLabel "Chubar Hermitage Founding"@en ;
 	.
@@ -304,7 +231,7 @@ told:_Founding_1069
 	.
 
 told:_Founding_107
-	skos:prefLabel "Tupten Dargye Ling Founding"@en ;
+	skos:prefLabel "Tupten Dargye Ling  Founding"@en ;
 	.
 
 told:_Founding_1070
@@ -331,28 +258,12 @@ told:_Founding_1075
 	skos:prefLabel "Gyari Castle Founding"@en ;
 	.
 
-told:_Founding_1076
-	skos:prefLabel "Lhagyari Founding"@en ;
-	.
-
 told:_Founding_1077
-	skos:prefLabel "Rigo Tashi Chodzong Castle Founding"@en ;
-	.
-
-told:_Founding_1078
-	skos:prefLabel "Kheme Founding"@en ;
-	.
-
-told:_Founding_1079
-	skos:prefLabel "Lake Founding"@en ;
+	skos:prefLabel "Rigo Tashi Chodzong Castle  Founding"@en ;
 	.
 
 told:_Founding_108
-	skos:prefLabel "Puntsok Samten Ling Founding"@en ;
-	.
-
-told:_Founding_1080
-	skos:prefLabel "Mountain Founding"@en ;
+	skos:prefLabel "Puntsok Samten Ling  Founding"@en ;
 	.
 
 told:_Founding_1081
@@ -395,11 +306,7 @@ told:_Founding_1089
 	.
 
 told:_Founding_109
-	skos:prefLabel "Changlung Choding Founding"@en ;
-	.
-
-told:_Founding_1090
-	skos:prefLabel "Nya Founding"@en ;
+	skos:prefLabel "Changlung Choding  Founding"@en ;
 	.
 
 told:_Founding_1091
@@ -433,10 +340,6 @@ told:_Founding_1097
 	tolo:occursDuring told:_HistoricalPeriod_69 ;
 	.
 
-told:_Founding_1098
-	skos:prefLabel "Abbots Founding"@en ;
-	.
-
 told:_Founding_1099
 	skos:prefLabel "Bhutan House Founding"@en ;
 	.
@@ -447,7 +350,7 @@ told:_Founding_11
 	.
 
 told:_Founding_110
-	skos:prefLabel "Takten Puntsok Ling Founding"@en ;
+	skos:prefLabel "Takten Puntsok Ling  Founding"@en ;
 	tolo:actualYear "1615-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -523,10 +426,6 @@ told:_Founding_1115
 	skos:prefLabel "Mersho Monastery Founding"@en ;
 	.
 
-told:_Founding_1116
-	skos:prefLabel "Military Founding"@en ;
-	.
-
 told:_Founding_1118
 	skos:prefLabel "Tsibri Founding"@en ;
 	.
@@ -581,21 +480,9 @@ told:_Founding_1128
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_1129
-	skos:prefLabel "Hospital Founding"@en ;
-	.
-
-told:_Founding_1130
-	skos:prefLabel "Yabzang Kagyu Founding"@en ;
-	.
-
 told:_Founding_1131
 	skos:prefLabel "Zara Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
-	.
-
-told:_Founding_1132
-	skos:prefLabel "Tsarong Founding"@en ;
 	.
 
 told:_Founding_1133
@@ -605,10 +492,6 @@ told:_Founding_1133
 
 told:_Founding_1134
 	skos:prefLabel "Tsibri Monastery Founding"@en ;
-	.
-
-told:_Founding_1135
-	skos:prefLabel "Barom Kagyu Founding"@en ;
 	.
 
 told:_Founding_1136
@@ -628,7 +511,7 @@ told:_Founding_1139
 	.
 
 told:_Founding_114
-	skos:prefLabel "Kyangdur Founding"@en ;
+	skos:prefLabel "Kyangdur  Founding"@en ;
 	.
 
 told:_Founding_1140
@@ -665,7 +548,7 @@ told:_Founding_1148
 	.
 
 told:_Founding_115
-	skos:prefLabel "Chung Riwoche Founding"@en ;
+	skos:prefLabel "Chung Riwoche  Founding"@en ;
 	tolo:actualYear "1386-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -689,14 +572,6 @@ told:_Founding_1153
 
 told:_Founding_1154
 	skos:prefLabel "Drakteng Monastery Founding"@en ;
-	.
-
-told:_Founding_1155
-	skos:prefLabel "Rulers of Nangchen Founding"@en ;
-	.
-
-told:_Founding_1156
-	skos:prefLabel "Dru ('bru) Founding"@en ;
 	.
 
 told:_Founding_1157
@@ -783,6 +658,7 @@ told:_Founding_1176
 told:_Founding_1178
 	skos:prefLabel "Beshing Monastery Founding"@en ;
 	tolo:actualYear "1780-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_69 ;
 	.
 
 told:_Founding_1179
@@ -812,6 +688,7 @@ told:_Founding_1184
 told:_Founding_1185
 	skos:prefLabel "Gyelwa Sengge Ngaro Lhakhang Founding"@en ;
 	tolo:actualYear "1809-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
 told:_Founding_1186
@@ -839,6 +716,7 @@ told:_Founding_119
 told:_Founding_1190
 	skos:prefLabel "Khamarin Khiid Founding"@en ;
 	tolo:actualYear "1820-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
 told:_Founding_1191
@@ -851,10 +729,6 @@ told:_Founding_1192
 	tolo:actualYear "1725-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_1193
-	skos:prefLabel "Bogd Khan Founding"@en ;
-	.
-
 told:_Founding_1194
 	skos:prefLabel "Kunga Choling Founding"@en ;
 	tolo:actualYear "1809-01-01T00:00:00"^^xsd:dateTime ;
@@ -862,7 +736,7 @@ told:_Founding_1194
 
 told:_Founding_1195
 	skos:prefLabel "Gyu Dratsang Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_69 ;
+	tolo:occursBy told:_HistoricalPeriod_69 ;
 	.
 
 told:_Founding_1196
@@ -902,14 +776,6 @@ told:_Founding_1200
 told:_Founding_1201
 	skos:prefLabel "Pekar Choling Founding"@en ;
 	tolo:actualYear "1690-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1202
-	skos:prefLabel "Pakmodrupa Founding"@en ;
-	.
-
-told:_Founding_1203
-	skos:prefLabel "Rinpungpa Founding"@en ;
 	.
 
 told:_Founding_1204
@@ -1017,7 +883,7 @@ told:_Founding_1229
 
 told:_Founding_1230
 	skos:prefLabel "Taklung Drak Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_73 ;
+	tolo:occursBy told:_HistoricalPeriod_41 ;
 	.
 
 told:_Founding_1231
@@ -1048,6 +914,7 @@ told:_Founding_1235
 told:_Founding_1236
 	skos:prefLabel "Druk Jangchub Choling Founding"@en ;
 	tolo:actualYear "1205-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
 told:_Founding_1237
@@ -1104,8 +971,9 @@ told:_Founding_1247
 	.
 
 told:_Founding_1248
-	skos:prefLabel "Shadrang Founding"@en ;
+	skos:prefLabel "Shadrang  Founding"@en ;
 	tolo:actualYear "1346-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_53 ;
 	.
 
 told:_Founding_1249
@@ -1120,10 +988,6 @@ told:_Founding_1250
 told:_Founding_1251
 	skos:prefLabel "Zangchen Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
-	.
-
-told:_Founding_1252
-	skos:prefLabel "Indian Masters Founding"@en ;
 	.
 
 told:_Founding_1253
@@ -1160,10 +1024,6 @@ told:_Founding_1259
 
 told:_Founding_126
 	skos:prefLabel "Tselmin Founding"@en ;
-	.
-
-told:_Founding_1260
-	skos:prefLabel "Dzogon Monastery Founding"@en ;
 	.
 
 told:_Founding_1261
@@ -1230,6 +1090,7 @@ told:_Founding_1273
 told:_Founding_1274
 	skos:prefLabel "Zhamar Monastery Founding"@en ;
 	tolo:actualYear "1644-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
 told:_Founding_1275
@@ -1255,7 +1116,7 @@ told:_Founding_1279
 	.
 
 told:_Founding_128
-	skos:prefLabel "Nalendra Monastery Founding"@en ;
+	skos:prefLabel "Nālendra Monastery Founding"@en ;
 	tolo:actualYear "1436-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -1274,7 +1135,7 @@ told:_Founding_1282
 	.
 
 told:_Founding_1283
-	skos:prefLabel "Thikse Monastery Founding"@en ;
+	skos:prefLabel "Thiksay Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
@@ -1394,14 +1255,6 @@ told:_Founding_1309
 	skos:prefLabel "Shukchung Founding"@en ;
 	.
 
-told:_Founding_131
-	skos:prefLabel "Dong Founding"@en ;
-	.
-
-told:_Founding_1310
-	skos:prefLabel "Hidden Land Founding"@en ;
-	.
-
 told:_Founding_1311
 	skos:prefLabel "Zambulung Founding"@en ;
 	.
@@ -1434,10 +1287,6 @@ told:_Founding_1318
 	skos:prefLabel "Zhichen Monastery Founding"@en ;
 	.
 
-told:_Founding_1319
-	skos:prefLabel "Desi Founding"@en ;
-	.
-
 told:_Founding_132
 	skos:prefLabel "Kodrak Hermitage Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
@@ -1448,7 +1297,7 @@ told:_Founding_1320
 	.
 
 told:_Founding_1321
-	skos:prefLabel "Baḥne Monastery Founding"@en ;
+	skos:prefLabel "Baḥne Monastery  Founding"@en ;
 	.
 
 told:_Founding_1322
@@ -1467,16 +1316,8 @@ told:_Founding_1325
 	skos:prefLabel "Yamdrok Lake Founding"@en ;
 	.
 
-told:_Founding_1326
-	skos:prefLabel "School Founding"@en ;
-	.
-
 told:_Founding_1327
 	skos:prefLabel "Nyarongsha School Founding"@en ;
-	.
-
-told:_Founding_1328
-	skos:prefLabel "Kyitopa Founding"@en ;
 	.
 
 told:_Founding_1329
@@ -1592,7 +1433,7 @@ told:_Founding_1351
 	.
 
 told:_Founding_1352
-	skos:prefLabel "Ngedon Dongak Chokhor Ling Founding"@en ;
+	skos:prefLabel "Limdo Chogar Founding"@en ;
 	tolo:actualYear "1979-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -1623,10 +1464,6 @@ told:_Founding_1359
 told:_Founding_136
 	skos:prefLabel "Jangchen Founding"@en ;
 	tolo:actualYear "1579-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1360
-	skos:prefLabel "Dapon Founding"@en ;
 	.
 
 told:_Founding_1361
@@ -1680,10 +1517,6 @@ told:_Founding_1370
 	tolo:actualYear "1954-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_1371
-	skos:prefLabel "Tsedrung Founding"@en ;
-	.
-
 told:_Founding_1372
 	skos:prefLabel "Śāntipura Founding"@en ;
 	.
@@ -1696,14 +1529,6 @@ told:_Founding_1373
 told:_Founding_1374
 	skos:prefLabel "St. Joseph's School Founding"@en ;
 	tolo:actualYear "1888-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1375
-	skos:prefLabel "Zhangpa Founding"@en ;
-	.
-
-told:_Founding_1376
-	skos:prefLabel "Chode (Denma) Founding"@en ;
 	.
 
 told:_Founding_1377
@@ -1721,10 +1546,6 @@ told:_Founding_1379
 told:_Founding_1380
 	skos:prefLabel "Kilung Founding"@en ;
 	tolo:actualYear "1790-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1382
-	skos:prefLabel "Tsur Founding"@en ;
 	.
 
 told:_Founding_1386
@@ -1888,7 +1709,7 @@ told:_Founding_1418
 	.
 
 told:_Founding_1419
-	skos:prefLabel "Ensa Founding"@en ;
+	skos:prefLabel "Wensa Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
@@ -1912,10 +1733,6 @@ told:_Founding_1423
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_1425
-	skos:prefLabel "Rulers of Meu Founding"@en ;
-	.
-
 told:_Founding_1426
 	skos:prefLabel "Taktsang Lhamo Kīrti Founding"@en ;
 	tolo:actualYear "1713-01-01T00:00:00"^^xsd:dateTime ;
@@ -1931,7 +1748,7 @@ told:_Founding_1429
 	.
 
 told:_Founding_143
-	skos:prefLabel "Tangkya Lhakhang Founding"@en ;
+	skos:prefLabel "Tangkya Lhakhang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_29 ;
 	.
 
@@ -1996,10 +1813,6 @@ told:_Founding_1442
 told:_Founding_1443
 	skos:prefLabel "Gampo Abbey Founding"@en ;
 	tolo:actualYear "1983-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1444
-	skos:prefLabel "Dharma Center Founding"@en ;
 	.
 
 told:_Founding_1445
@@ -2122,10 +1935,6 @@ told:_Founding_1469
 	tolo:occursBy told:_HistoricalPeriod_73 ;
 	.
 
-told:_Founding_147
-	skos:prefLabel "Chungpa Founding"@en ;
-	.
-
 told:_Founding_1470
 	skos:prefLabel "Birla House Founding"@en ;
 	.
@@ -2174,10 +1983,6 @@ told:_Founding_1479
 	tolo:actualYear "1958-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_148
-	skos:prefLabel "Lonang Founding"@en ;
-	.
-
 told:_Founding_1480
 	skos:prefLabel "Pombora Khamtsen Founding"@en ;
 	.
@@ -2192,16 +1997,8 @@ told:_Founding_1482
 	tolo:occursDuring told:_HistoricalPeriod_61 ;
 	.
 
-told:_Founding_1483
-	skos:prefLabel "Makchi Founding"@en ;
-	.
-
-told:_Founding_1484
-	skos:prefLabel "Rupon Founding"@en ;
-	.
-
 told:_Founding_1486
-	skos:prefLabel "Adu Yakgo Founding"@en ;
+	skos:prefLabel "Adu Yakgo  Founding"@en ;
 	tolo:actualYear "1394-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -2219,7 +2016,7 @@ told:_Founding_1489
 	.
 
 told:_Founding_149
-	skos:prefLabel "Gotsang Hermitage Founding"@en ;
+	skos:prefLabel "Gotsang Hermitage  Founding"@en ;
 	.
 
 told:_Founding_1490
@@ -2244,11 +2041,6 @@ told:_Founding_1493
 
 told:_Founding_1494
 	skos:prefLabel "Lumbini Founding"@en ;
-	.
-
-told:_Founding_1495
-	skos:prefLabel "Shatra Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
 told:_Founding_1496
@@ -2295,10 +2087,6 @@ told:_Founding_1502
 told:_Founding_1504
 	skos:prefLabel "Ka-Nying Shedrub Ling Founding"@en ;
 	tolo:actualYear "1976-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1505
-	skos:prefLabel "Nunnery Founding"@en ;
 	.
 
 told:_Founding_1506
@@ -2364,14 +2152,6 @@ told:_Founding_1518
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
-told:_Founding_1519
-	skos:prefLabel "Drumpa Founding"@en ;
-	.
-
-told:_Founding_152
-	skos:prefLabel "Ngen Founding"@en ;
-	.
-
 told:_Founding_1520
 	skos:prefLabel "Taser Founding"@en ;
 	.
@@ -2415,17 +2195,9 @@ told:_Founding_1529
 	tolo:occursDuring told:_HistoricalPeriod_69 ;
 	.
 
-told:_Founding_153
-	skos:prefLabel "Kyi Founding"@en ;
-	.
-
 told:_Founding_1530
 	skos:prefLabel "Men-tsee-khang Founding"@en ;
 	tolo:actualYear "1961-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1531
-	skos:prefLabel "Barawa Founding"@en ;
 	.
 
 told:_Founding_1532
@@ -2469,10 +2241,6 @@ told:_Founding_154
 	tolo:actualYear "1181-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_1540
-	skos:prefLabel "Tsangsar Founding"@en ;
-	.
-
 told:_Founding_1541
 	skos:prefLabel "Pema Khyung Dzong Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
@@ -2510,10 +2278,6 @@ told:_Founding_1548
 told:_Founding_1549
 	skos:prefLabel "Kagyu Gonsar Founding"@en ;
 	tolo:occursBy told:_HistoricalPeriod_69 ;
-	.
-
-told:_Founding_1550
-	skos:prefLabel "Jampel Dechenling Founding"@en ;
 	.
 
 told:_Founding_1551
@@ -2604,16 +2368,12 @@ told:_Founding_1569
 	.
 
 told:_Founding_157
-	skos:prefLabel "Shar Yelpuk Founding"@en ;
+	skos:prefLabel "Shar Yelpuk  Founding"@en ;
 	tolo:actualYear "1171-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_1570
 	skos:prefLabel "Dogyu Tosam Ling Founding"@en ;
-	.
-
-told:_Founding_1571
-	skos:prefLabel "Delek Rabten Founding"@en ;
 	.
 
 told:_Founding_1572
@@ -2652,28 +2412,8 @@ told:_Founding_1579
 	.
 
 told:_Founding_158
-	skos:prefLabel "Jang Tana Founding"@en ;
+	skos:prefLabel "Jang Tana  Founding"@en ;
 	tolo:actualYear "1068-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1580
-	skos:prefLabel "Dome Chikyab Founding"@en ;
-	.
-
-told:_Founding_1581
-	skos:prefLabel "Rimzhi Founding"@en ;
-	.
-
-told:_Founding_1582
-	skos:prefLabel "Neshan Founding"@en ;
-	.
-
-told:_Founding_1583
-	skos:prefLabel "Dekhar Founding"@en ;
-	.
-
-told:_Founding_1584
-	skos:prefLabel "Marlampa Founding"@en ;
 	.
 
 told:_Founding_1585
@@ -2703,10 +2443,6 @@ told:_Founding_1589
 told:_Founding_159
 	skos:prefLabel "Dodzong Founding"@en ;
 	tolo:actualYear "1192-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1590
-	skos:prefLabel "Dokhar Founding"@en ;
 	.
 
 told:_Founding_1591
@@ -2793,10 +2529,6 @@ told:_Founding_1609
 	tolo:actualYear "0328-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_161
-	skos:prefLabel "Janak Founding"@en ;
-	.
-
 told:_Founding_1610
 	skos:prefLabel "Yarlung Tashi Chode Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_53 ;
@@ -2837,10 +2569,6 @@ told:_Founding_1619
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
-told:_Founding_162
-	skos:prefLabel "Kharchen Founding"@en ;
-	.
-
 told:_Founding_1620
 	skos:prefLabel "Luding Labrang Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_61 ;
@@ -2848,14 +2576,6 @@ told:_Founding_1620
 
 told:_Founding_1621
 	skos:prefLabel "Gyelmo Murdo Founding"@en ;
-	.
-
-told:_Founding_1622
-	skos:prefLabel "Cave Founding"@en ;
-	.
-
-told:_Founding_1623
-	skos:prefLabel "Monastic College Founding"@en ;
 	.
 
 told:_Founding_1624
@@ -2867,21 +2587,9 @@ told:_Founding_1625
 	skos:prefLabel "Ditsa Parkhang Founding"@en ;
 	.
 
-told:_Founding_1626
-	skos:prefLabel "Zhalu Kuzhang Founding"@en ;
-	.
-
 told:_Founding_1627
 	skos:prefLabel "Pangshar Founding"@en ;
 	tolo:actualYear "1265-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1628
-	skos:prefLabel "Asura Cave Founding"@en ;
-	.
-
-told:_Founding_163
-	skos:prefLabel "Nanam Founding"@en ;
 	.
 
 told:_Founding_1630
@@ -2910,7 +2618,6 @@ told:_Founding_1634
 
 told:_Founding_1636
 	skos:prefLabel "Bumsar Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_45 ;
 	.
 
 told:_Founding_1637
@@ -2925,10 +2632,6 @@ told:_Founding_1639
 	skos:prefLabel "Rigdzin Gatsel Founding"@en ;
 	.
 
-told:_Founding_164
-	skos:prefLabel "Zhang Founding"@en ;
-	.
-
 told:_Founding_1640
 	skos:prefLabel "Ati Ling Founding"@en ;
 	.
@@ -2941,10 +2644,6 @@ told:_Founding_1641
 told:_Founding_1642
 	skos:prefLabel "Khadro Ling Founding"@en ;
 	tolo:actualYear "1995-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1643
-	skos:prefLabel "Horkhang Founding"@en ;
 	.
 
 told:_Founding_1644
@@ -2975,25 +2674,12 @@ told:_Founding_1649
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
-told:_Founding_165
-	skos:prefLabel "Samye Founding"@en ;
-	tolo:actualYear "0779-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
 told:_Founding_1651
 	skos:prefLabel "Kyire School Founding"@en ;
 	.
 
-told:_Founding_1652
-	skos:prefLabel "Powo Tramo Founding"@en ;
-	.
-
 told:_Founding_1653
 	skos:prefLabel "Chobar Founding"@en ;
-	.
-
-told:_Founding_1654
-	skos:prefLabel "Delok Founding"@en ;
 	.
 
 told:_Founding_1655
@@ -3001,7 +2687,7 @@ told:_Founding_1655
 	.
 
 told:_Founding_1656
-	skos:prefLabel "Kunzang Odsal Palyul Changchub Choling Founding"@en ;
+	skos:prefLabel "Kunzang Odsal Palyul Changchub Choling  Founding"@en ;
 	.
 
 told:_Founding_1657
@@ -3014,10 +2700,6 @@ told:_Founding_1658
 
 told:_Founding_1659
 	skos:prefLabel "Drepung Gomang India Founding"@en ;
-	.
-
-told:_Founding_166
-	skos:prefLabel "Drokmi Founding"@en ;
 	.
 
 told:_Founding_1660
@@ -3065,7 +2747,7 @@ told:_Founding_1670
 	.
 
 told:_Founding_1671
-	skos:prefLabel "Rigdzin Gatsel Ling Founding"@en ;
+	skos:prefLabel "Rigdzin Gatsel Ling  Founding"@en ;
 	.
 
 told:_Founding_1672
@@ -3082,16 +2764,8 @@ told:_Founding_1674
 	tolo:occursBy told:_HistoricalPeriod_78 ;
 	.
 
-told:_Founding_1675
-	skos:prefLabel "Wozer Founding"@en ;
-	.
-
 told:_Founding_1676
 	skos:prefLabel "Nego Monastery Founding"@en ;
-	.
-
-told:_Founding_1677
-	skos:prefLabel "Gyelse Founding"@en ;
 	.
 
 told:_Founding_1678
@@ -3102,10 +2776,6 @@ told:_Founding_1678
 told:_Founding_1679
 	skos:prefLabel "Dashchoilin Khiid Founding"@en ;
 	tolo:actualYear "1990-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_168
-	skos:prefLabel "Nyak Founding"@en ;
 	.
 
 told:_Founding_1681
@@ -3120,10 +2790,6 @@ told:_Founding_1682
 told:_Founding_1683
 	skos:prefLabel "Moscow Buddhist Center Lama Tsongkhapa Founding"@en ;
 	tolo:actualYear "1996-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1684
-	skos:prefLabel "Idgaachoinzinling Monastic College Founding"@en ;
 	.
 
 told:_Founding_1685
@@ -3147,10 +2813,6 @@ told:_Founding_1688
 told:_Founding_1689
 	skos:prefLabel "Tashi Gomang Stupa Founding"@en ;
 	tolo:actualYear "1996-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_169
-	skos:prefLabel "Nyang Founding"@en ;
 	.
 
 told:_Founding_1690
@@ -3194,10 +2856,6 @@ told:_Founding_1697
 
 told:_Founding_1698
 	skos:prefLabel "Namgyelteng Founding"@en ;
-	.
-
-told:_Founding_17
-	skos:prefLabel "Tselpa Founding"@en ;
 	.
 
 told:_Founding_1700
@@ -3249,10 +2907,6 @@ told:_Founding_1709
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_171
-	skos:prefLabel "Ma Founding"@en ;
-	.
-
 told:_Founding_1710
 	skos:prefLabel "Draklha Gampo Founding"@en ;
 	.
@@ -3289,7 +2943,7 @@ told:_Founding_1717
 	.
 
 told:_Founding_1718
-	skos:prefLabel "Dudjom Gonpa Founding"@en ;
+	skos:prefLabel "Dudjom Gonpa   Founding"@en ;
 	.
 
 told:_Founding_1719
@@ -3303,7 +2957,7 @@ told:_Founding_172
 	.
 
 told:_Founding_1720
-	skos:prefLabel "Urgyen Samyé Chöling Founding"@en ;
+	skos:prefLabel "Urgyen Samyé Chöling  Founding"@en ;
 	.
 
 told:_Founding_1722
@@ -3341,7 +2995,7 @@ told:_Founding_1729
 	.
 
 told:_Founding_173
-	skos:prefLabel "Boudhanath Founding"@en ;
+	skos:prefLabel "Boudha Stupa Founding"@en ;
 	.
 
 told:_Founding_1730
@@ -3357,7 +3011,7 @@ told:_Founding_1732
 	.
 
 told:_Founding_1733
-	skos:prefLabel "Tsinta Mani Choling, Spokane Founding"@en ;
+	skos:prefLabel "Tsinta Mani Choling Founding"@en ;
 	.
 
 told:_Founding_1734
@@ -3415,10 +3069,6 @@ told:_Founding_1745
 	skos:prefLabel "Samten Tse Founding"@en ;
 	.
 
-told:_Founding_1746
-	skos:prefLabel "Drak Kharwachen Founding"@en ;
-	.
-
 told:_Founding_1747
 	skos:prefLabel "Drukto Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
@@ -3436,10 +3086,6 @@ told:_Founding_1750
 told:_Founding_1752
 	skos:prefLabel "Gotsa Founding"@en ;
 	tolo:actualYear "1182-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_1753
-	skos:prefLabel "Danyin Khala Ronggo Founding"@en ;
 	.
 
 told:_Founding_1755
@@ -3460,17 +3106,13 @@ told:_Founding_1759
 	tolo:actualYear "1956-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_176
-	skos:prefLabel "Go (sgo) Founding"@en ;
-	.
-
 told:_Founding_1761
 	skos:prefLabel "Mewa Monastery Founding"@en ;
 	tolo:actualYear "1646-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_1762
-	skos:prefLabel "Lung-ngon Monastery Founding"@en ;
+	skos:prefLabel "Lung Ngon Monastery Founding"@en ;
 	tolo:actualYear "1958-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3479,7 +3121,64 @@ told:_Founding_1763
 	.
 
 told:_Founding_1766
-	skos:prefLabel "Go-ngon Founding"@en ;
+	skos:prefLabel "Go Ngon Founding"@en ;
+	.
+
+told:_Founding_1767
+	skos:prefLabel "Chukchikzhal Founding"@en ;
+	tolo:actualYear "1976-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1768
+	skos:prefLabel "Taṃ Tsopu Founding"@en ;
+	.
+
+told:_Founding_1769
+	skos:prefLabel "Dorka Founding"@en ;
+	.
+
+told:_Founding_1770
+	skos:prefLabel "Sengti Founding"@en ;
+	.
+
+told:_Founding_1771
+	skos:prefLabel "Garchen Monastery Founding"@en ;
+	.
+
+told:_Founding_1772
+	skos:prefLabel "Wogmin Thubten Shedrub Ling Founding"@en ;
+	tolo:actualYear "1975-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1773
+	skos:prefLabel "Shashur Gompa Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_65 ;
+	.
+
+told:_Founding_1774
+	skos:prefLabel "Zuru Monastery Founding"@en ;
+	.
+
+told:_Founding_1775
+	skos:prefLabel "Great White Pagoda Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_63 ;
+	.
+
+told:_Founding_1776
+	skos:prefLabel "Gyiling Monastery Founding"@en ;
+	tolo:actualYear "1840-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1778
+	skos:prefLabel "Shinglung Monastery Founding"@en ;
+	tolo:alternateYear
+		"1644-01-01T00:00:00"^^xsd:dateTime ,
+		"1669-01-01T00:00:00"^^xsd:dateTime
+		;
+	.
+
+told:_Founding_1779
+	skos:prefLabel "Jakrung Yarlung Founding"@en ;
 	.
 
 told:_Founding_178
@@ -3487,13 +3186,82 @@ told:_Founding_178
 	tolo:actualYear "1436-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
+told:_Founding_1780
+	skos:prefLabel "Mahakaal Founding"@en ;
+	.
+
+told:_Founding_1781
+	skos:prefLabel "Ratnagupta Temple Founding"@en ;
+	.
+
+told:_Founding_1782
+	skos:prefLabel "Lotsa Monastery Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_41 ;
+	.
+
+told:_Founding_1783
+	skos:prefLabel "Dzongkar Chode Founding"@en ;
+	tolo:actualYear "1392-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1784
+	skos:prefLabel "Tibet University Founding"@en ;
+	tolo:actualYear "1985-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1785
+	skos:prefLabel "Gau Monastery Founding"@en ;
+	.
+
+told:_Founding_1786
+	skos:prefLabel "Teura Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_41 ;
+	.
+
+told:_Founding_1788
+	skos:prefLabel "Yangdok Founding"@en ;
+	tolo:occursBy told:_HistoricalPeriod_41 ;
+	.
+
+told:_Founding_1789
+	skos:prefLabel "Dhogon Palace Founding"@en ;
+	.
+
 told:_Founding_179
 	skos:prefLabel "Dezhung Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
-told:_Founding_18
-	skos:prefLabel "Karma Kagyu Founding"@en ;
+told:_Founding_1790
+	skos:prefLabel "Budta Monastery Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_49 ;
+	.
+
+told:_Founding_1791
+	skos:prefLabel "Tsana Founding"@en ;
+	tolo:occursBy told:_HistoricalPeriod_49 ;
+	.
+
+told:_Founding_1792
+	skos:prefLabel "Shangdu Founding"@en ;
+	tolo:approximateYear "1252-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1793
+	skos:prefLabel "Pakpawati Founding"@en ;
+	.
+
+told:_Founding_1795
+	skos:prefLabel "Puri Founding"@en ;
+	tolo:occursBy told:_HistoricalPeriod_49 ;
+	.
+
+told:_Founding_1796
+	skos:prefLabel "Chepu Sengge Ling Founding"@en ;
+	.
+
+told:_Founding_1797
+	skos:prefLabel "Tsere Monastery Founding"@en ;
 	.
 
 told:_Founding_180
@@ -3501,9 +3269,119 @@ told:_Founding_180
 	tolo:actualYear "1253-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
+told:_Founding_1800
+	skos:prefLabel "Üsütü Zuu  Founding"@en ;
+	tolo:approximateYear "1583-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1801
+	skos:prefLabel "Samlo Khamtsen Founding"@en ;
+	.
+
+told:_Founding_1802
+	skos:prefLabel "Gyelse Hermitage  Founding"@en ;
+	.
+
+told:_Founding_1803
+	skos:prefLabel "Gongwa Founding"@en ;
+	.
+
+told:_Founding_1804
+	skos:prefLabel "Seralung Ganden Damcholing  Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_57 ;
+	.
+
+told:_Founding_1805
+	skos:prefLabel "Sokkhar Drubde Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_53 ;
+	.
+
+told:_Founding_1806
+	skos:prefLabel "Tashitse Founding"@en ;
+	tolo:actualYear "1756-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1807
+	skos:prefLabel "Melong Monastery Founding"@en ;
+	tolo:actualYear "1865-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1808
+	skos:prefLabel "Mebar Tsuklakhang Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_57 ;
+	.
+
+told:_Founding_1809
+	skos:prefLabel "Jowo Dzamling Karpo Founding"@en ;
+	.
+
 told:_Founding_181
 	skos:prefLabel "Longtang Drolma Lhakhang Founding"@en ;
 	tolo:actualYear "0638-01-01T00:00:00"^^xsd:dateTime ;
+	.
+
+told:_Founding_1810
+	skos:prefLabel "Jowo Zegyel Founding"@en ;
+	.
+
+told:_Founding_1811
+	skos:prefLabel "Tsomey Founding"@en ;
+	.
+
+told:_Founding_1812
+	skos:prefLabel "Gyam Samten Ling Founding"@en ;
+	tolo:occursBy told:_HistoricalPeriod_52 ;
+	.
+
+told:_Founding_1813
+	skos:prefLabel "Orgyen Drodren Ling Founding"@en ;
+	.
+
+told:_Founding_1814
+	skos:prefLabel "Chaktsa Founding"@en ;
+	.
+
+told:_Founding_1815
+	skos:prefLabel "Tsakho Ganden Dargyeling  Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_58 ;
+	.
+
+told:_Founding_1816
+	skos:prefLabel "Dorje Dzong Founding"@en ;
+	.
+
+told:_Founding_1817
+	skos:prefLabel "Dongdzong Founding"@en ;
+	.
+
+told:_Founding_1819
+	skos:prefLabel "Kyilkhang Dratsang Founding"@en ;
+	.
+
+told:_Founding_1820
+	skos:prefLabel "Zangyak Namkha Drak Founding"@en ;
+	.
+
+told:_Founding_1821
+	skos:prefLabel "Mardo Tashi Gakhyil Founding"@en ;
+	.
+
+told:_Founding_1824
+	skos:prefLabel "Rātī Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_55 ;
+	.
+
+told:_Founding_1826
+	skos:prefLabel "Pema Woling Founding"@en ;
+	.
+
+told:_Founding_1827
+	skos:prefLabel "Mount Gangkar Founding"@en ;
+	.
+
+told:_Founding_1828
+	skos:prefLabel "Jakchung Founding"@en ;
+	tolo:occursDuring told:_HistoricalPeriod_52 ;
 	.
 
 told:_Founding_183
@@ -3511,8 +3389,8 @@ told:_Founding_183
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_184
-	skos:prefLabel "Khon Founding"@en ;
+told:_Founding_1830
+	skos:prefLabel "Lhamo Tse Founding"@en ;
 	.
 
 told:_Founding_185
@@ -3536,13 +3414,9 @@ told:_Founding_189
 	skos:prefLabel "Lekdrub Dratsang Founding"@en ;
 	.
 
-told:_Founding_19
-	skos:prefLabel "Pakdru Founding"@en ;
-	.
-
 told:_Founding_190
 	skos:prefLabel "Gyume Dratsang Founding"@en ;
-	tolo:actualYear "1721-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:actualYear "1433-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_191
@@ -3563,10 +3437,6 @@ told:_Founding_195
 	tolo:actualYear "1017-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_196
-	skos:prefLabel "Shangpa Kagyu Founding"@en ;
-	.
-
 told:_Founding_197
 	skos:prefLabel "Zhangzhung Dorjeden Founding"@en ;
 	tolo:actualYear "1021-01-01T00:00:00"^^xsd:dateTime ;
@@ -3580,28 +3450,6 @@ told:_Founding_198
 told:_Founding_199
 	skos:prefLabel "Langtang Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
-	.
-
-told:_Founding_2
-	skos:prefLabel "Stupa Founding"@en ;
-	.
-
-told:_Founding_20
-	skos:prefLabel "Drigung Kagyu Founding"@en ;
-	.
-
-told:_Founding_200
-	skos:prefLabel "Khyungpo Founding"@en ;
-	tolo:actualYear "1061-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_201
-	skos:prefLabel "Gyu Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_51 ;
-	.
-
-told:_Founding_203
-	skos:prefLabel "Zira Founding"@en ;
 	.
 
 told:_Founding_204
@@ -3619,7 +3467,6 @@ told:_Founding_206
 
 told:_Founding_207
 	skos:prefLabel "Lhundrubteng Founding"@en ;
-	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
 told:_Founding_208
@@ -3633,17 +3480,13 @@ told:_Founding_209
 	.
 
 told:_Founding_21
-	skos:prefLabel "Zhung Treuzhing Founding"@en ;
+	skos:prefLabel "Zhung Treuzhing  Founding"@en ;
 	tolo:actualYear "1150-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_210
 	skos:prefLabel "Tsangwa Monastery Founding"@en ;
 	tolo:actualYear "1717-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_211
-	skos:prefLabel "Chakgong Founding"@en ;
 	.
 
 told:_Founding_212
@@ -3678,18 +3521,6 @@ told:_Founding_219
 	skos:prefLabel "Riwoche Yanggon Founding"@en ;
 	.
 
-told:_Founding_22
-	skos:prefLabel "Drukpa Founding"@en ;
-	.
-
-told:_Founding_220
-	skos:prefLabel "Gar Ratsang Founding"@en ;
-	.
-
-told:_Founding_222
-	skos:prefLabel "Se Founding"@en ;
-	.
-
 told:_Founding_224
 	skos:prefLabel "Poto Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
@@ -3716,14 +3547,6 @@ told:_Founding_228
 told:_Founding_229
 	skos:prefLabel "Zur Ukpalung Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
-	.
-
-told:_Founding_23
-	skos:prefLabel "Martsang Kagyu Founding"@en ;
-	.
-
-told:_Founding_230
-	skos:prefLabel "Zur Founding"@en ;
 	.
 
 told:_Founding_231
@@ -3756,20 +3579,8 @@ told:_Founding_236
 	.
 
 told:_Founding_237
-	skos:prefLabel "Chamdo Jampa Ling Founding"@en ;
+	skos:prefLabel "Chamdo Jampa Ling  Founding"@en ;
 	tolo:actualYear "1444-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_238
-	skos:prefLabel "Drom Founding"@en ;
-	.
-
-told:_Founding_239
-	skos:prefLabel "Ja Founding"@en ;
-	.
-
-told:_Founding_240
-	skos:prefLabel "Bon Founding"@en ;
 	.
 
 told:_Founding_241
@@ -3778,7 +3589,7 @@ told:_Founding_241
 	.
 
 told:_Founding_242
-	skos:prefLabel "Lupuk Gonpa Founding"@en ;
+	skos:prefLabel "Lupuk Gonpa  Founding"@en ;
 	tolo:actualYear "1626-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3798,12 +3609,12 @@ told:_Founding_245
 	.
 
 told:_Founding_246
-	skos:prefLabel "Joden Gendungang Founding"@en ;
+	skos:prefLabel "Joden Gendungang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
 told:_Founding_247
-	skos:prefLabel "Pelme Tekchen Evam Gatsel Ling Founding"@en ;
+	skos:prefLabel "Pelme Tekchen Evam Gatsel Ling  Founding"@en ;
 	tolo:actualYear "1640-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3812,7 +3623,7 @@ told:_Founding_248
 	.
 
 told:_Founding_249
-	skos:prefLabel "Lingga Dewachen Founding"@en ;
+	skos:prefLabel "Lingga Dewachen  Founding"@en ;
 	tolo:actualYear "1437-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3826,12 +3637,8 @@ told:_Founding_251
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_252
-	skos:prefLabel "Yu Founding"@en ;
-	.
-
 told:_Founding_253
-	skos:prefLabel "Pelri Tekchen Ling Founding"@en ;
+	skos:prefLabel "Pelri Tekchen Ling  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_61 ;
 	.
 
@@ -3850,7 +3657,7 @@ told:_Founding_256
 	.
 
 told:_Founding_259
-	skos:prefLabel "Sinmo Dzong Founding"@en ;
+	skos:prefLabel "Sinmo Dzong  Founding"@en ;
 	.
 
 told:_Founding_263
@@ -3858,12 +3665,8 @@ told:_Founding_263
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
-told:_Founding_264
-	skos:prefLabel "Dro Founding"@en ;
-	.
-
 told:_Founding_265
-	skos:prefLabel "Zhertsa Chode Founding"@en ;
+	skos:prefLabel "Zhertsa Chode  Founding"@en ;
 	.
 
 told:_Founding_266
@@ -3872,7 +3675,7 @@ told:_Founding_266
 	.
 
 told:_Founding_267
-	skos:prefLabel "Potima Founding"@en ;
+	skos:prefLabel "Potima  Founding"@en ;
 	tolo:actualYear "1536-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3882,7 +3685,7 @@ told:_Founding_269
 	.
 
 told:_Founding_270
-	skos:prefLabel "Tanak Tubten Namgyel Founding"@en ;
+	skos:prefLabel "Tanak Tubten Namgyel  Founding"@en ;
 	tolo:actualYear "1473-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -3906,17 +3709,17 @@ told:_Founding_274
 	.
 
 told:_Founding_275
-	skos:prefLabel "Dreyul Kyetsel Founding"@en ;
+	skos:prefLabel "Dreyul Kyetsel  Founding"@en ;
 	tolo:actualYear "1449-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_276
-	skos:prefLabel "Nyenyo Jagoshong Founding"@en ;
+	skos:prefLabel "Nyenyo Jagoshong  Founding"@en ;
 	tolo:actualYear "1490-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_277
-	skos:prefLabel "Chokhor Lhunpo Founding"@en ;
+	skos:prefLabel "Chokhor Lhunpo  Founding"@en ;
 	.
 
 told:_Founding_278
@@ -3928,27 +3731,14 @@ told:_Founding_279
 	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
-told:_Founding_28
-	skos:prefLabel "Yelpa Founding"@en ;
-	.
-
 told:_Founding_280
 	skos:prefLabel "Chakra Founding"@en ;
 	tolo:actualYear "1125-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_281
-	skos:prefLabel "Dak Founding"@en ;
-	.
-
 told:_Founding_282
 	skos:prefLabel "Pewar Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
-	.
-
-told:_Founding_284
-	skos:prefLabel "Tsedong Founding"@en ;
-	tolo:actualYear "1489-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_285
@@ -3957,7 +3747,7 @@ told:_Founding_285
 	.
 
 told:_Founding_286
-	skos:prefLabel "Lho Chotritang Founding"@en ;
+	skos:prefLabel "Lho Chotritang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
@@ -3971,12 +3761,12 @@ told:_Founding_288
 	.
 
 told:_Founding_289
-	skos:prefLabel "Tuwa Founding"@en ;
+	skos:prefLabel "Tuwa  Founding"@en ;
 	tolo:actualYear "1640-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_290
-	skos:prefLabel "Dentik Founding"@en ;
+	skos:prefLabel "Dentik  Founding"@en ;
 	tolo:actualYear "0911-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4013,12 +3803,8 @@ told:_Founding_297
 	.
 
 told:_Founding_298
-	skos:prefLabel "Dakpo Dratsang Founding"@en ;
+	skos:prefLabel "Dakpo Dratsang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_59 ;
-	.
-
-told:_Founding_3
-	skos:prefLabel "Temple Founding"@en ;
 	.
 
 told:_Founding_305
@@ -4027,7 +3813,7 @@ told:_Founding_305
 	.
 
 told:_Founding_306
-	skos:prefLabel "Nyetang Longdol Hermitage Founding"@en ;
+	skos:prefLabel "Nyetang Longdol Hermitage  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
 	.
 
@@ -4042,7 +3828,7 @@ told:_Founding_308
 	.
 
 told:_Founding_309
-	skos:prefLabel "Bangri Jokpo Founding"@en ;
+	skos:prefLabel "Bangri Jokpo  Founding"@en ;
 	.
 
 told:_Founding_310
@@ -4054,7 +3840,7 @@ told:_Founding_311
 	.
 
 told:_Founding_312
-	skos:prefLabel "Nyima Tang Monastery Founding"@en ;
+	skos:prefLabel "Nyima Tang Monastery  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_25 ;
 	.
 
@@ -4064,7 +3850,7 @@ told:_Founding_314
 	.
 
 told:_Founding_315
-	skos:prefLabel "Ganden Jangtse College Founding"@en ;
+	skos:prefLabel "Ganden Jangtse College  Founding"@en ;
 	.
 
 told:_Founding_316
@@ -4113,7 +3899,7 @@ told:_Founding_324
 	.
 
 told:_Founding_325
-	skos:prefLabel "Kyormolung Founding"@en ;
+	skos:prefLabel "Kyormolung  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
 	.
 
@@ -4137,7 +3923,7 @@ told:_Founding_331
 	.
 
 told:_Founding_333
-	skos:prefLabel "Ngamring Chode Founding"@en ;
+	skos:prefLabel "Ngamring Chode  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
@@ -4158,10 +3944,6 @@ told:_Founding_338
 told:_Founding_339
 	skos:prefLabel "Tangring Monastery Founding"@en ;
 	tolo:actualYear "1619-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_34
-	skos:prefLabel "Dzongpa Founding"@en ;
 	.
 
 told:_Founding_340
@@ -4189,12 +3971,12 @@ told:_Founding_345
 	.
 
 told:_Founding_346
-	skos:prefLabel "Pari Tashi Choling Founding"@en ;
+	skos:prefLabel "Pari Tashi Choling  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
 told:_Founding_347
-	skos:prefLabel "Serlung Monastery Founding"@en ;
+	skos:prefLabel "Serlung Monastery  Founding"@en ;
 	.
 
 told:_Founding_348
@@ -4264,7 +4046,7 @@ told:_Founding_36
 	.
 
 told:_Founding_360
-	skos:prefLabel "Tsador Monastery Founding"@en ;
+	skos:prefLabel "Tsador Monastery  Founding"@en ;
 	tolo:actualYear "1260-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4283,7 +4065,7 @@ told:_Founding_363
 	.
 
 told:_Founding_364
-	skos:prefLabel "Tso Gon Ganden Choling Founding"@en ;
+	skos:prefLabel "Tso Gon Ganden Choling  Founding"@en ;
 	tolo:actualYear "1650-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4293,7 +4075,7 @@ told:_Founding_365
 	.
 
 told:_Founding_367
-	skos:prefLabel "Muge Tashikhorlo Founding"@en ;
+	skos:prefLabel "Muge Tashikhorlo  Founding"@en ;
 	tolo:actualYear "1397-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4318,7 +4100,7 @@ told:_Founding_370
 	.
 
 told:_Founding_371
-	skos:prefLabel "Petseling Jangchub Pelri Monastery Founding"@en ;
+	skos:prefLabel "Petseling Jangchub Pelri Monastery  Founding"@en ;
 	tolo:actualYear "1769-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4338,21 +4120,21 @@ told:_Founding_374
 	.
 
 told:_Founding_375
-	skos:prefLabel "Ditsa Tashi Choding Founding"@en ;
+	skos:prefLabel "Ditsa Tashi Choding  Founding"@en ;
 	tolo:actualYear "1903-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_376
-	skos:prefLabel "Wangdue Phodrang Dzong Founding"@en ;
+	skos:prefLabel "Wangdue Phodrang Dzong  Founding"@en ;
 	tolo:actualYear "1638-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_377
-	skos:prefLabel "Talang Founding"@en ;
+	skos:prefLabel "Talang  Founding"@en ;
 	.
 
 told:_Founding_378
-	skos:prefLabel "Tubten Jago Pungpo Founding"@en ;
+	skos:prefLabel "Tubten Jago Pungpo  Founding"@en ;
 	tolo:actualYear "1749-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4362,20 +4144,20 @@ told:_Founding_38
 	.
 
 told:_Founding_380
-	skos:prefLabel "Talo Sangngak Choling Founding"@en ;
+	skos:prefLabel "Talo Sangngak Choling  Founding"@en ;
 	.
 
 told:_Founding_381
-	skos:prefLabel "Chitokha Puntsok Rabten Ling Founding"@en ;
+	skos:prefLabel "Chitokha Puntsok Rabten Ling  Founding"@en ;
 	.
 
 told:_Founding_382
-	skos:prefLabel "Gangteng Monastery Founding"@en ;
+	skos:prefLabel "Gangteng Monastery  Founding"@en ;
 	tolo:actualYear "1613-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_383
-	skos:prefLabel "Trakar Lhakhang Founding"@en ;
+	skos:prefLabel "Trakar Lhakhang  Founding"@en ;
 	.
 
 told:_Founding_384
@@ -4383,12 +4165,12 @@ told:_Founding_384
 	.
 
 told:_Founding_385
-	skos:prefLabel "Tsamdrak Monastery Founding"@en ;
+	skos:prefLabel "Tsamdrak Monastery  Founding"@en ;
 	tolo:occursBy told:_HistoricalPeriod_69 ;
 	.
 
 told:_Founding_386
-	skos:prefLabel "Dodedrak Monastery Founding"@en ;
+	skos:prefLabel "Dodedrak Monastery  Founding"@en ;
 	.
 
 told:_Founding_387
@@ -4401,7 +4183,7 @@ told:_Founding_388
 	.
 
 told:_Founding_389
-	skos:prefLabel "Gongto Sergyi Lhakhang Founding"@en ;
+	skos:prefLabel "Gongto Sergyi Lhakhang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_61 ;
 	.
 
@@ -4411,22 +4193,22 @@ told:_Founding_39
 	.
 
 told:_Founding_390
-	skos:prefLabel "Lhadzong Tashigang Founding"@en ;
+	skos:prefLabel "Lhadzong Tashigang  Founding"@en ;
 	tolo:actualYear "1767-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_392
-	skos:prefLabel "Gorina Kunang Osel Ling Founding"@en ;
+	skos:prefLabel "Gorina Kunang Osel Ling  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
 told:_Founding_393
-	skos:prefLabel "Kyichu Lhakhang Founding"@en ;
+	skos:prefLabel "Kyichu Lhakhang  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_25 ;
 	.
 
 told:_Founding_395
-	skos:prefLabel "Sechang Founding"@en ;
+	skos:prefLabel "Sechang  Founding"@en ;
 	.
 
 told:_Founding_396
@@ -4435,7 +4217,7 @@ told:_Founding_396
 	.
 
 told:_Founding_397
-	skos:prefLabel "Dzoge Monastery Founding"@en ;
+	skos:prefLabel "Dzoge Monastery  Founding"@en ;
 	tolo:actualYear "1798-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4445,11 +4227,7 @@ told:_Founding_398
 	.
 
 told:_Founding_399
-	skos:prefLabel "Geting Ganden Choling Founding"@en ;
-	.
-
-told:_Founding_4
-	skos:prefLabel "Clans Founding"@en ;
+	skos:prefLabel "Geting Ganden Choling  Founding"@en ;
 	.
 
 told:_Founding_40
@@ -4463,12 +4241,12 @@ told:_Founding_400
 	.
 
 told:_Founding_401
-	skos:prefLabel "Lamo Dechen Founding"@en ;
+	skos:prefLabel "Lamo Dechen  Founding"@en ;
 	tolo:actualYear "1682-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_402
-	skos:prefLabel "Taktsang Rawato Founding"@en ;
+	skos:prefLabel "Taktsang Rawato  Founding"@en ;
 	.
 
 told:_Founding_403
@@ -4496,12 +4274,12 @@ told:_Founding_407
 	.
 
 told:_Founding_408
-	skos:prefLabel "Jamyang Mawai Sengge Ling Founding"@en ;
+	skos:prefLabel "Jamyang Mawai Sengge Ling  Founding"@en ;
 	tolo:actualYear "1823-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_409
-	skos:prefLabel "Gyakhar Founding"@en ;
+	skos:prefLabel "Gyakhar  Founding"@en ;
 	tolo:actualYear "1424-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4530,7 +4308,7 @@ told:_Founding_413
 	.
 
 told:_Founding_415
-	skos:prefLabel "Pajoding Founding"@en ;
+	skos:prefLabel "Pajoding  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
@@ -4540,24 +4318,20 @@ told:_Founding_416
 	.
 
 told:_Founding_417
-	skos:prefLabel "Drangjekha Founding"@en ;
+	skos:prefLabel "Drangjekha  Founding"@en ;
 	.
 
 told:_Founding_418
-	skos:prefLabel "Sang Chokhor Founding"@en ;
+	skos:prefLabel "Sang Chokhor  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_69 ;
 	.
 
 told:_Founding_419
-	skos:prefLabel "Tasho Pomdrak Founding"@en ;
-	.
-
-told:_Founding_42
-	skos:prefLabel "Institution Founding"@en ;
+	skos:prefLabel "Tasho Pomdrak  Founding"@en ;
 	.
 
 told:_Founding_420
-	skos:prefLabel "Yangri Gar Founding"@en ;
+	skos:prefLabel "Yangri Gar  Founding"@en ;
 	.
 
 told:_Founding_421
@@ -4571,12 +4345,12 @@ told:_Founding_422
 	.
 
 told:_Founding_423
-	skos:prefLabel "Pabongkha Hermitage Founding"@en ;
+	skos:prefLabel "Pabongkha Hermitage  Founding"@en ;
 	tolo:occursBy told:_HistoricalPeriod_25 ;
 	.
 
 told:_Founding_424
-	skos:prefLabel "E Rigo Chode Founding"@en ;
+	skos:prefLabel "E Rigo Chode  Founding"@en ;
 	tolo:occursBy told:_HistoricalPeriod_61 ;
 	.
 
@@ -4590,7 +4364,7 @@ told:_Founding_426
 	.
 
 told:_Founding_427
-	skos:prefLabel "Takmogang Kelzang Puntsok Ling Founding"@en ;
+	skos:prefLabel "Takmogang Founding"@en ;
 	tolo:actualYear "1693-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4626,10 +4400,6 @@ told:_Founding_437
 	tolo:actualYear "1915-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_438
-	skos:prefLabel "Welshul Founding"@en ;
-	.
-
 told:_Founding_439
 	skos:prefLabel "Śrī Siṃha College Founding"@en ;
 	tolo:actualYear "1848-01-01T00:00:00"^^xsd:dateTime ;
@@ -4641,12 +4411,12 @@ told:_Founding_44
 	.
 
 told:_Founding_440
-	skos:prefLabel "Tongkhor Ganden Chokhor Ling Founding"@en ;
+	skos:prefLabel "Tongkhor Ganden Chokhor Ling  Founding"@en ;
 	tolo:actualYear "1648-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_441
-	skos:prefLabel "Chorten Tang Tashi Dargye Ling Founding"@en ;
+	skos:prefLabel "Chorten Tang Tashi Dargye Ling  Founding"@en ;
 	tolo:actualYear "1647-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4671,7 +4441,7 @@ told:_Founding_445
 	.
 
 told:_Founding_446
-	skos:prefLabel "Nyang Tarpa Ling Founding"@en ;
+	skos:prefLabel "Nyang Tarpaling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_53 ;
 	.
 
@@ -4724,28 +4494,12 @@ told:_Founding_455
 	tolo:actualYear "1919-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_458
-	skos:prefLabel "Trotsik Founding"@en ;
-	.
-
 told:_Founding_459
 	skos:prefLabel "Khagya Me Monastery Founding"@en ;
 	.
 
-told:_Founding_46
-	skos:prefLabel "Che Founding"@en ;
-	.
-
-told:_Founding_460
-	skos:prefLabel "Lingmo Founding"@en ;
-	.
-
 told:_Founding_461
 	skos:prefLabel "Drakkar Gyelmo Founding"@en ;
-	.
-
-told:_Founding_463
-	skos:prefLabel "Yi Founding"@en ;
 	.
 
 told:_Founding_464
@@ -4777,10 +4531,6 @@ told:_Founding_469
 	tolo:actualYear "1760-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_47
-	skos:prefLabel "Bochung Founding"@en ;
-	.
-
 told:_Founding_470
 	skos:prefLabel "Jumohor Sangngak Choling Founding"@en ;
 	.
@@ -4795,7 +4545,7 @@ told:_Founding_472
 	.
 
 told:_Founding_473
-	skos:prefLabel "Kaṁpo Nenang Founding"@en ;
+	skos:prefLabel "Baney Founding"@en ;
 	tolo:actualYear "1164-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -4863,10 +4613,6 @@ told:_Founding_489
 	skos:prefLabel "Denang Monastery Founding"@en ;
 	.
 
-told:_Founding_49
-	skos:prefLabel "Nub Founding"@en ;
-	.
-
 told:_Founding_490
 	skos:prefLabel "Tongkyab Founding"@en ;
 	.
@@ -4888,7 +4634,7 @@ told:_Founding_494
 	.
 
 told:_Founding_495
-	skos:prefLabel "Wenne Samdrub Deden Ling Founding"@en ;
+	skos:prefLabel "Wenne Samdrub Deden Ling  Founding"@en ;
 	.
 
 told:_Founding_496
@@ -4908,10 +4654,6 @@ told:_Founding_498
 told:_Founding_499
 	skos:prefLabel "Dopuk Founding"@en ;
 	tolo:actualYear "1865-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_5
-	skos:prefLabel "Nyingma Founding"@en ;
 	.
 
 told:_Founding_500
@@ -4955,10 +4697,6 @@ told:_Founding_509
 	tolo:occursDuring told:_HistoricalPeriod_77 ;
 	.
 
-told:_Founding_51
-	skos:prefLabel "Dawa Founding"@en ;
-	.
-
 told:_Founding_510
 	skos:prefLabel "Nakchung Ritro Founding"@en ;
 	.
@@ -4972,12 +4710,8 @@ told:_Founding_512
 	tolo:actualYear "1398-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_513
-	skos:prefLabel "Tum Founding"@en ;
-	.
-
 told:_Founding_514
-	skos:prefLabel "Se Trabzang Founding"@en ;
+	skos:prefLabel "Se Trazang Founding"@en ;
 	tolo:actualYear "1366-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -5048,10 +4782,6 @@ told:_Founding_529
 	tolo:occursDuring told:_HistoricalPeriod_25 ;
 	.
 
-told:_Founding_53
-	skos:prefLabel "Lasum Founding"@en ;
-	.
-
 told:_Founding_530
 	skos:prefLabel "Ganden Mipam Choling Founding"@en ;
 	.
@@ -5098,10 +4828,6 @@ told:_Founding_539
 	tolo:occursDuring told:_HistoricalPeriod_57 ;
 	.
 
-told:_Founding_54
-	skos:prefLabel "Dre Founding"@en ;
-	.
-
 told:_Founding_540
 	skos:prefLabel "Ganden Shedrub Ling Founding"@en ;
 	tolo:actualYear "1643-01-01T00:00:00"^^xsd:dateTime ;
@@ -5112,7 +4838,7 @@ told:_Founding_543
 	.
 
 told:_Founding_544
-	skos:prefLabel "Gingtang Gon Founding"@en ;
+	skos:prefLabel "Gingtang Gon  Founding"@en ;
 	.
 
 told:_Founding_546
@@ -5123,22 +4849,6 @@ told:_Founding_546
 told:_Founding_547
 	skos:prefLabel "Khanon Gon Founding"@en ;
 	tolo:actualYear "1257-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_548
-	skos:prefLabel "Kyo Founding"@en ;
-	.
-
-told:_Founding_549
-	skos:prefLabel "Ram Founding"@en ;
-	.
-
-told:_Founding_55
-	skos:prefLabel "Getse Founding"@en ;
-	.
-
-told:_Founding_550
-	skos:prefLabel "Zeu Founding"@en ;
 	.
 
 told:_Founding_551
@@ -5169,12 +4879,8 @@ told:_Founding_559
 	tolo:occursDuring told:_HistoricalPeriod_70 ;
 	.
 
-told:_Founding_56
-	skos:prefLabel "Menge Founding"@en ;
-	.
-
 told:_Founding_560
-	skos:prefLabel "Porong Pelmo Choding Monastery Founding"@en ;
+	skos:prefLabel "Porong Pelmo Choding Monastery  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_53 ;
 	.
 
@@ -5206,20 +4912,8 @@ told:_Founding_567
 	tolo:actualYear "1882-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_568
-	skos:prefLabel "Dzongchung Founding"@en ;
-	.
-
 told:_Founding_569
 	skos:prefLabel "Dongtre Samten Ling Founding"@en ;
-	.
-
-told:_Founding_57
-	skos:prefLabel "Ngenlam Founding"@en ;
-	.
-
-told:_Founding_570
-	skos:prefLabel "Ra Founding"@en ;
 	.
 
 told:_Founding_571
@@ -5249,30 +4943,6 @@ told:_Founding_576
 	skos:prefLabel "Lhadong Gon Founding"@en ;
 	.
 
-told:_Founding_577
-	skos:prefLabel "Tong Founding"@en ;
-	.
-
-told:_Founding_578
-	skos:prefLabel "Yudra Founding"@en ;
-	.
-
-told:_Founding_579
-	skos:prefLabel "Naktso Founding"@en ;
-	.
-
-told:_Founding_58
-	skos:prefLabel "Wodren Founding"@en ;
-	.
-
-told:_Founding_580
-	skos:prefLabel "Yungok Founding"@en ;
-	.
-
-told:_Founding_582
-	skos:prefLabel "Namseling Founding"@en ;
-	.
-
 told:_Founding_585
 	skos:prefLabel "Senmo Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
@@ -5285,11 +4955,6 @@ told:_Founding_586
 
 told:_Founding_587
 	skos:prefLabel "Drakkar Gepel Ling Founding"@en ;
-	.
-
-told:_Founding_588
-	skos:prefLabel "Wangda Founding"@en ;
-	tolo:actualYear "1493-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_59
@@ -5307,10 +4972,6 @@ told:_Founding_591
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
 	.
 
-told:_Founding_592
-	skos:prefLabel "Ba Founding"@en ;
-	.
-
 told:_Founding_595
 	skos:prefLabel "Yanggon Founding"@en ;
 	.
@@ -5325,17 +4986,9 @@ told:_Founding_597
 	tolo:occursDuring told:_HistoricalPeriod_53 ;
 	.
 
-told:_Founding_598
-	skos:prefLabel "Adro Founding"@en ;
-	.
-
 told:_Founding_599
 	skos:prefLabel "Yangpachen Founding"@en ;
 	tolo:actualYear "1503-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_6
-	skos:prefLabel "Marpa Kagyu Founding"@en ;
 	.
 
 told:_Founding_60
@@ -5343,62 +4996,14 @@ told:_Founding_60
 	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
-told:_Founding_600
-	skos:prefLabel "Arik Founding"@en ;
-	.
-
-told:_Founding_601
-	skos:prefLabel "Ban Founding"@en ;
-	.
-
-told:_Founding_602
-	skos:prefLabel "Azha Founding"@en ;
-	.
-
 told:_Founding_603
 	skos:prefLabel "Sakya Monastery Founding"@en ;
 	tolo:actualYear "1073-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_604
-	skos:prefLabel "Ber Founding"@en ;
-	.
-
-told:_Founding_605
-	skos:prefLabel "Chakhung Founding"@en ;
-	.
-
-told:_Founding_606
-	skos:prefLabel "Depa Tonpo Founding"@en ;
-	.
-
-told:_Founding_607
-	skos:prefLabel "Dru ('dru) Founding"@en ;
-	.
-
-told:_Founding_608
-	skos:prefLabel "Shar Founding"@en ;
-	.
-
-told:_Founding_609
-	skos:prefLabel "Gung Founding"@en ;
-	.
-
-told:_Founding_61
-	skos:prefLabel "Kadam Founding"@en ;
-	.
-
-told:_Founding_611
-	skos:prefLabel "Bodong Founding"@en ;
-	.
-
 told:_Founding_612
 	skos:prefLabel "Bodong E Founding"@en ;
 	tolo:actualYear "1049-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_614
-	skos:prefLabel "Akyong Founding"@en ;
 	.
 
 told:_Founding_615
@@ -5419,17 +5024,9 @@ told:_Founding_618
 	tolo:actualYear "1064-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_619
-	skos:prefLabel "Dra Founding"@en ;
-	.
-
 told:_Founding_62
 	skos:prefLabel "Nartang Founding"@en ;
 	tolo:actualYear "1153-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_620
-	skos:prefLabel "Wangyak Founding"@en ;
 	.
 
 told:_Founding_621
@@ -5437,61 +5034,9 @@ told:_Founding_621
 	tolo:actualYear "1880-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_622
-	skos:prefLabel "Dzeng Founding"@en ;
-	.
-
-told:_Founding_623
-	skos:prefLabel "Ga (rgwa) Founding"@en ;
-	.
-
-told:_Founding_624
-	skos:prefLabel "Gurib Founding"@en ;
-	.
-
-told:_Founding_625
-	skos:prefLabel "Kyasu Founding"@en ;
-	.
-
-told:_Founding_626
-	skos:prefLabel "Lang Founding"@en ;
-	.
-
-told:_Founding_627
-	skos:prefLabel "Len Founding"@en ;
-	.
-
-told:_Founding_628
-	skos:prefLabel "Meu Founding"@en ;
-	.
-
-told:_Founding_629
-	skos:prefLabel "Me Founding"@en ;
-	.
-
 told:_Founding_63
 	skos:prefLabel "Daklha Gampo Founding"@en ;
 	tolo:actualYear "1121-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_630
-	skos:prefLabel "Mukpo Founding"@en ;
-	.
-
-told:_Founding_634
-	skos:prefLabel "Ngulchu Founding"@en ;
-	.
-
-told:_Founding_635
-	skos:prefLabel "Nyakshul Founding"@en ;
-	.
-
-told:_Founding_636
-	skos:prefLabel "Nyo Founding"@en ;
-	.
-
-told:_Founding_639
-	skos:prefLabel "Rakar Khyungpo Founding"@en ;
 	.
 
 told:_Founding_64
@@ -5499,61 +5044,9 @@ told:_Founding_64
 	tolo:actualYear "1158-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_640
-	skos:prefLabel "Rok Founding"@en ;
-	.
-
-told:_Founding_642
-	skos:prefLabel "Tati Zhamar Founding"@en ;
-	.
-
-told:_Founding_643
-	skos:prefLabel "Trokho Numai Pelshul Founding"@en ;
-	.
-
-told:_Founding_644
-	skos:prefLabel "Tukwan Founding"@en ;
-	.
-
-told:_Founding_645
-	skos:prefLabel "Zhak Founding"@en ;
-	.
-
-told:_Founding_646
-	skos:prefLabel "Tonmi Founding"@en ;
-	.
-
-told:_Founding_647
-	skos:prefLabel "Ju Founding"@en ;
-	.
-
-told:_Founding_649
-	skos:prefLabel "Begu Founding"@en ;
-	.
-
-told:_Founding_65
-	skos:prefLabel "Shupu Founding"@en ;
-	.
-
 told:_Founding_650
 	skos:prefLabel "Khyungpo Tengchen Founding"@en ;
 	tolo:actualYear "1061-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_651
-	skos:prefLabel "Sanam Founding"@en ;
-	.
-
-told:_Founding_653
-	skos:prefLabel "Shingkhamga Founding"@en ;
-	.
-
-told:_Founding_655
-	skos:prefLabel "Sumpa Founding"@en ;
-	.
-
-told:_Founding_656
-	skos:prefLabel "Pugyel Founding"@en ;
 	.
 
 told:_Founding_657
@@ -5561,45 +5054,9 @@ told:_Founding_657
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
-told:_Founding_658
-	skos:prefLabel "Denma Founding"@en ;
-	.
-
-told:_Founding_659
-	skos:prefLabel "Cho Founding"@en ;
-	.
-
-told:_Founding_66
-	skos:prefLabel "Ngok Founding"@en ;
-	.
-
-told:_Founding_664
-	skos:prefLabel "Go ('gos) Founding"@en ;
-	.
-
-told:_Founding_665
-	skos:prefLabel "Lhalung Founding"@en ;
-	.
-
-told:_Founding_666
-	skos:prefLabel "Chim Founding"@en ;
-	.
-
-told:_Founding_667
-	skos:prefLabel "Mu Founding"@en ;
-	.
-
 told:_Founding_67
 	skos:prefLabel "Tropu Monastery Founding"@en ;
 	tolo:actualYear "1212-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_670
-	skos:prefLabel "Zhiwatsang Founding"@en ;
-	.
-
-told:_Founding_671
-	skos:prefLabel "Doring Founding"@en ;
 	.
 
 told:_Founding_672
@@ -5612,26 +5069,6 @@ told:_Founding_673
 	tolo:actualYear "1640-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_674
-	skos:prefLabel "Kyuchok Founding"@en ;
-	.
-
-told:_Founding_675
-	skos:prefLabel "Gar Founding"@en ;
-	.
-
-told:_Founding_676
-	skos:prefLabel "Zamtsa Ngorang Founding"@en ;
-	.
-
-told:_Founding_677
-	skos:prefLabel "Pakpatsang Founding"@en ;
-	.
-
-told:_Founding_678
-	skos:prefLabel "Gyamo Founding"@en ;
-	.
-
 told:_Founding_679
 	skos:prefLabel "Gyu Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_49 ;
@@ -5642,25 +5079,9 @@ told:_Founding_68
 	tolo:actualYear "1175-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_680
-	skos:prefLabel "Ngupa Founding"@en ;
-	.
-
-told:_Founding_681
-	skos:prefLabel "Tseu Jamshul Founding"@en ;
-	.
-
 told:_Founding_682
 	skos:prefLabel "Tsedong Monastery Founding"@en ;
 	tolo:actualYear "1489-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_683
-	skos:prefLabel "Bitsa Founding"@en ;
-	.
-
-told:_Founding_685
-	skos:prefLabel "Gyangkhar Founding"@en ;
 	.
 
 told:_Founding_687
@@ -5673,34 +5094,6 @@ told:_Founding_688
 	tolo:actualYear "1963-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_689
-	skos:prefLabel "Lhasa Aristocracy Founding"@en ;
-	.
-
-told:_Founding_69
-	skos:prefLabel "Drenka Founding"@en ;
-	.
-
-told:_Founding_691
-	skos:prefLabel "Yabzhi Sampo Founding"@en ;
-	.
-
-told:_Founding_692
-	skos:prefLabel "Royalty Founding"@en ;
-	.
-
-told:_Founding_693
-	skos:prefLabel "Rulers of Derge Founding"@en ;
-	.
-
-told:_Founding_694
-	skos:prefLabel "Government Officers Founding"@en ;
-	.
-
-told:_Founding_695
-	skos:prefLabel "Kalon Founding"@en ;
-	.
-
 told:_Founding_696
 	skos:prefLabel "Tsimda Monastery Founding"@en ;
 	tolo:actualYear "1925-01-01T00:00:00"^^xsd:dateTime ;
@@ -5711,16 +5104,8 @@ told:_Founding_697
 	tolo:actualYear "1797-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_698
-	skos:prefLabel "Apang Founding"@en ;
-	.
-
 told:_Founding_699
 	skos:prefLabel "Zhuchen Monastery Founding"@en ;
-	.
-
-told:_Founding_7
-	skos:prefLabel "Sakya Founding"@en ;
 	.
 
 told:_Founding_70
@@ -5757,11 +5142,7 @@ told:_Founding_705
 	.
 
 told:_Founding_707
-	skos:prefLabel "Lho Ganden Monastery Founding"@en ;
-	.
-
-told:_Founding_71
-	skos:prefLabel "Lingtsang Founding"@en ;
+	skos:prefLabel "Lho Ganden Monastery  Founding"@en ;
 	.
 
 told:_Founding_710
@@ -5776,10 +5157,6 @@ told:_Founding_711
 told:_Founding_713
 	skos:prefLabel "Nyedo Monastery Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
-	.
-
-told:_Founding_714
-	skos:prefLabel "Ngoje Founding"@en ;
 	.
 
 told:_Founding_716
@@ -5802,10 +5179,6 @@ told:_Founding_719
 	tolo:actualYear "0996-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_72
-	skos:prefLabel "Lingme Founding"@en ;
-	.
-
 told:_Founding_720
 	skos:prefLabel "Khampa Gar Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_69 ;
@@ -5824,15 +5197,12 @@ told:_Founding_722
 told:_Founding_723
 	skos:prefLabel "Tengyeling Founding"@en ;
 	tolo:actualYear "1762-01-01T00:00:00"^^xsd:dateTime ;
+	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
 told:_Founding_724
 	skos:prefLabel "Tsemonling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_69 ;
-	.
-
-told:_Founding_727
-	skos:prefLabel "Manor Founding"@en ;
 	.
 
 told:_Founding_728
@@ -5850,10 +5220,6 @@ told:_Founding_73
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
 	.
 
-told:_Founding_74
-	skos:prefLabel "Zi Founding"@en ;
-	.
-
 told:_Founding_75
 	skos:prefLabel "Lhachuk Founding"@en ;
 	tolo:actualYear "1193-01-01T00:00:00"^^xsd:dateTime ;
@@ -5864,30 +5230,14 @@ told:_Founding_76
 	tolo:actualYear "1187-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_77
-	skos:prefLabel "Lomi Founding"@en ;
-	.
-
 told:_Founding_78
 	skos:prefLabel "Rokam Founding"@en ;
 	tolo:actualYear "1183-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_79
-	skos:prefLabel "Gazi Founding"@en ;
-	.
-
-told:_Founding_8
-	skos:prefLabel "Geluk Founding"@en ;
-	.
-
 told:_Founding_80
 	skos:prefLabel "Taklung Monastery Founding"@en ;
 	tolo:actualYear "1180-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_803
-	skos:prefLabel "Lay Administrators Founding"@en ;
 	.
 
 told:_Founding_804
@@ -5917,10 +5267,6 @@ told:_Founding_808
 told:_Founding_809
 	skos:prefLabel "Chatreng Sampel Ling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
-	.
-
-told:_Founding_81
-	skos:prefLabel "Kyura Founding"@en ;
 	.
 
 told:_Founding_810
@@ -5970,10 +5316,6 @@ told:_Founding_82
 	tolo:actualYear "1179-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_820
-	skos:prefLabel "Drangti Founding"@en ;
-	.
-
 told:_Founding_821
 	skos:prefLabel "Lamayuru Founding"@en ;
 	.
@@ -6001,7 +5343,7 @@ told:_Founding_826
 	.
 
 told:_Founding_827
-	skos:prefLabel "Chushur Tarpa Ling Founding"@en ;
+	skos:prefLabel "Chushur Tarpaling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
@@ -6015,25 +5357,13 @@ told:_Founding_829
 	tolo:occursDuring told:_HistoricalPeriod_37 ;
 	.
 
-told:_Founding_83
-	skos:prefLabel "Gyer Founding"@en ;
-	.
-
-told:_Founding_830
-	skos:prefLabel "Je Khenpo Founding"@en ;
-	.
-
 told:_Founding_831
 	skos:prefLabel "Taklung Ganden Damcho Ling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_65 ;
 	.
 
-told:_Founding_833
-	skos:prefLabel "Misc Founding"@en ;
-	.
-
 told:_Founding_834
-	skos:prefLabel "Kharta Tarpa Ling Founding"@en ;
+	skos:prefLabel "Kharta Tarpaling Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
 	.
 
@@ -6056,10 +5386,6 @@ told:_Founding_839
 	tolo:actualYear "1367-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_84
-	skos:prefLabel "Khangsar Founding"@en ;
-	.
-
 told:_Founding_840
 	skos:prefLabel "Wolkha Cholung Founding"@en ;
 	tolo:actualYear "1393-01-01T00:00:00"^^xsd:dateTime ;
@@ -6072,7 +5398,7 @@ told:_Founding_841
 
 told:_Founding_842
 	skos:prefLabel "Gepel Hermitage Founding"@en ;
-	tolo:occursBy told:_HistoricalPeriod_62 ;
+	tolo:occursDuring told:_HistoricalPeriod_61 ;
 	.
 
 told:_Founding_843
@@ -6143,14 +5469,6 @@ told:_Founding_857
 
 told:_Founding_858
 	skos:prefLabel "Dechen Rabten Manor House Founding"@en ;
-	.
-
-told:_Founding_859
-	skos:prefLabel "Ganden Tripa Founding"@en ;
-	.
-
-told:_Founding_86
-	skos:prefLabel "Gya Founding"@en ;
 	.
 
 told:_Founding_860
@@ -6246,10 +5564,6 @@ told:_Founding_879
 	tolo:actualYear "1938-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_88
-	skos:prefLabel "Jonang Founding"@en ;
-	.
-
 told:_Founding_880
 	skos:prefLabel "Meru Dratsang Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_41 ;
@@ -6272,14 +5586,6 @@ told:_Founding_883
 told:_Founding_884
 	skos:prefLabel "Demo Labrang Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_77 ;
-	.
-
-told:_Founding_885
-	skos:prefLabel "Government Building Founding"@en ;
-	.
-
-told:_Founding_886
-	skos:prefLabel "Palace Founding"@en ;
 	.
 
 told:_Founding_887
@@ -6338,13 +5644,8 @@ told:_Founding_898
 	.
 
 told:_Founding_899
-	skos:prefLabel "Ramoche Founding"@en ;
+	skos:prefLabel "Ramoche  Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_25 ;
-	.
-
-told:_Founding_9
-	skos:prefLabel "Katok Founding"@en ;
-	tolo:actualYear "1159-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
 told:_Founding_90
@@ -6436,10 +5737,6 @@ told:_Founding_917
 	tolo:occursDuring told:_HistoricalPeriod_77 ;
 	.
 
-told:_Founding_918
-	skos:prefLabel "Taklung Founding"@en ;
-	.
-
 told:_Founding_92
 	skos:prefLabel "Nyetang Drolma Lhakang Founding"@en ;
 	tolo:actualYear "1055-01-01T00:00:00"^^xsd:dateTime ;
@@ -6495,22 +5792,6 @@ told:_Founding_93
 	tolo:actualYear "1366-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
-told:_Founding_930
-	skos:prefLabel "Yabzhi Langdun Founding"@en ;
-	.
-
-told:_Founding_931
-	skos:prefLabel "Yabzhi Punkhang Founding"@en ;
-	.
-
-told:_Founding_932
-	skos:prefLabel "Yabzhi Yuthok Founding"@en ;
-	.
-
-told:_Founding_933
-	skos:prefLabel "Yabzhi Lhalu (earlier) Founding"@en ;
-	.
-
 told:_Founding_934
 	skos:prefLabel "Zhitok Labrang Founding"@en ;
 	.
@@ -6536,14 +5817,6 @@ told:_Founding_939
 	tolo:occursDuring told:_HistoricalPeriod_73 ;
 	.
 
-told:_Founding_94
-	skos:prefLabel "Sharkhapa Founding"@en ;
-	.
-
-told:_Founding_940
-	skos:prefLabel "Yabzhi Lhalu (later) Founding"@en ;
-	.
-
 told:_Founding_941
 	skos:prefLabel "Rongwo Tantric College Founding"@en ;
 	tolo:actualYear "1734-01-01T00:00:00"^^xsd:dateTime ;
@@ -6563,12 +5836,8 @@ told:_Founding_944
 	.
 
 told:_Founding_945
-	skos:prefLabel "Legon Chokyi Podrang Founding"@en ;
+	skos:prefLabel "Legon Chokyi Podrang  Founding"@en ;
 	tolo:occursBy told:_HistoricalPeriod_45 ;
-	.
-
-told:_Founding_946
-	skos:prefLabel "Nyakre Founding"@en ;
 	.
 
 told:_Founding_947
@@ -6583,10 +5852,6 @@ told:_Founding_949
 told:_Founding_95
 	skos:prefLabel "Tsurpu Monastery Founding"@en ;
 	tolo:actualYear "1189-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_950
-	skos:prefLabel "Hermitage Founding"@en ;
 	.
 
 told:_Founding_951
@@ -6624,7 +5889,7 @@ told:_Founding_959
 	.
 
 told:_Founding_96
-	skos:prefLabel "Drakram Founding"@en ;
+	skos:prefLabel "Drakram  Founding"@en ;
 	.
 
 told:_Founding_960
@@ -6645,25 +5910,9 @@ told:_Founding_964
 	skos:prefLabel "Lekshe Ling Founding"@en ;
 	.
 
-told:_Founding_965
-	skos:prefLabel "Imperial Ministers Founding"@en ;
-	.
-
-told:_Founding_966
-	skos:prefLabel "Gyakong Shedrubtsang Founding"@en ;
-	.
-
-told:_Founding_967
-	skos:prefLabel "Den Atub Tsang Founding"@en ;
-	.
-
 told:_Founding_968
 	skos:prefLabel "Rumtek Founding"@en ;
 	tolo:occursDuring told:_HistoricalPeriod_61 ;
-	.
-
-told:_Founding_969
-	skos:prefLabel "Tsongpon Founding"@en ;
 	.
 
 told:_Founding_97
@@ -6684,17 +5933,9 @@ told:_Founding_972
 	tolo:occursDuring told:_HistoricalPeriod_45 ;
 	.
 
-told:_Founding_973
-	skos:prefLabel "Jadra Founding"@en ;
-	.
-
 told:_Founding_974
 	skos:prefLabel "Tsādra Rinchen Drak Founding"@en ;
 	tolo:actualYear "1867-01-01T00:00:00"^^xsd:dateTime ;
-	.
-
-told:_Founding_975
-	skos:prefLabel "Dilgo Founding"@en ;
 	.
 
 told:_Founding_976
@@ -6720,7 +5961,7 @@ told:_Founding_981
 	.
 
 told:_Founding_982
-	skos:prefLabel "Tege Founding"@en ;
+	skos:prefLabel "Tege  Founding"@en ;
 	tolo:actualYear "1984-01-01T00:00:00"^^xsd:dateTime ;
 	.
 
@@ -6762,10 +6003,6 @@ told:_Founding_991
 
 told:_Founding_992
 	skos:prefLabel "Wenne Gurulung Founding"@en ;
-	.
-
-told:_Founding_993
-	skos:prefLabel "Se Kharchung Founding"@en ;
 	.
 
 told:_Founding_994

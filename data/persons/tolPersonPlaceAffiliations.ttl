@@ -127,6 +127,10 @@ told:_Person_10203
 		;
 	.
 
+told:_Person_10253
+	gist:isConnectedTo told:_Place_564 ;
+	.
+
 told:_Person_10258
 	gist:isConnectedTo
 		told:_Place_63 ,
@@ -527,6 +531,7 @@ told:_Person_10699
 		told:_Place_1104 ,
 		told:_Place_1188 ,
 		told:_Place_1341 ,
+		told:_Place_256 ,
 		told:_Place_32 ,
 		told:_Place_412 ,
 		told:_Place_603
@@ -762,6 +767,14 @@ told:_Person_11285
 
 told:_Person_11290
 	gist:isConnectedTo told:_Place_207 ;
+	.
+
+told:_Person_11297
+	gist:isConnectedTo
+		told:_Place_1785 ,
+		told:_Place_1797 ,
+		told:_Place_181
+		;
 	.
 
 told:_Person_11299
@@ -1210,29 +1223,7 @@ told:_Person_12439
 	.
 
 told:_Person_12479
-	gist:isConnectedTo
-		told:_Place_128 ,
-		told:_Place_1473 ,
-		told:_Place_1500 ,
-		told:_Place_1572 ,
-		told:_Place_1574 ,
-		told:_Place_1591 ,
-		told:_Place_1594 ,
-		told:_Place_1595 ,
-		told:_Place_1596 ,
-		told:_Place_1600 ,
-		told:_Place_1601 ,
-		told:_Place_1602 ,
-		told:_Place_1603 ,
-		told:_Place_1604 ,
-		told:_Place_1610 ,
-		told:_Place_270 ,
-		told:_Place_32 ,
-		told:_Place_37 ,
-		told:_Place_423 ,
-		told:_Place_603 ,
-		told:_Place_906
-		;
+	gist:isConnectedTo told:_Place_1610 ;
 	.
 
 told:_Person_12500
@@ -2071,6 +2062,54 @@ told:_Person_13206
 		;
 	.
 
+told:_Person_13208
+	gist:isConnectedTo
+		told:_Place_120 ,
+		told:_Place_564 ,
+		told:_Place_906
+		;
+	.
+
+told:_Person_13209
+	gist:isConnectedTo
+		told:_Place_120 ,
+		told:_Place_564
+		;
+	.
+
+told:_Person_13210
+	gist:isConnectedTo
+		told:_Place_120 ,
+		told:_Place_564
+		;
+	.
+
+told:_Person_13211
+	gist:isConnectedTo told:_Place_564 ;
+	.
+
+told:_Person_13212
+	gist:isConnectedTo told:_Place_564 ;
+	.
+
+told:_Person_13213
+	gist:isConnectedTo
+		told:_Place_561 ,
+		told:_Place_564
+		;
+	.
+
+told:_Person_13214
+	gist:isConnectedTo told:_Place_564 ;
+	.
+
+told:_Person_13215
+	gist:isConnectedTo
+		told:_Place_1545 ,
+		told:_Place_564
+		;
+	.
+
 told:_Person_13220
 	gist:isConnectedTo told:_Place_244 ;
 	.
@@ -2184,6 +2223,19 @@ told:_Person_13242
 	gist:isConnectedTo
 		told:_Place_63 ,
 		told:_Place_82
+		;
+	.
+
+told:_Person_13244
+	gist:isConnectedTo
+		told:_Place_1329 ,
+		told:_Place_1783 ,
+		told:_Place_33 ,
+		told:_Place_35 ,
+		told:_Place_561 ,
+		told:_Place_612 ,
+		told:_Place_877 ,
+		told:_Place_905
 		;
 	.
 
@@ -3218,6 +3270,7 @@ told:_Person_13806
 	gist:isConnectedTo
 		told:_Place_128 ,
 		told:_Place_1630 ,
+		told:_Place_1631 ,
 		told:_Place_443 ,
 		told:_Place_447
 		;
@@ -3226,8 +3279,10 @@ told:_Person_13806
 told:_Person_13810
 	gist:isConnectedTo
 		told:_Place_1316 ,
+		told:_Place_1352 ,
 		told:_Place_1621 ,
 		told:_Place_43 ,
+		told:_Place_473 ,
 		told:_Place_527
 		;
 	.
@@ -3523,6 +3578,57 @@ told:_Person_13885
 		;
 	.
 
+told:_Person_13894
+	gist:isConnectedTo told:_Place_1046 ;
+	.
+
+told:_Person_13895
+	gist:isConnectedTo
+		told:_Place_10 ,
+		told:_Place_1051 ,
+		told:_Place_11 ,
+		told:_Place_1110 ,
+		told:_Place_12 ,
+		told:_Place_13 ,
+		told:_Place_14 ,
+		told:_Place_1714 ,
+		told:_Place_1725 ,
+		told:_Place_180 ,
+		told:_Place_444 ,
+		told:_Place_82 ,
+		told:_Place_9
+		;
+	.
+
+told:_Person_13896
+	gist:isConnectedTo told:_Place_9 ;
+	.
+
+told:_Person_13901
+	gist:isConnectedTo
+		told:_Place_1051 ,
+		told:_Place_1081 ,
+		told:_Place_1158 ,
+		told:_Place_1772 ,
+		told:_Place_82 ,
+		told:_Place_822
+		;
+	.
+
+told:_Person_13903
+	gist:isConnectedTo
+		told:_Place_1140 ,
+		told:_Place_1263 ,
+		told:_Place_1621 ,
+		told:_Place_43 ,
+		told:_Place_527
+		;
+	.
+
+told:_Person_13922
+	gist:isConnectedTo told:_Place_1817 ;
+	.
+
 told:_Person_1564
 	gist:isConnectedTo
 		told:_Place_190 ,
@@ -3585,6 +3691,19 @@ told:_Person_1728
 	gist:isConnectedTo
 		told:_Place_1065 ,
 		told:_Place_1158
+		;
+	.
+
+told:_Person_1798
+	gist:isConnectedTo
+		told:_Place_1065 ,
+		told:_Place_1158 ,
+		told:_Place_1355 ,
+		told:_Place_172 ,
+		told:_Place_1786 ,
+		told:_Place_1788 ,
+		told:_Place_195 ,
+		told:_Place_603
 		;
 	.
 
@@ -3693,6 +3812,16 @@ told:_Person_1985
 		;
 	.
 
+told:_Person_2029
+	gist:isConnectedTo
+		told:_Place_1158 ,
+		told:_Place_1790 ,
+		told:_Place_1791 ,
+		told:_Place_1793 ,
+		told:_Place_1796
+		;
+	.
+
 told:_Person_2051
 	gist:isConnectedTo
 		told:_Place_447 ,
@@ -3708,6 +3837,15 @@ told:_Person_2069
 		told:_Place_218 ,
 		told:_Place_445 ,
 		told:_Place_59
+		;
+	.
+
+told:_Person_2094
+	gist:isConnectedTo
+		told:_Place_1792 ,
+		told:_Place_1795 ,
+		told:_Place_1796 ,
+		told:_Place_603
 		;
 	.
 
@@ -3891,6 +4029,7 @@ told:_Person_2418
 
 told:_Person_2419
 	gist:isConnectedTo
+		told:_Place_1784 ,
 		told:_Place_316 ,
 		told:_Place_349 ,
 		told:_Place_905 ,
@@ -4021,6 +4160,10 @@ told:_Person_2510
 		;
 	.
 
+told:_Person_2511
+	gist:isConnectedTo told:_Place_183 ;
+	.
+
 told:_Person_2521
 	gist:isConnectedTo
 		told:_Place_374 ,
@@ -4123,6 +4266,14 @@ told:_Person_2606
 	gist:isConnectedTo told:_Place_82 ;
 	.
 
+told:_Person_2610
+	gist:isConnectedTo
+		told:_Place_199 ,
+		told:_Place_327 ,
+		told:_Place_80
+		;
+	.
+
 told:_Person_2638
 	gist:isConnectedTo
 		told:_Place_292 ,
@@ -4190,6 +4341,14 @@ told:_Person_2683
 		;
 	.
 
+told:_Person_2696
+	gist:isConnectedTo
+		told:_Place_1085 ,
+		told:_Place_1811 ,
+		told:_Place_95
+		;
+	.
+
 told:_Person_2712
 	gist:isConnectedTo
 		told:_Place_110 ,
@@ -4216,6 +4375,7 @@ told:_Person_2730
 told:_Person_2733
 	gist:isConnectedTo
 		told:_Place_1084 ,
+		told:_Place_1790 ,
 		told:_Place_612
 		;
 	.
@@ -4363,9 +4523,17 @@ told:_Person_2806
 told:_Person_2810
 	gist:isConnectedTo
 		told:_Place_1065 ,
+		told:_Place_114 ,
+		told:_Place_1329 ,
+		told:_Place_1347 ,
 		told:_Place_1355 ,
-		told:_Place_553 ,
-		told:_Place_67
+		told:_Place_195 ,
+		told:_Place_327 ,
+		told:_Place_603 ,
+		told:_Place_62 ,
+		told:_Place_67 ,
+		told:_Place_82 ,
+		told:_Place_95
 		;
 	.
 
@@ -4410,6 +4578,13 @@ told:_Person_2823
 	gist:isConnectedTo
 		told:_Place_91 ,
 		told:_Place_96
+		;
+	.
+
+told:_Person_2834
+	gist:isConnectedTo
+		told:_Place_35 ,
+		told:_Place_657
 		;
 	.
 
@@ -4566,6 +4741,7 @@ told:_Person_2945
 
 told:_Person_2948
 	gist:isConnectedTo
+		told:_Place_1784 ,
 		told:_Place_287 ,
 		told:_Place_288 ,
 		told:_Place_289 ,
@@ -4730,7 +4906,10 @@ told:_Person_3010
 	.
 
 told:_Person_3020
-	gist:isConnectedTo told:_Place_12 ;
+	gist:isConnectedTo
+		told:_Place_12 ,
+		told:_Place_280
+		;
 	.
 
 told:_Person_3028
@@ -4868,6 +5047,24 @@ told:_Person_3141
 		told:_Place_1228 ,
 		told:_Place_156 ,
 		told:_Place_39
+		;
+	.
+
+told:_Person_3146
+	gist:isConnectedTo
+		told:_Place_120 ,
+		told:_Place_122 ,
+		told:_Place_1236 ,
+		told:_Place_1827 ,
+		told:_Place_1829 ,
+		told:_Place_305 ,
+		told:_Place_35 ,
+		told:_Place_603 ,
+		told:_Place_62 ,
+		told:_Place_67 ,
+		told:_Place_82 ,
+		told:_Place_90 ,
+		told:_Place_91
 		;
 	.
 
@@ -5229,7 +5426,11 @@ told:_Person_3744
 	.
 
 told:_Person_3753
-	gist:isConnectedTo told:_Place_612 ;
+	gist:isConnectedTo
+		told:_Place_1796 ,
+		told:_Place_612 ,
+		told:_Place_68
+		;
 	.
 
 told:_Person_3758
@@ -5249,7 +5450,9 @@ told:_Person_3758
 told:_Person_3759
 	gist:isConnectedTo
 		told:_Place_149 ,
-		told:_Place_87
+		told:_Place_1790 ,
+		told:_Place_87 ,
+		told:_Place_996
 		;
 	.
 
@@ -5380,6 +5583,14 @@ told:_Person_3795
 	gist:isConnectedTo
 		told:_Place_237 ,
 		told:_Place_37
+		;
+	.
+
+told:_Person_3819
+	gist:isConnectedTo
+		told:_Place_1065 ,
+		told:_Place_173 ,
+		told:_Place_446
 		;
 	.
 
@@ -6019,6 +6230,16 @@ told:_Person_4291
 		;
 	.
 
+told:_Person_4297
+	gist:isConnectedTo
+		told:_Place_114 ,
+		told:_Place_1140 ,
+		told:_Place_446 ,
+		told:_Place_603 ,
+		told:_Place_91
+		;
+	.
+
 told:_Person_4302
 	gist:isConnectedTo told:_Place_947 ;
 	.
@@ -6056,6 +6277,16 @@ told:_Person_4314
 
 told:_Person_4327
 	gist:isConnectedTo told:_Place_603 ;
+	.
+
+told:_Person_4330
+	gist:isConnectedTo
+		told:_Place_1065 ,
+		told:_Place_1808 ,
+		told:_Place_35 ,
+		told:_Place_352 ,
+		told:_Place_612
+		;
 	.
 
 told:_Person_4348
@@ -6121,6 +6352,8 @@ told:_Person_4358
 		told:_Place_209 ,
 		told:_Place_210 ,
 		told:_Place_215 ,
+		told:_Place_256 ,
+		told:_Place_280 ,
 		told:_Place_282 ,
 		told:_Place_327 ,
 		told:_Place_331 ,
@@ -6209,8 +6442,17 @@ told:_Person_4425
 
 told:_Person_4469
 	gist:isConnectedTo
+		told:_Place_256 ,
 		told:_Place_892 ,
 		told:_Place_905
+		;
+	.
+
+told:_Person_4476
+	gist:isConnectedTo
+		told:_Place_1157 ,
+		told:_Place_141 ,
+		told:_Place_95
 		;
 	.
 
@@ -6656,7 +6898,8 @@ told:_Person_5159
 told:_Person_5164
 	gist:isConnectedTo
 		told:_Place_12 ,
-		told:_Place_13
+		told:_Place_13 ,
+		told:_Place_1826
 		;
 	.
 
@@ -6845,6 +7088,13 @@ told:_Person_5485
 		;
 	.
 
+told:_Person_5489
+	gist:isConnectedTo
+		told:_Place_1242 ,
+		told:_Place_95
+		;
+	.
+
 told:_Person_5490
 	gist:isConnectedTo
 		told:_Place_1140 ,
@@ -6960,16 +7210,30 @@ told:_Person_5729
 	gist:isConnectedTo
 		told:_Place_1085 ,
 		told:_Place_1140 ,
+		told:_Place_1151 ,
 		told:_Place_1274 ,
 		told:_Place_156 ,
+		told:_Place_1800 ,
+		told:_Place_1801 ,
+		told:_Place_1802 ,
+		told:_Place_1803 ,
+		told:_Place_1804 ,
+		told:_Place_1805 ,
+		told:_Place_1806 ,
+		told:_Place_1807 ,
 		told:_Place_190 ,
+		told:_Place_275 ,
 		told:_Place_342 ,
 		told:_Place_345 ,
 		told:_Place_346 ,
-		told:_Place_347 ,
+		told:_Place_36 ,
 		told:_Place_37 ,
+		told:_Place_373 ,
 		told:_Place_39 ,
 		told:_Place_40 ,
+		told:_Place_401 ,
+		told:_Place_402 ,
+		told:_Place_63 ,
 		told:_Place_831
 		;
 	.
@@ -7315,6 +7579,17 @@ told:_Person_6100
 		;
 	.
 
+told:_Person_6101
+	gist:isConnectedTo
+		told:_Place_1065 ,
+		told:_Place_1158 ,
+		told:_Place_1780 ,
+		told:_Place_352 ,
+		told:_Place_603 ,
+		told:_Place_877
+		;
+	.
+
 told:_Person_6110
 	gist:isConnectedTo
 		told:_Place_38 ,
@@ -7379,7 +7654,8 @@ told:_Person_6175
 told:_Person_6185
 	gist:isConnectedTo
 		told:_Place_342 ,
-		told:_Place_374
+		told:_Place_374 ,
+		told:_Place_505
 		;
 	.
 
@@ -7416,6 +7692,10 @@ told:_Person_6219
 		;
 	.
 
+told:_Person_6229
+	gist:isConnectedTo told:_Place_1809 ;
+	.
+
 told:_Person_6251
 	gist:isConnectedTo told:_Place_35 ;
 	.
@@ -7450,6 +7730,19 @@ told:_Person_6286
 		told:_Place_36 ,
 		told:_Place_38 ,
 		told:_Place_837
+		;
+	.
+
+told:_Person_6328
+	gist:isConnectedTo
+		told:_Place_1065 ,
+		told:_Place_1158 ,
+		told:_Place_1329 ,
+		told:_Place_183 ,
+		told:_Place_35 ,
+		told:_Place_446 ,
+		told:_Place_603 ,
+		told:_Place_67
 		;
 	.
 
@@ -8013,6 +8306,13 @@ told:_Person_6874
 		;
 	.
 
+told:_Person_6879
+	gist:isConnectedTo
+		told:_Place_1158 ,
+		told:_Place_1786
+		;
+	.
+
 told:_Person_6892
 	gist:isConnectedTo told:_Place_1065 ;
 	.
@@ -8360,6 +8660,15 @@ told:_Person_7373
 	gist:isConnectedTo told:_Place_961 ;
 	.
 
+told:_Person_7427
+	gist:isConnectedTo
+		told:_Place_1327 ,
+		told:_Place_1784 ,
+		told:_Place_1789 ,
+		told:_Place_877
+		;
+	.
+
 told:_Person_7429
 	gist:isConnectedTo told:_Place_1157 ;
 	.
@@ -8535,7 +8844,9 @@ told:_Person_7767
 told:_Person_7775
 	gist:isConnectedTo
 		told:_Place_1118 ,
-		told:_Place_576
+		told:_Place_576 ,
+		told:_Place_68 ,
+		told:_Place_996
 		;
 	.
 
@@ -8670,7 +8981,11 @@ told:_Person_7945
 	.
 
 told:_Person_8
-	gist:isConnectedTo told:_Place_207 ;
+	gist:isConnectedTo
+		told:_Place_1687 ,
+		told:_Place_207 ,
+		told:_Place_280
+		;
 	.
 
 told:_Person_8027
@@ -8829,6 +9144,7 @@ told:_Person_8156
 		told:_Place_1477 ,
 		told:_Place_1585 ,
 		told:_Place_1586 ,
+		told:_Place_1767 ,
 		told:_Place_39
 		;
 	.
@@ -8871,6 +9187,15 @@ told:_Person_8184
 	gist:isConnectedTo
 		told:_Place_342 ,
 		told:_Place_41
+		;
+	.
+
+told:_Person_8194
+	gist:isConnectedTo
+		told:_Place_1781 ,
+		told:_Place_1782 ,
+		told:_Place_877 ,
+		told:_Place_899
 		;
 	.
 
@@ -9020,6 +9345,7 @@ told:_Person_8571
 	gist:isConnectedTo
 		told:_Place_1297 ,
 		told:_Place_327 ,
+		told:_Place_333 ,
 		told:_Place_603
 		;
 	.
@@ -9046,6 +9372,13 @@ told:_Person_8578
 		told:_Place_426 ,
 		told:_Place_427 ,
 		told:_Place_432
+		;
+	.
+
+told:_Person_8579
+	gist:isConnectedTo
+		told:_Place_1776 ,
+		told:_Place_9
 		;
 	.
 
@@ -9308,6 +9641,7 @@ told:_Person_8892
 told:_Person_8906
 	gist:isConnectedTo
 		told:_Place_1515 ,
+		told:_Place_1784 ,
 		told:_Place_443 ,
 		told:_Place_599 ,
 		told:_Place_915 ,
@@ -9892,6 +10226,7 @@ told:_Person_9612
 		told:_Place_1647 ,
 		told:_Place_1648 ,
 		told:_Place_1649 ,
+		told:_Place_1817 ,
 		told:_Place_254 ,
 		told:_Place_9
 		;
@@ -9962,6 +10297,24 @@ told:_Person_9703
 	gist:isConnectedTo
 		told:_Place_484 ,
 		told:_Place_835
+		;
+	.
+
+told:_Person_9709
+	gist:isConnectedTo
+		told:_Place_1071 ,
+		told:_Place_12 ,
+		told:_Place_1303 ,
+		told:_Place_1710 ,
+		told:_Place_1711 ,
+		told:_Place_218 ,
+		told:_Place_36 ,
+		told:_Place_37 ,
+		told:_Place_38 ,
+		told:_Place_48 ,
+		told:_Place_877 ,
+		told:_Place_951 ,
+		told:_Place_957
 		;
 	.
 
@@ -10063,7 +10416,6 @@ told:_Person_9895
 		told:_Place_1674 ,
 		told:_Place_1675 ,
 		told:_Place_1676 ,
-		told:_Place_1677 ,
 		told:_Place_421 ,
 		told:_Place_439 ,
 		told:_Place_44 ,

@@ -51,6 +51,10 @@ told:_Person_12981
 		;
 	.
 
+told:_Person_13244
+	bdo:hasParent told:_Person_13916 ;
+	.
+
 told:_Person_13246
 	bdo:hasParent told:_Person_13794 ;
 	.
@@ -88,11 +92,18 @@ told:_Person_13651
 	.
 
 told:_Person_13692
-	bdo:hasParent told:_Person_8181 ;
+	bdo:hasParent
+		told:_Person_13894 ,
+		told:_Person_8181
+		;
 	.
 
 told:_Person_13702
 	bdo:hasParent told:_Person_13703 ;
+	.
+
+told:_Person_13732
+	bdo:hasParent told:_Person_13919 ;
 	.
 
 told:_Person_13745
@@ -138,8 +149,16 @@ told:_Person_13879
 	bdo:hasParent told:_Person_13817 ;
 	.
 
+told:_Person_13918
+	bdo:hasParent told:_Person_2511 ;
+	.
+
 told:_Person_1628
 	bdo:hasParent told:_Person_4300 ;
+	.
+
+told:_Person_1798
+	bdo:hasParent told:_Person_13917 ;
 	.
 
 told:_Person_2424
@@ -166,6 +185,10 @@ told:_Person_3770
 	bdo:hasParent told:_Person_3780 ;
 	.
 
+told:_Person_3811
+	bdo:hasParent told:_Person_2511 ;
+	.
+
 told:_Person_3822
 	bdo:hasParent
 		told:_Person_7296 ,
@@ -177,16 +200,31 @@ told:_Person_4300
 	bdo:hasParent told:_Person_4301 ;
 	.
 
+told:_Person_4344
+	bdo:hasParent told:_Person_7839 ;
+	.
+
 told:_Person_4440
 	bdo:hasParent told:_Person_8181 ;
 	.
 
+told:_Person_4909
+	bdo:hasParent told:_Person_10467 ;
+	.
+
 told:_Person_6
-	bdo:hasParent told:_Person_8181 ;
+	bdo:hasParent
+		told:_Person_13894 ,
+		told:_Person_8181
+		;
 	.
 
 told:_Person_6000
 	bdo:hasParent told:_Person_2917 ;
+	.
+
+told:_Person_6328
+	bdo:hasParent told:_Person_2416 ;
 	.
 
 told:_Person_6457
@@ -226,5 +264,9 @@ told:_Person_8670
 
 told:_Person_8975
 	bdo:hasParent told:_Person_9052 ;
+	.
+
+told:_Person_9709
+	bdo:hasParent told:_Person_9688 ;
 	.
 
